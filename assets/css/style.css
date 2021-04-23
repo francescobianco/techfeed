@@ -22,8 +22,10 @@ img {
     height: auto;
 }
 
-body {
+body, html {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     background: #171922;
+    color: #fff;
 }
 
 div#display {
@@ -40,7 +42,6 @@ div#player-wrapper {
 #social {
     width: 100%;
     text-align: center;
-    border: 1px solid red;
 }
 
 #social ul {
@@ -48,7 +49,57 @@ div#player-wrapper {
     line-height: 1.4;
     padding-left: 0;
 }
+
 #social ul li {
     display: inline;
     text-align: center;
+}
+
+#overlay {
+    position: fixed; /* Sit on top of the page content */
+    /*display: none; /* Hidden by default */
+    width: 100%; /* Full width (cover the whole page) */
+    height: 100%; /* Full height (cover the whole page) */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.8); /* Black background with opacity */
+    z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+}
+
+.modal {
+    /*display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+
+}
+
+/* Modal Content/Box */
+.modal-content {
+    background-color: #171922;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button */
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
 }
