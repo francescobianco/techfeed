@@ -1,19 +1,6 @@
 (function($){
-
-    window.onYouTubeIframeAPIReady = onYouTubeIframeAPIReady
-
-    loadScripts()
-
-    function loadScripts() {
-        var tag = document.createElement('script');
-        tag.src = "https://www.youtube.com/iframe_api";
-        var firstScriptTag = document.getElementsByTagName('script')[0];
-        firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-    }
-
-
-    var player;
-    function onYouTubeIframeAPIReady() {
+    $.getScript('https://www.youtube.com/iframe_api');
+    window.onYouTubeIframeAPIReady = function() {
         player = new YT.Player('player', {
             height: '390',
             width: '640',
@@ -25,9 +12,13 @@
                 'onReady': onPlayerReady,
                 'onStateChange': onPlayerStateChange
             }
-        });
-
+        })
     }
+
+
+
+
+    var player;
 
 // 4. The API will call this function when the video player is ready.
     function onPlayerReady(event) {
