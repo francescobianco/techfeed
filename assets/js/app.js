@@ -4,10 +4,6 @@
 
     loadScripts()
 
-    $(document).ready(function(){
-        inbox()
-    })
-
     function loadScripts() {
         var tag = document.createElement('script');
         tag.src = "https://www.youtube.com/iframe_api";
@@ -16,27 +12,29 @@
     }
 
 
-// 3. This function creates an <iframe> (and YouTube player)
-//    after the API code downloads.
     var player;
     function onYouTubeIframeAPIReady() {
         player = new YT.Player('player', {
             height: '390',
             width: '640',
             videoId: 'YF08uKbBUFo',
-            playerVars: {
+            /*playerVars: {
                 autoplay: 1
-            },
+            },*/
             events: {
                 'onReady': onPlayerReady,
                 'onStateChange': onPlayerStateChange
             }
         });
+
     }
 
 // 4. The API will call this function when the video player is ready.
     function onPlayerReady(event) {
-        event.target.playVideo();
+        player.loadVideoByUrl("https://youtu.be/bHQqvYy5KYo");
+        player.playVideo();
+        //inbox()
+        //event.target.playVideo();
     }
 
 // 5. The API calls this function when the player's state changes.
@@ -58,7 +56,10 @@
         $.get('feed/inbox.xml', function(xml){
             $(xml).find('item').each(function() {
                 var title = $('title', this).text()
-                console.log(title)
+                var link = $('link', this).text()
+                console.log(link)
+
+                //player.loadVideoByUrl(link);
             })
         })
     }
