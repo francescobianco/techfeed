@@ -30,19 +30,16 @@
         return (url[2] !== undefined) ? url[2].split(/[^0-9a-z_\-]/i)[0] : url[0];
     }
 
-    function loadFeed(feed, feeds, callback) {
-        console.log("FEED:", feed)
-        var nextTitle = null
-        var currentVideo = null
+    function loadFeed(feed, feeds, callback, currentVideo, nextTitle) {
+        console.log('LF', feed, currentVideo, nextTitle)
         var history = getHistory()
         $.get(feed, function(xml) {
             $(xml).find('item').each(function() {
-                var link = $('link', this).text()
-                console.log("URL:", link)
-                if (!history.includes(getVideoId(link))) {
+                var videoId = getVideoId($('link', this).text())
+                if (!history.includes(videoId)) {
                     if (currentVideo === null) {
-                        currentVideo = link
-                        player.loadVideoByUrl(link);
+                        currentVideo = videoId
+                        player.loadVideoById(videoId);
                     } else if (nextTitle === null) {
                         nextTitle = $('title', this).text()
                     }
@@ -53,18 +50,22 @@
     }
 
     function nextFeed(feeds, currentVideo, nextTitle) {
-        if (feeds.length > 0) {
-            if (nextTitle === null || currentVideo === null) {
-                loadFeed(feeds.shift(), feeds, nextFeed)
+        if (nextTitle === null || currentVideo === null) {
+            if (feeds.length > 0) {
+                loadFeed(feeds.shift(), feeds, nextFeed, currentVideo, nextTitle)
+            } else if (currentVideo === null) {
+                player.loadVideoById('H868NSM2yAg');
+            } else {
+                console.log("No next");
             }
         } else {
-            console.log("NO FEED");
+            console.log("FINALE: ", currentVideo, nextTitle);
         }
     }
 
     function loadVideo() {
         var feeds = ['feed/inbox.xml', 'feed/shuffle.xml'];
-        loadFeed(feeds.shift(), feeds, nextFeed)
+        loadFeed(feeds.shift(), feeds, nextFeed, null, null)
     }
 
     function getHistory() {
@@ -79,7 +80,7 @@
         }
     }
 
-    function mark(url) {
+    function markVideo(url) {
         var history = getHistory()
         history.push(getVideoId(url))
         localStorage.setItem('history', JSON.stringify(history));

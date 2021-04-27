@@ -97,6 +97,23 @@ div#player-wrapper {
     font-weight: bold;
 }
 
+.flag {
+    background: #007bff;
+    border-radius: 3px;
+}
+
+.green {
+    color: #008c45;
+}
+
+.white {
+    color: #f4f5f0;
+}
+
+.red {
+    color: #cd212a;
+}
+
 #footer {
     text-align: center;
 }
