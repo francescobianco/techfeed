@@ -101,7 +101,7 @@ div#player-wrapper {
 }
 
 .logo {
-    padding: 4px 10px 8px 36px;
+    padding: 8px 10px 8px 10px;
     background: #0e1017;
     border-radius: 5px;
     font-size: 24px;
@@ -110,13 +110,17 @@ div#player-wrapper {
     letter-spacing: -2px;
 }
 
+.logo img {
+    vertical-align: bottom;
+}
+
 .flag {
     font-size: 12px;
     background: #007bff;
     border-radius: 3px;
     padding: 2px 4px 2px 4px;
     display: inline-block;
-    margin-left: 2px;
+    margin-left: 3px;
     letter-spacing: 0px;
 }
 
