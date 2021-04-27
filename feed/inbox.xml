@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>Example Feed</title>
-        <description>Insert witty or insightful remark here</description>
-        <link>http://example.org/</link>
+        <title>techfeed (ITA) | inbox</title>
+        <description>Tutte le novità in tempo reale dei tech opinion leader italiani</description>
+        <link>https://techfeed.ml/feed/inbox.xml</link>
         <lastBuildDate>Sat, 13 Dec 2003 18:30:02 GMT</lastBuildDate>
-        <managingEditor>johndoe@example.com (John Doe)</managingEditor>
+        <managingEditor>bianco@javanile.org (Francesco Bianco)</managingEditor>
         <item>
             <title>Atom-Powered Robots Run Amok</title>
             <link>https://www.youtube.com/v/mguPamGwDnA</link>
