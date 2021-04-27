@@ -26,6 +26,12 @@ body, html {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     background: #171922;
     color: #fff;
+    text-align: center;
+}
+
+a, a:visited {
+    color: #aaaaaa;
+    text-decoration: none;
 }
 
 div#display {
@@ -39,20 +45,23 @@ div#player-wrapper {
     margin: 0 auto;
 }
 
-#social {
-    width: 100%;
-    text-align: center;
+.margin-top {
+    margin-top: 24px;
 }
 
-#social ul {
+.inline-list {
+    width: 100%;
+}
+
+.inline-list ul {
     margin: 2px auto;
-    line-height: 1.4;
     padding-left: 0;
 }
 
-#social ul li {
+.inline-list ul li {
     display: inline;
     text-align: center;
+    margin: 0 10px;
 }
 
 
@@ -92,14 +101,23 @@ div#player-wrapper {
 }
 
 .logo {
-    font-size: 18px;
+    padding: 4px 10px 8px 36px;
+    background: #0e1017;
+    border-radius: 5px;
+    font-size: 24px;
     color: #ffffff;
     font-weight: bold;
+    letter-spacing: -2px;
 }
 
 .flag {
+    font-size: 12px;
     background: #007bff;
     border-radius: 3px;
+    padding: 2px 4px 2px 4px;
+    display: inline-block;
+    margin-left: 2px;
+    letter-spacing: 0px;
 }
 
 .green {
