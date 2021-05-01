@@ -19,6 +19,8 @@
         })
     }
 
+    $(document).ready(welcome)
+
     function onPlayerReady(event) {
         player.playVideo();
         //inbox()
@@ -84,5 +86,13 @@
         var history = getHistory()
         history.push(getVideoId(url))
         localStorage.setItem('history', JSON.stringify(history));
+    }
+
+    function welcome() {
+        if (typeof localStorage.getItem('welcome') == 'undefined' || true) {
+            $('#modal .title').text('Benvenuto!');
+            $('#modal').show();
+            //localStorage.setItem('welcome', 'done')
+        }
     }
 })($)
