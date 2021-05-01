@@ -13,7 +13,6 @@ for line in $(cat feed.tsv | sort -R | head -20); do
   date=$(echo "${line}" | cut -d$'\t' -f2 | tr '[:upper:]' '[:lower:]')
   title=$(echo "${line}" | cut -d$'\t' -f3)
   link=$(echo "${line}" | cut -d$'\t' -f4 | tr -d '\r\n')
-  echo "-> ${date} - ${today}"
   if [[ "${date}" == "${today}"* ]];then
     (
       echo "        <item>"
