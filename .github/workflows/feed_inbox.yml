@@ -13,7 +13,5 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: |
-          curl -sLX PUT https://api.github.com/repos/francescobianco/techfeed/contents/feed/inbox.xml \
-            -H "Accept: application/vnd.github.v3+json" \
-            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-            -d "{\"message\":\"Update feed/inbox.xml\",\"content\":\"$(base64 -w0 feed/inbox.xml)\",\"sha\":\"$(git ls-files -s feed/inbox.xml | cut -c8-47)\"}"
+          bash script/feed/inbox.sh
+          bash script/push.sh feed/inbox.xml
