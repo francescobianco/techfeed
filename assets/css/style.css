@@ -54,6 +54,11 @@ div#player-wrapper {
     margin: 0 auto;
 }
 
+#preview {
+    max-width: 600px;
+    margin: 20px auto;
+}
+
 .margin-top {
     margin-top: 24px;
 }

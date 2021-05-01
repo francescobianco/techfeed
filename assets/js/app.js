@@ -7,7 +7,9 @@
             height: '390',
             width: '640',
             events: {
-                'onReady': loadVideo,
+                'onReady': function() {
+                    loadVideo()
+                },
                 'onStateChange': function(event) {
                     console.log('STATE:', event.data);
                     if (event.data === YT.PlayerState.ENDED) {
@@ -22,12 +24,10 @@
     $(document).ready(welcome)
     $('#modal .close').click(() => $('#modal').hide())
     $('#modal .call-to-action').click(() => $('#modal').hide())
-
-    function onPlayerReady(event) {
-        player.playVideo();
-        //inbox()
-        //event.target.playVideo();
-    }
+    $('#preview .call-to-action').click(function() {
+        console.log()
+        loadVideo($(this).attr('data-next-video'))
+    })
 
     function getVideoId(url) {
         url = url.split(/(vi\/|v=|\/v\/|youtu\.be\/|\/embed\/)/);
@@ -46,6 +46,8 @@
                         player.loadVideoById(videoId);
                     } else if (nextTitle === null) {
                         nextTitle = $('title', this).text()
+                        $('#preview .title').text(nextTitle)
+                        //$('#preview .call-to-action').attr('data-next-video', videoId)
                     }
                 }
             })
@@ -67,9 +69,10 @@
         }
     }
 
-    function loadVideo() {
+    function loadVideo(videoId) {
+        if (videoId) { player.loadVideoById(videoId) }
         var feeds = ['feed/inbox.xml', 'feed/shuffle.xml'];
-        loadFeed(feeds.shift(), feeds, nextFeed, null, null)
+        loadFeed(feeds.shift(), feeds, nextFeed, videoId ? videoId : null, null)
     }
 
     function getHistory() {
