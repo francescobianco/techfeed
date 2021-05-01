@@ -21,6 +21,7 @@
 
     $(document).ready(welcome)
     $('#modal .close').click(() => $('#modal').hide())
+    $('#modal .call-to-action').click(() => $('#modal').hide())
 
     function onPlayerReady(event) {
         player.playVideo();

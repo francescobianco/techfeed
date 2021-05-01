@@ -111,6 +111,7 @@ div#player-wrapper {
 
 #modal .message {
     text-align: justify;
+    margin-bottom: 24px;
 }
 
 #modal .close {
@@ -126,6 +127,11 @@ div#player-wrapper {
 
 #social li {
     margin: 0 8px;
+}
+
+#social img {
+    width: 48px;
+    height: 48px;
 }
 
 
@@ -180,4 +186,14 @@ div#player-wrapper {
 
 #supports a {
     color: #666666;
+}
+
+button {
+    background: #00798C;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 8px 16px;
+    border: none;
+    color: #ffffff;
+    cursor: pointer;
 }
