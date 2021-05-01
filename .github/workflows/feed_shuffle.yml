@@ -1,8 +1,8 @@
-name: feed/inbox.xml
+name: feed/shuffle.xml
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "0 13 * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,5 +11,5 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: |
-          bash script/feed/inbox.sh
-          bash script/push.sh feed/inbox.xml
+          bash script/feed/shuffle.sh
+          bash script/push.sh feed/shuffle.xml
