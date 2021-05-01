@@ -20,6 +20,7 @@
     }
 
     $(document).ready(welcome)
+    $('#modal .close').click(() => $('#modal').hide())
 
     function onPlayerReady(event) {
         player.playVideo();
@@ -56,7 +57,7 @@
             if (feeds.length > 0) {
                 loadFeed(feeds.shift(), feeds, nextFeed, currentVideo, nextTitle)
             } else if (currentVideo === null) {
-                player.loadVideoById('H868NSM2yAg');
+                player.loadVideoById('XIMLoLxmTDw');
             } else {
                 console.log("No next");
             }
@@ -90,7 +91,8 @@
 
     function welcome() {
         if (typeof localStorage.getItem('welcome') == 'undefined' || true) {
-            $('#modal .title').text('Benvenuto!');
+            $('#modal .title').text('Hey Ciao!');
+            //$('#modal .message').text('');
             $('#modal').show();
             //localStorage.setItem('welcome', 'done')
         }

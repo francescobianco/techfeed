@@ -100,11 +100,17 @@ div#player-wrapper {
 }
 
 #modal .content {
+    font-size: 18px;
+    line-height: 28px;
     position: relative;
     background-color: #171922;
-    margin: 15% auto;
-    padding: 20px;
+    margin: 10% auto;
+    padding: 32px;
     width: 800px;
+}
+
+#modal .message {
+    text-align: justify;
 }
 
 #modal .close {
@@ -157,6 +163,10 @@ div#player-wrapper {
 
 .red {
     color: #cd212a;
+}
+
+.vertical-align-bottom {
+    vertical-align: bottom;
 }
 
 #footer {
