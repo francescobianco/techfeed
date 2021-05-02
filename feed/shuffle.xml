@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>Example Feed</title>
-        <description>Insert witty or insightful remark here</description>
-        <link>http://example.org/</link>
-        <lastBuildDate>Sat, 13 Dec 2003 18:30:02 GMT</lastBuildDate>
+        <title>techfeed (ITA) | shuffle</title>
+        <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
+        <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
+        <lastBuildDate>Sat, 13 Dec 2003 18:30:02 GMT</lastBuildDate>
         <item>
             <title>Raffaele Gaito - Tempo al tempo | Matteo Professione - Ernia | TEDxUNICATT</title>
             <link>https://www.youtube.com/watch?v=7GfTF5YTA0I</link>

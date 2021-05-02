@@ -4,7 +4,8 @@ export LC_ALL=C
 today=$(date "+%B %d, %Y" | tr '[:upper:]' '[:lower:]')
 today="june 23, 2020"
 tsv="https://docs.google.com/spreadsheets/d/e/2PACX-1vTSnaAijtcX_o3LEEzjOLj6HtmScys344sF2_BaSZM780CPuC6nPFJVOgnwfz5bJ8BDvqKyajscvGbI/pub?gid=0&single=true&output=tsv"
-sed -i '9,$d' feed/inbox.xml
+sed -i '8,$d' feed/inbox.xml
+echo "        <lastBuildDate>$(date)</lastBuildDate>" >> feed/inbox.xml
 IFS=$'\n'
 for line in $(curl -sL "${tsv}"); do
   author=$(echo "${line}" | cut -d$'\t' -f1)

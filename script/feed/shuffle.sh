@@ -4,8 +4,8 @@ export LC_ALL=C
 feed_url="https://docs.google.com/spreadsheets/d/e/2PACX-1vTSnaAijtcX_o3LEEzjOLj6HtmScys344sF2_BaSZM780CPuC6nPFJVOgnwfz5bJ8BDvqKyajscvGbI/pub?gid=0&single=true&output=tsv"
 curl -sLo feed.tsv "${feed_url}"
 
-sed -i '9,$d' feed/shuffle.xml
-
+sed -i '8,$d' feed/shuffle.xml
+echo "        <lastBuildDate>$(date)</lastBuildDate>" >> feed/inbox.xml
 
 IFS=$'\n'
 for line in $(cat feed.tsv | sort -R | head -20); do
