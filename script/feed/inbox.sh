@@ -1,18 +1,16 @@
 #!/usr/bin/env bash
 
-export LC_ALL=C
-today=$(date "+%B %d, %Y" | tr '[:upper:]' '[:lower:]')
-today="june 23, 2020"
-tsv="https://docs.google.com/spreadsheets/d/e/2PACX-1vTSnaAijtcX_o3LEEzjOLj6HtmScys344sF2_BaSZM780CPuC6nPFJVOgnwfz5bJ8BDvqKyajscvGbI/pub?gid=0&single=true&output=tsv"
-sed -i '8,$d' feed/inbox.xml
-echo "        <lastBuildDate>$(date)</lastBuildDate>" >> feed/inbox.xml
+feed=feed/inbox.xml
+source script/feed.sh
+
 IFS=$'\n'
-for line in $(curl -sL "${tsv}"); do
+for line in $(cat feed.tsv); do
   author=$(echo "${line}" | cut -d$'\t' -f1)
-  date=$(echo "${line}" | cut -d$'\t' -f2 | tr '[:upper:]' '[:lower:]')
+  date=$(echo "${line}" | cut -d$'\t' -f2 | tr '[:lower:]' '[:upper:]')
   title=$(echo "${line}" | cut -d$'\t' -f3)
   link=$(echo "${line}" | cut -d$'\t' -f4 | tr -d '\r\n')
   if [[ "${date}" == "${today}"* ]];then
+    echo "Video: ${title}"
     (
       echo "        <item>"
       echo "            <title>${author} - ${title}</title>"
@@ -21,7 +19,8 @@ for line in $(curl -sL "${tsv}"); do
       echo "            <pubDate>${date}</pubDate>"
       echo "            <description>${title}</description>"
       echo "        </item>"
-    ) >> feed/inbox.xml
+    ) >> ${feed}
   fi
 done
-echo -e "    </channel>\n</rss>\n" >> feed/inbox.xml
+
+echo -e "    </channel>\n</rss>\n" >> ${feed}
