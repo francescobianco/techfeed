@@ -5,13 +5,20 @@
         <description>Tutte le novità in tempo reale dei tech opinion leader italiani</description>
         <link>https://techfeed.ml/feed/inbox.xml</link>
         <managingEditor>bianco@javanile.org (Francesco Bianco)</managingEditor>
-        <lastBuildDate>Tue May  4 05:51:00 UTC 2021</lastBuildDate>
+        <lastBuildDate>Tue May  4 06:25:32 UTC 2021</lastBuildDate>
         <item>
             <title>Giorgio Taverniti - Il Workflow per sviluppare progetti con WordPress - Al Lavoro Con Enea Scerba</title>
             <link>https://www.youtube.com/watch?v=u67SMYOF87k</link>
             <guid>https://www.youtube.com/watch?v=u67SMYOF87k</guid>
             <pubDate>MAY 4, 2021 AT 07:30AM</pubDate>
             <description>Il Workflow per sviluppare progetti con WordPress - Al Lavoro Con Enea Scerba</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Facebook e Instagram a pagamento per colpa di Apple?</title>
+            <link>https://www.youtube.com/watch?v=JngaCH8MmGM</link>
+            <guid>https://www.youtube.com/watch?v=JngaCH8MmGM</guid>
+            <pubDate>MAY 4, 2021 AT 08:00AM</pubDate>
+            <description>Facebook e Instagram a pagamento per colpa di Apple?</description>
         </item>
     </channel>
 </rss>
