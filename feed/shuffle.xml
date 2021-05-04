@@ -5,7 +5,14 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Mon May  3 23:51:04 CEST 2021</lastBuildDate>
+        <lastBuildDate>Tue May  4 13:23:58 UTC 2021</lastBuildDate>
+        <item>
+            <title>Rudy Bandiera - Come rendere il tuo business e il tuo e-commerce più profittevole</title>
+            <link>https://www.youtube.com/watch?v=9jjnmawpsTo</link>
+            <guid>https://www.youtube.com/watch?v=9jjnmawpsTo</guid>
+            <pubDate>MAY 4, 2021 AT 09:44AM</pubDate>
+            <description>Come rendere il tuo business e il tuo e-commerce più profittevole</description>
+        </item>
         <item>
             <title>Raffaele Gaito - MONETIZZAZIONE YOUTUBE: 10 STRATEGIE PER IL 2021</title>
             <link>https://www.youtube.com/watch?v=rnuB3CPUAYg</link>
@@ -21,13 +28,6 @@
             <description>LA HUSTLE CULTURE HA ROTTO LE PA**E</description>
         </item>
         <item>
-            <title>Raffaele Gaito - È SUCCESSA UNA COSA BELLISSIMA (CON LA MIA COMMUNITY)</title>
-            <link>https://www.youtube.com/watch?v=uwuYsNWX-TQ</link>
-            <guid>https://www.youtube.com/watch?v=uwuYsNWX-TQ</guid>
-            <pubDate>APRIL 13, 2021 AT 08:00AM</pubDate>
-            <description>È SUCCESSA UNA COSA BELLISSIMA (CON LA MIA COMMUNITY)</description>
-        </item>
-        <item>
             <title>Raffaele Gaito - HO IL TERRORE! E TU?</title>
             <link>https://www.youtube.com/watch?v=iBPoqd66OyQ</link>
             <guid>https://www.youtube.com/watch?v=iBPoqd66OyQ</guid>
@@ -35,11 +35,11 @@
             <description>HO IL TERRORE! E TU?</description>
         </item>
         <item>
-            <title>Raffaele Gaito - UN'ESPERIENZA UNICA DI FORMAZIONE: GROWTH PROGRAM</title>
-            <link>https://www.youtube.com/watch?v=sgy6Zqylna8</link>
-            <guid>https://www.youtube.com/watch?v=sgy6Zqylna8</guid>
-            <pubDate>FEBRUARY 17, 2021 AT 08:00AM</pubDate>
-            <description>UN'ESPERIENZA UNICA DI FORMAZIONE: GROWTH PROGRAM</description>
+            <title>Matteo Flora - Facebook e Instagram a pagamento per colpa di Apple?</title>
+            <link>https://www.youtube.com/watch?v=JngaCH8MmGM</link>
+            <guid>https://www.youtube.com/watch?v=JngaCH8MmGM</guid>
+            <pubDate>MAY 4, 2021 AT 08:00AM</pubDate>
+            <description>Facebook e Instagram a pagamento per colpa di Apple?</description>
         </item>
         <item>
             <title>Raffaele Gaito - COME ATTRARRE IL LAVORO DEI SOGNI</title>
@@ -49,11 +49,32 @@
             <description>COME ATTRARRE IL LAVORO DEI SOGNI</description>
         </item>
         <item>
+            <title>Raffaele Gaito - È SUCCESSA UNA COSA BELLISSIMA (CON LA MIA COMMUNITY)</title>
+            <link>https://www.youtube.com/watch?v=uwuYsNWX-TQ</link>
+            <guid>https://www.youtube.com/watch?v=uwuYsNWX-TQ</guid>
+            <pubDate>APRIL 13, 2021 AT 08:00AM</pubDate>
+            <description>È SUCCESSA UNA COSA BELLISSIMA (CON LA MIA COMMUNITY)</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - UN'ESPERIENZA UNICA DI FORMAZIONE: GROWTH PROGRAM</title>
+            <link>https://www.youtube.com/watch?v=sgy6Zqylna8</link>
+            <guid>https://www.youtube.com/watch?v=sgy6Zqylna8</guid>
+            <pubDate>FEBRUARY 17, 2021 AT 08:00AM</pubDate>
+            <description>UN'ESPERIENZA UNICA DI FORMAZIONE: GROWTH PROGRAM</description>
+        </item>
+        <item>
             <title>Raffaele Gaito - Tempo al tempo | Matteo Professione - Ernia | TEDxUNICATT</title>
             <link>https://www.youtube.com/watch?v=7GfTF5YTA0I</link>
             <guid>https://www.youtube.com/watch?v=7GfTF5YTA0I</guid>
             <pubDate>MARCH 30, 2021 AT 06:28PM</pubDate>
             <description>Tempo al tempo | Matteo Professione - Ernia | TEDxUNICATT</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Il Workflow per sviluppare progetti con WordPress - Al Lavoro Con Enea Scerba</title>
+            <link>https://www.youtube.com/watch?v=u67SMYOF87k</link>
+            <guid>https://www.youtube.com/watch?v=u67SMYOF87k</guid>
+            <pubDate>MAY 4, 2021 AT 07:30AM</pubDate>
+            <description>Il Workflow per sviluppare progetti con WordPress - Al Lavoro Con Enea Scerba</description>
         </item>
     </channel>
 </rss>
