@@ -3,16 +3,13 @@
 feed=feed/inbox.xml
 source script/feed.sh
 
-## Invert lines order
-#tail -r myfile.txt 
-
 IFS=$'\n'
-for line in $(cat feed.tsv); do
+for line in $(tac feed.tsv | head -n 20); do
   author=$(echo "${line}" | cut -d$'\t' -f1)
   date=$(echo "${line}" | cut -d$'\t' -f2 | tr '[:lower:]' '[:upper:]')
   title=$(echo "${line}" | cut -d$'\t' -f3)
   link=$(echo "${line}" | cut -d$'\t' -f4 | tr -d '\r\n')
-  if [[ "${date}" == "${today}"* ]];then
+  if [[ "${date}" == "${today}"* || "${date}" == "${yesterday}"* ]];then
     echo "Video: ${title}"
     (
       echo "        <item>"

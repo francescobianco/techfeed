@@ -11,7 +11,6 @@
                     loadVideo()
                 },
                 'onStateChange': function(event) {
-                    console.log('STATE:', event.data);
                     if (event.data === YT.PlayerState.ENDED) {
                         markVideo(player.getVideoUrl())
                         loadVideo()
@@ -35,41 +34,54 @@
     }
 
     function loadFeed(feed, feeds, callback, currentVideo, nextTitle) {
-        console.log('LF', feed, currentVideo, nextTitle)
+        console.log('loadFeed:', feed, currentVideo, nextTitle)
         var history = getHistory()
-        $.get(feed, function(xml) {
+        $.get(feed+'?ts='+Date.now(), function(xml) {
+            var count = 0
             $(xml).find('item').each(function() {
                 var videoId = getVideoId($('link', this).text())
+                var videoTitle = $('title', this).text()
                 if (!history.includes(videoId)) {
                     if (currentVideo === null) {
                         currentVideo = videoId
                         player.loadVideoById(videoId);
+                        console.log('play:', videoTitle);
                     } else if (nextTitle === null) {
-                        nextTitle = $('title', this).text()
+                        nextTitle = videoTitle
                         $('#preview .title').text(nextTitle)
+                        console.log('next:', videoTitle);
                         //$('#preview .call-to-action').attr('data-next-video', videoId)
+                    } else {
+                        console.log('skipped:', videoTitle);
                     }
+                } else {
+                    console.log('ignored:', videoTitle);
                 }
+                count++
             })
+            console.log('count:', count)
             callback(feeds, currentVideo, nextTitle)
         })
     }
 
     function nextFeed(feeds, currentVideo, nextTitle) {
+        console.log('nextFeed:', currentVideo, nextTitle)
         if (nextTitle === null || currentVideo === null) {
             if (feeds.length > 0) {
                 loadFeed(feeds.shift(), feeds, nextFeed, currentVideo, nextTitle)
             } else if (currentVideo === null) {
-                player.loadVideoById('XIMLoLxmTDw');
+                //player.loadVideoById('XIMLoLxmTDw');
+                localStorage.removeItem('history');
             } else {
-                console.log("No next");
+                console.log('fatal.');
             }
         } else {
-            console.log("FINALE: ", currentVideo, nextTitle);
+            console.log('exit:', currentVideo, nextTitle);
         }
     }
 
     function loadVideo(videoId) {
+        console.log('loadVideo:', videoId)
         if (videoId) { player.loadVideoById(videoId) }
         var feeds = ['feed/inbox.xml', 'feed/shuffle.xml'];
         loadFeed(feeds.shift(), feeds, nextFeed, videoId ? videoId : null, null)
