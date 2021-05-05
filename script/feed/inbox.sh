@@ -3,6 +3,9 @@
 feed=feed/inbox.xml
 source script/feed.sh
 
+## Invert lines order
+#tail -r myfile.txt 
+
 IFS=$'\n'
 for line in $(cat feed.tsv); do
   author=$(echo "${line}" | cut -d$'\t' -f1)
