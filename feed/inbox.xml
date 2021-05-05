@@ -5,13 +5,20 @@
         <description>Tutte le novità in tempo reale dei tech opinion leader italiani</description>
         <link>https://techfeed.ml/feed/inbox.xml</link>
         <managingEditor>bianco@javanile.org (Francesco Bianco)</managingEditor>
-        <lastBuildDate>Wed May  5 15:22:58 UTC 2021</lastBuildDate>
+        <lastBuildDate>Wed May  5 15:49:43 UTC 2021</lastBuildDate>
         <item>
             <title>Marco Montemagno - Matthew McConaughey : how does a character tell a story? #short</title>
             <link>https://www.youtube.com/watch?v=Enk7DT3G1aY</link>
             <guid>https://www.youtube.com/watch?v=Enk7DT3G1aY</guid>
             <pubDate>MAY 5, 2021 AT 11:14AM</pubDate>
             <description>Matthew McConaughey : how does a character tell a story? #short</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Videoconferenze/Videochiamate a tutta follia!</title>
+            <link>https://www.youtube.com/watch?v=rYu7qZBPT6Q</link>
+            <guid>https://www.youtube.com/watch?v=rYu7qZBPT6Q</guid>
+            <pubDate>MAY 5, 2021 AT 05:29PM</pubDate>
+            <description>Videoconferenze/Videochiamate a tutta follia!</description>
         </item>
     </channel>
 </rss>
