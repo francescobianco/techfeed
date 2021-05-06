@@ -5,48 +5,27 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Wed May  5 13:26:28 UTC 2021</lastBuildDate>
+        <lastBuildDate>Thu, 06 May 2021 13:25:37 +0000</lastBuildDate>
+        <item>
+            <title>Raffaele Gaito - COME ATTRARRE IL LAVORO DEI SOGNI</title>
+            <link>https://www.youtube.com/watch?v=lNZ_a6sFS5E</link>
+            <guid>https://www.youtube.com/watch?v=lNZ_a6sFS5E</guid>
+            <pubDate>JULY 31, 2020 AT 08:00AM</pubDate>
+            <description>COME ATTRARRE IL LAVORO DEI SOGNI</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Il Suicidio dei 5 Stelle: l’incompetenza di #Crimi, il #Regolamento, #Rousseau e #Casaleggio rischia</title>
+            <link>https://www.youtube.com/watch?v=7KqQIHrBHgk</link>
+            <guid>https://www.youtube.com/watch?v=7KqQIHrBHgk</guid>
+            <pubDate>MAY 6, 2021 AT 09:22AM</pubDate>
+            <description>Il Suicidio dei 5 Stelle: l’incompetenza di #Crimi, il #Regolamento, #Rousseau e #Casaleggio rischia</description>
+        </item>
         <item>
             <title>Raffaele Gaito - HO IL TERRORE! E TU?</title>
             <link>https://www.youtube.com/watch?v=iBPoqd66OyQ</link>
             <guid>https://www.youtube.com/watch?v=iBPoqd66OyQ</guid>
             <pubDate>MARCH 30, 2021 AT 08:00AM</pubDate>
             <description>HO IL TERRORE! E TU?</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - LA HUSTLE CULTURE HA ROTTO LE PA**E</title>
-            <link>https://www.youtube.com/watch?v=__cBMmSPfDE</link>
-            <guid>https://www.youtube.com/watch?v=__cBMmSPfDE</guid>
-            <pubDate>APRIL 30, 2021 AT 08:00AM</pubDate>
-            <description>LA HUSTLE CULTURE HA ROTTO LE PA**E</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - Come rendere il tuo business e il tuo e-commerce più profittevole</title>
-            <link>https://www.youtube.com/watch?v=9jjnmawpsTo</link>
-            <guid>https://www.youtube.com/watch?v=9jjnmawpsTo</guid>
-            <pubDate>MAY 4, 2021 AT 09:44AM</pubDate>
-            <description>Come rendere il tuo business e il tuo e-commerce più profittevole</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - Il Workflow per sviluppare progetti con WordPress - Al Lavoro Con Enea Scerba</title>
-            <link>https://www.youtube.com/watch?v=u67SMYOF87k</link>
-            <guid>https://www.youtube.com/watch?v=u67SMYOF87k</guid>
-            <pubDate>MAY 4, 2021 AT 07:30AM</pubDate>
-            <description>Il Workflow per sviluppare progetti con WordPress - Al Lavoro Con Enea Scerba</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Facebook e Instagram a pagamento per colpa di Apple?</title>
-            <link>https://www.youtube.com/watch?v=JngaCH8MmGM</link>
-            <guid>https://www.youtube.com/watch?v=JngaCH8MmGM</guid>
-            <pubDate>MAY 4, 2021 AT 08:00AM</pubDate>
-            <description>Facebook e Instagram a pagamento per colpa di Apple?</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - MONETIZZAZIONE YOUTUBE: 10 STRATEGIE PER IL 2021</title>
-            <link>https://www.youtube.com/watch?v=rnuB3CPUAYg</link>
-            <guid>https://www.youtube.com/watch?v=rnuB3CPUAYg</guid>
-            <pubDate>MAY 3, 2021 AT 08:00AM</pubDate>
-            <description>MONETIZZAZIONE YOUTUBE: 10 STRATEGIE PER IL 2021</description>
         </item>
         <item>
             <title>Raffaele Gaito - È SUCCESSA UNA COSA BELLISSIMA (CON LA MIA COMMUNITY)</title>
@@ -56,11 +35,18 @@
             <description>È SUCCESSA UNA COSA BELLISSIMA (CON LA MIA COMMUNITY)</description>
         </item>
         <item>
-            <title>Raffaele Gaito - COME ATTRARRE IL LAVORO DEI SOGNI</title>
-            <link>https://www.youtube.com/watch?v=lNZ_a6sFS5E</link>
-            <guid>https://www.youtube.com/watch?v=lNZ_a6sFS5E</guid>
-            <pubDate>JULY 31, 2020 AT 08:00AM</pubDate>
-            <description>COME ATTRARRE IL LAVORO DEI SOGNI</description>
+            <title>Raffaele Gaito - MONETIZZAZIONE YOUTUBE: 10 STRATEGIE PER IL 2021</title>
+            <link>https://www.youtube.com/watch?v=rnuB3CPUAYg</link>
+            <guid>https://www.youtube.com/watch?v=rnuB3CPUAYg</guid>
+            <pubDate>MAY 3, 2021 AT 08:00AM</pubDate>
+            <description>MONETIZZAZIONE YOUTUBE: 10 STRATEGIE PER IL 2021</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Il Fallimento di Clubhouse: una meteora utile - W&amp;L Aprile 2021</title>
+            <link>https://www.youtube.com/watch?v=mWrc0lYq_ws</link>
+            <guid>https://www.youtube.com/watch?v=mWrc0lYq_ws</guid>
+            <pubDate>MAY 6, 2021 AT 07:30AM</pubDate>
+            <description>Il Fallimento di Clubhouse: una meteora utile - W&amp;L Aprile 2021</description>
         </item>
         <item>
             <title>Marco Montemagno - Matthew McConaughey : how does a character tell a story? #short</title>
@@ -70,11 +56,32 @@
             <description>Matthew McConaughey : how does a character tell a story? #short</description>
         </item>
         <item>
+            <title>Matteo Flora - Facebook e Instagram a pagamento per colpa di Apple?</title>
+            <link>https://www.youtube.com/watch?v=JngaCH8MmGM</link>
+            <guid>https://www.youtube.com/watch?v=JngaCH8MmGM</guid>
+            <pubDate>MAY 4, 2021 AT 08:00AM</pubDate>
+            <description>Facebook e Instagram a pagamento per colpa di Apple?</description>
+        </item>
+        <item>
             <title>Marco Montemagno - 4 chiacchiere con Michelle Hunziker</title>
             <link>https://www.youtube.com/watch?v=dM5IzQMQpNg</link>
             <guid>https://www.youtube.com/watch?v=dM5IzQMQpNg</guid>
             <pubDate>MAY 4, 2021 AT 04:49PM</pubDate>
             <description>4 chiacchiere con Michelle Hunziker</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - UN'ESPERIENZA UNICA DI FORMAZIONE: GROWTH PROGRAM</title>
+            <link>https://www.youtube.com/watch?v=sgy6Zqylna8</link>
+            <guid>https://www.youtube.com/watch?v=sgy6Zqylna8</guid>
+            <pubDate>FEBRUARY 17, 2021 AT 08:00AM</pubDate>
+            <description>UN'ESPERIENZA UNICA DI FORMAZIONE: GROWTH PROGRAM</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - LA HUSTLE CULTURE HA ROTTO LE PA**E</title>
+            <link>https://www.youtube.com/watch?v=__cBMmSPfDE</link>
+            <guid>https://www.youtube.com/watch?v=__cBMmSPfDE</guid>
+            <pubDate>APRIL 30, 2021 AT 08:00AM</pubDate>
+            <description>LA HUSTLE CULTURE HA ROTTO LE PA**E</description>
         </item>
         <item>
             <title>Raffaele Gaito - Tempo al tempo | Matteo Professione - Ernia | TEDxUNICATT</title>
@@ -84,11 +91,25 @@
             <description>Tempo al tempo | Matteo Professione - Ernia | TEDxUNICATT</description>
         </item>
         <item>
-            <title>Raffaele Gaito - UN'ESPERIENZA UNICA DI FORMAZIONE: GROWTH PROGRAM</title>
-            <link>https://www.youtube.com/watch?v=sgy6Zqylna8</link>
-            <guid>https://www.youtube.com/watch?v=sgy6Zqylna8</guid>
-            <pubDate>FEBRUARY 17, 2021 AT 08:00AM</pubDate>
-            <description>UN'ESPERIENZA UNICA DI FORMAZIONE: GROWTH PROGRAM</description>
+            <title>Rudy Bandiera - Come rendere il tuo business e il tuo e-commerce più profittevole</title>
+            <link>https://www.youtube.com/watch?v=9jjnmawpsTo</link>
+            <guid>https://www.youtube.com/watch?v=9jjnmawpsTo</guid>
+            <pubDate>MAY 4, 2021 AT 09:44AM</pubDate>
+            <description>Come rendere il tuo business e il tuo e-commerce più profittevole</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Videoconferenze/Videochiamate a tutta follia!</title>
+            <link>https://www.youtube.com/watch?v=rYu7qZBPT6Q</link>
+            <guid>https://www.youtube.com/watch?v=rYu7qZBPT6Q</guid>
+            <pubDate>MAY 5, 2021 AT 05:29PM</pubDate>
+            <description>Videoconferenze/Videochiamate a tutta follia!</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Il Workflow per sviluppare progetti con WordPress - Al Lavoro Con Enea Scerba</title>
+            <link>https://www.youtube.com/watch?v=u67SMYOF87k</link>
+            <guid>https://www.youtube.com/watch?v=u67SMYOF87k</guid>
+            <pubDate>MAY 4, 2021 AT 07:30AM</pubDate>
+            <description>Il Workflow per sviluppare progetti con WordPress - Al Lavoro Con Enea Scerba</description>
         </item>
     </channel>
 </rss>
