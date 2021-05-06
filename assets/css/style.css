@@ -202,3 +202,7 @@ button {
     color: #ffffff;
     cursor: pointer;
 }
+
+#contents {
+    display: none;
+}

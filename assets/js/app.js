@@ -21,6 +21,8 @@
     }
 
     $(document).ready(welcome)
+    $(document).on('click', '.welcome', welcome)
+    $(document).on('click', '.show-more', showMore)
     $('#modal .close').click(() => $('#modal').hide())
     $('#modal .call-to-action').click(() => $('#modal').hide())
     $('#preview .call-to-action').click(function() {
@@ -107,10 +109,15 @@
 
     function welcome() {
         if (typeof localStorage.getItem('welcome') == 'undefined' || true) {
-            $('#modal .title').text('Hey Ciao!');
-            //$('#modal .message').text('');
+            $('#modal .title').html('Hey! Ciao &#x1F44B;');
+            $('#modal .message').html($('#welcome').html());
             $('#modal').show();
-            //localStorage.setItem('welcome', 'done')
         }
+    }
+
+    function showMore() {
+        $('#modal .title').html('Cos\'è techfeed? &#x1F913;');
+        $('#modal .message').html($('#show-more').html());
+        $('#modal').show();
     }
 })($)
