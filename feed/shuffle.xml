@@ -5,41 +5,20 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Wed, 12 May 2021 13:29:25 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 13 May 2021 13:28:41 +0000</lastBuildDate>
         <item>
-            <title>Matteo Flora - Chat Truffa: la Privacy dei &quot;cuori solitari&quot;</title>
-            <link>https://www.youtube.com/watch?v=oO8li8IKLSs</link>
-            <guid>https://www.youtube.com/watch?v=oO8li8IKLSs</guid>
-            <pubDate>MAY 10, 2021 AT 08:00AM</pubDate>
-            <description>Chat Truffa: la Privacy dei &quot;cuori solitari&quot;</description>
+            <title>Raffaele Gaito - NON C&#39;È UN CA**O DA VINCERE NEL BUSINESS</title>
+            <link>https://www.youtube.com/watch?v=ymFgDA7MrxI</link>
+            <guid>https://www.youtube.com/watch?v=ymFgDA7MrxI</guid>
+            <pubDate>MAY 11, 2021 AT 08:00AM</pubDate>
+            <description>NON C&#39;È UN CA**O DA VINCERE NEL BUSINESS</description>
         </item>
         <item>
-            <title>Marco Montemagno - Quelli che non è mai colpa loro</title>
-            <link>https://www.youtube.com/watch?v=EuLJX66Kr_w</link>
-            <guid>https://www.youtube.com/watch?v=EuLJX66Kr_w</guid>
-            <pubDate>MAY 11, 2021 AT 03:39PM</pubDate>
-            <description>Quelli che non è mai colpa loro</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Includere fa la differenza - Diversity su Competenze con Francesca Vecchioni</title>
-            <link>https://www.youtube.com/watch?v=AWKZVpYuhH0</link>
-            <guid>https://www.youtube.com/watch?v=AWKZVpYuhH0</guid>
-            <pubDate>MAY 10, 2021 AT 10:59AM</pubDate>
-            <description>Includere fa la differenza - Diversity su Competenze con Francesca Vecchioni</description>
-        </item>
-        <item>
-            <title>Matteo Flora - [LIVE] - &quot;Il Diritto di Non-Opinione&quot;, Ciao Internet in DIRETTA 🔥</title>
-            <link>https://www.youtube.com/watch?v=bv49nggSmME</link>
-            <guid>https://www.youtube.com/watch?v=bv49nggSmME</guid>
-            <pubDate>MAY 9, 2021 AT 09:00AM</pubDate>
-            <description>[LIVE] - &quot;Il Diritto di Non-Opinione&quot;, Ciao Internet in DIRETTA 🔥</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Matthew McConaughey : how does a character tell a story? #short</title>
-            <link>https://www.youtube.com/watch?v=Enk7DT3G1aY</link>
-            <guid>https://www.youtube.com/watch?v=Enk7DT3G1aY</guid>
-            <pubDate>MAY 5, 2021 AT 11:14AM</pubDate>
-            <description>Matthew McConaughey : how does a character tell a story? #short</description>
+            <title>Giorgio Taverniti - Substack è un pericolo per i giornali. Ora è ufficiale.</title>
+            <link>https://www.youtube.com/watch?v=qlnYWsM5CJM</link>
+            <guid>https://www.youtube.com/watch?v=qlnYWsM5CJM</guid>
+            <pubDate>MAY 12, 2021 AT 08:34AM</pubDate>
+            <description>Substack è un pericolo per i giornali. Ora è ufficiale.</description>
         </item>
         <item>
             <title>Marco Montemagno - Tony Robbins: strategy, story and state #shorts</title>
@@ -47,13 +26,6 @@
             <guid>https://www.youtube.com/watch?v=sgfqiKyU4WM</guid>
             <pubDate>MAY 11, 2021 AT 01:42PM</pubDate>
             <description>Tony Robbins: strategy, story and state #shorts</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - Il Workflow per sviluppare progetti con WordPress - Al Lavoro Con Enea Scerba</title>
-            <link>https://www.youtube.com/watch?v=u67SMYOF87k</link>
-            <guid>https://www.youtube.com/watch?v=u67SMYOF87k</guid>
-            <pubDate>MAY 4, 2021 AT 07:30AM</pubDate>
-            <description>Il Workflow per sviluppare progetti con WordPress - Al Lavoro Con Enea Scerba</description>
         </item>
         <item>
             <title>Marco Montemagno - Videoconferenze/Videochiamate a tutta follia!</title>
@@ -70,6 +42,13 @@
             <description>Il Suicidio dei 5 Stelle: l’incompetenza di #Crimi, il #Regolamento, #Rousseau e #Casaleggio rischia</description>
         </item>
         <item>
+            <title>Raffaele Gaito - Tempo al tempo | Matteo Professione - Ernia | TEDxUNICATT</title>
+            <link>https://www.youtube.com/watch?v=7GfTF5YTA0I</link>
+            <guid>https://www.youtube.com/watch?v=7GfTF5YTA0I</guid>
+            <pubDate>MARCH 30, 2021 AT 06:28PM</pubDate>
+            <description>Tempo al tempo | Matteo Professione - Ernia | TEDxUNICATT</description>
+        </item>
+        <item>
             <title>Marco Montemagno - 4 chiacchiere con Michelle Hunziker</title>
             <link>https://www.youtube.com/watch?v=dM5IzQMQpNg</link>
             <guid>https://www.youtube.com/watch?v=dM5IzQMQpNg</guid>
@@ -77,18 +56,32 @@
             <description>4 chiacchiere con Michelle Hunziker</description>
         </item>
         <item>
-            <title>Matteo Flora - Renzi, Mancini, Report e cosa non mi torna...</title>
-            <link>https://www.youtube.com/watch?v=BG--tVmBQu8</link>
-            <guid>https://www.youtube.com/watch?v=BG--tVmBQu8</guid>
-            <pubDate>MAY 9, 2021 AT 10:46AM</pubDate>
-            <description>Renzi, Mancini, Report e cosa non mi torna...</description>
+            <title>Marco Montemagno - È questo che ti frega</title>
+            <link>https://www.youtube.com/watch?v=z9w7EDuS_bw</link>
+            <guid>https://www.youtube.com/watch?v=z9w7EDuS_bw</guid>
+            <pubDate>MAY 10, 2021 AT 11:42AM</pubDate>
+            <description>È questo che ti frega</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Il Fallimento di Clubhouse: una meteora utile - W&amp;L Aprile 2021</title>
-            <link>https://www.youtube.com/watch?v=mWrc0lYq_ws</link>
-            <guid>https://www.youtube.com/watch?v=mWrc0lYq_ws</guid>
-            <pubDate>MAY 6, 2021 AT 07:30AM</pubDate>
-            <description>Il Fallimento di Clubhouse: una meteora utile - W&amp;L Aprile 2021</description>
+            <title>Marco Montemagno - Matthew McConaughey : how does a character tell a story? #short</title>
+            <link>https://www.youtube.com/watch?v=Enk7DT3G1aY</link>
+            <guid>https://www.youtube.com/watch?v=Enk7DT3G1aY</guid>
+            <pubDate>MAY 5, 2021 AT 11:14AM</pubDate>
+            <description>Matthew McConaughey : how does a character tell a story? #short</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - Come rendere il tuo business e il tuo e-commerce più profittevole</title>
+            <link>https://www.youtube.com/watch?v=9jjnmawpsTo</link>
+            <guid>https://www.youtube.com/watch?v=9jjnmawpsTo</guid>
+            <pubDate>MAY 4, 2021 AT 09:44AM</pubDate>
+            <description>Come rendere il tuo business e il tuo e-commerce più profittevole</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Generazione Z - 4 chiacchiere con Daniele Grassucci (Skuola.net)</title>
+            <link>https://www.youtube.com/watch?v=ros26tp7CAU</link>
+            <guid>https://www.youtube.com/watch?v=ros26tp7CAU</guid>
+            <pubDate>MAY 13, 2021 AT 12:34PM</pubDate>
+            <description>Generazione Z - 4 chiacchiere con Daniele Grassucci (Skuola.net)</description>
         </item>
         <item>
             <title>Giorgio Taverniti - Google My Business: una panoramica semplice - Al Lavoro Con Fabio Guido</title>
@@ -98,25 +91,46 @@
             <description>Google My Business: una panoramica semplice - Al Lavoro Con Fabio Guido</description>
         </item>
         <item>
-            <title>Marco Montemagno - Su Competenze sta per arrivare Francesca Vecchioni con il corso Diversity &amp; Inclusion</title>
-            <link>https://www.youtube.com/watch?v=Rpptz2wz2no</link>
-            <guid>https://www.youtube.com/watch?v=Rpptz2wz2no</guid>
-            <pubDate>MAY 7, 2021 AT 12:29PM</pubDate>
-            <description>Su Competenze sta per arrivare Francesca Vecchioni con il corso Diversity &amp; Inclusion</description>
+            <title>Raffaele Gaito - MONETIZZAZIONE YOUTUBE: 10 STRATEGIE PER IL 2021</title>
+            <link>https://www.youtube.com/watch?v=rnuB3CPUAYg</link>
+            <guid>https://www.youtube.com/watch?v=rnuB3CPUAYg</guid>
+            <pubDate>MAY 3, 2021 AT 08:00AM</pubDate>
+            <description>MONETIZZAZIONE YOUTUBE: 10 STRATEGIE PER IL 2021</description>
         </item>
         <item>
-            <title>Matteo Flora - Facebook e Instagram a pagamento per colpa di Apple?</title>
-            <link>https://www.youtube.com/watch?v=JngaCH8MmGM</link>
-            <guid>https://www.youtube.com/watch?v=JngaCH8MmGM</guid>
-            <pubDate>MAY 4, 2021 AT 08:00AM</pubDate>
-            <description>Facebook e Instagram a pagamento per colpa di Apple?</description>
+            <title>Marco Montemagno - Quelli che non è mai colpa loro</title>
+            <link>https://www.youtube.com/watch?v=EuLJX66Kr_w</link>
+            <guid>https://www.youtube.com/watch?v=EuLJX66Kr_w</guid>
+            <pubDate>MAY 11, 2021 AT 03:39PM</pubDate>
+            <description>Quelli che non è mai colpa loro</description>
         </item>
         <item>
-            <title>Marco Montemagno - Yuval Noah Harari:  after the pandemic, science has once again become the highest authority#shorts</title>
-            <link>https://www.youtube.com/watch?v=wUPF7Vzzu2k</link>
-            <guid>https://www.youtube.com/watch?v=wUPF7Vzzu2k</guid>
-            <pubDate>MAY 7, 2021 AT 08:21AM</pubDate>
-            <description>Yuval Noah Harari:  after the pandemic, science has once again become the highest authority#shorts</description>
+            <title>Marco Montemagno - Includere fa la differenza - Diversity su Competenze con Francesca Vecchioni</title>
+            <link>https://www.youtube.com/watch?v=AWKZVpYuhH0</link>
+            <guid>https://www.youtube.com/watch?v=AWKZVpYuhH0</guid>
+            <pubDate>MAY 10, 2021 AT 10:59AM</pubDate>
+            <description>Includere fa la differenza - Diversity su Competenze con Francesca Vecchioni</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - Fare pubblicità su Sky, TV, radio, web, social e App. Tutorial di Sky Advertising Manager</title>
+            <link>https://www.youtube.com/watch?v=9fxHYHCZUE4</link>
+            <guid>https://www.youtube.com/watch?v=9fxHYHCZUE4</guid>
+            <pubDate>MAY 11, 2021 AT 09:24AM</pubDate>
+            <description>Fare pubblicità su Sky, TV, radio, web, social e App. Tutorial di Sky Advertising Manager</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Facebook &amp; Audio: c&#39;è una Strategia. Altro che Clubhouse..</title>
+            <link>https://www.youtube.com/watch?v=ZAr-2bbER0k</link>
+            <guid>https://www.youtube.com/watch?v=ZAr-2bbER0k</guid>
+            <pubDate>MAY 13, 2021 AT 07:30AM</pubDate>
+            <description>Facebook &amp; Audio: c&#39;è una Strategia. Altro che Clubhouse..</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - STAGING PER WORDPRESS (E NON SOLO) SENZA PLUGIN</title>
+            <link>https://www.youtube.com/watch?v=6Up3Vu2vslk</link>
+            <guid>https://www.youtube.com/watch?v=6Up3Vu2vslk</guid>
+            <pubDate>MAY 7, 2021 AT 08:00AM</pubDate>
+            <description>STAGING PER WORDPRESS (E NON SOLO) SENZA PLUGIN</description>
         </item>
         <item>
             <title>Raffaele Gaito - UN'ESPERIENZA UNICA DI FORMAZIONE: GROWTH PROGRAM</title>
@@ -126,25 +140,11 @@
             <description>UN'ESPERIENZA UNICA DI FORMAZIONE: GROWTH PROGRAM</description>
         </item>
         <item>
-            <title>Raffaele Gaito - MONETIZZAZIONE YOUTUBE: 10 STRATEGIE PER IL 2021</title>
-            <link>https://www.youtube.com/watch?v=rnuB3CPUAYg</link>
-            <guid>https://www.youtube.com/watch?v=rnuB3CPUAYg</guid>
-            <pubDate>MAY 3, 2021 AT 08:00AM</pubDate>
-            <description>MONETIZZAZIONE YOUTUBE: 10 STRATEGIE PER IL 2021</description>
-        </item>
-        <item>
-            <title>Matteo Flora - [LIVE] Quattro chiacchiere nel vostro Sabato Sera</title>
-            <link>https://www.youtube.com/watch?v=Cl6J-leRCrE</link>
-            <guid>https://www.youtube.com/watch?v=Cl6J-leRCrE</guid>
-            <pubDate>MAY 8, 2021 AT 10:28PM</pubDate>
-            <description>[LIVE] Quattro chiacchiere nel vostro Sabato Sera</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - NON C&#39;È UN CA**O DA VINCERE NEL BUSINESS</title>
-            <link>https://www.youtube.com/watch?v=ymFgDA7MrxI</link>
-            <guid>https://www.youtube.com/watch?v=ymFgDA7MrxI</guid>
-            <pubDate>MAY 11, 2021 AT 08:00AM</pubDate>
-            <description>NON C&#39;È UN CA**O DA VINCERE NEL BUSINESS</description>
+            <title>Marco Montemagno - David di Donatello 2021, Matilda De Angelis migliore attrice non protagonista. Grandissima!</title>
+            <link>https://www.youtube.com/watch?v=y5Sd4FuY-0M</link>
+            <guid>https://www.youtube.com/watch?v=y5Sd4FuY-0M</guid>
+            <pubDate>MAY 12, 2021 AT 04:15PM</pubDate>
+            <description>David di Donatello 2021, Matilda De Angelis migliore attrice non protagonista. Grandissima!</description>
         </item>
     </channel>
 </rss>
