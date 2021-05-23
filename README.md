@@ -15,6 +15,12 @@
 - Raffaele Gaito <https://www.youtube.com/channel/UCrebGs3b-Z7JLKQM2YOpUKA>
 - Rudy Bandiera <https://www.youtube.com/channel/UCZTRA7LhiV8UYQEZwqfboCw>
 
+### Nuovi ed emergenti
+
+- https://www.youtube.com/watch?v=FvApYnBKG5Q
+- https://www.youtube.com/channel/UCA92Ps17AW-cFY4wepqSssA
+
+
 ## IFTTT
 
 - Raffele Gaito <https://ifttt.com/activity/applet/QavNkzCy>
