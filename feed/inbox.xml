@@ -5,7 +5,7 @@
         <description>Tutte le novità in tempo reale dei tech opinion leader italiani</description>
         <link>https://techfeed.ml/feed/inbox.xml</link>
         <managingEditor>bianco@javanile.org (Francesco Bianco)</managingEditor>
-        <lastBuildDate>Mon, 14 Jun 2021 23:51:49 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 15 Jun 2021 01:01:53 +0000</lastBuildDate>
         <item>
             <title>Raffaele Gaito - Raffaele Gaito intervista Marco Montemagno</title>
             <link>https://www.youtube.com/watch?v=B9hvpRS0aYs</link>
@@ -40,13 +40,6 @@
             <guid>https://www.youtube.com/watch?v=3trkEyOpeZ4</guid>
             <pubDate>JUNE 14, 2021 AT 07:30AM</pubDate>
             <description>Instagram: come funzionano gli algoritmi dei Reel, Esplora, Feed e Stories!</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - È Finita?</title>
-            <link>https://www.youtube.com/watch?v=LzcM-nLZXWc</link>
-            <guid>https://www.youtube.com/watch?v=LzcM-nLZXWc</guid>
-            <pubDate>JUNE 13, 2021 AT 05:17PM</pubDate>
-            <description>È Finita?</description>
         </item>
     </channel>
 </rss>
