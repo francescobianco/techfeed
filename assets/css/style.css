@@ -154,6 +154,20 @@ div#player-wrapper {
     vertical-align: bottom;
 }
 
+.logo img:hover {
+    -webkit-filter: 
+      drop-shadow(1px 1px 0 white) 
+      drop-shadow(-1px -1px 0 white)  
+      drop-shadow(1px -1px 0 white)  
+      drop-shadow(-1px 1px 0 white);
+    filter:
+      drop-shadow(1px 1px 0 white) 
+      drop-shadow(-1px -1px 0 white)  
+      drop-shadow(1px -1px 0 white)  
+      drop-shadow(-1px 1px 0 white);
+}
+
+
 .flag {
     font-size: 12px;
     background: #007bff;
