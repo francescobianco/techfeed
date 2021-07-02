@@ -5,104 +5,62 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Thu, 01 Jul 2021 13:20:49 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jul 2021 13:20:14 +0000</lastBuildDate>
         <item>
-            <title>Giorgio Taverniti - Cosa non toccare quando il sito è PRIMO su Google e deve fare un Restyle</title>
-            <link>https://www.youtube.com/watch?v=1n7NiUqIk4Q</link>
-            <guid>https://www.youtube.com/watch?v=1n7NiUqIk4Q</guid>
-            <pubDate>MAY 31, 2021 AT 07:30AM</pubDate>
-            <description>Cosa non toccare quando il sito è PRIMO su Google e deve fare un Restyle</description>
+            <title>Matteo Flora - DOCUMENTI ONLINE: quando la Trasparenza è troppa...</title>
+            <link>https://www.youtube.com/watch?v=tKNx58qROmc</link>
+            <guid>https://www.youtube.com/watch?v=tKNx58qROmc</guid>
+            <pubDate>MAY 17, 2021 AT 08:21AM</pubDate>
+            <description>DOCUMENTI ONLINE: quando la Trasparenza è troppa...</description>
         </item>
         <item>
-            <title>Marco Montemagno - Competenze.it e dintorni - 4 chiacchiere con Enrico Bertolino</title>
-            <link>https://www.youtube.com/watch?v=GHB0-bpEJnU</link>
-            <guid>https://www.youtube.com/watch?v=GHB0-bpEJnU</guid>
-            <pubDate>MAY 19, 2021 AT 12:15PM</pubDate>
-            <description>Competenze.it e dintorni - 4 chiacchiere con Enrico Bertolino</description>
+            <title>Marco Montemagno - Su Competenze sta per arrivare Francesca Vecchioni con il corso Diversity &amp; Inclusion</title>
+            <link>https://www.youtube.com/watch?v=Rpptz2wz2no</link>
+            <guid>https://www.youtube.com/watch?v=Rpptz2wz2no</guid>
+            <pubDate>MAY 7, 2021 AT 12:29PM</pubDate>
+            <description>Su Competenze sta per arrivare Francesca Vecchioni con il corso Diversity &amp; Inclusion</description>
         </item>
         <item>
-            <title>Marco Montemagno - Ristorazione: come uscire dalla crisi? Con Martino de Rosa (Carmen)</title>
-            <link>https://www.youtube.com/watch?v=8FGM1Rt6A-A</link>
-            <guid>https://www.youtube.com/watch?v=8FGM1Rt6A-A</guid>
-            <pubDate>MAY 18, 2021 AT 10:41PM</pubDate>
-            <description>Ristorazione: come uscire dalla crisi? Con Martino de Rosa (Carmen)</description>
+            <title>Giorgio Taverniti - Facebook &amp; Audio: c&#39;è una Strategia. Altro che Clubhouse..</title>
+            <link>https://www.youtube.com/watch?v=ZAr-2bbER0k</link>
+            <guid>https://www.youtube.com/watch?v=ZAr-2bbER0k</guid>
+            <pubDate>MAY 13, 2021 AT 07:30AM</pubDate>
+            <description>Facebook &amp; Audio: c&#39;è una Strategia. Altro che Clubhouse..</description>
         </item>
         <item>
-            <title>Marco Montemagno - Food Talks 4 chiacchiere con Davide Rampello direttore creativo di Rampello &amp; Partners</title>
-            <link>https://www.youtube.com/watch?v=KvHC-ZH25FE</link>
-            <guid>https://www.youtube.com/watch?v=KvHC-ZH25FE</guid>
-            <pubDate>MAY 17, 2021 AT 11:39AM</pubDate>
-            <description>Food Talks 4 chiacchiere con Davide Rampello direttore creativo di Rampello &amp; Partners</description>
+            <title>Marco Montemagno - Enrico Bertolino sta per arrivare su Competenze con il corso &quot;Capitalizzare il potere dell&#39;ironia&quot;</title>
+            <link>https://www.youtube.com/watch?v=FS4eps3Ztyo</link>
+            <guid>https://www.youtube.com/watch?v=FS4eps3Ztyo</guid>
+            <pubDate>MAY 12, 2021 AT 12:45PM</pubDate>
+            <description>Enrico Bertolino sta per arrivare su Competenze con il corso &quot;Capitalizzare il potere dell&#39;ironia&quot;</description>
         </item>
         <item>
-            <title>Raffaele Gaito - 7 LIBRI CHE MI HANNO CAMBIATO LA VITA</title>
-            <link>https://www.youtube.com/watch?v=oDeYD6EZ2Qs</link>
-            <guid>https://www.youtube.com/watch?v=oDeYD6EZ2Qs</guid>
-            <pubDate>MAY 18, 2021 AT 08:00AM</pubDate>
-            <description>7 LIBRI CHE MI HANNO CAMBIATO LA VITA</description>
+            <title>Rudy Bandiera - Da Apple FaceTime alle nuove mappe, tutte le novità in arrivo con iOS 15</title>
+            <link>https://www.youtube.com/watch?v=-L2pjqw2dMA</link>
+            <guid>https://www.youtube.com/watch?v=-L2pjqw2dMA</guid>
+            <pubDate>JUNE 9, 2021 AT 08:30AM</pubDate>
+            <description>Da Apple FaceTime alle nuove mappe, tutte le novità in arrivo con iOS 15</description>
         </item>
         <item>
-            <title>Marco Montemagno - Quelli che insultano e si sfogano sui social e spacciano i loro deliri per Critiche...</title>
-            <link>https://www.youtube.com/watch?v=Bt0is3i7_Dc</link>
-            <guid>https://www.youtube.com/watch?v=Bt0is3i7_Dc</guid>
-            <pubDate>MAY 29, 2021 AT 12:03PM</pubDate>
-            <description>Quelli che insultano e si sfogano sui social e spacciano i loro deliri per Critiche...</description>
+            <title>Marco Montemagno - Cosa fare con gli haters (con chi ti insulta, ti provoca e ti attacca sui social)?</title>
+            <link>https://www.youtube.com/watch?v=ksol4EKuPBI</link>
+            <guid>https://www.youtube.com/watch?v=ksol4EKuPBI</guid>
+            <pubDate>JUNE 20, 2021 AT 10:35AM</pubDate>
+            <description>Cosa fare con gli haters (con chi ti insulta, ti provoca e ti attacca sui social)?</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Google è l&#39;e-commerce del Mondo: il login dei brand in SERP!</title>
-            <link>https://www.youtube.com/watch?v=vg0rgjRMgX0</link>
-            <guid>https://www.youtube.com/watch?v=vg0rgjRMgX0</guid>
-            <pubDate>JUNE 1, 2021 AT 07:30AM</pubDate>
-            <description>Google è l&#39;e-commerce del Mondo: il login dei brand in SERP!</description>
+            <title>Marco Montemagno - Ooopss YouTube (NON) è Morto</title>
+            <link>https://www.youtube.com/watch?v=g9Od18htf3U</link>
+            <guid>https://www.youtube.com/watch?v=g9Od18htf3U</guid>
+            <pubDate>MAY 8, 2021 AT 12:07PM</pubDate>
+            <description>Ooopss YouTube (NON) è Morto</description>
         </item>
         <item>
-            <title>Marco Montemagno - Iginio e Debora Massari su Competenze.it!</title>
-            <link>https://www.youtube.com/watch?v=FQnjJQeSykw</link>
-            <guid>https://www.youtube.com/watch?v=FQnjJQeSykw</guid>
-            <pubDate>MAY 24, 2021 AT 11:44AM</pubDate>
-            <description>Iginio e Debora Massari su Competenze.it!</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come integrare l&#39;Intelligenza artificiale e quella Umana?</title>
-            <link>https://www.youtube.com/watch?v=NYEKYvBJAg8</link>
-            <guid>https://www.youtube.com/watch?v=NYEKYvBJAg8</guid>
-            <pubDate>JUNE 24, 2021 AT 10:52PM</pubDate>
-            <description>Come integrare l&#39;Intelligenza artificiale e quella Umana?</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - AUMENTARE VENDITE ECOMMERCE (9 CANALI DA USARE)</title>
-            <link>https://www.youtube.com/watch?v=5SMYPYDCkXg</link>
-            <guid>https://www.youtube.com/watch?v=5SMYPYDCkXg</guid>
-            <pubDate>JUNE 8, 2021 AT 08:00AM</pubDate>
-            <description>AUMENTARE VENDITE ECOMMERCE (9 CANALI DA USARE)</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - I Social sconvolti dall&#39;audio, la SEO dai contenuti: 4 mesi di news in 30 minuti!</title>
-            <link>https://www.youtube.com/watch?v=MNko70Z82I8</link>
-            <guid>https://www.youtube.com/watch?v=MNko70Z82I8</guid>
-            <pubDate>MAY 17, 2021 AT 07:30AM</pubDate>
-            <description>I Social sconvolti dall&#39;audio, la SEO dai contenuti: 4 mesi di news in 30 minuti!</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - ANSIA DA PRESTAZIONE: COME SUPERARLA</title>
-            <link>https://www.youtube.com/watch?v=0tNBIvO5mX8</link>
-            <guid>https://www.youtube.com/watch?v=0tNBIvO5mX8</guid>
-            <pubDate>JUNE 29, 2021 AT 08:00AM</pubDate>
-            <description>ANSIA DA PRESTAZIONE: COME SUPERARLA</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - Da Facebook che lancia i post-preghiera alle novità di Twitter: rassegna stampa social!</title>
-            <link>https://www.youtube.com/watch?v=xmtYDPDjyAU</link>
-            <guid>https://www.youtube.com/watch?v=xmtYDPDjyAU</guid>
-            <pubDate>JUNE 11, 2021 AT 07:30AM</pubDate>
-            <description>Da Facebook che lancia i post-preghiera alle novità di Twitter: rassegna stampa social!</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - Quanto testo scrivere in un post di Linkedin?</title>
-            <link>https://www.youtube.com/watch?v=KC3Vs8FdRGI</link>
-            <guid>https://www.youtube.com/watch?v=KC3Vs8FdRGI</guid>
-            <pubDate>JUNE 15, 2021 AT 08:47AM</pubDate>
-            <description>Quanto testo scrivere in un post di Linkedin?</description>
+            <title>Marco Montemagno - È Finita?</title>
+            <link>https://www.youtube.com/watch?v=LzcM-nLZXWc</link>
+            <guid>https://www.youtube.com/watch?v=LzcM-nLZXWc</guid>
+            <pubDate>JUNE 13, 2021 AT 05:17PM</pubDate>
+            <description>È Finita?</description>
         </item>
         <item>
             <title>Marco Montemagno - Intelligenza Artificiale e CUSTOMER CARE</title>
@@ -112,39 +70,81 @@
             <description>Intelligenza Artificiale e CUSTOMER CARE</description>
         </item>
         <item>
-            <title>Matteo Flora - Il #disastro #Reputazionale della Nazionale Cantanti, tra Aurora Leone e Gian Luca Pecchini</title>
-            <link>https://www.youtube.com/watch?v=zhcYfux2Fco</link>
-            <guid>https://www.youtube.com/watch?v=zhcYfux2Fco</guid>
-            <pubDate>MAY 25, 2021 AT 09:54PM</pubDate>
-            <description>Il #disastro #Reputazionale della Nazionale Cantanti, tra Aurora Leone e Gian Luca Pecchini</description>
+            <title>Marco Montemagno - Bufera sui Social! Sui social sono tutti contro tutti...</title>
+            <link>https://www.youtube.com/watch?v=pNJL82Ayg24</link>
+            <guid>https://www.youtube.com/watch?v=pNJL82Ayg24</guid>
+            <pubDate>JUNE 23, 2021 AT 06:42PM</pubDate>
+            <description>Bufera sui Social! Sui social sono tutti contro tutti...</description>
         </item>
         <item>
-            <title>Matteo Flora - I Social sono davvero gratis?</title>
-            <link>https://www.youtube.com/watch?v=oHomWnIXE4k</link>
-            <guid>https://www.youtube.com/watch?v=oHomWnIXE4k</guid>
-            <pubDate>JUNE 7, 2021 AT 08:30AM</pubDate>
-            <description>I Social sono davvero gratis?</description>
+            <title>Marco Montemagno - R101 a casa di Monty..</title>
+            <link>https://www.youtube.com/watch?v=AKxraPUIlgc</link>
+            <guid>https://www.youtube.com/watch?v=AKxraPUIlgc</guid>
+            <pubDate>JUNE 15, 2021 AT 01:41PM</pubDate>
+            <description>R101 a casa di Monty..</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Google Project Starline e le altre incredibili novità del Google I/O</title>
-            <link>https://www.youtube.com/watch?v=oN1deB5sF-Q</link>
-            <guid>https://www.youtube.com/watch?v=oN1deB5sF-Q</guid>
-            <pubDate>JUNE 4, 2021 AT 07:30AM</pubDate>
-            <description>Google Project Starline e le altre incredibili novità del Google I/O</description>
+            <title>Raffaele Gaito - AUMENTARE VENDITE ECOMMERCE (9 CANALI DA USARE)</title>
+            <link>https://www.youtube.com/watch?v=5SMYPYDCkXg</link>
+            <guid>https://www.youtube.com/watch?v=5SMYPYDCkXg</guid>
+            <pubDate>JUNE 8, 2021 AT 08:00AM</pubDate>
+            <description>AUMENTARE VENDITE ECOMMERCE (9 CANALI DA USARE)</description>
         </item>
         <item>
-            <title>Marco Montemagno - Ice Swimming (nuotare senza muta in acque gelide) con Paolo Chiarino</title>
-            <link>https://www.youtube.com/watch?v=ZaOEEYslbWI</link>
-            <guid>https://www.youtube.com/watch?v=ZaOEEYslbWI</guid>
-            <pubDate>MAY 26, 2021 AT 12:24PM</pubDate>
-            <description>Ice Swimming (nuotare senza muta in acque gelide) con Paolo Chiarino</description>
+            <title>Marco Montemagno - Ristorazione: come uscire dalla crisi? Con Martino de Rosa (Carmen)</title>
+            <link>https://www.youtube.com/watch?v=8FGM1Rt6A-A</link>
+            <guid>https://www.youtube.com/watch?v=8FGM1Rt6A-A</guid>
+            <pubDate>MAY 18, 2021 AT 10:41PM</pubDate>
+            <description>Ristorazione: come uscire dalla crisi? Con Martino de Rosa (Carmen)</description>
         </item>
         <item>
-            <title>Marco Montemagno - Includere fa la differenza - Diversity su Competenze con Francesca Vecchioni</title>
-            <link>https://www.youtube.com/watch?v=AWKZVpYuhH0</link>
-            <guid>https://www.youtube.com/watch?v=AWKZVpYuhH0</guid>
-            <pubDate>MAY 10, 2021 AT 10:59AM</pubDate>
-            <description>Includere fa la differenza - Diversity su Competenze con Francesca Vecchioni</description>
+            <title>Raffaele Gaito - CLUBHOUSE STA MORENDO! E STICAZZI?!</title>
+            <link>https://www.youtube.com/watch?v=bw69Mw8S28c</link>
+            <guid>https://www.youtube.com/watch?v=bw69Mw8S28c</guid>
+            <pubDate>JUNE 15, 2021 AT 08:00AM</pubDate>
+            <description>CLUBHOUSE STA MORENDO! E STICAZZI?!</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Francesco Vena (Amaro Lucano)</title>
+            <link>https://www.youtube.com/watch?v=14sNwIMDd8M</link>
+            <guid>https://www.youtube.com/watch?v=14sNwIMDd8M</guid>
+            <pubDate>JUNE 16, 2021 AT 12:09PM</pubDate>
+            <description>4 chiacchiere con Francesco Vena (Amaro Lucano)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Matthew McConaughey : how does a character tell a story? #short</title>
+            <link>https://www.youtube.com/watch?v=Enk7DT3G1aY</link>
+            <guid>https://www.youtube.com/watch?v=Enk7DT3G1aY</guid>
+            <pubDate>MAY 5, 2021 AT 11:14AM</pubDate>
+            <description>Matthew McConaughey : how does a character tell a story? #short</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - 7 LIBRI CHE MI HANNO CAMBIATO LA VITA</title>
+            <link>https://www.youtube.com/watch?v=oDeYD6EZ2Qs</link>
+            <guid>https://www.youtube.com/watch?v=oDeYD6EZ2Qs</guid>
+            <pubDate>MAY 18, 2021 AT 08:00AM</pubDate>
+            <description>7 LIBRI CHE MI HANNO CAMBIATO LA VITA</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - LA HUSTLE CULTURE HA ROTTO LE PA**E</title>
+            <link>https://www.youtube.com/watch?v=__cBMmSPfDE</link>
+            <guid>https://www.youtube.com/watch?v=__cBMmSPfDE</guid>
+            <pubDate>APRIL 30, 2021 AT 08:00AM</pubDate>
+            <description>LA HUSTLE CULTURE HA ROTTO LE PA**E</description>
+        </item>
+        <item>
+            <title>Matteo Flora - [LIVE] - &quot;Il Diritto di Non-Opinione&quot;, Ciao Internet in DIRETTA 🔥</title>
+            <link>https://www.youtube.com/watch?v=TeJbW9ud8K4</link>
+            <guid>https://www.youtube.com/watch?v=TeJbW9ud8K4</guid>
+            <pubDate>MAY 7, 2021 AT 11:36AM</pubDate>
+            <description>[LIVE] - &quot;Il Diritto di Non-Opinione&quot;, Ciao Internet in DIRETTA 🔥</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Yuval Noah Harari:  after the pandemic, science has once again become the highest authority#shorts</title>
+            <link>https://www.youtube.com/watch?v=wUPF7Vzzu2k</link>
+            <guid>https://www.youtube.com/watch?v=wUPF7Vzzu2k</guid>
+            <pubDate>MAY 7, 2021 AT 08:21AM</pubDate>
+            <description>Yuval Noah Harari:  after the pandemic, science has once again become the highest authority#shorts</description>
         </item>
     </channel>
 </rss>
