@@ -5,146 +5,146 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Sat, 24 Jul 2021 13:18:56 +0000</lastBuildDate>
-        <item>
-            <title>Marco Montemagno - Che impatto ha la competizione ESTREMA sulla nostra salute mentale e fisica?</title>
-            <link>https://www.youtube.com/watch?v=K2inx4uapwE</link>
-            <guid>https://www.youtube.com/watch?v=K2inx4uapwE</guid>
-            <pubDate>JUNE 3, 2021 AT 06:47PM</pubDate>
-            <description>Che impatto ha la competizione ESTREMA sulla nostra salute mentale e fisica?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Perché anche davanti ai fatti la gente non cambia idea</title>
-            <link>https://www.youtube.com/watch?v=jqCSBWbN66U</link>
-            <guid>https://www.youtube.com/watch?v=jqCSBWbN66U</guid>
-            <pubDate>JULY 17, 2021 AT 02:00PM</pubDate>
-            <description>Perché anche davanti ai fatti la gente non cambia idea</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Vacanze a Nuoto - Il trend in crescita del nuoto in mare aperto</title>
-            <link>https://www.youtube.com/watch?v=2jrAPs5YALU</link>
-            <guid>https://www.youtube.com/watch?v=2jrAPs5YALU</guid>
-            <pubDate>JULY 1, 2021 AT 10:32AM</pubDate>
-            <description>Vacanze a Nuoto - Il trend in crescita del nuoto in mare aperto</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Food Talks con Carlo Cracco e Alessandro Bergamo</title>
-            <link>https://www.youtube.com/watch?v=zl6t3_9UiSY</link>
-            <guid>https://www.youtube.com/watch?v=zl6t3_9UiSY</guid>
-            <pubDate>MAY 20, 2021 AT 09:36AM</pubDate>
-            <description>Food Talks con Carlo Cracco e Alessandro Bergamo</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - Il Workflow per sviluppare progetti con WordPress - Al Lavoro Con Enea Scerba</title>
-            <link>https://www.youtube.com/watch?v=u67SMYOF87k</link>
-            <guid>https://www.youtube.com/watch?v=u67SMYOF87k</guid>
-            <pubDate>MAY 4, 2021 AT 07:30AM</pubDate>
-            <description>Il Workflow per sviluppare progetti con WordPress - Al Lavoro Con Enea Scerba</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - La più Grande Rivoluzione SEO degli ultimi anni!</title>
-            <link>https://www.youtube.com/watch?v=_9mS8gdn3KY</link>
-            <guid>https://www.youtube.com/watch?v=_9mS8gdn3KY</guid>
-            <pubDate>MAY 28, 2021 AT 07:30AM</pubDate>
-            <description>La più Grande Rivoluzione SEO degli ultimi anni!</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Crypto e Dintorni - 4 chiacchiere con Silvio Micali (Algorand)</title>
-            <link>https://www.youtube.com/watch?v=Ia-wVqiZZFM</link>
-            <guid>https://www.youtube.com/watch?v=Ia-wVqiZZFM</guid>
-            <pubDate>JUNE 17, 2021 AT 11:49AM</pubDate>
-            <description>Crypto e Dintorni - 4 chiacchiere con Silvio Micali (Algorand)</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - QUAL È IL TUO PERCHÉ?!</title>
-            <link>https://www.youtube.com/watch?v=ZO20C81PxjM</link>
-            <guid>https://www.youtube.com/watch?v=ZO20C81PxjM</guid>
-            <pubDate>JUNE 2, 2021 AT 08:00AM</pubDate>
-            <description>QUAL È IL TUO PERCHÉ?!</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - CLUBHOUSE STA MORENDO! E STICAZZI?!</title>
-            <link>https://www.youtube.com/watch?v=bw69Mw8S28c</link>
-            <guid>https://www.youtube.com/watch?v=bw69Mw8S28c</guid>
-            <pubDate>JUNE 15, 2021 AT 08:00AM</pubDate>
-            <description>CLUBHOUSE STA MORENDO! E STICAZZI?!</description>
-        </item>
-        <item>
-            <title>Matteo Flora - [LIVE] - L&#39;Aperitivo di Ciao Internet!</title>
-            <link>https://www.youtube.com/watch?v=lB4DIpLOfZA</link>
-            <guid>https://www.youtube.com/watch?v=lB4DIpLOfZA</guid>
-            <pubDate>JULY 13, 2021 AT 03:58PM</pubDate>
-            <description>[LIVE] - L&#39;Aperitivo di Ciao Internet!</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con lo Chef Mauro Colagreco (&quot;miglior ristorante al mondo&quot;)</title>
-            <link>https://www.youtube.com/watch?v=AWzt4FPoLqQ</link>
-            <guid>https://www.youtube.com/watch?v=AWzt4FPoLqQ</guid>
-            <pubDate>JULY 5, 2021 AT 11:11AM</pubDate>
-            <description>4 chiacchiere con lo Chef Mauro Colagreco (&quot;miglior ristorante al mondo&quot;)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come capire cosa indossi? Lucia Mantero su Competenze</title>
-            <link>https://www.youtube.com/watch?v=ZD--gwTuukY</link>
-            <guid>https://www.youtube.com/watch?v=ZD--gwTuukY</guid>
-            <pubDate>JUNE 15, 2021 AT 12:46PM</pubDate>
-            <description>Come capire cosa indossi? Lucia Mantero su Competenze</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - Substack è un pericolo per i giornali. Ora è ufficiale.</title>
-            <link>https://www.youtube.com/watch?v=qlnYWsM5CJM</link>
-            <guid>https://www.youtube.com/watch?v=qlnYWsM5CJM</guid>
-            <pubDate>MAY 12, 2021 AT 08:34AM</pubDate>
-            <description>Substack è un pericolo per i giornali. Ora è ufficiale.</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - UN'ESPERIENZA UNICA DI FORMAZIONE: GROWTH PROGRAM</title>
-            <link>https://www.youtube.com/watch?v=sgy6Zqylna8</link>
-            <guid>https://www.youtube.com/watch?v=sgy6Zqylna8</guid>
-            <pubDate>FEBRUARY 17, 2021 AT 08:00AM</pubDate>
-            <description>UN'ESPERIENZA UNICA DI FORMAZIONE: GROWTH PROGRAM</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 12 errori assolutamente da non fare, quando scrivi per un lavoro</title>
-            <link>https://www.youtube.com/watch?v=mguXOSdqbpE</link>
-            <guid>https://www.youtube.com/watch?v=mguXOSdqbpE</guid>
-            <pubDate>JULY 1, 2021 AT 03:49PM</pubDate>
-            <description>12 errori assolutamente da non fare, quando scrivi per un lavoro</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Il Suicidio dei 5 Stelle: l’incompetenza di #Crimi, il #Regolamento, #Rousseau e #Casaleggio rischia</title>
-            <link>https://www.youtube.com/watch?v=7KqQIHrBHgk</link>
-            <guid>https://www.youtube.com/watch?v=7KqQIHrBHgk</guid>
-            <pubDate>MAY 6, 2021 AT 09:22AM</pubDate>
-            <description>Il Suicidio dei 5 Stelle: l’incompetenza di #Crimi, il #Regolamento, #Rousseau e #Casaleggio rischia</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - TIENI D&#39;OCCHIO LE ALTRE INDUSTRIE (FA LA DIFFERENZA)</title>
-            <link>https://www.youtube.com/watch?v=BLzzaKOpSK0</link>
-            <guid>https://www.youtube.com/watch?v=BLzzaKOpSK0</guid>
-            <pubDate>JULY 13, 2021 AT 08:00AM</pubDate>
-            <description>TIENI D&#39;OCCHIO LE ALTRE INDUSTRIE (FA LA DIFFERENZA)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Ronaldo, le bottigliette e gli sponsor (è ora di cambiare)</title>
-            <link>https://www.youtube.com/watch?v=w30vYEfkAFg</link>
-            <guid>https://www.youtube.com/watch?v=w30vYEfkAFg</guid>
-            <pubDate>JUNE 17, 2021 AT 04:38PM</pubDate>
-            <description>Ronaldo, le bottigliette e gli sponsor (è ora di cambiare)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con Diodato</title>
-            <link>https://www.youtube.com/watch?v=yAuJEdAsvuw</link>
-            <guid>https://www.youtube.com/watch?v=yAuJEdAsvuw</guid>
-            <pubDate>JUNE 3, 2021 AT 11:21AM</pubDate>
-            <description>4 chiacchiere con Diodato</description>
-        </item>
+        <lastBuildDate>Sun, 25 Jul 2021 13:19:09 +0000</lastBuildDate>
         <item>
             <title>Raffaele Gaito - HO IL TERRORE! E TU?</title>
             <link>https://www.youtube.com/watch?v=iBPoqd66OyQ</link>
             <guid>https://www.youtube.com/watch?v=iBPoqd66OyQ</guid>
             <pubDate>MARCH 30, 2021 AT 08:00AM</pubDate>
             <description>HO IL TERRORE! E TU?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - I Måneskin alla conquista del mondo</title>
+            <link>https://www.youtube.com/watch?v=1_4Jh22J1WE</link>
+            <guid>https://www.youtube.com/watch?v=1_4Jh22J1WE</guid>
+            <pubDate>JULY 16, 2021 AT 01:15PM</pubDate>
+            <description>I Måneskin alla conquista del mondo</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Tutto Montemagno...ne parliamo alla Hoepli (Live)</title>
+            <link>https://www.youtube.com/watch?v=XANJSyF1rac</link>
+            <guid>https://www.youtube.com/watch?v=XANJSyF1rac</guid>
+            <pubDate>JUNE 16, 2021 AT 12:42PM</pubDate>
+            <description>Tutto Montemagno...ne parliamo alla Hoepli (Live)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Norma&#39;s Teaching (Norma Cerletti)</title>
+            <link>https://www.youtube.com/watch?v=Y3PCDbQ2SuY</link>
+            <guid>https://www.youtube.com/watch?v=Y3PCDbQ2SuY</guid>
+            <pubDate>JUNE 9, 2021 AT 10:54AM</pubDate>
+            <description>4 chiacchiere con Norma&#39;s Teaching (Norma Cerletti)</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - Tempo al tempo | Matteo Professione - Ernia | TEDxUNICATT</title>
+            <link>https://www.youtube.com/watch?v=7GfTF5YTA0I</link>
+            <guid>https://www.youtube.com/watch?v=7GfTF5YTA0I</guid>
+            <pubDate>MARCH 30, 2021 AT 06:28PM</pubDate>
+            <description>Tempo al tempo | Matteo Professione - Ernia | TEDxUNICATT</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Gianni Morandi</title>
+            <link>https://www.youtube.com/watch?v=nP0XxGx7qco</link>
+            <guid>https://www.youtube.com/watch?v=nP0XxGx7qco</guid>
+            <pubDate>JUNE 22, 2021 AT 02:10PM</pubDate>
+            <description>4 chiacchiere con Gianni Morandi</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Food Talks 4 chiacchere con Stefano Marini (CEO Gruppo Sanpellegrino)</title>
+            <link>https://www.youtube.com/watch?v=Y3fWZ03vtyE</link>
+            <guid>https://www.youtube.com/watch?v=Y3fWZ03vtyE</guid>
+            <pubDate>MAY 17, 2021 AT 08:33AM</pubDate>
+            <description>Food Talks 4 chiacchere con Stefano Marini (CEO Gruppo Sanpellegrino)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Bufera sui Social! Sui social sono tutti contro tutti...</title>
+            <link>https://www.youtube.com/watch?v=pNJL82Ayg24</link>
+            <guid>https://www.youtube.com/watch?v=pNJL82Ayg24</guid>
+            <pubDate>JUNE 23, 2021 AT 06:42PM</pubDate>
+            <description>Bufera sui Social! Sui social sono tutti contro tutti...</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - L&#39;importanza fondamentale del Search Intent per la SEO - con Gianluca Fiorelli</title>
+            <link>https://www.youtube.com/watch?v=6u04ojYeXIw</link>
+            <guid>https://www.youtube.com/watch?v=6u04ojYeXIw</guid>
+            <pubDate>MAY 19, 2021 AT 07:30AM</pubDate>
+            <description>L&#39;importanza fondamentale del Search Intent per la SEO - con Gianluca Fiorelli</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Quelli che non è mai colpa loro</title>
+            <link>https://www.youtube.com/watch?v=EuLJX66Kr_w</link>
+            <guid>https://www.youtube.com/watch?v=EuLJX66Kr_w</guid>
+            <pubDate>MAY 11, 2021 AT 03:39PM</pubDate>
+            <description>Quelli che non è mai colpa loro</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Arriva su Google il profilo per Giornalisti e Content Creator!</title>
+            <link>https://www.youtube.com/watch?v=FSZaobShGl0</link>
+            <guid>https://www.youtube.com/watch?v=FSZaobShGl0</guid>
+            <pubDate>JUNE 17, 2021 AT 07:30AM</pubDate>
+            <description>Arriva su Google il profilo per Giornalisti e Content Creator!</description>
+        </item>
+        <item>
+            <title>Matteo Flora - I numeri della moderazione di #Facebook - Matteo incontra Facebook (3 di 3)</title>
+            <link>https://www.youtube.com/watch?v=Wwz8gdVORs0</link>
+            <guid>https://www.youtube.com/watch?v=Wwz8gdVORs0</guid>
+            <pubDate>JULY 9, 2021 AT 09:00AM</pubDate>
+            <description>I numeri della moderazione di #Facebook - Matteo incontra Facebook (3 di 3)</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Aruba, il data breach e le scuse fatte male...</title>
+            <link>https://www.youtube.com/watch?v=7e3erd0tnj8</link>
+            <guid>https://www.youtube.com/watch?v=7e3erd0tnj8</guid>
+            <pubDate>JULY 18, 2021 AT 06:21PM</pubDate>
+            <description>Aruba, il data breach e le scuse fatte male...</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Gino Strada</title>
+            <link>https://www.youtube.com/watch?v=4weR9T3v3XA</link>
+            <guid>https://www.youtube.com/watch?v=4weR9T3v3XA</guid>
+            <pubDate>MAY 20, 2021 AT 08:49AM</pubDate>
+            <description>4 chiacchiere con Gino Strada</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Nike ancora più forte dopo la pandemia...come ha fatto?</title>
+            <link>https://www.youtube.com/watch?v=S5ylcJQ5dyk</link>
+            <guid>https://www.youtube.com/watch?v=S5ylcJQ5dyk</guid>
+            <pubDate>JULY 15, 2021 AT 12:15PM</pubDate>
+            <description>Nike ancora più forte dopo la pandemia...come ha fatto?</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Lo Sforzo cognitivo e le Abitudini con Rick Dufer</title>
+            <link>https://www.youtube.com/watch?v=qNOcAo7ai1Y</link>
+            <guid>https://www.youtube.com/watch?v=qNOcAo7ai1Y</guid>
+            <pubDate>MAY 25, 2021 AT 09:14AM</pubDate>
+            <description>Lo Sforzo cognitivo e le Abitudini con Rick Dufer</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Cosa può stare su Facebook? Speciale Matteo incontra #Facebook (1 di 3)</title>
+            <link>https://www.youtube.com/watch?v=VPyUsLM64P4</link>
+            <guid>https://www.youtube.com/watch?v=VPyUsLM64P4</guid>
+            <pubDate>JULY 7, 2021 AT 09:00AM</pubDate>
+            <description>Cosa può stare su Facebook? Speciale Matteo incontra #Facebook (1 di 3)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Davide Boosta Dileo e DANIJEL</title>
+            <link>https://www.youtube.com/watch?v=bPO60D88NdA</link>
+            <guid>https://www.youtube.com/watch?v=bPO60D88NdA</guid>
+            <pubDate>JUNE 7, 2021 AT 10:41AM</pubDate>
+            <description>4 chiacchiere con Davide Boosta Dileo e DANIJEL</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 300Mln$?!? Ma Apple e Google sono davvero concorrenti? #shorts</title>
+            <link>https://www.youtube.com/watch?v=Y-4yci_uu2M</link>
+            <guid>https://www.youtube.com/watch?v=Y-4yci_uu2M</guid>
+            <pubDate>JULY 5, 2021 AT 03:36PM</pubDate>
+            <description>300Mln$?!? Ma Apple e Google sono davvero concorrenti? #shorts</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Tutto quello che avresti sempre voluto sapere sull&#39;Idrogeno e sull&#39;Elettrificazione</title>
+            <link>https://www.youtube.com/watch?v=7h9FenptPBo</link>
+            <guid>https://www.youtube.com/watch?v=7h9FenptPBo</guid>
+            <pubDate>JULY 9, 2021 AT 10:00AM</pubDate>
+            <description>Tutto quello che avresti sempre voluto sapere sull&#39;Idrogeno e sull&#39;Elettrificazione</description>
         </item>
     </channel>
 </rss>
