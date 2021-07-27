@@ -5,118 +5,48 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Mon, 26 Jul 2021 13:21:59 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 13:21:17 +0000</lastBuildDate>
         <item>
-            <title>Raffaele Gaito - HO IL TERRORE! E TU?</title>
-            <link>https://www.youtube.com/watch?v=iBPoqd66OyQ</link>
-            <guid>https://www.youtube.com/watch?v=iBPoqd66OyQ</guid>
-            <pubDate>MARCH 30, 2021 AT 08:00AM</pubDate>
-            <description>HO IL TERRORE! E TU?</description>
+            <title>Marco Montemagno - Vuoi lavorare con me?</title>
+            <link>https://www.youtube.com/watch?v=WaM8OkmNBN8</link>
+            <guid>https://www.youtube.com/watch?v=WaM8OkmNBN8</guid>
+            <pubDate>JUNE 24, 2021 AT 07:33PM</pubDate>
+            <description>Vuoi lavorare con me?</description>
         </item>
         <item>
-            <title>Marco Montemagno - L&#39;intelligenza Artificiale sta aumentando la competitività aziendale</title>
-            <link>https://www.youtube.com/watch?v=qRpl-Q6a9x4</link>
-            <guid>https://www.youtube.com/watch?v=qRpl-Q6a9x4</guid>
-            <pubDate>JUNE 22, 2021 AT 10:36PM</pubDate>
-            <description>L&#39;intelligenza Artificiale sta aumentando la competitività aziendale</description>
+            <title>Marco Montemagno - Su Competenze.com arriva Arturo Brachetti</title>
+            <link>https://www.youtube.com/watch?v=NdLL2nBJ24o</link>
+            <guid>https://www.youtube.com/watch?v=NdLL2nBJ24o</guid>
+            <pubDate>JUNE 7, 2021 AT 05:44PM</pubDate>
+            <description>Su Competenze.com arriva Arturo Brachetti</description>
         </item>
         <item>
-            <title>Marco Montemagno - Ooopss YouTube (NON) è Morto</title>
-            <link>https://www.youtube.com/watch?v=g9Od18htf3U</link>
-            <guid>https://www.youtube.com/watch?v=g9Od18htf3U</guid>
-            <pubDate>MAY 8, 2021 AT 12:07PM</pubDate>
-            <description>Ooopss YouTube (NON) è Morto</description>
+            <title>Marco Montemagno - &quot;Non ascoltare quello che dicono, guarda quello che fanno&quot;</title>
+            <link>https://www.youtube.com/watch?v=FbQOxASUDKI</link>
+            <guid>https://www.youtube.com/watch?v=FbQOxASUDKI</guid>
+            <pubDate>MAY 13, 2021 AT 11:46AM</pubDate>
+            <description>&quot;Non ascoltare quello che dicono, guarda quello che fanno&quot;</description>
         </item>
         <item>
-            <title>Marco Montemagno - Il Regno Unito riapre tutto (nonostante i contagi in crescita): via mascherine e restrizioni</title>
-            <link>https://www.youtube.com/watch?v=PcTg406tjqk</link>
-            <guid>https://www.youtube.com/watch?v=PcTg406tjqk</guid>
-            <pubDate>JULY 19, 2021 AT 01:40PM</pubDate>
-            <description>Il Regno Unito riapre tutto (nonostante i contagi in crescita): via mascherine e restrizioni</description>
+            <title>Marco Montemagno - Food Talks 4 chiacchiere con Ivan Aimo, CEO Deliveristo</title>
+            <link>https://www.youtube.com/watch?v=3nJNjK-oPb4</link>
+            <guid>https://www.youtube.com/watch?v=3nJNjK-oPb4</guid>
+            <pubDate>MAY 18, 2021 AT 02:05PM</pubDate>
+            <description>Food Talks 4 chiacchiere con Ivan Aimo, CEO Deliveristo</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Amazon si prende lo sport: dopo la Champions il basket, trasmetterà i giochi WNBA</title>
-            <link>https://www.youtube.com/watch?v=ivZIu3EYprc</link>
-            <guid>https://www.youtube.com/watch?v=ivZIu3EYprc</guid>
-            <pubDate>MAY 19, 2021 AT 08:45AM</pubDate>
-            <description>Amazon si prende lo sport: dopo la Champions il basket, trasmetterà i giochi WNBA</description>
+            <title>Giorgio Taverniti - Advertising e Privacy: ma che cosa sta succedendo?</title>
+            <link>https://www.youtube.com/watch?v=6ZzALaEwIak</link>
+            <guid>https://www.youtube.com/watch?v=6ZzALaEwIak</guid>
+            <pubDate>JULY 6, 2021 AT 07:30AM</pubDate>
+            <description>Advertising e Privacy: ma che cosa sta succedendo?</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Fare pubblicità su Sky, TV, radio, web, social e App. Tutorial di Sky Advertising Manager</title>
-            <link>https://www.youtube.com/watch?v=9fxHYHCZUE4</link>
-            <guid>https://www.youtube.com/watch?v=9fxHYHCZUE4</guid>
-            <pubDate>MAY 11, 2021 AT 09:24AM</pubDate>
-            <description>Fare pubblicità su Sky, TV, radio, web, social e App. Tutorial di Sky Advertising Manager</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - R101 a casa di Monty..</title>
-            <link>https://www.youtube.com/watch?v=AKxraPUIlgc</link>
-            <guid>https://www.youtube.com/watch?v=AKxraPUIlgc</guid>
-            <pubDate>JUNE 15, 2021 AT 01:41PM</pubDate>
-            <description>R101 a casa di Monty..</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Etsy acquista Depop per 1,6 miliardi di dollari.Congratulazioni a Simon Beckerman e a tutto il team!</title>
-            <link>https://www.youtube.com/watch?v=ehwBCRA0vvE</link>
-            <guid>https://www.youtube.com/watch?v=ehwBCRA0vvE</guid>
-            <pubDate>JUNE 2, 2021 AT 02:00PM</pubDate>
-            <description>Etsy acquista Depop per 1,6 miliardi di dollari.Congratulazioni a Simon Beckerman e a tutto il team!</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Food talks con Isabella Potì e Floriano Pellegrino, Chef di Bros’</title>
-            <link>https://www.youtube.com/watch?v=zslJY-BEpfw</link>
-            <guid>https://www.youtube.com/watch?v=zslJY-BEpfw</guid>
-            <pubDate>MAY 18, 2021 AT 10:43PM</pubDate>
-            <description>Food talks con Isabella Potì e Floriano Pellegrino, Chef di Bros’</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - VENDERE ONLINE: 13 SITI INDISPENSABILI</title>
-            <link>https://www.youtube.com/watch?v=mtQk_O9jCsY</link>
-            <guid>https://www.youtube.com/watch?v=mtQk_O9jCsY</guid>
-            <pubDate>JUNE 4, 2021 AT 08:00AM</pubDate>
-            <description>VENDERE ONLINE: 13 SITI INDISPENSABILI</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - Raffaele Gaito intervista Marco Montemagno</title>
-            <link>https://www.youtube.com/watch?v=B9hvpRS0aYs</link>
-            <guid>https://www.youtube.com/watch?v=B9hvpRS0aYs</guid>
-            <pubDate>JUNE 14, 2021 AT 07:42PM</pubDate>
-            <description>Raffaele Gaito intervista Marco Montemagno</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Cosa può stare su Facebook? Speciale Matteo incontra #Facebook (1 di 3)</title>
-            <link>https://www.youtube.com/watch?v=VPyUsLM64P4</link>
-            <guid>https://www.youtube.com/watch?v=VPyUsLM64P4</guid>
-            <pubDate>JULY 7, 2021 AT 09:00AM</pubDate>
-            <description>Cosa può stare su Facebook? Speciale Matteo incontra #Facebook (1 di 3)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Perché siamo circondati dai Pessimisti</title>
-            <link>https://www.youtube.com/watch?v=XYf0oIP7GLo</link>
-            <guid>https://www.youtube.com/watch?v=XYf0oIP7GLo</guid>
-            <pubDate>MAY 22, 2021 AT 10:16AM</pubDate>
-            <description>Perché siamo circondati dai Pessimisti</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Il mio nome è Bond...JEFF BOND (perché Amazon ha comprato MGM)</title>
-            <link>https://www.youtube.com/watch?v=4eIs8Q0ZOxk</link>
-            <guid>https://www.youtube.com/watch?v=4eIs8Q0ZOxk</guid>
-            <pubDate>MAY 26, 2021 AT 05:30PM</pubDate>
-            <description>Il mio nome è Bond...JEFF BOND (perché Amazon ha comprato MGM)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Vuoi imparare l&#39;inglese?...con me e Norma&#39;s teaching? #shorts</title>
-            <link>https://www.youtube.com/watch?v=AobD91Qqup8</link>
-            <guid>https://www.youtube.com/watch?v=AobD91Qqup8</guid>
-            <pubDate>JULY 7, 2021 AT 02:17PM</pubDate>
-            <description>Vuoi imparare l&#39;inglese?...con me e Norma&#39;s teaching? #shorts</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - Che news dalle Web Stories: sondaggi, quiz e stories a 360°!</title>
-            <link>https://www.youtube.com/watch?v=u6FhVqkDF1o</link>
-            <guid>https://www.youtube.com/watch?v=u6FhVqkDF1o</guid>
-            <pubDate>MAY 27, 2021 AT 07:30AM</pubDate>
-            <description>Che news dalle Web Stories: sondaggi, quiz e stories a 360°!</description>
+            <title>Marco Montemagno - Perché il futuro della sostenibilità passa dall&#39;elettricità</title>
+            <link>https://www.youtube.com/watch?v=ueiCR_OY8KU</link>
+            <guid>https://www.youtube.com/watch?v=ueiCR_OY8KU</guid>
+            <pubDate>JULY 2, 2021 AT 03:00PM</pubDate>
+            <description>Perché il futuro della sostenibilità passa dall&#39;elettricità</description>
         </item>
         <item>
             <title>Marco Montemagno - Food Talks dal 17 al 21 maggio in collaborazione con San Pellegrino</title>
@@ -126,25 +56,95 @@
             <description>Food Talks dal 17 al 21 maggio in collaborazione con San Pellegrino</description>
         </item>
         <item>
-            <title>Marco Montemagno - 2 REGALI per ringraziarti</title>
-            <link>https://www.youtube.com/watch?v=i2AovXBaSvg</link>
-            <guid>https://www.youtube.com/watch?v=i2AovXBaSvg</guid>
-            <pubDate>JUNE 9, 2021 AT 04:36PM</pubDate>
-            <description>2 REGALI per ringraziarti</description>
+            <title>Matteo Flora - [LIVE] - L&#39;Aperitivo di Ciao Internet!</title>
+            <link>https://www.youtube.com/watch?v=lB4DIpLOfZA</link>
+            <guid>https://www.youtube.com/watch?v=lB4DIpLOfZA</guid>
+            <pubDate>JULY 13, 2021 AT 03:58PM</pubDate>
+            <description>[LIVE] - L&#39;Aperitivo di Ciao Internet!</description>
         </item>
         <item>
-            <title>Marco Montemagno - J.P. Morgan ha cambiato idea...</title>
-            <link>https://www.youtube.com/watch?v=9TlEpu4OS_U</link>
-            <guid>https://www.youtube.com/watch?v=9TlEpu4OS_U</guid>
-            <pubDate>JULY 23, 2021 AT 05:00PM</pubDate>
-            <description>J.P. Morgan ha cambiato idea...</description>
+            <title>Rudy Bandiera - 4 dettagli che dicono moltissimo su di te</title>
+            <link>https://www.youtube.com/watch?v=qjMYvOg9SPY</link>
+            <guid>https://www.youtube.com/watch?v=qjMYvOg9SPY</guid>
+            <pubDate>JULY 13, 2021 AT 08:53AM</pubDate>
+            <description>4 dettagli che dicono moltissimo su di te</description>
         </item>
         <item>
-            <title>Matteo Flora - Come #Facebook controlla i contenuti? Speciale Matteo incontra #Facebook (2 di 3)</title>
-            <link>https://www.youtube.com/watch?v=VtBxR7UkoFY</link>
-            <guid>https://www.youtube.com/watch?v=VtBxR7UkoFY</guid>
-            <pubDate>JULY 8, 2021 AT 09:00AM</pubDate>
-            <description>Come #Facebook controlla i contenuti? Speciale Matteo incontra #Facebook (2 di 3)</description>
+            <title>Giorgio Taverniti - Google Sheets: script, componenti, API. Idee d&#39;uso INTERESSANTI</title>
+            <link>https://www.youtube.com/watch?v=jmZF_VRT2fA</link>
+            <guid>https://www.youtube.com/watch?v=jmZF_VRT2fA</guid>
+            <pubDate>MAY 10, 2021 AT 10:41AM</pubDate>
+            <description>Google Sheets: script, componenti, API. Idee d&#39;uso INTERESSANTI</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Surf e dintorni - 4 chiacchiere con Edoardo Papa</title>
+            <link>https://www.youtube.com/watch?v=tECN8BieqSk</link>
+            <guid>https://www.youtube.com/watch?v=tECN8BieqSk</guid>
+            <pubDate>JUNE 14, 2021 AT 01:23PM</pubDate>
+            <description>Surf e dintorni - 4 chiacchiere con Edoardo Papa</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Il &quot;lavoro in nero di sinistra&quot; e la crisi reputazionale di Roberto Angelini</title>
+            <link>https://www.youtube.com/watch?v=aeCpHyVxGH4</link>
+            <guid>https://www.youtube.com/watch?v=aeCpHyVxGH4</guid>
+            <pubDate>MAY 18, 2021 AT 11:33AM</pubDate>
+            <description>Il &quot;lavoro in nero di sinistra&quot; e la crisi reputazionale di Roberto Angelini</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Perché siamo circondati dai Pessimisti</title>
+            <link>https://www.youtube.com/watch?v=XYf0oIP7GLo</link>
+            <guid>https://www.youtube.com/watch?v=XYf0oIP7GLo</guid>
+            <pubDate>MAY 22, 2021 AT 10:16AM</pubDate>
+            <description>Perché siamo circondati dai Pessimisti</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - What&#39;s up Internet! La Mega Rassegna Settimanale per capire Internet</title>
+            <link>https://www.youtube.com/watch?v=sDgWBBnILh0</link>
+            <guid>https://www.youtube.com/watch?v=sDgWBBnILh0</guid>
+            <pubDate>MAY 18, 2021 AT 07:30AM</pubDate>
+            <description>What&#39;s up Internet! La Mega Rassegna Settimanale per capire Internet</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - IL SEGRETO PER VENDERE #shorts</title>
+            <link>https://www.youtube.com/watch?v=bxc1ZaYpPYc</link>
+            <guid>https://www.youtube.com/watch?v=bxc1ZaYpPYc</guid>
+            <pubDate>JULY 9, 2021 AT 08:00AM</pubDate>
+            <description>IL SEGRETO PER VENDERE #shorts</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Coerenza o ostinazione?</title>
+            <link>https://www.youtube.com/watch?v=p9RTml447bE</link>
+            <guid>https://www.youtube.com/watch?v=p9RTml447bE</guid>
+            <pubDate>JULY 18, 2021 AT 02:15PM</pubDate>
+            <description>Coerenza o ostinazione?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Come integrare l&#39;Intelligenza artificiale e quella Umana?</title>
+            <link>https://www.youtube.com/watch?v=NYEKYvBJAg8</link>
+            <guid>https://www.youtube.com/watch?v=NYEKYvBJAg8</guid>
+            <pubDate>JUNE 24, 2021 AT 10:52PM</pubDate>
+            <description>Come integrare l&#39;Intelligenza artificiale e quella Umana?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Food Talks 4 chiacchere con Stefano Marini (CEO Gruppo Sanpellegrino)</title>
+            <link>https://www.youtube.com/watch?v=Y3fWZ03vtyE</link>
+            <guid>https://www.youtube.com/watch?v=Y3fWZ03vtyE</guid>
+            <pubDate>MAY 17, 2021 AT 08:33AM</pubDate>
+            <description>Food Talks 4 chiacchere con Stefano Marini (CEO Gruppo Sanpellegrino)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 300Mln$?!? Ma Apple e Google sono davvero concorrenti? #shorts</title>
+            <link>https://www.youtube.com/watch?v=Y-4yci_uu2M</link>
+            <guid>https://www.youtube.com/watch?v=Y-4yci_uu2M</guid>
+            <pubDate>JULY 5, 2021 AT 03:36PM</pubDate>
+            <description>300Mln$?!? Ma Apple e Google sono davvero concorrenti? #shorts</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Gino Strada</title>
+            <link>https://www.youtube.com/watch?v=4weR9T3v3XA</link>
+            <guid>https://www.youtube.com/watch?v=4weR9T3v3XA</guid>
+            <pubDate>MAY 20, 2021 AT 08:49AM</pubDate>
+            <description>4 chiacchiere con Gino Strada</description>
         </item>
     </channel>
 </rss>
