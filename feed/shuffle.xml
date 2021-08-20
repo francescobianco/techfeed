@@ -5,48 +5,13 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Thu, 19 Aug 2021 13:21:43 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 13:21:45 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Gino Strada</title>
-            <link>https://www.youtube.com/watch?v=4weR9T3v3XA</link>
-            <guid>https://www.youtube.com/watch?v=4weR9T3v3XA</guid>
-            <pubDate>MAY 20, 2021 AT 08:49AM</pubDate>
-            <description>4 chiacchiere con Gino Strada</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - IL SEGRETO PER VENDERE #shorts</title>
-            <link>https://www.youtube.com/watch?v=bxc1ZaYpPYc</link>
-            <guid>https://www.youtube.com/watch?v=bxc1ZaYpPYc</guid>
-            <pubDate>JULY 9, 2021 AT 08:00AM</pubDate>
-            <description>IL SEGRETO PER VENDERE #shorts</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Intelligenza Artificiale...che succede?</title>
-            <link>https://www.youtube.com/watch?v=JVCSeaEG6lU</link>
-            <guid>https://www.youtube.com/watch?v=JVCSeaEG6lU</guid>
-            <pubDate>JUNE 20, 2021 AT 11:43PM</pubDate>
-            <description>Intelligenza Artificiale...che succede?</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - Smetti di seguire gente tossica #shorts</title>
-            <link>https://www.youtube.com/watch?v=Z7Zw0hJEPCQ</link>
-            <guid>https://www.youtube.com/watch?v=Z7Zw0hJEPCQ</guid>
-            <pubDate>JUNE 30, 2021 AT 03:54PM</pubDate>
-            <description>Smetti di seguire gente tossica #shorts</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - Gaito risponde LIVE</title>
-            <link>https://www.youtube.com/watch?v=czpUVXmULIk</link>
-            <guid>https://www.youtube.com/watch?v=czpUVXmULIk</guid>
-            <pubDate>JUNE 28, 2021 AT 07:02PM</pubDate>
-            <description>Gaito risponde LIVE</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Europei 2021: Congratulazioni Azzurri!</title>
-            <link>https://www.youtube.com/watch?v=B2dpKlbVv4k</link>
-            <guid>https://www.youtube.com/watch?v=B2dpKlbVv4k</guid>
-            <pubDate>JULY 12, 2021 AT 01:00PM</pubDate>
-            <description>Europei 2021: Congratulazioni Azzurri!</description>
+            <title>Rudy Bandiera - Quale tra questi NON è tra i tre principali vantaggi portati dalla digitalizzazione?</title>
+            <link>https://www.youtube.com/watch?v=FsOkrz3bTI8</link>
+            <guid>https://www.youtube.com/watch?v=FsOkrz3bTI8</guid>
+            <pubDate>JULY 21, 2021 AT 08:54AM</pubDate>
+            <description>Quale tra questi NON è tra i tre principali vantaggi portati dalla digitalizzazione?</description>
         </item>
         <item>
             <title>Marco Montemagno - 4 caratteristiche OVVIE di chi ottiene grandi risultati</title>
@@ -56,6 +21,27 @@
             <description>4 caratteristiche OVVIE di chi ottiene grandi risultati</description>
         </item>
         <item>
+            <title>Raffaele Gaito - LA MALEDIZIONE DELLA CONOSCENZA (COS&#39;È E COME USCIRNE)</title>
+            <link>https://www.youtube.com/watch?v=hcJwTlEFPXI</link>
+            <guid>https://www.youtube.com/watch?v=hcJwTlEFPXI</guid>
+            <pubDate>JULY 20, 2021 AT 08:00AM</pubDate>
+            <description>LA MALEDIZIONE DELLA CONOSCENZA (COS&#39;È E COME USCIRNE)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Perché siamo circondati dai Pessimisti</title>
+            <link>https://www.youtube.com/watch?v=XYf0oIP7GLo</link>
+            <guid>https://www.youtube.com/watch?v=XYf0oIP7GLo</guid>
+            <pubDate>MAY 22, 2021 AT 10:16AM</pubDate>
+            <description>Perché siamo circondati dai Pessimisti</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Il Fallimento di Clubhouse: una meteora utile - W&amp;L Aprile 2021</title>
+            <link>https://www.youtube.com/watch?v=mWrc0lYq_ws</link>
+            <guid>https://www.youtube.com/watch?v=mWrc0lYq_ws</guid>
+            <pubDate>MAY 6, 2021 AT 07:30AM</pubDate>
+            <description>Il Fallimento di Clubhouse: una meteora utile - W&amp;L Aprile 2021</description>
+        </item>
+        <item>
             <title>Rudy Bandiera - Cosa succederà al lavoro DOPO la pandemia? #in2minuti</title>
             <link>https://www.youtube.com/watch?v=Qo2IiixUsBw</link>
             <guid>https://www.youtube.com/watch?v=Qo2IiixUsBw</guid>
@@ -63,18 +49,60 @@
             <description>Cosa succederà al lavoro DOPO la pandemia? #in2minuti</description>
         </item>
         <item>
-            <title>Matteo Flora - Cosa può stare su Facebook? Speciale Matteo incontra #Facebook (1 di 3)</title>
-            <link>https://www.youtube.com/watch?v=VPyUsLM64P4</link>
-            <guid>https://www.youtube.com/watch?v=VPyUsLM64P4</guid>
-            <pubDate>JULY 7, 2021 AT 09:00AM</pubDate>
-            <description>Cosa può stare su Facebook? Speciale Matteo incontra #Facebook (1 di 3)</description>
+            <title>Marco Montemagno - È Finita?</title>
+            <link>https://www.youtube.com/watch?v=LzcM-nLZXWc</link>
+            <guid>https://www.youtube.com/watch?v=LzcM-nLZXWc</guid>
+            <pubDate>JUNE 13, 2021 AT 05:17PM</pubDate>
+            <description>È Finita?</description>
         </item>
         <item>
-            <title>Raffaele Gaito - COME DIFFERENZIARSI DALLA CONCORRENZA (E NON SOLO)</title>
-            <link>https://www.youtube.com/watch?v=0-SbdkcHFGA</link>
-            <guid>https://www.youtube.com/watch?v=0-SbdkcHFGA</guid>
-            <pubDate>AUGUST 3, 2021 AT 08:00AM</pubDate>
-            <description>COME DIFFERENZIARSI DALLA CONCORRENZA (E NON SOLO)</description>
+            <title>Marco Montemagno - Food Talks dal 17 al 21 maggio in collaborazione con San Pellegrino</title>
+            <link>https://www.youtube.com/watch?v=3qSaCLTZLTk</link>
+            <guid>https://www.youtube.com/watch?v=3qSaCLTZLTk</guid>
+            <pubDate>MAY 15, 2021 AT 09:29PM</pubDate>
+            <description>Food Talks dal 17 al 21 maggio in collaborazione con San Pellegrino</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 5 curiosità che forse non sapevi sulle Olimpiadi 2021</title>
+            <link>https://www.youtube.com/watch?v=_88OlO2xCfs</link>
+            <guid>https://www.youtube.com/watch?v=_88OlO2xCfs</guid>
+            <pubDate>JULY 24, 2021 AT 04:04PM</pubDate>
+            <description>5 curiosità che forse non sapevi sulle Olimpiadi 2021</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Intelligenza artificiale e Diritto: opportunità e problematiche</title>
+            <link>https://www.youtube.com/watch?v=y-1uMh5B6CY</link>
+            <guid>https://www.youtube.com/watch?v=y-1uMh5B6CY</guid>
+            <pubDate>JUNE 24, 2021 AT 10:55PM</pubDate>
+            <description>Intelligenza artificiale e Diritto: opportunità e problematiche</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Europei 2021: Congratulazioni Azzurri!</title>
+            <link>https://www.youtube.com/watch?v=B2dpKlbVv4k</link>
+            <guid>https://www.youtube.com/watch?v=B2dpKlbVv4k</guid>
+            <pubDate>JULY 12, 2021 AT 01:00PM</pubDate>
+            <description>Europei 2021: Congratulazioni Azzurri!</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 12 errori assolutamente da non fare, quando scrivi per un lavoro</title>
+            <link>https://www.youtube.com/watch?v=mguXOSdqbpE</link>
+            <guid>https://www.youtube.com/watch?v=mguXOSdqbpE</guid>
+            <pubDate>JULY 1, 2021 AT 03:49PM</pubDate>
+            <description>12 errori assolutamente da non fare, quando scrivi per un lavoro</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Substack è un pericolo per i giornali. Ora è ufficiale.</title>
+            <link>https://www.youtube.com/watch?v=qlnYWsM5CJM</link>
+            <guid>https://www.youtube.com/watch?v=qlnYWsM5CJM</guid>
+            <pubDate>MAY 12, 2021 AT 08:34AM</pubDate>
+            <description>Substack è un pericolo per i giornali. Ora è ufficiale.</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Tutto quello che avresti sempre voluto sapere sull&#39;Idrogeno e sull&#39;Elettrificazione</title>
+            <link>https://www.youtube.com/watch?v=7h9FenptPBo</link>
+            <guid>https://www.youtube.com/watch?v=7h9FenptPBo</guid>
+            <pubDate>JULY 9, 2021 AT 10:00AM</pubDate>
+            <description>Tutto quello che avresti sempre voluto sapere sull&#39;Idrogeno e sull&#39;Elettrificazione</description>
         </item>
         <item>
             <title>Rudy Bandiera - Come rendere il tuo business e il tuo e-commerce più profittevole</title>
@@ -84,67 +112,39 @@
             <description>Come rendere il tuo business e il tuo e-commerce più profittevole</description>
         </item>
         <item>
-            <title>Marco Montemagno - Vuoi imparare l&#39;inglese?...con me e Norma&#39;s teaching? #shorts</title>
-            <link>https://www.youtube.com/watch?v=AobD91Qqup8</link>
-            <guid>https://www.youtube.com/watch?v=AobD91Qqup8</guid>
-            <pubDate>JULY 7, 2021 AT 02:17PM</pubDate>
-            <description>Vuoi imparare l&#39;inglese?...con me e Norma&#39;s teaching? #shorts</description>
+            <title>Giorgio Taverniti - Google è l&#39;e-commerce del Mondo: il login dei brand in SERP!</title>
+            <link>https://www.youtube.com/watch?v=vg0rgjRMgX0</link>
+            <guid>https://www.youtube.com/watch?v=vg0rgjRMgX0</guid>
+            <pubDate>JUNE 1, 2021 AT 07:30AM</pubDate>
+            <description>Google è l&#39;e-commerce del Mondo: il login dei brand in SERP!</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Diodato</title>
-            <link>https://www.youtube.com/watch?v=yAuJEdAsvuw</link>
-            <guid>https://www.youtube.com/watch?v=yAuJEdAsvuw</guid>
-            <pubDate>JUNE 3, 2021 AT 11:21AM</pubDate>
-            <description>4 chiacchiere con Diodato</description>
+            <title>Marco Montemagno - Intelligenza artificiale, comprensione del linguaggio e dintorni</title>
+            <link>https://www.youtube.com/watch?v=sC0nAlfQUqU</link>
+            <guid>https://www.youtube.com/watch?v=sC0nAlfQUqU</guid>
+            <pubDate>JUNE 24, 2021 AT 10:54PM</pubDate>
+            <description>Intelligenza artificiale, comprensione del linguaggio e dintorni</description>
         </item>
         <item>
-            <title>Raffaele Gaito - HO IL TERRORE! E TU?</title>
-            <link>https://www.youtube.com/watch?v=iBPoqd66OyQ</link>
-            <guid>https://www.youtube.com/watch?v=iBPoqd66OyQ</guid>
-            <pubDate>MARCH 30, 2021 AT 08:00AM</pubDate>
-            <description>HO IL TERRORE! E TU?</description>
+            <title>Marco Montemagno - Vuoi lavorare da casa o in ufficio?</title>
+            <link>https://www.youtube.com/watch?v=jwLVMiXvzTs</link>
+            <guid>https://www.youtube.com/watch?v=jwLVMiXvzTs</guid>
+            <pubDate>JULY 25, 2021 AT 01:30PM</pubDate>
+            <description>Vuoi lavorare da casa o in ufficio?</description>
         </item>
         <item>
-            <title>Marco Montemagno - L&#39;Italia s&#39;è desta! Come sta cambiando la percezione dell&#39;Italia nel mondo (e cosa si potrebbe fare)</title>
-            <link>https://www.youtube.com/watch?v=awJcWyt3pHA</link>
-            <guid>https://www.youtube.com/watch?v=awJcWyt3pHA</guid>
-            <pubDate>JULY 12, 2021 AT 06:24PM</pubDate>
-            <description>L&#39;Italia s&#39;è desta! Come sta cambiando la percezione dell&#39;Italia nel mondo (e cosa si potrebbe fare)</description>
+            <title>Marco Montemagno - Arturo Brachetti in arrivo su Competenze con il corso &quot;Come diventare stage performer&quot;</title>
+            <link>https://www.youtube.com/watch?v=pnwdh2dTuc4</link>
+            <guid>https://www.youtube.com/watch?v=pnwdh2dTuc4</guid>
+            <pubDate>JUNE 6, 2021 AT 06:30PM</pubDate>
+            <description>Arturo Brachetti in arrivo su Competenze con il corso &quot;Come diventare stage performer&quot;</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con lo Chef Mauro Colagreco (&quot;miglior ristorante al mondo&quot;)</title>
-            <link>https://www.youtube.com/watch?v=AWzt4FPoLqQ</link>
-            <guid>https://www.youtube.com/watch?v=AWzt4FPoLqQ</guid>
-            <pubDate>JULY 5, 2021 AT 11:11AM</pubDate>
-            <description>4 chiacchiere con lo Chef Mauro Colagreco (&quot;miglior ristorante al mondo&quot;)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 300Mln$?!? Ma Apple e Google sono davvero concorrenti? #shorts</title>
-            <link>https://www.youtube.com/watch?v=Y-4yci_uu2M</link>
-            <guid>https://www.youtube.com/watch?v=Y-4yci_uu2M</guid>
-            <pubDate>JULY 5, 2021 AT 03:36PM</pubDate>
-            <description>300Mln$?!? Ma Apple e Google sono davvero concorrenti? #shorts</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Coerenza o ostinazione?</title>
-            <link>https://www.youtube.com/watch?v=p9RTml447bE</link>
-            <guid>https://www.youtube.com/watch?v=p9RTml447bE</guid>
-            <pubDate>JULY 18, 2021 AT 02:15PM</pubDate>
-            <description>Coerenza o ostinazione?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Food Talks con Almir Ambeskovich (CEO The Fork)</title>
-            <link>https://www.youtube.com/watch?v=_mZ3BjqN8Zo</link>
-            <guid>https://www.youtube.com/watch?v=_mZ3BjqN8Zo</guid>
-            <pubDate>MAY 20, 2021 AT 08:47AM</pubDate>
-            <description>Food Talks con Almir Ambeskovich (CEO The Fork)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con Progetto Happiness e ALFA</title>
-            <link>https://www.youtube.com/watch?v=4wQbRXFSvBg</link>
-            <guid>https://www.youtube.com/watch?v=4wQbRXFSvBg</guid>
-            <pubDate>JUNE 28, 2021 AT 09:55AM</pubDate>
-            <description>4 chiacchiere con Progetto Happiness e ALFA</description>
+            <title>Rudy Bandiera - 6 cose da fare invece di prendere in mano il telefono</title>
+            <link>https://www.youtube.com/watch?v=OJ5M0J2GpAE</link>
+            <guid>https://www.youtube.com/watch?v=OJ5M0J2GpAE</guid>
+            <pubDate>JULY 7, 2021 AT 10:06AM</pubDate>
+            <description>6 cose da fare invece di prendere in mano il telefono</description>
         </item>
     </channel>
 </rss>
