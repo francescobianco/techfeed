@@ -5,13 +5,20 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Wed, 25 Aug 2021 13:21:11 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 26 Aug 2021 13:21:10 +0000</lastBuildDate>
         <item>
-            <title>Giorgio Taverniti - Instagram: come funzionano gli algoritmi dei Reel, Esplora, Feed e Stories!</title>
-            <link>https://www.youtube.com/watch?v=3trkEyOpeZ4</link>
-            <guid>https://www.youtube.com/watch?v=3trkEyOpeZ4</guid>
-            <pubDate>JUNE 14, 2021 AT 07:30AM</pubDate>
-            <description>Instagram: come funzionano gli algoritmi dei Reel, Esplora, Feed e Stories!</description>
+            <title>Marco Montemagno - Conviene organizzare i giochi Olimpici?</title>
+            <link>https://www.youtube.com/watch?v=6fwPXiJbwFI</link>
+            <guid>https://www.youtube.com/watch?v=6fwPXiJbwFI</guid>
+            <pubDate>AUGUST 8, 2021 AT 10:18AM</pubDate>
+            <description>Conviene organizzare i giochi Olimpici?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Sei a corto di idee?</title>
+            <link>https://www.youtube.com/watch?v=T5zzc-w79UU</link>
+            <guid>https://www.youtube.com/watch?v=T5zzc-w79UU</guid>
+            <pubDate>MAY 30, 2021 AT 10:09AM</pubDate>
+            <description>Sei a corto di idee?</description>
         </item>
         <item>
             <title>Marco Montemagno - &quot;Non ascoltare quello che dicono, guarda quello che fanno&quot;</title>
@@ -21,53 +28,67 @@
             <description>&quot;Non ascoltare quello che dicono, guarda quello che fanno&quot;</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Google è un Ecosistema Liquido: l&#39;accordo con Shopify ne è la prova!</title>
-            <link>https://www.youtube.com/watch?v=3o9sWQe0S7o</link>
-            <guid>https://www.youtube.com/watch?v=3o9sWQe0S7o</guid>
-            <pubDate>MAY 26, 2021 AT 07:30AM</pubDate>
-            <description>Google è un Ecosistema Liquido: l&#39;accordo con Shopify ne è la prova!</description>
+            <title>Marco Montemagno - Se tornassi indietro, mi darei 4 suggerimenti ...</title>
+            <link>https://www.youtube.com/watch?v=jiXxdciVWTE</link>
+            <guid>https://www.youtube.com/watch?v=jiXxdciVWTE</guid>
+            <pubDate>AUGUST 21, 2021 AT 01:00PM</pubDate>
+            <description>Se tornassi indietro, mi darei 4 suggerimenti ...</description>
         </item>
         <item>
-            <title>Raffaele Gaito - VIDEO SPONSORIZZATI: RIFLESSIONI E SUGGERIMENTI</title>
-            <link>https://www.youtube.com/watch?v=lEEtOpxhpGM</link>
-            <guid>https://www.youtube.com/watch?v=lEEtOpxhpGM</guid>
+            <title>Marco Montemagno - Questo è il mio Miglior Libro di sempre (...e il peggior Unboxing della storia)</title>
+            <link>https://www.youtube.com/watch?v=UzfBC3SU3DE</link>
+            <guid>https://www.youtube.com/watch?v=UzfBC3SU3DE</guid>
+            <pubDate>JUNE 5, 2021 AT 12:40PM</pubDate>
+            <description>Questo è il mio Miglior Libro di sempre (...e il peggior Unboxing della storia)</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - AUMENTARE VENDITE ECOMMERCE (9 CANALI DA USARE)</title>
+            <link>https://www.youtube.com/watch?v=5SMYPYDCkXg</link>
+            <guid>https://www.youtube.com/watch?v=5SMYPYDCkXg</guid>
+            <pubDate>JUNE 8, 2021 AT 08:00AM</pubDate>
+            <description>AUMENTARE VENDITE ECOMMERCE (9 CANALI DA USARE)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Food Talks con Cristina Bowerman e Paolo Marchi</title>
+            <link>https://www.youtube.com/watch?v=S2lz_QQXCVQ</link>
+            <guid>https://www.youtube.com/watch?v=S2lz_QQXCVQ</guid>
+            <pubDate>MAY 20, 2021 AT 09:34AM</pubDate>
+            <description>Food Talks con Cristina Bowerman e Paolo Marchi</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - A conversation with M. Night Shyamalan (Sixth Sense/Old/Unbreakable, Split...)</title>
+            <link>https://www.youtube.com/watch?v=j2zw6qsVBxY</link>
+            <guid>https://www.youtube.com/watch?v=j2zw6qsVBxY</guid>
+            <pubDate>JULY 21, 2021 AT 05:42PM</pubDate>
+            <description>A conversation with M. Night Shyamalan (Sixth Sense/Old/Unbreakable, Split...)</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - I giganti social distribuiscono soldi a chi crea contenuto</title>
+            <link>https://www.youtube.com/watch?v=Mf0Caukt0kQ</link>
+            <guid>https://www.youtube.com/watch?v=Mf0Caukt0kQ</guid>
+            <pubDate>MAY 28, 2021 AT 08:51AM</pubDate>
+            <description>I giganti social distribuiscono soldi a chi crea contenuto</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 9 anni di Monty in meno di 9 minuti</title>
+            <link>https://www.youtube.com/watch?v=l8Q4Famg5Zo</link>
+            <guid>https://www.youtube.com/watch?v=l8Q4Famg5Zo</guid>
+            <pubDate>AUGUST 12, 2021 AT 01:17PM</pubDate>
+            <description>9 anni di Monty in meno di 9 minuti</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 11 principi FONDAMENTALI che dovresti tenere a mente ogni giorno...</title>
+            <link>https://www.youtube.com/watch?v=DQ15u56f-8k</link>
+            <guid>https://www.youtube.com/watch?v=DQ15u56f-8k</guid>
+            <pubDate>JULY 26, 2021 AT 04:39PM</pubDate>
+            <description>11 principi FONDAMENTALI che dovresti tenere a mente ogni giorno...</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Tette, piscine e soldi. No clickbait, davvero parliamo di tette e #demonetizzazione</title>
+            <link>https://www.youtube.com/watch?v=dVKjE4CJmew</link>
+            <guid>https://www.youtube.com/watch?v=dVKjE4CJmew</guid>
             <pubDate>MAY 21, 2021 AT 08:00AM</pubDate>
-            <description>VIDEO SPONSORIZZATI: RIFLESSIONI E SUGGERIMENTI</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Quanto costa sponsorizzare le Olimpiadi? Perché alcuni sponsor si stanno tirando indietro?</title>
-            <link>https://www.youtube.com/watch?v=r2IFEp_NKpY</link>
-            <guid>https://www.youtube.com/watch?v=r2IFEp_NKpY</guid>
-            <pubDate>JULY 23, 2021 AT 02:38PM</pubDate>
-            <description>Quanto costa sponsorizzare le Olimpiadi? Perché alcuni sponsor si stanno tirando indietro?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come fare una critica costruttiva in 4 passaggi</title>
-            <link>https://www.youtube.com/watch?v=YPyeigT3tUg</link>
-            <guid>https://www.youtube.com/watch?v=YPyeigT3tUg</guid>
-            <pubDate>AUGUST 19, 2021 AT 02:00PM</pubDate>
-            <description>Come fare una critica costruttiva in 4 passaggi</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - ANSIA DA PRESTAZIONE: COME SUPERARLA</title>
-            <link>https://www.youtube.com/watch?v=0tNBIvO5mX8</link>
-            <guid>https://www.youtube.com/watch?v=0tNBIvO5mX8</guid>
-            <pubDate>JUNE 29, 2021 AT 08:00AM</pubDate>
-            <description>ANSIA DA PRESTAZIONE: COME SUPERARLA</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - L&#39;Italia s&#39;è desta! Come sta cambiando la percezione dell&#39;Italia nel mondo (e cosa si potrebbe fare)</title>
-            <link>https://www.youtube.com/watch?v=awJcWyt3pHA</link>
-            <guid>https://www.youtube.com/watch?v=awJcWyt3pHA</guid>
-            <pubDate>JULY 12, 2021 AT 06:24PM</pubDate>
-            <description>L&#39;Italia s&#39;è desta! Come sta cambiando la percezione dell&#39;Italia nel mondo (e cosa si potrebbe fare)</description>
-        </item>
-        <item>
-            <title>Matteo Flora - [LIVE] L&#39;aperitivo di Ciao Internet1</title>
-            <link>https://www.youtube.com/watch?v=yZ3AFIlrUWo</link>
-            <guid>https://www.youtube.com/watch?v=yZ3AFIlrUWo</guid>
-            <pubDate>JULY 13, 2021 AT 10:05PM</pubDate>
-            <description>[LIVE] L&#39;aperitivo di Ciao Internet1</description>
+            <description>Tette, piscine e soldi. No clickbait, davvero parliamo di tette e #demonetizzazione</description>
         </item>
         <item>
             <title>Raffaele Gaito - I 10 DIRITTI DEL LETTORE (LEGGI COME TI PARE)</title>
@@ -77,74 +98,53 @@
             <description>I 10 DIRITTI DEL LETTORE (LEGGI COME TI PARE)</description>
         </item>
         <item>
-            <title>Marco Montemagno - Cosa fare con gli haters (con chi ti insulta, ti provoca e ti attacca sui social)?</title>
-            <link>https://www.youtube.com/watch?v=ksol4EKuPBI</link>
-            <guid>https://www.youtube.com/watch?v=ksol4EKuPBI</guid>
-            <pubDate>JUNE 20, 2021 AT 10:35AM</pubDate>
-            <description>Cosa fare con gli haters (con chi ti insulta, ti provoca e ti attacca sui social)?</description>
+            <title>Giorgio Taverniti - Come funziona Google? 2021 Edition</title>
+            <link>https://www.youtube.com/watch?v=YmpPL4zRRpk</link>
+            <guid>https://www.youtube.com/watch?v=YmpPL4zRRpk</guid>
+            <pubDate>JULY 9, 2021 AT 07:30AM</pubDate>
+            <description>Come funziona Google? 2021 Edition</description>
         </item>
         <item>
-            <title>Marco Montemagno - Perché siamo circondati dai Pessimisti</title>
-            <link>https://www.youtube.com/watch?v=XYf0oIP7GLo</link>
-            <guid>https://www.youtube.com/watch?v=XYf0oIP7GLo</guid>
-            <pubDate>MAY 22, 2021 AT 10:16AM</pubDate>
-            <description>Perché siamo circondati dai Pessimisti</description>
+            <title>Raffaele Gaito - Gaito risponde LIVE</title>
+            <link>https://www.youtube.com/watch?v=czpUVXmULIk</link>
+            <guid>https://www.youtube.com/watch?v=czpUVXmULIk</guid>
+            <pubDate>JUNE 28, 2021 AT 07:02PM</pubDate>
+            <description>Gaito risponde LIVE</description>
         </item>
         <item>
-            <title>Marco Montemagno - Se tornassi indietro, mi darei 4 suggerimenti ...</title>
-            <link>https://www.youtube.com/watch?v=jiXxdciVWTE</link>
-            <guid>https://www.youtube.com/watch?v=jiXxdciVWTE</guid>
-            <pubDate>AUGUST 21, 2021 AT 01:00PM</pubDate>
-            <description>Se tornassi indietro, mi darei 4 suggerimenti ...</description>
+            <title>Giorgio Taverniti - Google è l&#39;e-commerce del Mondo: il login dei brand in SERP!</title>
+            <link>https://www.youtube.com/watch?v=vg0rgjRMgX0</link>
+            <guid>https://www.youtube.com/watch?v=vg0rgjRMgX0</guid>
+            <pubDate>JUNE 1, 2021 AT 07:30AM</pubDate>
+            <description>Google è l&#39;e-commerce del Mondo: il login dei brand in SERP!</description>
         </item>
         <item>
-            <title>Matteo Flora - [LIVE] Quattro chiacchiere nel vostro Sabato Sera</title>
-            <link>https://www.youtube.com/watch?v=Cl6J-leRCrE</link>
-            <guid>https://www.youtube.com/watch?v=Cl6J-leRCrE</guid>
-            <pubDate>MAY 8, 2021 AT 10:28PM</pubDate>
-            <description>[LIVE] Quattro chiacchiere nel vostro Sabato Sera</description>
+            <title>Rudy Bandiera - Il Titanic è stato affondato dagli alieni, giusto?</title>
+            <link>https://www.youtube.com/watch?v=zF8Z_aGF6ls</link>
+            <guid>https://www.youtube.com/watch?v=zF8Z_aGF6ls</guid>
+            <pubDate>AUGUST 2, 2021 AT 09:17AM</pubDate>
+            <description>Il Titanic è stato affondato dagli alieni, giusto?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Coerenza o ostinazione?</title>
-            <link>https://www.youtube.com/watch?v=p9RTml447bE</link>
-            <guid>https://www.youtube.com/watch?v=p9RTml447bE</guid>
-            <pubDate>JULY 18, 2021 AT 02:15PM</pubDate>
-            <description>Coerenza o ostinazione?</description>
+            <title>Marco Montemagno - Come fare una critica costruttiva in 4 passaggi</title>
+            <link>https://www.youtube.com/watch?v=YPyeigT3tUg</link>
+            <guid>https://www.youtube.com/watch?v=YPyeigT3tUg</guid>
+            <pubDate>AUGUST 19, 2021 AT 02:00PM</pubDate>
+            <description>Come fare una critica costruttiva in 4 passaggi</description>
         </item>
         <item>
-            <title>Marco Montemagno - Marco Montemagno...ma chi è? Che mestiere fa? Da dove arriva?</title>
-            <link>https://www.youtube.com/watch?v=ume43VQUbo8</link>
-            <guid>https://www.youtube.com/watch?v=ume43VQUbo8</guid>
-            <pubDate>JUNE 18, 2021 AT 07:27PM</pubDate>
-            <description>Marco Montemagno...ma chi è? Che mestiere fa? Da dove arriva?</description>
+            <title>Giorgio Taverniti - Quali sono i Tool indispensabili per la SEO? +17 domande nel Q&amp;A</title>
+            <link>https://www.youtube.com/watch?v=NNuKkjpEK98</link>
+            <guid>https://www.youtube.com/watch?v=NNuKkjpEK98</guid>
+            <pubDate>MAY 20, 2021 AT 07:30AM</pubDate>
+            <description>Quali sono i Tool indispensabili per la SEO? +17 domande nel Q&amp;A</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Sapete chi è l’italiano più seguito sui social?</title>
-            <link>https://www.youtube.com/watch?v=3NIMJ9mu20k</link>
-            <guid>https://www.youtube.com/watch?v=3NIMJ9mu20k</guid>
-            <pubDate>MAY 25, 2021 AT 09:09AM</pubDate>
-            <description>Sapete chi è l’italiano più seguito sui social?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - How  to deal with fake news? Malcolm Gladwell&#39;s point of view #shorts</title>
-            <link>https://www.youtube.com/watch?v=6O9moWlzr9k</link>
-            <guid>https://www.youtube.com/watch?v=6O9moWlzr9k</guid>
-            <pubDate>JULY 15, 2021 AT 07:31PM</pubDate>
-            <description>How  to deal with fake news? Malcolm Gladwell&#39;s point of view #shorts</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - E i 3 video + visti della storia di YouTube sono...#shorts</title>
-            <link>https://www.youtube.com/watch?v=h4eN5j-_jlg</link>
-            <guid>https://www.youtube.com/watch?v=h4eN5j-_jlg</guid>
-            <pubDate>JULY 6, 2021 AT 08:56AM</pubDate>
-            <description>E i 3 video + visti della storia di YouTube sono...#shorts</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - LA MALEDIZIONE DELLA CONOSCENZA (COS&#39;È E COME USCIRNE)</title>
-            <link>https://www.youtube.com/watch?v=hcJwTlEFPXI</link>
-            <guid>https://www.youtube.com/watch?v=hcJwTlEFPXI</guid>
-            <pubDate>JULY 20, 2021 AT 08:00AM</pubDate>
-            <description>LA MALEDIZIONE DELLA CONOSCENZA (COS&#39;È E COME USCIRNE)</description>
+            <title>Marco Montemagno - Ice Swimming (nuotare senza muta in acque gelide) con Paolo Chiarino</title>
+            <link>https://www.youtube.com/watch?v=ZaOEEYslbWI</link>
+            <guid>https://www.youtube.com/watch?v=ZaOEEYslbWI</guid>
+            <pubDate>MAY 26, 2021 AT 12:24PM</pubDate>
+            <description>Ice Swimming (nuotare senza muta in acque gelide) con Paolo Chiarino</description>
         </item>
     </channel>
 </rss>
