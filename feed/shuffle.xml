@@ -5,90 +5,20 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Mon, 04 Oct 2021 13:21:24 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 13:22:18 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Emanuele Bompan</title>
-            <link>https://www.youtube.com/watch?v=iGMl-9DQLCo</link>
-            <guid>https://www.youtube.com/watch?v=iGMl-9DQLCo</guid>
-            <pubDate>SEPTEMBER 9, 2021 AT 07:07PM</pubDate>
-            <description>Cambiamento climatico, elettrificazione e dintorni con Emanuele Bompan</description>
+            <title>Marco Montemagno - 9 anni di Monty in meno di 9 minuti</title>
+            <link>https://www.youtube.com/watch?v=l8Q4Famg5Zo</link>
+            <guid>https://www.youtube.com/watch?v=l8Q4Famg5Zo</guid>
+            <pubDate>AUGUST 12, 2021 AT 01:17PM</pubDate>
+            <description>9 anni di Monty in meno di 9 minuti</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Sapete chi è l’italiano più seguito sui social?</title>
-            <link>https://www.youtube.com/watch?v=3NIMJ9mu20k</link>
-            <guid>https://www.youtube.com/watch?v=3NIMJ9mu20k</guid>
-            <pubDate>MAY 25, 2021 AT 09:09AM</pubDate>
-            <description>Sapete chi è l’italiano più seguito sui social?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 consigli utili per il tuo lavoro da 4 grandi imprenditori italiani</title>
-            <link>https://www.youtube.com/watch?v=Fs0w1QIlF_4</link>
-            <guid>https://www.youtube.com/watch?v=Fs0w1QIlF_4</guid>
-            <pubDate>AUGUST 11, 2021 AT 01:00PM</pubDate>
-            <description>4 consigli utili per il tuo lavoro da 4 grandi imprenditori italiani</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Se dura più di 1 minuto non è un vocale...è un audiolibro!</title>
-            <link>https://www.youtube.com/watch?v=YvpeDG3bfio</link>
-            <guid>https://www.youtube.com/watch?v=YvpeDG3bfio</guid>
-            <pubDate>SEPTEMBER 29, 2021 AT 01:31PM</pubDate>
-            <description>Se dura più di 1 minuto non è un vocale...è un audiolibro!</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Netflix perde abbonati. Calo fisiologico o problemi in vista?</title>
-            <link>https://www.youtube.com/watch?v=4KPHJfzKscU</link>
-            <guid>https://www.youtube.com/watch?v=4KPHJfzKscU</guid>
-            <pubDate>JULY 28, 2021 AT 12:45PM</pubDate>
-            <description>Netflix perde abbonati. Calo fisiologico o problemi in vista?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con Cristiano Godano (Marlene Kuntz)</title>
-            <link>https://www.youtube.com/watch?v=FvFLwWJGkQ8</link>
-            <guid>https://www.youtube.com/watch?v=FvFLwWJGkQ8</guid>
-            <pubDate>JULY 8, 2021 AT 12:19PM</pubDate>
-            <description>4 chiacchiere con Cristiano Godano (Marlene Kuntz)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Ice Swimming (nuotare senza muta in acque gelide) con Paolo Chiarino</title>
-            <link>https://www.youtube.com/watch?v=ZaOEEYslbWI</link>
-            <guid>https://www.youtube.com/watch?v=ZaOEEYslbWI</guid>
-            <pubDate>MAY 26, 2021 AT 12:24PM</pubDate>
-            <description>Ice Swimming (nuotare senza muta in acque gelide) con Paolo Chiarino</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - 7 LIBRI CHE MI HANNO CAMBIATO LA VITA</title>
-            <link>https://www.youtube.com/watch?v=oDeYD6EZ2Qs</link>
-            <guid>https://www.youtube.com/watch?v=oDeYD6EZ2Qs</guid>
-            <pubDate>MAY 18, 2021 AT 08:00AM</pubDate>
-            <description>7 LIBRI CHE MI HANNO CAMBIATO LA VITA</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Questa startup migliorerà la vita a oltre 70 milioni di persone</title>
-            <link>https://www.youtube.com/watch?v=6CzRTP5MU6Q</link>
-            <guid>https://www.youtube.com/watch?v=6CzRTP5MU6Q</guid>
-            <pubDate>AUGUST 4, 2021 AT 02:00PM</pubDate>
-            <description>Questa startup migliorerà la vita a oltre 70 milioni di persone</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - Advertising e Privacy: ma che cosa sta succedendo?</title>
-            <link>https://www.youtube.com/watch?v=6ZzALaEwIak</link>
-            <guid>https://www.youtube.com/watch?v=6ZzALaEwIak</guid>
-            <pubDate>JULY 6, 2021 AT 07:30AM</pubDate>
-            <description>Advertising e Privacy: ma che cosa sta succedendo?</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Tutto quello che dovete sapere su Pegasus, Intercettazioni e Captatori…</title>
-            <link>https://www.youtube.com/watch?v=Z8Q0dBKSQHU</link>
-            <guid>https://www.youtube.com/watch?v=Z8Q0dBKSQHU</guid>
-            <pubDate>JULY 26, 2021 AT 10:00AM</pubDate>
-            <description>Tutto quello che dovete sapere su Pegasus, Intercettazioni e Captatori…</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Il Regno Unito riapre tutto (nonostante i contagi in crescita): via mascherine e restrizioni</title>
-            <link>https://www.youtube.com/watch?v=PcTg406tjqk</link>
-            <guid>https://www.youtube.com/watch?v=PcTg406tjqk</guid>
-            <pubDate>JULY 19, 2021 AT 01:40PM</pubDate>
-            <description>Il Regno Unito riapre tutto (nonostante i contagi in crescita): via mascherine e restrizioni</description>
+            <title>Raffaele Gaito - Gaito risponde LIVE</title>
+            <link>https://www.youtube.com/watch?v=czpUVXmULIk</link>
+            <guid>https://www.youtube.com/watch?v=czpUVXmULIk</guid>
+            <pubDate>JUNE 28, 2021 AT 07:02PM</pubDate>
+            <description>Gaito risponde LIVE</description>
         </item>
         <item>
             <title>Marco Montemagno - Hai un cane, un gatto...Monica Pais su Competenze.it</title>
@@ -98,53 +28,123 @@
             <description>Hai un cane, un gatto...Monica Pais su Competenze.it</description>
         </item>
         <item>
-            <title>Marco Montemagno - Inventati una soluzione</title>
-            <link>https://www.youtube.com/watch?v=pjl4owUGR8Y</link>
-            <guid>https://www.youtube.com/watch?v=pjl4owUGR8Y</guid>
-            <pubDate>MAY 6, 2021 AT 04:05PM</pubDate>
-            <description>Inventati una soluzione</description>
+            <title>Marco Montemagno - 4 chiacchiere con Merk &amp; Kremont</title>
+            <link>https://www.youtube.com/watch?v=9iphabV-ob8</link>
+            <guid>https://www.youtube.com/watch?v=9iphabV-ob8</guid>
+            <pubDate>JULY 7, 2021 AT 12:09PM</pubDate>
+            <description>4 chiacchiere con Merk &amp; Kremont</description>
         </item>
         <item>
-            <title>Marco Montemagno - La vedova nera fa causa a Disney: per quanti $$$ e perchè è importante</title>
-            <link>https://www.youtube.com/watch?v=TzyE-hLp4nE</link>
-            <guid>https://www.youtube.com/watch?v=TzyE-hLp4nE</guid>
-            <pubDate>AUGUST 5, 2021 AT 03:37PM</pubDate>
-            <description>La vedova nera fa causa a Disney: per quanti $$$ e perchè è importante</description>
+            <title>Matteo Flora - Sconfiggere i Malware con una… TASTIERA?</title>
+            <link>https://www.youtube.com/watch?v=e6TfDAoup7Y</link>
+            <guid>https://www.youtube.com/watch?v=e6TfDAoup7Y</guid>
+            <pubDate>MAY 20, 2021 AT 08:00AM</pubDate>
+            <description>Sconfiggere i Malware con una… TASTIERA?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Food Talks 4 chiacchiere con Vincenzo Ferrieri (Cioccolati Italiani) e Vittoria Zanetti (Poke House)</title>
-            <link>https://www.youtube.com/watch?v=ze-950IFPvs</link>
-            <guid>https://www.youtube.com/watch?v=ze-950IFPvs</guid>
-            <pubDate>MAY 17, 2021 AT 11:37AM</pubDate>
-            <description>Food Talks 4 chiacchiere con Vincenzo Ferrieri (Cioccolati Italiani) e Vittoria Zanetti (Poke House)</description>
+            <title>Marco Montemagno - Nek racconta com&#39;è nata &quot;Laura non c&#39;è&quot;</title>
+            <link>https://www.youtube.com/watch?v=LcbQwOmlyYk</link>
+            <guid>https://www.youtube.com/watch?v=LcbQwOmlyYk</guid>
+            <pubDate>JULY 10, 2021 AT 10:54AM</pubDate>
+            <description>Nek racconta com&#39;è nata &quot;Laura non c&#39;è&quot;</description>
         </item>
         <item>
-            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Antonio Cammisecra (Enel)</title>
-            <link>https://www.youtube.com/watch?v=ym8xfRvhkOI</link>
-            <guid>https://www.youtube.com/watch?v=ym8xfRvhkOI</guid>
-            <pubDate>SEPTEMBER 5, 2021 AT 06:58PM</pubDate>
-            <description>Cambiamento climatico, elettrificazione e dintorni con Antonio Cammisecra (Enel)</description>
+            <title>Matteo Flora - NaturaSì e i tamponi ai no-vax: come Buriani ha salvato il Brand...</title>
+            <link>https://www.youtube.com/watch?v=xi8B9csi7pE</link>
+            <guid>https://www.youtube.com/watch?v=xi8B9csi7pE</guid>
+            <pubDate>SEPTEMBER 24, 2021 AT 07:45AM</pubDate>
+            <description>NaturaSì e i tamponi ai no-vax: come Buriani ha salvato il Brand...</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Tutto sul Google Page Experience con Andrea Pernici</title>
-            <link>https://www.youtube.com/watch?v=v4kl9R4zM7o</link>
-            <guid>https://www.youtube.com/watch?v=v4kl9R4zM7o</guid>
-            <pubDate>JUNE 29, 2021 AT 09:17AM</pubDate>
-            <description>Tutto sul Google Page Experience con Andrea Pernici</description>
+            <title>Matteo Flora - I profili Fake di Monica Cirinnà (e del cane) e la #Reputazione…</title>
+            <link>https://www.youtube.com/watch?v=T9k7sj_rhao</link>
+            <guid>https://www.youtube.com/watch?v=T9k7sj_rhao</guid>
+            <pubDate>SEPTEMBER 9, 2021 AT 08:02AM</pubDate>
+            <description>I profili Fake di Monica Cirinnà (e del cane) e la #Reputazione…</description>
         </item>
         <item>
-            <title>Marco Montemagno - &quot;Quando sei diventato Monty&quot; ... dopo un anno e mezzo di video con zero views è successo questo...</title>
-            <link>https://www.youtube.com/watch?v=TXY4f5a-VFk</link>
-            <guid>https://www.youtube.com/watch?v=TXY4f5a-VFk</guid>
-            <pubDate>AUGUST 1, 2021 AT 02:27PM</pubDate>
-            <description>&quot;Quando sei diventato Monty&quot; ... dopo un anno e mezzo di video con zero views è successo questo...</description>
+            <title>Giorgio Taverniti - Come funziona Google? 2021 Edition</title>
+            <link>https://www.youtube.com/watch?v=YmpPL4zRRpk</link>
+            <guid>https://www.youtube.com/watch?v=YmpPL4zRRpk</guid>
+            <pubDate>JULY 9, 2021 AT 07:30AM</pubDate>
+            <description>Come funziona Google? 2021 Edition</description>
         </item>
         <item>
-            <title>Marco Montemagno - Perché Netflix (probabilmente) inserirà la pubblicità</title>
-            <link>https://www.youtube.com/watch?v=PzO0NhEbsjA</link>
-            <guid>https://www.youtube.com/watch?v=PzO0NhEbsjA</guid>
-            <pubDate>JUNE 26, 2021 AT 10:13AM</pubDate>
-            <description>Perché Netflix (probabilmente) inserirà la pubblicità</description>
+            <title>Matteo Flora - Giornalisti, Clown, Intrattenitori: cosa non sta funzionando nella informazione online...</title>
+            <link>https://www.youtube.com/watch?v=4Qx0xFWyM4g</link>
+            <guid>https://www.youtube.com/watch?v=4Qx0xFWyM4g</guid>
+            <pubDate>SEPTEMBER 16, 2021 AT 10:53AM</pubDate>
+            <description>Giornalisti, Clown, Intrattenitori: cosa non sta funzionando nella informazione online...</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - E-commerce: aumentare le conversioni da mobile con i test. 5 Chicche di UX</title>
+            <link>https://www.youtube.com/watch?v=2FZA1pEER9o</link>
+            <guid>https://www.youtube.com/watch?v=2FZA1pEER9o</guid>
+            <pubDate>MAY 25, 2021 AT 07:30AM</pubDate>
+            <description>E-commerce: aumentare le conversioni da mobile con i test. 5 Chicche di UX</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - A conversation with M. Night Shyamalan (Sixth Sense/Old/Unbreakable, Split...)</title>
+            <link>https://www.youtube.com/watch?v=j2zw6qsVBxY</link>
+            <guid>https://www.youtube.com/watch?v=j2zw6qsVBxY</guid>
+            <pubDate>JULY 21, 2021 AT 05:42PM</pubDate>
+            <description>A conversation with M. Night Shyamalan (Sixth Sense/Old/Unbreakable, Split...)</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - COME NON SBAGLIATE MAI UN REGALO #shorts</title>
+            <link>https://www.youtube.com/watch?v=nNeuIFxw860</link>
+            <guid>https://www.youtube.com/watch?v=nNeuIFxw860</guid>
+            <pubDate>AUGUST 28, 2021 AT 11:33AM</pubDate>
+            <description>COME NON SBAGLIATE MAI UN REGALO #shorts</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - CLUBHOUSE STA MORENDO! E STICAZZI?!</title>
+            <link>https://www.youtube.com/watch?v=bw69Mw8S28c</link>
+            <guid>https://www.youtube.com/watch?v=bw69Mw8S28c</guid>
+            <pubDate>JUNE 15, 2021 AT 08:00AM</pubDate>
+            <description>CLUBHOUSE STA MORENDO! E STICAZZI?!</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Monty Live</title>
+            <link>https://www.youtube.com/watch?v=QvcWipXeFRE</link>
+            <guid>https://www.youtube.com/watch?v=QvcWipXeFRE</guid>
+            <pubDate>SEPTEMBER 3, 2021 AT 03:46PM</pubDate>
+            <description>Monty Live</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - La semplicità è la cosa più facile da non capire</title>
+            <link>https://www.youtube.com/watch?v=zza_G-SlKU0</link>
+            <guid>https://www.youtube.com/watch?v=zza_G-SlKU0</guid>
+            <pubDate>AUGUST 29, 2021 AT 01:00PM</pubDate>
+            <description>La semplicità è la cosa più facile da non capire</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Il gruppo telegram no-greenpass BASTA CENSURA è stato bannato da Telegram. Cosa c&#39;è sotto?</title>
+            <link>https://www.youtube.com/watch?v=BM62cUtiKp4</link>
+            <guid>https://www.youtube.com/watch?v=BM62cUtiKp4</guid>
+            <pubDate>SEPTEMBER 28, 2021 AT 01:28PM</pubDate>
+            <description>Il gruppo telegram no-greenpass BASTA CENSURA è stato bannato da Telegram. Cosa c&#39;è sotto?</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - Sui social bisogna dire quello che si pensa?</title>
+            <link>https://www.youtube.com/watch?v=z5hSUktcuMc</link>
+            <guid>https://www.youtube.com/watch?v=z5hSUktcuMc</guid>
+            <pubDate>SEPTEMBER 28, 2021 AT 03:41PM</pubDate>
+            <description>Sui social bisogna dire quello che si pensa?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 5 curiosità che forse non sapevi sulle Olimpiadi 2021</title>
+            <link>https://www.youtube.com/watch?v=_88OlO2xCfs</link>
+            <guid>https://www.youtube.com/watch?v=_88OlO2xCfs</guid>
+            <pubDate>JULY 24, 2021 AT 04:04PM</pubDate>
+            <description>5 curiosità che forse non sapevi sulle Olimpiadi 2021</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Moby: how much does making music for passion or for work change? #shorts</title>
+            <link>https://www.youtube.com/watch?v=uyPN38jPAFA</link>
+            <guid>https://www.youtube.com/watch?v=uyPN38jPAFA</guid>
+            <pubDate>MAY 9, 2021 AT 11:02AM</pubDate>
+            <description>Moby: how much does making music for passion or for work change? #shorts</description>
         </item>
     </channel>
 </rss>
