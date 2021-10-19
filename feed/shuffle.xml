@@ -5,125 +5,97 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Mon, 18 Oct 2021 13:20:44 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 13:21:32 +0000</lastBuildDate>
         <item>
-            <title>Matteo Flora - [LIVE] - Ciao Internet SERALE in DIRETTA</title>
-            <link>https://www.youtube.com/watch?v=yc8KxlMb1s8</link>
-            <guid>https://www.youtube.com/watch?v=yc8KxlMb1s8</guid>
-            <pubDate>AUGUST 24, 2021 AT 12:43PM</pubDate>
-            <description>[LIVE] - Ciao Internet SERALE in DIRETTA</description>
+            <title>Rudy Bandiera - 3 mosse per risolvere problemi impossibili</title>
+            <link>https://www.youtube.com/watch?v=cqRbOjkHj_Q</link>
+            <guid>https://www.youtube.com/watch?v=cqRbOjkHj_Q</guid>
+            <pubDate>SEPTEMBER 15, 2021 AT 09:01AM</pubDate>
+            <description>3 mosse per risolvere problemi impossibili</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Sapete chi è l’italiano più seguito sui social?</title>
-            <link>https://www.youtube.com/watch?v=3NIMJ9mu20k</link>
-            <guid>https://www.youtube.com/watch?v=3NIMJ9mu20k</guid>
-            <pubDate>MAY 25, 2021 AT 09:09AM</pubDate>
-            <description>Sapete chi è l’italiano più seguito sui social?</description>
+            <title>Marco Montemagno - 7 avvertenze IMPORTANTI prima di metterti in proprio</title>
+            <link>https://www.youtube.com/watch?v=F_jL8bsaTBk</link>
+            <guid>https://www.youtube.com/watch?v=F_jL8bsaTBk</guid>
+            <pubDate>SEPTEMBER 30, 2021 AT 04:00PM</pubDate>
+            <description>7 avvertenze IMPORTANTI prima di metterti in proprio</description>
         </item>
         <item>
-            <title>Marco Montemagno - Lo sapevi che in realtà è possibile dire: &quot;non ne so abbastanza per avere una opinione&quot;- Feynman</title>
-            <link>https://www.youtube.com/watch?v=bSH180tfyLU</link>
-            <guid>https://www.youtube.com/watch?v=bSH180tfyLU</guid>
-            <pubDate>AUGUST 14, 2021 AT 01:00PM</pubDate>
-            <description>Lo sapevi che in realtà è possibile dire: &quot;non ne so abbastanza per avere una opinione&quot;- Feynman</description>
+            <title>Giorgio Taverniti - Il Workflow per sviluppare progetti con WordPress - Al Lavoro Con Enea Scerba</title>
+            <link>https://www.youtube.com/watch?v=u67SMYOF87k</link>
+            <guid>https://www.youtube.com/watch?v=u67SMYOF87k</guid>
+            <pubDate>MAY 4, 2021 AT 07:30AM</pubDate>
+            <description>Il Workflow per sviluppare progetti con WordPress - Al Lavoro Con Enea Scerba</description>
         </item>
         <item>
-            <title>Matteo Flora - Renzi, Mancini, Report e cosa non mi torna...</title>
-            <link>https://www.youtube.com/watch?v=BG--tVmBQu8</link>
-            <guid>https://www.youtube.com/watch?v=BG--tVmBQu8</guid>
-            <pubDate>MAY 9, 2021 AT 10:46AM</pubDate>
-            <description>Renzi, Mancini, Report e cosa non mi torna...</description>
+            <title>Marco Montemagno - 4 caratteristiche OVVIE di chi ottiene grandi risultati</title>
+            <link>https://www.youtube.com/watch?v=0oyO6Aanqhk</link>
+            <guid>https://www.youtube.com/watch?v=0oyO6Aanqhk</guid>
+            <pubDate>JUNE 8, 2021 AT 12:53PM</pubDate>
+            <description>4 caratteristiche OVVIE di chi ottiene grandi risultati</description>
         </item>
         <item>
-            <title>Marco Montemagno - È urgente!</title>
-            <link>https://www.youtube.com/watch?v=IzXbcyjlfIw</link>
-            <guid>https://www.youtube.com/watch?v=IzXbcyjlfIw</guid>
-            <pubDate>SEPTEMBER 13, 2021 AT 07:22PM</pubDate>
-            <description>È urgente!</description>
+            <title>Raffaele Gaito - 7 LIBRI CHE MI HANNO CAMBIATO LA VITA</title>
+            <link>https://www.youtube.com/watch?v=oDeYD6EZ2Qs</link>
+            <guid>https://www.youtube.com/watch?v=oDeYD6EZ2Qs</guid>
+            <pubDate>MAY 18, 2021 AT 08:00AM</pubDate>
+            <description>7 LIBRI CHE MI HANNO CAMBIATO LA VITA</description>
         </item>
         <item>
-            <title>Marco Montemagno - Intelligenza Artificiale...che succede?</title>
-            <link>https://www.youtube.com/watch?v=KunZGa1koR8</link>
-            <guid>https://www.youtube.com/watch?v=KunZGa1koR8</guid>
-            <pubDate>JUNE 23, 2021 AT 10:29PM</pubDate>
-            <description>Intelligenza Artificiale...che succede?</description>
+            <title>Raffaele Gaito - LA MALEDIZIONE DELLA CONOSCENZA (COS&#39;È E COME USCIRNE)</title>
+            <link>https://www.youtube.com/watch?v=hcJwTlEFPXI</link>
+            <guid>https://www.youtube.com/watch?v=hcJwTlEFPXI</guid>
+            <pubDate>JULY 20, 2021 AT 08:00AM</pubDate>
+            <description>LA MALEDIZIONE DELLA CONOSCENZA (COS&#39;È E COME USCIRNE)</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come essere felici? - Umberto Galimberti</title>
-            <link>https://www.youtube.com/watch?v=53OFBbuJi98</link>
-            <guid>https://www.youtube.com/watch?v=53OFBbuJi98</guid>
-            <pubDate>AUGUST 17, 2021 AT 01:00PM</pubDate>
-            <description>Come essere felici? - Umberto Galimberti</description>
+            <title>Giorgio Taverniti - Il Futuro delle piccole attività locali passa da Google</title>
+            <link>https://www.youtube.com/watch?v=uhLeOVUAx0U</link>
+            <guid>https://www.youtube.com/watch?v=uhLeOVUAx0U</guid>
+            <pubDate>JUNE 22, 2021 AT 07:30AM</pubDate>
+            <description>Il Futuro delle piccole attività locali passa da Google</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Diodato</title>
-            <link>https://www.youtube.com/watch?v=yAuJEdAsvuw</link>
-            <guid>https://www.youtube.com/watch?v=yAuJEdAsvuw</guid>
-            <pubDate>JUNE 3, 2021 AT 11:21AM</pubDate>
-            <description>4 chiacchiere con Diodato</description>
+            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Valerio De Molli, Ambrosetti</title>
+            <link>https://www.youtube.com/watch?v=aVEE8ls70nA</link>
+            <guid>https://www.youtube.com/watch?v=aVEE8ls70nA</guid>
+            <pubDate>SEPTEMBER 6, 2021 AT 06:01PM</pubDate>
+            <description>Cambiamento climatico, elettrificazione e dintorni con Valerio De Molli, Ambrosetti</description>
         </item>
         <item>
-            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Alberto De Paoli, Enel</title>
-            <link>https://www.youtube.com/watch?v=ry5YKko0WRU</link>
-            <guid>https://www.youtube.com/watch?v=ry5YKko0WRU</guid>
-            <pubDate>SEPTEMBER 9, 2021 AT 07:09PM</pubDate>
-            <description>Cambiamento climatico, elettrificazione e dintorni con Alberto De Paoli, Enel</description>
+            <title>Giorgio Taverniti - Google Sheets: script, componenti, API. Idee d&#39;uso INTERESSANTI</title>
+            <link>https://www.youtube.com/watch?v=jmZF_VRT2fA</link>
+            <guid>https://www.youtube.com/watch?v=jmZF_VRT2fA</guid>
+            <pubDate>MAY 10, 2021 AT 10:41AM</pubDate>
+            <description>Google Sheets: script, componenti, API. Idee d&#39;uso INTERESSANTI</description>
         </item>
         <item>
-            <title>Raffaele Gaito - QUAL È IL TUO PERCHÉ?!</title>
-            <link>https://www.youtube.com/watch?v=ZO20C81PxjM</link>
-            <guid>https://www.youtube.com/watch?v=ZO20C81PxjM</guid>
-            <pubDate>JUNE 2, 2021 AT 08:00AM</pubDate>
-            <description>QUAL È IL TUO PERCHÉ?!</description>
+            <title>Matteo Flora - [LIVE] - &quot;Il Diritto di Non-Opinione&quot;, Ciao Internet in DIRETTA 🔥</title>
+            <link>https://www.youtube.com/watch?v=bv49nggSmME</link>
+            <guid>https://www.youtube.com/watch?v=bv49nggSmME</guid>
+            <pubDate>MAY 9, 2021 AT 09:00AM</pubDate>
+            <description>[LIVE] - &quot;Il Diritto di Non-Opinione&quot;, Ciao Internet in DIRETTA 🔥</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Elisabetta Sgarbi</title>
-            <link>https://www.youtube.com/watch?v=zuC5MTlCB4M</link>
-            <guid>https://www.youtube.com/watch?v=zuC5MTlCB4M</guid>
-            <pubDate>JUNE 1, 2021 AT 11:55AM</pubDate>
-            <description>4 chiacchiere con Elisabetta Sgarbi</description>
+            <title>Rudy Bandiera - 4 dettagli che dicono moltissimo su di te</title>
+            <link>https://www.youtube.com/watch?v=qjMYvOg9SPY</link>
+            <guid>https://www.youtube.com/watch?v=qjMYvOg9SPY</guid>
+            <pubDate>JULY 13, 2021 AT 08:53AM</pubDate>
+            <description>4 dettagli che dicono moltissimo su di te</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Perché YouTube mi ha costretto a passare a Twitch</title>
-            <link>https://www.youtube.com/watch?v=H0apJ8TS6Co</link>
-            <guid>https://www.youtube.com/watch?v=H0apJ8TS6Co</guid>
-            <pubDate>JUNE 21, 2021 AT 07:30AM</pubDate>
-            <description>Perché YouTube mi ha costretto a passare a Twitch</description>
+            <title>Marco Montemagno - La mentalità e le abitudini di chi vince (4 caratteristiche ricorrenti)</title>
+            <link>https://www.youtube.com/watch?v=OEreHoeyjKM</link>
+            <guid>https://www.youtube.com/watch?v=OEreHoeyjKM</guid>
+            <pubDate>JUNE 21, 2021 AT 06:39PM</pubDate>
+            <description>La mentalità e le abitudini di chi vince (4 caratteristiche ricorrenti)</description>
         </item>
         <item>
-            <title>Matteo Flora - [LIVE] - Ciao Internet SERALE in DIRETTA - Questa non é una live su Luca Morisi</title>
-            <link>https://www.youtube.com/watch?v=PTXLgoaCEBU</link>
-            <guid>https://www.youtube.com/watch?v=PTXLgoaCEBU</guid>
-            <pubDate>SEPTEMBER 29, 2021 AT 01:44PM</pubDate>
-            <description>[LIVE] - Ciao Internet SERALE in DIRETTA - Questa non é una live su Luca Morisi</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Intelligenza artificiale, comprensione del linguaggio e dintorni</title>
-            <link>https://www.youtube.com/watch?v=sC0nAlfQUqU</link>
-            <guid>https://www.youtube.com/watch?v=sC0nAlfQUqU</guid>
-            <pubDate>JUNE 24, 2021 AT 10:54PM</pubDate>
-            <description>Intelligenza artificiale, comprensione del linguaggio e dintorni</description>
-        </item>
-        <item>
-            <title>Matteo Flora - [LIVE] L&#39;aperitivo di Ciao Internet1</title>
-            <link>https://www.youtube.com/watch?v=yZ3AFIlrUWo</link>
-            <guid>https://www.youtube.com/watch?v=yZ3AFIlrUWo</guid>
-            <pubDate>JULY 13, 2021 AT 10:05PM</pubDate>
-            <description>[LIVE] L&#39;aperitivo di Ciao Internet1</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - TIENI D&#39;OCCHIO LE ALTRE INDUSTRIE (FA LA DIFFERENZA)</title>
-            <link>https://www.youtube.com/watch?v=BLzzaKOpSK0</link>
-            <guid>https://www.youtube.com/watch?v=BLzzaKOpSK0</guid>
-            <pubDate>JULY 13, 2021 AT 08:00AM</pubDate>
-            <description>TIENI D&#39;OCCHIO LE ALTRE INDUSTRIE (FA LA DIFFERENZA)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - E i 3 video + visti della storia di YouTube sono...#shorts</title>
-            <link>https://www.youtube.com/watch?v=h4eN5j-_jlg</link>
-            <guid>https://www.youtube.com/watch?v=h4eN5j-_jlg</guid>
-            <pubDate>JULY 6, 2021 AT 08:56AM</pubDate>
-            <description>E i 3 video + visti della storia di YouTube sono...#shorts</description>
+            <title>Giorgio Taverniti - Analisi di due siti: Wedding Planner e Personal Branding tra Affiliazione Amazon e altro</title>
+            <link>https://www.youtube.com/watch?v=1yueBGh9fa0</link>
+            <guid>https://www.youtube.com/watch?v=1yueBGh9fa0</guid>
+            <pubDate>MAY 21, 2021 AT 07:30AM</pubDate>
+            <description>Analisi di due siti: Wedding Planner e Personal Branding tra Affiliazione Amazon e altro</description>
         </item>
         <item>
             <title>Marco Montemagno - Etsy acquista Depop per 1,6 miliardi di dollari.Congratulazioni a Simon Beckerman e a tutto il team!</title>
@@ -133,18 +105,46 @@
             <description>Etsy acquista Depop per 1,6 miliardi di dollari.Congratulazioni a Simon Beckerman e a tutto il team!</description>
         </item>
         <item>
-            <title>Marco Montemagno - Ragioni da dipendente o da imprenditore?</title>
-            <link>https://www.youtube.com/watch?v=6Ot_GKFNP1I</link>
-            <guid>https://www.youtube.com/watch?v=6Ot_GKFNP1I</guid>
-            <pubDate>SEPTEMBER 26, 2021 AT 02:00PM</pubDate>
-            <description>Ragioni da dipendente o da imprenditore?</description>
+            <title>Marco Montemagno - 4 chiacchiere con Gino D&#39;Acampo</title>
+            <link>https://www.youtube.com/watch?v=Sfl-pl_GTMU</link>
+            <guid>https://www.youtube.com/watch?v=Sfl-pl_GTMU</guid>
+            <pubDate>JULY 27, 2021 AT 04:46PM</pubDate>
+            <description>4 chiacchiere con Gino D&#39;Acampo</description>
         </item>
         <item>
-            <title>Marco Montemagno - Crypto: questo è quello che sta succedendo</title>
-            <link>https://www.youtube.com/watch?v=PXaaUDagtOI</link>
-            <guid>https://www.youtube.com/watch?v=PXaaUDagtOI</guid>
-            <pubDate>AUGUST 24, 2021 AT 01:10PM</pubDate>
-            <description>Crypto: questo è quello che sta succedendo</description>
+            <title>Marco Montemagno - Enrico Bertolino sta per arrivare su Competenze con il corso &quot;Capitalizzare il potere dell&#39;ironia&quot;</title>
+            <link>https://www.youtube.com/watch?v=FS4eps3Ztyo</link>
+            <guid>https://www.youtube.com/watch?v=FS4eps3Ztyo</guid>
+            <pubDate>MAY 12, 2021 AT 12:45PM</pubDate>
+            <description>Enrico Bertolino sta per arrivare su Competenze con il corso &quot;Capitalizzare il potere dell&#39;ironia&quot;</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - VENDERE SIGNIFICA ANTICIPARE OBIEZIONI</title>
+            <link>https://www.youtube.com/watch?v=CBTIXqxaJeo</link>
+            <guid>https://www.youtube.com/watch?v=CBTIXqxaJeo</guid>
+            <pubDate>JULY 6, 2021 AT 08:00AM</pubDate>
+            <description>VENDERE SIGNIFICA ANTICIPARE OBIEZIONI</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Su Competenze.com arriva Arturo Brachetti</title>
+            <link>https://www.youtube.com/watch?v=NdLL2nBJ24o</link>
+            <guid>https://www.youtube.com/watch?v=NdLL2nBJ24o</guid>
+            <pubDate>JUNE 7, 2021 AT 05:44PM</pubDate>
+            <description>Su Competenze.com arriva Arturo Brachetti</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - E i 3 video + visti della storia di YouTube sono...#shorts</title>
+            <link>https://www.youtube.com/watch?v=h4eN5j-_jlg</link>
+            <guid>https://www.youtube.com/watch?v=h4eN5j-_jlg</guid>
+            <pubDate>JULY 6, 2021 AT 08:56AM</pubDate>
+            <description>E i 3 video + visti della storia di YouTube sono...#shorts</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Basta che canticchi (anche male) e Google indovina la canzone?</title>
+            <link>https://www.youtube.com/watch?v=7txcJW59sHg</link>
+            <guid>https://www.youtube.com/watch?v=7txcJW59sHg</guid>
+            <pubDate>JULY 4, 2021 AT 03:07PM</pubDate>
+            <description>Basta che canticchi (anche male) e Google indovina la canzone?</description>
         </item>
     </channel>
 </rss>
