@@ -5,126 +5,7 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Tue, 19 Oct 2021 13:21:32 +0000</lastBuildDate>
-        <item>
-            <title>Rudy Bandiera - 3 mosse per risolvere problemi impossibili</title>
-            <link>https://www.youtube.com/watch?v=cqRbOjkHj_Q</link>
-            <guid>https://www.youtube.com/watch?v=cqRbOjkHj_Q</guid>
-            <pubDate>SEPTEMBER 15, 2021 AT 09:01AM</pubDate>
-            <description>3 mosse per risolvere problemi impossibili</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 7 avvertenze IMPORTANTI prima di metterti in proprio</title>
-            <link>https://www.youtube.com/watch?v=F_jL8bsaTBk</link>
-            <guid>https://www.youtube.com/watch?v=F_jL8bsaTBk</guid>
-            <pubDate>SEPTEMBER 30, 2021 AT 04:00PM</pubDate>
-            <description>7 avvertenze IMPORTANTI prima di metterti in proprio</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - Il Workflow per sviluppare progetti con WordPress - Al Lavoro Con Enea Scerba</title>
-            <link>https://www.youtube.com/watch?v=u67SMYOF87k</link>
-            <guid>https://www.youtube.com/watch?v=u67SMYOF87k</guid>
-            <pubDate>MAY 4, 2021 AT 07:30AM</pubDate>
-            <description>Il Workflow per sviluppare progetti con WordPress - Al Lavoro Con Enea Scerba</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 caratteristiche OVVIE di chi ottiene grandi risultati</title>
-            <link>https://www.youtube.com/watch?v=0oyO6Aanqhk</link>
-            <guid>https://www.youtube.com/watch?v=0oyO6Aanqhk</guid>
-            <pubDate>JUNE 8, 2021 AT 12:53PM</pubDate>
-            <description>4 caratteristiche OVVIE di chi ottiene grandi risultati</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - 7 LIBRI CHE MI HANNO CAMBIATO LA VITA</title>
-            <link>https://www.youtube.com/watch?v=oDeYD6EZ2Qs</link>
-            <guid>https://www.youtube.com/watch?v=oDeYD6EZ2Qs</guid>
-            <pubDate>MAY 18, 2021 AT 08:00AM</pubDate>
-            <description>7 LIBRI CHE MI HANNO CAMBIATO LA VITA</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - LA MALEDIZIONE DELLA CONOSCENZA (COS&#39;È E COME USCIRNE)</title>
-            <link>https://www.youtube.com/watch?v=hcJwTlEFPXI</link>
-            <guid>https://www.youtube.com/watch?v=hcJwTlEFPXI</guid>
-            <pubDate>JULY 20, 2021 AT 08:00AM</pubDate>
-            <description>LA MALEDIZIONE DELLA CONOSCENZA (COS&#39;È E COME USCIRNE)</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - Il Futuro delle piccole attività locali passa da Google</title>
-            <link>https://www.youtube.com/watch?v=uhLeOVUAx0U</link>
-            <guid>https://www.youtube.com/watch?v=uhLeOVUAx0U</guid>
-            <pubDate>JUNE 22, 2021 AT 07:30AM</pubDate>
-            <description>Il Futuro delle piccole attività locali passa da Google</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Valerio De Molli, Ambrosetti</title>
-            <link>https://www.youtube.com/watch?v=aVEE8ls70nA</link>
-            <guid>https://www.youtube.com/watch?v=aVEE8ls70nA</guid>
-            <pubDate>SEPTEMBER 6, 2021 AT 06:01PM</pubDate>
-            <description>Cambiamento climatico, elettrificazione e dintorni con Valerio De Molli, Ambrosetti</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - Google Sheets: script, componenti, API. Idee d&#39;uso INTERESSANTI</title>
-            <link>https://www.youtube.com/watch?v=jmZF_VRT2fA</link>
-            <guid>https://www.youtube.com/watch?v=jmZF_VRT2fA</guid>
-            <pubDate>MAY 10, 2021 AT 10:41AM</pubDate>
-            <description>Google Sheets: script, componenti, API. Idee d&#39;uso INTERESSANTI</description>
-        </item>
-        <item>
-            <title>Matteo Flora - [LIVE] - &quot;Il Diritto di Non-Opinione&quot;, Ciao Internet in DIRETTA 🔥</title>
-            <link>https://www.youtube.com/watch?v=bv49nggSmME</link>
-            <guid>https://www.youtube.com/watch?v=bv49nggSmME</guid>
-            <pubDate>MAY 9, 2021 AT 09:00AM</pubDate>
-            <description>[LIVE] - &quot;Il Diritto di Non-Opinione&quot;, Ciao Internet in DIRETTA 🔥</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - 4 dettagli che dicono moltissimo su di te</title>
-            <link>https://www.youtube.com/watch?v=qjMYvOg9SPY</link>
-            <guid>https://www.youtube.com/watch?v=qjMYvOg9SPY</guid>
-            <pubDate>JULY 13, 2021 AT 08:53AM</pubDate>
-            <description>4 dettagli che dicono moltissimo su di te</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - La mentalità e le abitudini di chi vince (4 caratteristiche ricorrenti)</title>
-            <link>https://www.youtube.com/watch?v=OEreHoeyjKM</link>
-            <guid>https://www.youtube.com/watch?v=OEreHoeyjKM</guid>
-            <pubDate>JUNE 21, 2021 AT 06:39PM</pubDate>
-            <description>La mentalità e le abitudini di chi vince (4 caratteristiche ricorrenti)</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - Analisi di due siti: Wedding Planner e Personal Branding tra Affiliazione Amazon e altro</title>
-            <link>https://www.youtube.com/watch?v=1yueBGh9fa0</link>
-            <guid>https://www.youtube.com/watch?v=1yueBGh9fa0</guid>
-            <pubDate>MAY 21, 2021 AT 07:30AM</pubDate>
-            <description>Analisi di due siti: Wedding Planner e Personal Branding tra Affiliazione Amazon e altro</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Etsy acquista Depop per 1,6 miliardi di dollari.Congratulazioni a Simon Beckerman e a tutto il team!</title>
-            <link>https://www.youtube.com/watch?v=ehwBCRA0vvE</link>
-            <guid>https://www.youtube.com/watch?v=ehwBCRA0vvE</guid>
-            <pubDate>JUNE 2, 2021 AT 02:00PM</pubDate>
-            <description>Etsy acquista Depop per 1,6 miliardi di dollari.Congratulazioni a Simon Beckerman e a tutto il team!</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con Gino D&#39;Acampo</title>
-            <link>https://www.youtube.com/watch?v=Sfl-pl_GTMU</link>
-            <guid>https://www.youtube.com/watch?v=Sfl-pl_GTMU</guid>
-            <pubDate>JULY 27, 2021 AT 04:46PM</pubDate>
-            <description>4 chiacchiere con Gino D&#39;Acampo</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Enrico Bertolino sta per arrivare su Competenze con il corso &quot;Capitalizzare il potere dell&#39;ironia&quot;</title>
-            <link>https://www.youtube.com/watch?v=FS4eps3Ztyo</link>
-            <guid>https://www.youtube.com/watch?v=FS4eps3Ztyo</guid>
-            <pubDate>MAY 12, 2021 AT 12:45PM</pubDate>
-            <description>Enrico Bertolino sta per arrivare su Competenze con il corso &quot;Capitalizzare il potere dell&#39;ironia&quot;</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - VENDERE SIGNIFICA ANTICIPARE OBIEZIONI</title>
-            <link>https://www.youtube.com/watch?v=CBTIXqxaJeo</link>
-            <guid>https://www.youtube.com/watch?v=CBTIXqxaJeo</guid>
-            <pubDate>JULY 6, 2021 AT 08:00AM</pubDate>
-            <description>VENDERE SIGNIFICA ANTICIPARE OBIEZIONI</description>
-        </item>
+        <lastBuildDate>Wed, 20 Oct 2021 13:22:08 +0000</lastBuildDate>
         <item>
             <title>Marco Montemagno - Su Competenze.com arriva Arturo Brachetti</title>
             <link>https://www.youtube.com/watch?v=NdLL2nBJ24o</link>
@@ -133,18 +14,137 @@
             <description>Su Competenze.com arriva Arturo Brachetti</description>
         </item>
         <item>
-            <title>Marco Montemagno - E i 3 video + visti della storia di YouTube sono...#shorts</title>
-            <link>https://www.youtube.com/watch?v=h4eN5j-_jlg</link>
-            <guid>https://www.youtube.com/watch?v=h4eN5j-_jlg</guid>
-            <pubDate>JULY 6, 2021 AT 08:56AM</pubDate>
-            <description>E i 3 video + visti della storia di YouTube sono...#shorts</description>
+            <title>Matteo Flora - [LIVE] Quattro chiacchiere nel vostro Sabato Sera</title>
+            <link>https://www.youtube.com/watch?v=Cl6J-leRCrE</link>
+            <guid>https://www.youtube.com/watch?v=Cl6J-leRCrE</guid>
+            <pubDate>MAY 8, 2021 AT 10:28PM</pubDate>
+            <description>[LIVE] Quattro chiacchiere nel vostro Sabato Sera</description>
         </item>
         <item>
-            <title>Marco Montemagno - Basta che canticchi (anche male) e Google indovina la canzone?</title>
-            <link>https://www.youtube.com/watch?v=7txcJW59sHg</link>
-            <guid>https://www.youtube.com/watch?v=7txcJW59sHg</guid>
-            <pubDate>JULY 4, 2021 AT 03:07PM</pubDate>
-            <description>Basta che canticchi (anche male) e Google indovina la canzone?</description>
+            <title>Giorgio Taverniti - Instagram: come funzionano gli algoritmi dei Reel, Esplora, Feed e Stories!</title>
+            <link>https://www.youtube.com/watch?v=3trkEyOpeZ4</link>
+            <guid>https://www.youtube.com/watch?v=3trkEyOpeZ4</guid>
+            <pubDate>JUNE 14, 2021 AT 07:30AM</pubDate>
+            <description>Instagram: come funzionano gli algoritmi dei Reel, Esplora, Feed e Stories!</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Hai un cane, un gatto...Monica Pais su Competenze.it</title>
+            <link>https://www.youtube.com/watch?v=bmb7cm81r3Q</link>
+            <guid>https://www.youtube.com/watch?v=bmb7cm81r3Q</guid>
+            <pubDate>JULY 12, 2021 AT 12:32PM</pubDate>
+            <description>Hai un cane, un gatto...Monica Pais su Competenze.it</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Prodotti e marketing: quante volte ci caschiamo? Ne avevo parlato con Beatrice Mautino</title>
+            <link>https://www.youtube.com/watch?v=eVvZXmxUxNo</link>
+            <guid>https://www.youtube.com/watch?v=eVvZXmxUxNo</guid>
+            <pubDate>SEPTEMBER 19, 2021 AT 02:00PM</pubDate>
+            <description>Prodotti e marketing: quante volte ci caschiamo? Ne avevo parlato con Beatrice Mautino</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - La vita costa sempre di più...</title>
+            <link>https://www.youtube.com/watch?v=5oCCrYpd-HM</link>
+            <guid>https://www.youtube.com/watch?v=5oCCrYpd-HM</guid>
+            <pubDate>JULY 29, 2021 AT 12:00PM</pubDate>
+            <description>La vita costa sempre di più...</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - La Vittoria dei Måneskin - W&amp;L Maggio 2021</title>
+            <link>https://www.youtube.com/watch?v=44KV4eTObSQ</link>
+            <guid>https://www.youtube.com/watch?v=44KV4eTObSQ</guid>
+            <pubDate>JUNE 10, 2021 AT 07:30AM</pubDate>
+            <description>La Vittoria dei Måneskin - W&amp;L Maggio 2021</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Enrico Casarosa (Regista di &quot;Luca&quot;, Pixar)</title>
+            <link>https://www.youtube.com/watch?v=3cp8IeLINRU</link>
+            <guid>https://www.youtube.com/watch?v=3cp8IeLINRU</guid>
+            <pubDate>JULY 1, 2021 AT 05:17PM</pubDate>
+            <description>4 chiacchiere con Enrico Casarosa (Regista di &quot;Luca&quot;, Pixar)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - David di Donatello 2021, Matilda De Angelis migliore attrice non protagonista. Grandissima!</title>
+            <link>https://www.youtube.com/watch?v=y5Sd4FuY-0M</link>
+            <guid>https://www.youtube.com/watch?v=y5Sd4FuY-0M</guid>
+            <pubDate>MAY 12, 2021 AT 04:15PM</pubDate>
+            <description>David di Donatello 2021, Matilda De Angelis migliore attrice non protagonista. Grandissima!</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Surf e dintorni - 4 chiacchiere con Edoardo Papa</title>
+            <link>https://www.youtube.com/watch?v=tECN8BieqSk</link>
+            <guid>https://www.youtube.com/watch?v=tECN8BieqSk</guid>
+            <pubDate>JUNE 14, 2021 AT 01:23PM</pubDate>
+            <description>Surf e dintorni - 4 chiacchiere con Edoardo Papa</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Perché chi è incapace crede di essere un fenomeno</title>
+            <link>https://www.youtube.com/watch?v=x0nUaKKWx4A</link>
+            <guid>https://www.youtube.com/watch?v=x0nUaKKWx4A</guid>
+            <pubDate>OCTOBER 4, 2021 AT 01:40PM</pubDate>
+            <description>Perché chi è incapace crede di essere un fenomeno</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - IMPRESE ITALIANE E DIGITALIZZAZIONE, COME SIAMO MESSI?!</title>
+            <link>https://www.youtube.com/watch?v=SGs4LsPVkV8</link>
+            <guid>https://www.youtube.com/watch?v=SGs4LsPVkV8</guid>
+            <pubDate>JULY 30, 2021 AT 08:00AM</pubDate>
+            <description>IMPRESE ITALIANE E DIGITALIZZAZIONE, COME SIAMO MESSI?!</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Intelligenza artificiale, comprensione del linguaggio e dintorni</title>
+            <link>https://www.youtube.com/watch?v=sC0nAlfQUqU</link>
+            <guid>https://www.youtube.com/watch?v=sC0nAlfQUqU</guid>
+            <pubDate>JUNE 24, 2021 AT 10:54PM</pubDate>
+            <description>Intelligenza artificiale, comprensione del linguaggio e dintorni</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Ti stai sabotando?</title>
+            <link>https://www.youtube.com/watch?v=5irXCLi6FJ4</link>
+            <guid>https://www.youtube.com/watch?v=5irXCLi6FJ4</guid>
+            <pubDate>SEPTEMBER 15, 2021 AT 02:11PM</pubDate>
+            <description>Ti stai sabotando?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Human Safari, in 6 minuti</title>
+            <link>https://www.youtube.com/watch?v=_bD3UN7rADc</link>
+            <guid>https://www.youtube.com/watch?v=_bD3UN7rADc</guid>
+            <pubDate>SEPTEMBER 1, 2021 AT 07:58PM</pubDate>
+            <description>Human Safari, in 6 minuti</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - ANSIA DA PRESTAZIONE: COME SUPERARLA</title>
+            <link>https://www.youtube.com/watch?v=0tNBIvO5mX8</link>
+            <guid>https://www.youtube.com/watch?v=0tNBIvO5mX8</guid>
+            <pubDate>JUNE 29, 2021 AT 08:00AM</pubDate>
+            <description>ANSIA DA PRESTAZIONE: COME SUPERARLA</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Generazione Z - 4 chiacchiere con Daniele Grassucci (Skuola.net)</title>
+            <link>https://www.youtube.com/watch?v=ros26tp7CAU</link>
+            <guid>https://www.youtube.com/watch?v=ros26tp7CAU</guid>
+            <pubDate>MAY 13, 2021 AT 12:34PM</pubDate>
+            <description>Generazione Z - 4 chiacchiere con Daniele Grassucci (Skuola.net)</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - AUMENTARE VENDITE ECOMMERCE (9 CANALI DA USARE)</title>
+            <link>https://www.youtube.com/watch?v=5SMYPYDCkXg</link>
+            <guid>https://www.youtube.com/watch?v=5SMYPYDCkXg</guid>
+            <pubDate>JUNE 8, 2021 AT 08:00AM</pubDate>
+            <description>AUMENTARE VENDITE ECOMMERCE (9 CANALI DA USARE)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - I Social ... GRAVEMENTE alla ...?</title>
+            <link>https://www.youtube.com/watch?v=e2UiZNgdA9A</link>
+            <guid>https://www.youtube.com/watch?v=e2UiZNgdA9A</guid>
+            <pubDate>SEPTEMBER 16, 2021 AT 04:39PM</pubDate>
+            <description>I Social ... GRAVEMENTE alla ...?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - L&#39;intelligenza Artificiale sta aumentando la competitività aziendale</title>
+            <link>https://www.youtube.com/watch?v=qRpl-Q6a9x4</link>
+            <guid>https://www.youtube.com/watch?v=qRpl-Q6a9x4</guid>
+            <pubDate>JUNE 22, 2021 AT 10:36PM</pubDate>
+            <description>L&#39;intelligenza Artificiale sta aumentando la competitività aziendale</description>
         </item>
     </channel>
 </rss>
