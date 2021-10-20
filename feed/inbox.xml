@@ -5,27 +5,20 @@
         <description>Tutte le novità in tempo reale dei tech opinion leader italiani</description>
         <link>https://techfeed.ml/feed/inbox.xml</link>
         <managingEditor>bianco@javanile.org (Francesco Bianco)</managingEditor>
-        <lastBuildDate>Tue, 19 Oct 2021 23:52:26 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 01:07:21 +0000</lastBuildDate>
+        <item>
+            <title>Rudy Bandiera - Black Friday: dati e previsioni</title>
+            <link>https://www.youtube.com/watch?v=bRrpCe6zi_o</link>
+            <guid>https://www.youtube.com/watch?v=bRrpCe6zi_o</guid>
+            <pubDate>OCTOBER 20, 2021 AT 01:12AM</pubDate>
+            <description>Black Friday: dati e previsioni</description>
+        </item>
         <item>
             <title>Marco Montemagno - Bitcoin: perché non puoi non conoscere Michael Saylor</title>
             <link>https://www.youtube.com/watch?v=gMqtPe5kYls</link>
             <guid>https://www.youtube.com/watch?v=gMqtPe5kYls</guid>
             <pubDate>OCTOBER 19, 2021 AT 02:00PM</pubDate>
             <description>Bitcoin: perché non puoi non conoscere Michael Saylor</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - All&#39;inizio fai schifo (e va bene così)</title>
-            <link>https://www.youtube.com/watch?v=ynyNuLKJzHk</link>
-            <guid>https://www.youtube.com/watch?v=ynyNuLKJzHk</guid>
-            <pubDate>OCTOBER 18, 2021 AT 01:00PM</pubDate>
-            <description>All&#39;inizio fai schifo (e va bene così)</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Privacy vs Salute: è davvero una antitesi?</title>
-            <link>https://www.youtube.com/watch?v=DmsGD0VvMFg</link>
-            <guid>https://www.youtube.com/watch?v=DmsGD0VvMFg</guid>
-            <pubDate>OCTOBER 18, 2021 AT 07:45AM</pubDate>
-            <description>Privacy vs Salute: è davvero una antitesi?</description>
         </item>
     </channel>
 </rss>
