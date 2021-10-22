@@ -5,132 +5,76 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Thu, 21 Oct 2021 13:22:25 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 13:22:40 +0000</lastBuildDate>
         <item>
-            <title>Raffaele Gaito - UN'ESPERIENZA UNICA DI FORMAZIONE: GROWTH PROGRAM</title>
-            <link>https://www.youtube.com/watch?v=sgy6Zqylna8</link>
-            <guid>https://www.youtube.com/watch?v=sgy6Zqylna8</guid>
-            <pubDate>FEBRUARY 17, 2021 AT 08:00AM</pubDate>
-            <description>UN'ESPERIENZA UNICA DI FORMAZIONE: GROWTH PROGRAM</description>
+            <title>Marco Montemagno - 4 chiacchiere con lo Chef Mauro Colagreco (&quot;miglior ristorante al mondo&quot;)</title>
+            <link>https://www.youtube.com/watch?v=gMB3ofzVufo</link>
+            <guid>https://www.youtube.com/watch?v=gMB3ofzVufo</guid>
+            <pubDate>JULY 1, 2021 AT 05:13PM</pubDate>
+            <description>4 chiacchiere con lo Chef Mauro Colagreco (&quot;miglior ristorante al mondo&quot;)</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Google è l&#39;e-commerce del Mondo: il login dei brand in SERP!</title>
-            <link>https://www.youtube.com/watch?v=vg0rgjRMgX0</link>
-            <guid>https://www.youtube.com/watch?v=vg0rgjRMgX0</guid>
-            <pubDate>JUNE 1, 2021 AT 07:30AM</pubDate>
-            <description>Google è l&#39;e-commerce del Mondo: il login dei brand in SERP!</description>
+            <title>Marco Montemagno - Oooops in arrivo i Negozi/Supermercati di Amazon...</title>
+            <link>https://www.youtube.com/watch?v=-X6_oTFENJ0</link>
+            <guid>https://www.youtube.com/watch?v=-X6_oTFENJ0</guid>
+            <pubDate>AUGUST 20, 2021 AT 05:42PM</pubDate>
+            <description>Oooops in arrivo i Negozi/Supermercati di Amazon...</description>
         </item>
         <item>
-            <title>Matteo Flora - [LIVE] L&#39;aperitivo di Ciao Internet1</title>
-            <link>https://www.youtube.com/watch?v=yZ3AFIlrUWo</link>
-            <guid>https://www.youtube.com/watch?v=yZ3AFIlrUWo</guid>
-            <pubDate>AUGUST 27, 2021 AT 09:38PM</pubDate>
-            <description>[LIVE] L&#39;aperitivo di Ciao Internet1</description>
+            <title>Giorgio Taverniti - La più grande opportunità per chi fa SEO oggi</title>
+            <link>https://www.youtube.com/watch?v=HyPZwSK48fo</link>
+            <guid>https://www.youtube.com/watch?v=HyPZwSK48fo</guid>
+            <pubDate>JULY 7, 2021 AT 07:30AM</pubDate>
+            <description>La più grande opportunità per chi fa SEO oggi</description>
         </item>
         <item>
-            <title>Raffaele Gaito - COME DIFFERENZIARSI DALLA CONCORRENZA (E NON SOLO)</title>
-            <link>https://www.youtube.com/watch?v=0-SbdkcHFGA</link>
-            <guid>https://www.youtube.com/watch?v=0-SbdkcHFGA</guid>
-            <pubDate>AUGUST 3, 2021 AT 08:00AM</pubDate>
-            <description>COME DIFFERENZIARSI DALLA CONCORRENZA (E NON SOLO)</description>
+            <title>Marco Montemagno - Intelligenza Artificiale e Sanità: a che punto siamo?</title>
+            <link>https://www.youtube.com/watch?v=S-50DuXwW9o</link>
+            <guid>https://www.youtube.com/watch?v=S-50DuXwW9o</guid>
+            <pubDate>JUNE 20, 2021 AT 11:46PM</pubDate>
+            <description>Intelligenza Artificiale e Sanità: a che punto siamo?</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Black Friday: dati e previsioni</title>
-            <link>https://www.youtube.com/watch?v=bRrpCe6zi_o</link>
-            <guid>https://www.youtube.com/watch?v=bRrpCe6zi_o</guid>
-            <pubDate>OCTOBER 20, 2021 AT 01:12AM</pubDate>
-            <description>Black Friday: dati e previsioni</description>
+            <title>Matteo Flora - 1:30 di update veloce su dove sono :)</title>
+            <link>https://www.youtube.com/watch?v=-oU50CXUq4M</link>
+            <guid>https://www.youtube.com/watch?v=-oU50CXUq4M</guid>
+            <pubDate>JUNE 20, 2021 AT 12:12PM</pubDate>
+            <description>1:30 di update veloce su dove sono :)</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Meglio essere governati dai politici o dall&#39;intelligenza artificiale?</title>
-            <link>https://www.youtube.com/watch?v=8AEZLzOq0j0</link>
-            <guid>https://www.youtube.com/watch?v=8AEZLzOq0j0</guid>
-            <pubDate>JUNE 11, 2021 AT 08:45AM</pubDate>
-            <description>Meglio essere governati dai politici o dall&#39;intelligenza artificiale?</description>
+            <title>Marco Montemagno - Se dura più di 1 minuto non è un vocale...è un audiolibro!</title>
+            <link>https://www.youtube.com/watch?v=YvpeDG3bfio</link>
+            <guid>https://www.youtube.com/watch?v=YvpeDG3bfio</guid>
+            <pubDate>SEPTEMBER 29, 2021 AT 01:31PM</pubDate>
+            <description>Se dura più di 1 minuto non è un vocale...è un audiolibro!</description>
         </item>
         <item>
-            <title>Marco Montemagno - Le scelte che fai sono DAVVERO le tue scelte?</title>
-            <link>https://www.youtube.com/watch?v=JqGtPD8uKxw</link>
-            <guid>https://www.youtube.com/watch?v=JqGtPD8uKxw</guid>
-            <pubDate>OCTOBER 2, 2021 AT 01:00PM</pubDate>
-            <description>Le scelte che fai sono DAVVERO le tue scelte?</description>
+            <title>Raffaele Gaito - Gaito risponde LIVE</title>
+            <link>https://www.youtube.com/watch?v=czpUVXmULIk</link>
+            <guid>https://www.youtube.com/watch?v=czpUVXmULIk</guid>
+            <pubDate>JUNE 28, 2021 AT 07:02PM</pubDate>
+            <description>Gaito risponde LIVE</description>
         </item>
         <item>
-            <title>Raffaele Gaito - LA HUSTLE CULTURE HA ROTTO LE PA**E</title>
-            <link>https://www.youtube.com/watch?v=__cBMmSPfDE</link>
-            <guid>https://www.youtube.com/watch?v=__cBMmSPfDE</guid>
-            <pubDate>APRIL 30, 2021 AT 08:00AM</pubDate>
-            <description>LA HUSTLE CULTURE HA ROTTO LE PA**E</description>
+            <title>Matteo Flora - Il &quot;lavoro in nero di sinistra&quot; e la crisi reputazionale di Roberto Angelini</title>
+            <link>https://www.youtube.com/watch?v=aeCpHyVxGH4</link>
+            <guid>https://www.youtube.com/watch?v=aeCpHyVxGH4</guid>
+            <pubDate>MAY 18, 2021 AT 11:33AM</pubDate>
+            <description>Il &quot;lavoro in nero di sinistra&quot; e la crisi reputazionale di Roberto Angelini</description>
         </item>
         <item>
-            <title>Matteo Flora - CROWDFUNDING: cosa è, come funziona e cosa devi sapere per iniziare!</title>
-            <link>https://www.youtube.com/watch?v=V3DgJ6mRXEM</link>
-            <guid>https://www.youtube.com/watch?v=V3DgJ6mRXEM</guid>
-            <pubDate>OCTOBER 7, 2021 AT 06:15PM</pubDate>
-            <description>CROWDFUNDING: cosa è, come funziona e cosa devi sapere per iniziare!</description>
+            <title>Marco Montemagno - La semplicità è la cosa più facile da non capire</title>
+            <link>https://www.youtube.com/watch?v=zza_G-SlKU0</link>
+            <guid>https://www.youtube.com/watch?v=zza_G-SlKU0</guid>
+            <pubDate>AUGUST 29, 2021 AT 01:00PM</pubDate>
+            <description>La semplicità è la cosa più facile da non capire</description>
         </item>
         <item>
-            <title>Rudy Bandiera - I videogiochi sono beni culturali: firmato il tax credit del 25% #in2minuti</title>
-            <link>https://www.youtube.com/watch?v=zXSaX4byLJg</link>
-            <guid>https://www.youtube.com/watch?v=zXSaX4byLJg</guid>
-            <pubDate>MAY 17, 2021 AT 05:33PM</pubDate>
-            <description>I videogiochi sono beni culturali: firmato il tax credit del 25% #in2minuti</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - 3 mosse per risolvere problemi impossibili</title>
-            <link>https://www.youtube.com/watch?v=cqRbOjkHj_Q</link>
-            <guid>https://www.youtube.com/watch?v=cqRbOjkHj_Q</guid>
-            <pubDate>SEPTEMBER 15, 2021 AT 09:01AM</pubDate>
-            <description>3 mosse per risolvere problemi impossibili</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - &quot;Copia&quot; questa strategia: 5 tecniche per migliorare i tuoi contenuti</title>
-            <link>https://www.youtube.com/watch?v=CfZ1FKzQjFE</link>
-            <guid>https://www.youtube.com/watch?v=CfZ1FKzQjFE</guid>
-            <pubDate>AUGUST 9, 2021 AT 03:29PM</pubDate>
-            <description>&quot;Copia&quot; questa strategia: 5 tecniche per migliorare i tuoi contenuti</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Food Talks Mixology con Agostino Perrone e Giorgio Bargiani</title>
-            <link>https://www.youtube.com/watch?v=mT6FawwWqrw</link>
-            <guid>https://www.youtube.com/watch?v=mT6FawwWqrw</guid>
-            <pubDate>MAY 21, 2021 AT 11:04AM</pubDate>
-            <description>Food Talks Mixology con Agostino Perrone e Giorgio Bargiani</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con Caparezza</title>
-            <link>https://www.youtube.com/watch?v=NOinzKgD9N4</link>
-            <guid>https://www.youtube.com/watch?v=NOinzKgD9N4</guid>
-            <pubDate>MAY 25, 2021 AT 12:35PM</pubDate>
-            <description>4 chiacchiere con Caparezza</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - R101 a casa di Monty..</title>
-            <link>https://www.youtube.com/watch?v=AKxraPUIlgc</link>
-            <guid>https://www.youtube.com/watch?v=AKxraPUIlgc</guid>
-            <pubDate>JUNE 15, 2021 AT 01:41PM</pubDate>
-            <description>R101 a casa di Monty..</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Hai un cane, un gatto...Monica Pais su Competenze.it</title>
-            <link>https://www.youtube.com/watch?v=bmb7cm81r3Q</link>
-            <guid>https://www.youtube.com/watch?v=bmb7cm81r3Q</guid>
-            <pubDate>JULY 12, 2021 AT 12:32PM</pubDate>
-            <description>Hai un cane, un gatto...Monica Pais su Competenze.it</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Barbara Palombelli ed il DISASTRO delle (non) scuse...</title>
-            <link>https://www.youtube.com/watch?v=Mg57Uj58LrY</link>
-            <guid>https://www.youtube.com/watch?v=Mg57Uj58LrY</guid>
-            <pubDate>SEPTEMBER 22, 2021 AT 11:28AM</pubDate>
-            <description>Barbara Palombelli ed il DISASTRO delle (non) scuse...</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Intelligenza artificiale e business</title>
-            <link>https://www.youtube.com/watch?v=TnQTorpw2dA</link>
-            <guid>https://www.youtube.com/watch?v=TnQTorpw2dA</guid>
-            <pubDate>JUNE 22, 2021 AT 08:47AM</pubDate>
-            <description>Intelligenza artificiale e business</description>
+            <title>Marco Montemagno - 10 Frasi per convincere qualsiasi persona</title>
+            <link>https://www.youtube.com/watch?v=G6Xfj_4yqZM</link>
+            <guid>https://www.youtube.com/watch?v=G6Xfj_4yqZM</guid>
+            <pubDate>JUNE 4, 2021 AT 05:00PM</pubDate>
+            <description>10 Frasi per convincere qualsiasi persona</description>
         </item>
         <item>
             <title>Raffaele Gaito - STAGING PER WORDPRESS (E NON SOLO) SENZA PLUGIN</title>
@@ -140,11 +84,67 @@
             <description>STAGING PER WORDPRESS (E NON SOLO) SENZA PLUGIN</description>
         </item>
         <item>
-            <title>Marco Montemagno - La vedova nera fa causa a Disney: per quanti $$$ e perchè è importante</title>
-            <link>https://www.youtube.com/watch?v=TzyE-hLp4nE</link>
-            <guid>https://www.youtube.com/watch?v=TzyE-hLp4nE</guid>
-            <pubDate>AUGUST 5, 2021 AT 03:37PM</pubDate>
-            <description>La vedova nera fa causa a Disney: per quanti $$$ e perchè è importante</description>
+            <title>Marco Montemagno - Ristorazione: come uscire dalla crisi? Con Martino de Rosa (Carmen)</title>
+            <link>https://www.youtube.com/watch?v=8FGM1Rt6A-A</link>
+            <guid>https://www.youtube.com/watch?v=8FGM1Rt6A-A</guid>
+            <pubDate>MAY 18, 2021 AT 10:41PM</pubDate>
+            <description>Ristorazione: come uscire dalla crisi? Con Martino de Rosa (Carmen)</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Chat Truffa: la Privacy dei &quot;cuori solitari&quot;</title>
+            <link>https://www.youtube.com/watch?v=oO8li8IKLSs</link>
+            <guid>https://www.youtube.com/watch?v=oO8li8IKLSs</guid>
+            <pubDate>MAY 10, 2021 AT 08:00AM</pubDate>
+            <description>Chat Truffa: la Privacy dei &quot;cuori solitari&quot;</description>
+        </item>
+        <item>
+            <title>Matteo Flora - [LIVE] L&#39;aperitivo di Ciao Internet1</title>
+            <link>https://www.youtube.com/watch?v=yZ3AFIlrUWo</link>
+            <guid>https://www.youtube.com/watch?v=yZ3AFIlrUWo</guid>
+            <pubDate>JULY 13, 2021 AT 10:05PM</pubDate>
+            <description>[LIVE] L&#39;aperitivo di Ciao Internet1</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - La grande bufala del &quot;noi mettiamo il consumatore al centro&quot;...</title>
+            <link>https://www.youtube.com/watch?v=yoGpmrjRg_g</link>
+            <guid>https://www.youtube.com/watch?v=yoGpmrjRg_g</guid>
+            <pubDate>SEPTEMBER 2, 2021 AT 08:33PM</pubDate>
+            <description>La grande bufala del &quot;noi mettiamo il consumatore al centro&quot;...</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Come faccio a lanciare una iniziativa? #shorts</title>
+            <link>https://www.youtube.com/watch?v=llvS6_CX-Y0</link>
+            <guid>https://www.youtube.com/watch?v=llvS6_CX-Y0</guid>
+            <pubDate>JULY 29, 2021 AT 05:00PM</pubDate>
+            <description>Come faccio a lanciare una iniziativa? #shorts</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Ti stai sabotando?</title>
+            <link>https://www.youtube.com/watch?v=5irXCLi6FJ4</link>
+            <guid>https://www.youtube.com/watch?v=5irXCLi6FJ4</guid>
+            <pubDate>SEPTEMBER 15, 2021 AT 02:11PM</pubDate>
+            <description>Ti stai sabotando?</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Il Futuro delle piccole attività locali passa da Google</title>
+            <link>https://www.youtube.com/watch?v=uhLeOVUAx0U</link>
+            <guid>https://www.youtube.com/watch?v=uhLeOVUAx0U</guid>
+            <pubDate>JUNE 22, 2021 AT 07:30AM</pubDate>
+            <description>Il Futuro delle piccole attività locali passa da Google</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - StartupItalia cresce: ecco tutte le novità</title>
+            <link>https://www.youtube.com/watch?v=a-1VrIF8Zoc</link>
+            <guid>https://www.youtube.com/watch?v=a-1VrIF8Zoc</guid>
+            <pubDate>SEPTEMBER 22, 2021 AT 09:00AM</pubDate>
+            <description>StartupItalia cresce: ecco tutte le novità</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Conviene organizzare i giochi Olimpici?</title>
+            <link>https://www.youtube.com/watch?v=6fwPXiJbwFI</link>
+            <guid>https://www.youtube.com/watch?v=6fwPXiJbwFI</guid>
+            <pubDate>AUGUST 8, 2021 AT 10:18AM</pubDate>
+            <description>Conviene organizzare i giochi Olimpici?</description>
         </item>
     </channel>
 </rss>
