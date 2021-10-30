@@ -5,48 +5,104 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Fri, 29 Oct 2021 13:22:03 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 13:19:54 +0000</lastBuildDate>
         <item>
-            <title>Giorgio Taverniti - Google Project Starline e le altre incredibili novità del Google I/O</title>
-            <link>https://www.youtube.com/watch?v=oN1deB5sF-Q</link>
-            <guid>https://www.youtube.com/watch?v=oN1deB5sF-Q</guid>
-            <pubDate>JUNE 4, 2021 AT 07:30AM</pubDate>
-            <description>Google Project Starline e le altre incredibili novità del Google I/O</description>
+            <title>Matteo Flora - Facebook e Instagram a pagamento per colpa di Apple?</title>
+            <link>https://www.youtube.com/watch?v=JngaCH8MmGM</link>
+            <guid>https://www.youtube.com/watch?v=JngaCH8MmGM</guid>
+            <pubDate>MAY 4, 2021 AT 08:00AM</pubDate>
+            <description>Facebook e Instagram a pagamento per colpa di Apple?</description>
         </item>
         <item>
-            <title>Rudy Bandiera - I videogiochi sono beni culturali: firmato il tax credit del 25% #in2minuti</title>
-            <link>https://www.youtube.com/watch?v=zXSaX4byLJg</link>
-            <guid>https://www.youtube.com/watch?v=zXSaX4byLJg</guid>
-            <pubDate>MAY 17, 2021 AT 05:33PM</pubDate>
-            <description>I videogiochi sono beni culturali: firmato il tax credit del 25% #in2minuti</description>
+            <title>Matteo Flora - [LIVE] - Ciao Internet SERALE in DIRETTA - Questa non é una live su Luca Morisi</title>
+            <link>https://www.youtube.com/watch?v=PTXLgoaCEBU</link>
+            <guid>https://www.youtube.com/watch?v=PTXLgoaCEBU</guid>
+            <pubDate>SEPTEMBER 29, 2021 AT 01:44PM</pubDate>
+            <description>[LIVE] - Ciao Internet SERALE in DIRETTA - Questa non é una live su Luca Morisi</description>
         </item>
         <item>
-            <title>Marco Montemagno - Intelligenza Artificiale e Sanità: a che punto siamo?</title>
-            <link>https://www.youtube.com/watch?v=S-50DuXwW9o</link>
-            <guid>https://www.youtube.com/watch?v=S-50DuXwW9o</guid>
-            <pubDate>JUNE 20, 2021 AT 11:46PM</pubDate>
-            <description>Intelligenza Artificiale e Sanità: a che punto siamo?</description>
+            <title>Matteo Flora - Mi hanno rubato il canale! Le nuove truffe e come evitare che ti rubino i profili!</title>
+            <link>https://www.youtube.com/watch?v=H467gzIYjXM</link>
+            <guid>https://www.youtube.com/watch?v=H467gzIYjXM</guid>
+            <pubDate>AUGUST 21, 2021 AT 08:35AM</pubDate>
+            <description>Mi hanno rubato il canale! Le nuove truffe e come evitare che ti rubino i profili!</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Michelle Hunziker</title>
-            <link>https://www.youtube.com/watch?v=dM5IzQMQpNg</link>
-            <guid>https://www.youtube.com/watch?v=dM5IzQMQpNg</guid>
-            <pubDate>MAY 4, 2021 AT 04:49PM</pubDate>
-            <description>4 chiacchiere con Michelle Hunziker</description>
+            <title>Giorgio Taverniti - Le mie Newsletter e le mie Fonti: come mi organizzo</title>
+            <link>https://www.youtube.com/watch?v=SJWIku6zztk</link>
+            <guid>https://www.youtube.com/watch?v=SJWIku6zztk</guid>
+            <pubDate>JUNE 9, 2021 AT 07:30AM</pubDate>
+            <description>Le mie Newsletter e le mie Fonti: come mi organizzo</description>
         </item>
         <item>
-            <title>Marco Montemagno - &quot;Quando sei diventato Monty&quot; ... dopo un anno e mezzo di video con zero views è successo questo...</title>
-            <link>https://www.youtube.com/watch?v=TXY4f5a-VFk</link>
-            <guid>https://www.youtube.com/watch?v=TXY4f5a-VFk</guid>
-            <pubDate>AUGUST 1, 2021 AT 02:27PM</pubDate>
-            <description>&quot;Quando sei diventato Monty&quot; ... dopo un anno e mezzo di video con zero views è successo questo...</description>
+            <title>Marco Montemagno - La Cina contro i social: non più di 40 minuti al giorno</title>
+            <link>https://www.youtube.com/watch?v=m311XQavGqE</link>
+            <guid>https://www.youtube.com/watch?v=m311XQavGqE</guid>
+            <pubDate>SEPTEMBER 21, 2021 AT 04:53PM</pubDate>
+            <description>La Cina contro i social: non più di 40 minuti al giorno</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come faccio a tutelare legalmente il mio e-commerce?</title>
-            <link>https://www.youtube.com/watch?v=GcpFl-Bj6xw</link>
-            <guid>https://www.youtube.com/watch?v=GcpFl-Bj6xw</guid>
-            <pubDate>OCTOBER 8, 2021 AT 01:00PM</pubDate>
-            <description>Come faccio a tutelare legalmente il mio e-commerce?</description>
+            <title>Marco Montemagno - Crypto: questo è quello che sta succedendo</title>
+            <link>https://www.youtube.com/watch?v=PXaaUDagtOI</link>
+            <guid>https://www.youtube.com/watch?v=PXaaUDagtOI</guid>
+            <pubDate>AUGUST 24, 2021 AT 01:10PM</pubDate>
+            <description>Crypto: questo è quello che sta succedendo</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - STAGING PER WORDPRESS (E NON SOLO) SENZA PLUGIN</title>
+            <link>https://www.youtube.com/watch?v=6Up3Vu2vslk</link>
+            <guid>https://www.youtube.com/watch?v=6Up3Vu2vslk</guid>
+            <pubDate>MAY 7, 2021 AT 08:00AM</pubDate>
+            <description>STAGING PER WORDPRESS (E NON SOLO) SENZA PLUGIN</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Merk &amp; Kremont</title>
+            <link>https://www.youtube.com/watch?v=9iphabV-ob8</link>
+            <guid>https://www.youtube.com/watch?v=9iphabV-ob8</guid>
+            <pubDate>JULY 7, 2021 AT 12:09PM</pubDate>
+            <description>4 chiacchiere con Merk &amp; Kremont</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Surf e dintorni - 4 chiacchiere con Edoardo Papa</title>
+            <link>https://www.youtube.com/watch?v=tECN8BieqSk</link>
+            <guid>https://www.youtube.com/watch?v=tECN8BieqSk</guid>
+            <pubDate>JUNE 14, 2021 AT 01:23PM</pubDate>
+            <description>Surf e dintorni - 4 chiacchiere con Edoardo Papa</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Speciale Amazon: l&#39;ultimo giorno di Jeff Bezos da CEO</title>
+            <link>https://www.youtube.com/watch?v=qnJnitCM_BM</link>
+            <guid>https://www.youtube.com/watch?v=qnJnitCM_BM</guid>
+            <pubDate>JULY 3, 2021 AT 12:18PM</pubDate>
+            <description>Speciale Amazon: l&#39;ultimo giorno di Jeff Bezos da CEO</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - La grande bufala del &quot;noi mettiamo il consumatore al centro&quot;...</title>
+            <link>https://www.youtube.com/watch?v=yoGpmrjRg_g</link>
+            <guid>https://www.youtube.com/watch?v=yoGpmrjRg_g</guid>
+            <pubDate>SEPTEMBER 2, 2021 AT 08:33PM</pubDate>
+            <description>La grande bufala del &quot;noi mettiamo il consumatore al centro&quot;...</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Dedicato a chi non si sente abbastanza bravo</title>
+            <link>https://www.youtube.com/watch?v=FJSjGT6TSso</link>
+            <guid>https://www.youtube.com/watch?v=FJSjGT6TSso</guid>
+            <pubDate>SEPTEMBER 20, 2021 AT 12:09PM</pubDate>
+            <description>Dedicato a chi non si sente abbastanza bravo</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Perché chi è incapace crede di essere un fenomeno</title>
+            <link>https://www.youtube.com/watch?v=x0nUaKKWx4A</link>
+            <guid>https://www.youtube.com/watch?v=x0nUaKKWx4A</guid>
+            <pubDate>OCTOBER 4, 2021 AT 01:40PM</pubDate>
+            <description>Perché chi è incapace crede di essere un fenomeno</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Monica Cirinnà, la cameriera e la Reputazione perduta...</title>
+            <link>https://www.youtube.com/watch?v=YgrjSCp6kCk</link>
+            <guid>https://www.youtube.com/watch?v=YgrjSCp6kCk</guid>
+            <pubDate>SEPTEMBER 1, 2021 AT 07:45AM</pubDate>
+            <description>Monica Cirinnà, la cameriera e la Reputazione perduta...</description>
         </item>
         <item>
             <title>Marco Montemagno - Nek racconta com&#39;è nata &quot;Laura non c&#39;è&quot;</title>
@@ -56,6 +112,27 @@
             <description>Nek racconta com&#39;è nata &quot;Laura non c&#39;è&quot;</description>
         </item>
         <item>
+            <title>Matteo Flora - Il Suicidio dei 5 Stelle: l’incompetenza di #Crimi, il #Regolamento, #Rousseau e #Casaleggio rischia</title>
+            <link>https://www.youtube.com/watch?v=7KqQIHrBHgk</link>
+            <guid>https://www.youtube.com/watch?v=7KqQIHrBHgk</guid>
+            <pubDate>MAY 6, 2021 AT 09:22AM</pubDate>
+            <description>Il Suicidio dei 5 Stelle: l’incompetenza di #Crimi, il #Regolamento, #Rousseau e #Casaleggio rischia</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Alexa, parla con mio figlio!</title>
+            <link>https://www.youtube.com/watch?v=_3a2-YsIjjE</link>
+            <guid>https://www.youtube.com/watch?v=_3a2-YsIjjE</guid>
+            <pubDate>JULY 5, 2021 AT 12:00PM</pubDate>
+            <description>Alexa, parla con mio figlio!</description>
+        </item>
+        <item>
+            <title>Matteo Flora - #GreenPass hackerato: ecco come hanno fatto (e cosa fare ora)</title>
+            <link>https://www.youtube.com/watch?v=2UI9YOh8uVE</link>
+            <guid>https://www.youtube.com/watch?v=2UI9YOh8uVE</guid>
+            <pubDate>OCTOBER 28, 2021 AT 11:17AM</pubDate>
+            <description>#GreenPass hackerato: ecco come hanno fatto (e cosa fare ora)</description>
+        </item>
+        <item>
             <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Francesco Venturini, Enel X</title>
             <link>https://www.youtube.com/watch?v=uytDTpsILFw</link>
             <guid>https://www.youtube.com/watch?v=uytDTpsILFw</guid>
@@ -63,88 +140,11 @@
             <description>Cambiamento climatico, elettrificazione e dintorni con Francesco Venturini, Enel X</description>
         </item>
         <item>
-            <title>Raffaele Gaito - Tempo al tempo | Matteo Professione - Ernia | TEDxUNICATT</title>
-            <link>https://www.youtube.com/watch?v=7GfTF5YTA0I</link>
-            <guid>https://www.youtube.com/watch?v=7GfTF5YTA0I</guid>
-            <pubDate>MARCH 30, 2021 AT 06:28PM</pubDate>
-            <description>Tempo al tempo | Matteo Professione - Ernia | TEDxUNICATT</description>
-        </item>
-        <item>
-            <title>Matteo Flora - TWITCH LEAK: quanto guadagnano gli streamer italiani? I numeri e il contenuto del leak!</title>
-            <link>https://www.youtube.com/watch?v=MXzA2UCrNvI</link>
-            <guid>https://www.youtube.com/watch?v=MXzA2UCrNvI</guid>
-            <pubDate>OCTOBER 6, 2021 AT 09:04PM</pubDate>
-            <description>TWITCH LEAK: quanto guadagnano gli streamer italiani? I numeri e il contenuto del leak!</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - Come rendere il tuo business e il tuo e-commerce più profittevole</title>
-            <link>https://www.youtube.com/watch?v=9jjnmawpsTo</link>
-            <guid>https://www.youtube.com/watch?v=9jjnmawpsTo</guid>
-            <pubDate>MAY 4, 2021 AT 09:44AM</pubDate>
-            <description>Come rendere il tuo business e il tuo e-commerce più profittevole</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - La vita è sempre più cara .... ma le conosci le 4Q?</title>
-            <link>https://www.youtube.com/watch?v=8CO44h4WIbg</link>
-            <guid>https://www.youtube.com/watch?v=8CO44h4WIbg</guid>
-            <pubDate>SEPTEMBER 6, 2021 AT 01:23PM</pubDate>
-            <description>La vita è sempre più cara .... ma le conosci le 4Q?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Indovina quanto ha incassato Tim (il CEO di Apple)?</title>
-            <link>https://www.youtube.com/watch?v=H6n0ZQRvgJQ</link>
-            <guid>https://www.youtube.com/watch?v=H6n0ZQRvgJQ</guid>
-            <pubDate>AUGUST 28, 2021 AT 11:48PM</pubDate>
-            <description>Indovina quanto ha incassato Tim (il CEO di Apple)?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con Francesco Vena (Amaro Lucano)</title>
-            <link>https://www.youtube.com/watch?v=14sNwIMDd8M</link>
-            <guid>https://www.youtube.com/watch?v=14sNwIMDd8M</guid>
-            <pubDate>JUNE 16, 2021 AT 12:09PM</pubDate>
-            <description>4 chiacchiere con Francesco Vena (Amaro Lucano)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 10 Frasi per convincere qualsiasi persona</title>
-            <link>https://www.youtube.com/watch?v=G6Xfj_4yqZM</link>
-            <guid>https://www.youtube.com/watch?v=G6Xfj_4yqZM</guid>
-            <pubDate>JUNE 4, 2021 AT 05:00PM</pubDate>
-            <description>10 Frasi per convincere qualsiasi persona</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - Quali lavori spariranno nel futuro?</title>
-            <link>https://www.youtube.com/watch?v=amfqEKZiGck</link>
-            <guid>https://www.youtube.com/watch?v=amfqEKZiGck</guid>
-            <pubDate>OCTOBER 20, 2021 AT 08:58AM</pubDate>
-            <description>Quali lavori spariranno nel futuro?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Intelligenza Artificiale...che succede?</title>
-            <link>https://www.youtube.com/watch?v=KunZGa1koR8</link>
-            <guid>https://www.youtube.com/watch?v=KunZGa1koR8</guid>
-            <pubDate>JUNE 23, 2021 AT 10:29PM</pubDate>
-            <description>Intelligenza Artificiale...che succede?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Food Talks dal 17 al 21 maggio in collaborazione con San Pellegrino</title>
-            <link>https://www.youtube.com/watch?v=3qSaCLTZLTk</link>
-            <guid>https://www.youtube.com/watch?v=3qSaCLTZLTk</guid>
-            <pubDate>MAY 15, 2021 AT 09:29PM</pubDate>
-            <description>Food Talks dal 17 al 21 maggio in collaborazione con San Pellegrino</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come ha fatto TikTok a conquistare il mondo (alla velocità della luce)?</title>
-            <link>https://www.youtube.com/watch?v=LeK11lHxaCQ</link>
-            <guid>https://www.youtube.com/watch?v=LeK11lHxaCQ</guid>
-            <pubDate>JULY 14, 2021 AT 12:00PM</pubDate>
-            <description>Come ha fatto TikTok a conquistare il mondo (alla velocità della luce)?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - La vita costa sempre di più...</title>
-            <link>https://www.youtube.com/watch?v=5oCCrYpd-HM</link>
-            <guid>https://www.youtube.com/watch?v=5oCCrYpd-HM</guid>
-            <pubDate>JULY 29, 2021 AT 12:00PM</pubDate>
-            <description>La vita costa sempre di più...</description>
+            <title>Marco Montemagno - 4 chiacchiere con L&#39;Estetista Cinica (Cristina Fogazzi)</title>
+            <link>https://www.youtube.com/watch?v=PHtcnuBrxfw</link>
+            <guid>https://www.youtube.com/watch?v=PHtcnuBrxfw</guid>
+            <pubDate>MAY 27, 2021 AT 11:29AM</pubDate>
+            <description>4 chiacchiere con L&#39;Estetista Cinica (Cristina Fogazzi)</description>
         </item>
     </channel>
 </rss>
