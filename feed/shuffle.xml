@@ -5,41 +5,69 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Tue, 09 Nov 2021 13:23:09 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 13:22:07 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - Ha senso Lavorare GRATIS?</title>
-            <link>https://www.youtube.com/watch?v=DTvuI-cDgqE</link>
-            <guid>https://www.youtube.com/watch?v=DTvuI-cDgqE</guid>
-            <pubDate>JUNE 11, 2021 AT 02:58PM</pubDate>
-            <description>Ha senso Lavorare GRATIS?</description>
+            <title>Marco Montemagno - Vuoi imparare l&#39;inglese?...con me e Norma&#39;s teaching? #shorts</title>
+            <link>https://www.youtube.com/watch?v=AobD91Qqup8</link>
+            <guid>https://www.youtube.com/watch?v=AobD91Qqup8</guid>
+            <pubDate>JULY 7, 2021 AT 02:17PM</pubDate>
+            <description>Vuoi imparare l&#39;inglese?...con me e Norma&#39;s teaching? #shorts</description>
         </item>
         <item>
-            <title>Raffaele Gaito - VENDERE ONLINE: 13 SITI INDISPENSABILI</title>
-            <link>https://www.youtube.com/watch?v=mtQk_O9jCsY</link>
-            <guid>https://www.youtube.com/watch?v=mtQk_O9jCsY</guid>
-            <pubDate>JUNE 4, 2021 AT 08:00AM</pubDate>
-            <description>VENDERE ONLINE: 13 SITI INDISPENSABILI</description>
+            <title>Matteo Flora - Quali sfide per la Privacy nel 2022? Ne parliamo con Guido Scorza!</title>
+            <link>https://www.youtube.com/watch?v=HTzBi89B41I</link>
+            <guid>https://www.youtube.com/watch?v=HTzBi89B41I</guid>
+            <pubDate>SEPTEMBER 6, 2021 AT 03:30PM</pubDate>
+            <description>Quali sfide per la Privacy nel 2022? Ne parliamo con Guido Scorza!</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Arriva su Google il profilo per Giornalisti e Content Creator!</title>
-            <link>https://www.youtube.com/watch?v=FSZaobShGl0</link>
-            <guid>https://www.youtube.com/watch?v=FSZaobShGl0</guid>
-            <pubDate>JUNE 17, 2021 AT 07:30AM</pubDate>
-            <description>Arriva su Google il profilo per Giornalisti e Content Creator!</description>
+            <title>Rudy Bandiera - Black Friday: dati e previsioni</title>
+            <link>https://www.youtube.com/watch?v=IVBtwmPVywo</link>
+            <guid>https://www.youtube.com/watch?v=IVBtwmPVywo</guid>
+            <pubDate>OCTOBER 11, 2021 AT 12:29PM</pubDate>
+            <description>Black Friday: dati e previsioni</description>
         </item>
         <item>
-            <title>Marco Montemagno - Food Talks with Trudie Styler, Tony Sasa, Riccardo Cotarella</title>
-            <link>https://www.youtube.com/watch?v=gKmm6a2HP_I</link>
-            <guid>https://www.youtube.com/watch?v=gKmm6a2HP_I</guid>
-            <pubDate>MAY 21, 2021 AT 11:06AM</pubDate>
-            <description>Food Talks with Trudie Styler, Tony Sasa, Riccardo Cotarella</description>
+            <title>Raffaele Gaito - Gaito risponde LIVE</title>
+            <link>https://www.youtube.com/watch?v=czpUVXmULIk</link>
+            <guid>https://www.youtube.com/watch?v=czpUVXmULIk</guid>
+            <pubDate>JUNE 28, 2021 AT 07:02PM</pubDate>
+            <description>Gaito risponde LIVE</description>
         </item>
         <item>
-            <title>Matteo Flora - Marco Montemagno: il video sessista e il video di scuse (che non convincono)</title>
-            <link>https://www.youtube.com/watch?v=K3e7HrEi1p4</link>
-            <guid>https://www.youtube.com/watch?v=K3e7HrEi1p4</guid>
-            <pubDate>OCTOBER 12, 2021 AT 09:23AM</pubDate>
-            <description>Marco Montemagno: il video sessista e il video di scuse (che non convincono)</description>
+            <title>Marco Montemagno - 3 errori ASSOLUTAMENTE da non fare  (...che ho fatto)</title>
+            <link>https://www.youtube.com/watch?v=3w5nbHVNuRg</link>
+            <guid>https://www.youtube.com/watch?v=3w5nbHVNuRg</guid>
+            <pubDate>AUGUST 31, 2021 AT 01:00PM</pubDate>
+            <description>3 errori ASSOLUTAMENTE da non fare  (...che ho fatto)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Perché manca la Benzina nel Regno Unito</title>
+            <link>https://www.youtube.com/watch?v=_ZZfneSmVkQ</link>
+            <guid>https://www.youtube.com/watch?v=_ZZfneSmVkQ</guid>
+            <pubDate>SEPTEMBER 29, 2021 AT 07:31PM</pubDate>
+            <description>Perché manca la Benzina nel Regno Unito</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 cose da fare quando le cose vanno male...</title>
+            <link>https://www.youtube.com/watch?v=GdI00d9ECGM</link>
+            <guid>https://www.youtube.com/watch?v=GdI00d9ECGM</guid>
+            <pubDate>JULY 6, 2021 AT 02:00PM</pubDate>
+            <description>4 cose da fare quando le cose vanno male...</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - STAGING PER WORDPRESS (E NON SOLO) SENZA PLUGIN</title>
+            <link>https://www.youtube.com/watch?v=6Up3Vu2vslk</link>
+            <guid>https://www.youtube.com/watch?v=6Up3Vu2vslk</guid>
+            <pubDate>MAY 7, 2021 AT 08:00AM</pubDate>
+            <description>STAGING PER WORDPRESS (E NON SOLO) SENZA PLUGIN</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - L&#39;importanza fondamentale del Search Intent per la SEO - con Gianluca Fiorelli</title>
+            <link>https://www.youtube.com/watch?v=6u04ojYeXIw</link>
+            <guid>https://www.youtube.com/watch?v=6u04ojYeXIw</guid>
+            <pubDate>MAY 19, 2021 AT 07:30AM</pubDate>
+            <description>L&#39;importanza fondamentale del Search Intent per la SEO - con Gianluca Fiorelli</description>
         </item>
         <item>
             <title>Matteo Flora - Renzi, Mancini, Report e cosa non mi torna...</title>
@@ -49,46 +77,25 @@
             <description>Renzi, Mancini, Report e cosa non mi torna...</description>
         </item>
         <item>
-            <title>Matteo Flora - Ma davvero il Garante è &quot;Signore dei Cavilli&quot;?</title>
-            <link>https://www.youtube.com/watch?v=kqGCsuas4sg</link>
-            <guid>https://www.youtube.com/watch?v=kqGCsuas4sg</guid>
-            <pubDate>JUNE 21, 2021 AT 08:44AM</pubDate>
-            <description>Ma davvero il Garante è &quot;Signore dei Cavilli&quot;?</description>
+            <title>Marco Montemagno - 4 chiacchiere con Francesco Vena (Amaro Lucano)</title>
+            <link>https://www.youtube.com/watch?v=VvqgGU_55NM</link>
+            <guid>https://www.youtube.com/watch?v=VvqgGU_55NM</guid>
+            <pubDate>JUNE 16, 2021 AT 12:47PM</pubDate>
+            <description>4 chiacchiere con Francesco Vena (Amaro Lucano)</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Google per l&#39;e-commerce con Grow My Store: ma è valido?</title>
-            <link>https://www.youtube.com/watch?v=Hq_s5J2gSSY</link>
-            <guid>https://www.youtube.com/watch?v=Hq_s5J2gSSY</guid>
-            <pubDate>JUNE 3, 2021 AT 07:30AM</pubDate>
-            <description>Google per l&#39;e-commerce con Grow My Store: ma è valido?</description>
+            <title>Marco Montemagno - 4 chiacchiere con Nek</title>
+            <link>https://www.youtube.com/watch?v=Pj947GejFI0</link>
+            <guid>https://www.youtube.com/watch?v=Pj947GejFI0</guid>
+            <pubDate>JULY 8, 2021 AT 09:02PM</pubDate>
+            <description>4 chiacchiere con Nek</description>
         </item>
         <item>
-            <title>Matteo Flora - Lo Sforzo cognitivo e le Abitudini con Rick Dufer</title>
-            <link>https://www.youtube.com/watch?v=qNOcAo7ai1Y</link>
-            <guid>https://www.youtube.com/watch?v=qNOcAo7ai1Y</guid>
-            <pubDate>MAY 25, 2021 AT 09:14AM</pubDate>
-            <description>Lo Sforzo cognitivo e le Abitudini con Rick Dufer</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - Google Sheets: script, componenti, API. Idee d&#39;uso INTERESSANTI</title>
-            <link>https://www.youtube.com/watch?v=jmZF_VRT2fA</link>
-            <guid>https://www.youtube.com/watch?v=jmZF_VRT2fA</guid>
-            <pubDate>MAY 10, 2021 AT 10:41AM</pubDate>
-            <description>Google Sheets: script, componenti, API. Idee d&#39;uso INTERESSANTI</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con Giuliano Sangiorgi (Negramaro)</title>
-            <link>https://www.youtube.com/watch?v=uc0BZbT95BQ</link>
-            <guid>https://www.youtube.com/watch?v=uc0BZbT95BQ</guid>
-            <pubDate>MAY 23, 2021 AT 09:31PM</pubDate>
-            <description>4 chiacchiere con Giuliano Sangiorgi (Negramaro)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 19 cose che dovresti sapere su Netflix!</title>
-            <link>https://www.youtube.com/watch?v=bzLiOEKXMbU</link>
-            <guid>https://www.youtube.com/watch?v=bzLiOEKXMbU</guid>
-            <pubDate>SEPTEMBER 5, 2021 AT 10:00AM</pubDate>
-            <description>19 cose che dovresti sapere su Netflix!</description>
+            <title>Raffaele Gaito - COME NON SBAGLIATE MAI UN REGALO #shorts</title>
+            <link>https://www.youtube.com/watch?v=nNeuIFxw860</link>
+            <guid>https://www.youtube.com/watch?v=nNeuIFxw860</guid>
+            <pubDate>AUGUST 28, 2021 AT 11:33AM</pubDate>
+            <description>COME NON SBAGLIATE MAI UN REGALO #shorts</description>
         </item>
         <item>
             <title>Marco Montemagno - La vedova nera fa causa a Disney: per quanti $$$ e perchè è importante</title>
@@ -98,53 +105,46 @@
             <description>La vedova nera fa causa a Disney: per quanti $$$ e perchè è importante</description>
         </item>
         <item>
-            <title>Marco Montemagno - ... Ma prendere decisioni meno stupide?</title>
-            <link>https://www.youtube.com/watch?v=XankQ8Kbsh8</link>
-            <guid>https://www.youtube.com/watch?v=XankQ8Kbsh8</guid>
-            <pubDate>SEPTEMBER 27, 2021 AT 02:00PM</pubDate>
-            <description>... Ma prendere decisioni meno stupide?</description>
+            <title>Marco Montemagno - Non ho parole...(poi però non lamentiamoci del lavoro) #shorts</title>
+            <link>https://www.youtube.com/watch?v=LAI3ksteXOM</link>
+            <guid>https://www.youtube.com/watch?v=LAI3ksteXOM</guid>
+            <pubDate>JUNE 24, 2021 AT 07:30PM</pubDate>
+            <description>Non ho parole...(poi però non lamentiamoci del lavoro) #shorts</description>
         </item>
         <item>
-            <title>Rudy Bandiera - 6 dati di fatto che è bene accettare il prima possibile per vivere e lavorare meglio</title>
-            <link>https://www.youtube.com/watch?v=7mVCpLySEUg</link>
-            <guid>https://www.youtube.com/watch?v=7mVCpLySEUg</guid>
-            <pubDate>JULY 16, 2021 AT 08:37AM</pubDate>
-            <description>6 dati di fatto che è bene accettare il prima possibile per vivere e lavorare meglio</description>
+            <title>Marco Montemagno - Bufera sui Social! Sui social sono tutti contro tutti...</title>
+            <link>https://www.youtube.com/watch?v=pNJL82Ayg24</link>
+            <guid>https://www.youtube.com/watch?v=pNJL82Ayg24</guid>
+            <pubDate>JUNE 23, 2021 AT 06:42PM</pubDate>
+            <description>Bufera sui Social! Sui social sono tutti contro tutti...</description>
         </item>
         <item>
-            <title>Marco Montemagno - La vita costa sempre di più...</title>
-            <link>https://www.youtube.com/watch?v=5oCCrYpd-HM</link>
-            <guid>https://www.youtube.com/watch?v=5oCCrYpd-HM</guid>
-            <pubDate>JULY 29, 2021 AT 12:00PM</pubDate>
-            <description>La vita costa sempre di più...</description>
+            <title>Marco Montemagno - 5 curiosità che forse non sapevi sulle Olimpiadi 2021</title>
+            <link>https://www.youtube.com/watch?v=_88OlO2xCfs</link>
+            <guid>https://www.youtube.com/watch?v=_88OlO2xCfs</guid>
+            <pubDate>JULY 24, 2021 AT 04:04PM</pubDate>
+            <description>5 curiosità che forse non sapevi sulle Olimpiadi 2021</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come ha fatto TikTok a conquistare il mondo (alla velocità della luce)?</title>
-            <link>https://www.youtube.com/watch?v=LeK11lHxaCQ</link>
-            <guid>https://www.youtube.com/watch?v=LeK11lHxaCQ</guid>
-            <pubDate>JULY 14, 2021 AT 12:00PM</pubDate>
-            <description>Come ha fatto TikTok a conquistare il mondo (alla velocità della luce)?</description>
+            <title>Matteo Flora - CROWDFUNDING: cosa è, come funziona e cosa devi sapere per iniziare!</title>
+            <link>https://www.youtube.com/watch?v=V3DgJ6mRXEM</link>
+            <guid>https://www.youtube.com/watch?v=V3DgJ6mRXEM</guid>
+            <pubDate>OCTOBER 7, 2021 AT 06:15PM</pubDate>
+            <description>CROWDFUNDING: cosa è, come funziona e cosa devi sapere per iniziare!</description>
         </item>
         <item>
-            <title>Rudy Bandiera - 9 cose che le persone socialmente funzionali non dicono MAI</title>
-            <link>https://www.youtube.com/watch?v=siZ-jCWTiqk</link>
-            <guid>https://www.youtube.com/watch?v=siZ-jCWTiqk</guid>
-            <pubDate>JULY 2, 2021 AT 08:52AM</pubDate>
-            <description>9 cose che le persone socialmente funzionali non dicono MAI</description>
+            <title>Raffaele Gaito - HO IL TERRORE! E TU?</title>
+            <link>https://www.youtube.com/watch?v=iBPoqd66OyQ</link>
+            <guid>https://www.youtube.com/watch?v=iBPoqd66OyQ</guid>
+            <pubDate>MARCH 30, 2021 AT 08:00AM</pubDate>
+            <description>HO IL TERRORE! E TU?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Questa è la mentalità di chi ha davvero successo</title>
-            <link>https://www.youtube.com/watch?v=KOAKmxlg2TE</link>
-            <guid>https://www.youtube.com/watch?v=KOAKmxlg2TE</guid>
-            <pubDate>SEPTEMBER 17, 2021 AT 02:00PM</pubDate>
-            <description>Questa è la mentalità di chi ha davvero successo</description>
-        </item>
-        <item>
-            <title>Matteo Flora - DOCUMENTI ONLINE: quando la Trasparenza è troppa...</title>
-            <link>https://www.youtube.com/watch?v=tKNx58qROmc</link>
-            <guid>https://www.youtube.com/watch?v=tKNx58qROmc</guid>
-            <pubDate>MAY 17, 2021 AT 08:21AM</pubDate>
-            <description>DOCUMENTI ONLINE: quando la Trasparenza è troppa...</description>
+            <title>Matteo Flora - Rayban Stories: parliamo dei nuovi occhiali di Facebook</title>
+            <link>https://www.youtube.com/watch?v=HEzA9CPcpns</link>
+            <guid>https://www.youtube.com/watch?v=HEzA9CPcpns</guid>
+            <pubDate>OCTOBER 11, 2021 AT 07:45AM</pubDate>
+            <description>Rayban Stories: parliamo dei nuovi occhiali di Facebook</description>
         </item>
     </channel>
 </rss>
