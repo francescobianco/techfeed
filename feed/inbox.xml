@@ -5,7 +5,14 @@
         <description>Tutte le novità in tempo reale dei tech opinion leader italiani</description>
         <link>https://techfeed.ml/feed/inbox.xml</link>
         <managingEditor>bianco@javanile.org (Francesco Bianco)</managingEditor>
-        <lastBuildDate>Sun, 12 Dec 2021 17:05:16 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 17:36:20 +0000</lastBuildDate>
+        <item>
+            <title>Matteo Flora - Log4j e Log4Shell: tutto quello da sapere sulla vulnerabilità 0-day con Stefano @raistolo Zanero</title>
+            <link>https://www.youtube.com/watch?v=vOo982VdHM0</link>
+            <guid>https://www.youtube.com/watch?v=vOo982VdHM0</guid>
+            <pubDate>DECEMBER 12, 2021 AT 06:32PM</pubDate>
+            <description>Log4j e Log4Shell: tutto quello da sapere sulla vulnerabilità 0-day con Stefano @raistolo Zanero</description>
+        </item>
         <item>
             <title>Marco Montemagno - 7 cose che ha detto Elon Musk che fanno riflettere</title>
             <link>https://www.youtube.com/watch?v=1hPUXev58IM</link>
