@@ -5,7 +5,7 @@
         <description>Tutte le novità in tempo reale dei tech opinion leader italiani</description>
         <link>https://techfeed.ml/feed/inbox.xml</link>
         <managingEditor>bianco@javanile.org (Francesco Bianco)</managingEditor>
-        <lastBuildDate>Mon, 13 Dec 2021 23:52:32 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 01:09:07 +0000</lastBuildDate>
         <item>
             <title>Marco Montemagno - Il cambiamento climatico spiegato BENE: cos&#39;è e come combatterlo</title>
             <link>https://www.youtube.com/watch?v=hCS6HdMf5Bo</link>
@@ -40,13 +40,6 @@
             <guid>https://www.youtube.com/watch?v=GYE45aC7seU</guid>
             <pubDate>DECEMBER 13, 2021 AT 08:30AM</pubDate>
             <description>Draghi nel mirino dei No Vax, nelle chat minacce al premiere gli indirizzi di casa...</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Log4j e Log4Shell: tutto quello da sapere sulla vulnerabilità 0-day con Stefano @raistolo Zanero</title>
-            <link>https://www.youtube.com/watch?v=vOo982VdHM0</link>
-            <guid>https://www.youtube.com/watch?v=vOo982VdHM0</guid>
-            <pubDate>DECEMBER 12, 2021 AT 06:32PM</pubDate>
-            <description>Log4j e Log4Shell: tutto quello da sapere sulla vulnerabilità 0-day con Stefano @raistolo Zanero</description>
         </item>
     </channel>
 </rss>
