@@ -5,97 +5,20 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Sat, 18 Dec 2021 13:22:23 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 13:22:27 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - Metaverso: la prossima mossa di Facebook (e delle big tech)</title>
-            <link>https://www.youtube.com/watch?v=KlkvVVcvN8M</link>
-            <guid>https://www.youtube.com/watch?v=KlkvVVcvN8M</guid>
-            <pubDate>NOVEMBER 1, 2021 AT 01:39PM</pubDate>
-            <description>Metaverso: la prossima mossa di Facebook (e delle big tech)</description>
+            <title>Rudy Bandiera - 3 abitudini per rendere più produttive le tue giornate</title>
+            <link>https://www.youtube.com/watch?v=Zkms0bdaQwM</link>
+            <guid>https://www.youtube.com/watch?v=Zkms0bdaQwM</guid>
+            <pubDate>DECEMBER 10, 2021 AT 09:12AM</pubDate>
+            <description>3 abitudini per rendere più produttive le tue giornate</description>
         </item>
         <item>
-            <title>Marco Montemagno - Dalla carrozzina al paracadute - 4 chiacchiere con Andrea Pancini (Aerogravity)</title>
-            <link>https://www.youtube.com/watch?v=Fp9KxqD3N0A</link>
-            <guid>https://www.youtube.com/watch?v=Fp9KxqD3N0A</guid>
-            <pubDate>NOVEMBER 28, 2021 AT 09:00AM</pubDate>
-            <description>Dalla carrozzina al paracadute - 4 chiacchiere con Andrea Pancini (Aerogravity)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - È Finita?</title>
-            <link>https://www.youtube.com/watch?v=LzcM-nLZXWc</link>
-            <guid>https://www.youtube.com/watch?v=LzcM-nLZXWc</guid>
-            <pubDate>JUNE 13, 2021 AT 05:17PM</pubDate>
-            <description>È Finita?</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - Google per l&#39;e-commerce con Grow My Store: ma è valido?</title>
-            <link>https://www.youtube.com/watch?v=Hq_s5J2gSSY</link>
-            <guid>https://www.youtube.com/watch?v=Hq_s5J2gSSY</guid>
-            <pubDate>JUNE 3, 2021 AT 07:30AM</pubDate>
-            <description>Google per l&#39;e-commerce con Grow My Store: ma è valido?</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - VENDERE ONLINE: 13 SITI INDISPENSABILI</title>
-            <link>https://www.youtube.com/watch?v=mtQk_O9jCsY</link>
-            <guid>https://www.youtube.com/watch?v=mtQk_O9jCsY</guid>
-            <pubDate>JUNE 4, 2021 AT 08:00AM</pubDate>
-            <description>VENDERE ONLINE: 13 SITI INDISPENSABILI</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Crypto e sport con The Coin of Champions</title>
-            <link>https://www.youtube.com/watch?v=jzyFGHRmo04</link>
-            <guid>https://www.youtube.com/watch?v=jzyFGHRmo04</guid>
-            <pubDate>NOVEMBER 30, 2021 AT 03:00PM</pubDate>
-            <description>Crypto e sport con The Coin of Champions</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come si crea un prodotto finanziario?</title>
-            <link>https://www.youtube.com/watch?v=uXO5ba2vgrA</link>
-            <guid>https://www.youtube.com/watch?v=uXO5ba2vgrA</guid>
-            <pubDate>NOVEMBER 21, 2021 AT 09:40PM</pubDate>
-            <description>Come si crea un prodotto finanziario?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - A conversation with M. Night Shyamalan (Sixth Sense/Old/Unbreakable, Split...)</title>
-            <link>https://www.youtube.com/watch?v=j2zw6qsVBxY</link>
-            <guid>https://www.youtube.com/watch?v=j2zw6qsVBxY</guid>
-            <pubDate>JULY 21, 2021 AT 05:42PM</pubDate>
-            <description>A conversation with M. Night Shyamalan (Sixth Sense/Old/Unbreakable, Split...)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Auto elettriche e nuove tecnologie... Facciamo il punto con Andrea Galeazzi</title>
-            <link>https://www.youtube.com/watch?v=pfrTqZ9eE14</link>
-            <guid>https://www.youtube.com/watch?v=pfrTqZ9eE14</guid>
-            <pubDate>JUNE 6, 2021 AT 10:40AM</pubDate>
-            <description>Auto elettriche e nuove tecnologie... Facciamo il punto con Andrea Galeazzi</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Cos&#39;è HUDI (Human Data Income), la crypto che permette agli utenti di monetizzare i propri dati!</title>
-            <link>https://www.youtube.com/watch?v=FSxPOOWo3jg</link>
-            <guid>https://www.youtube.com/watch?v=FSxPOOWo3jg</guid>
-            <pubDate>SEPTEMBER 15, 2021 AT 12:09AM</pubDate>
-            <description>Cos&#39;è HUDI (Human Data Income), la crypto che permette agli utenti di monetizzare i propri dati!</description>
-        </item>
-        <item>
-            <title>Matteo Flora - 🤡 #NoGreenPass: il devastante FLOP della manifestazione Telegram di BASTA DITTATURA!</title>
-            <link>https://www.youtube.com/watch?v=nD9W8zJiX8g</link>
-            <guid>https://www.youtube.com/watch?v=nD9W8zJiX8g</guid>
-            <pubDate>SEPTEMBER 2, 2021 AT 07:46AM</pubDate>
-            <description>🤡 #NoGreenPass: il devastante FLOP della manifestazione Telegram di BASTA DITTATURA!</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 9 anni di Monty in meno di 9 minuti</title>
-            <link>https://www.youtube.com/watch?v=l8Q4Famg5Zo</link>
-            <guid>https://www.youtube.com/watch?v=l8Q4Famg5Zo</guid>
-            <pubDate>AUGUST 12, 2021 AT 01:17PM</pubDate>
-            <description>9 anni di Monty in meno di 9 minuti</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Amazon paga l&#39;università ai dipendenti (mentre assume altre 125.000 persone)</title>
-            <link>https://www.youtube.com/watch?v=_1m5A82Hp40</link>
-            <guid>https://www.youtube.com/watch?v=_1m5A82Hp40</guid>
-            <pubDate>SEPTEMBER 18, 2021 AT 02:00PM</pubDate>
-            <description>Amazon paga l&#39;università ai dipendenti (mentre assume altre 125.000 persone)</description>
+            <title>Marco Montemagno - Quanto costa sponsorizzare le Olimpiadi? Perché alcuni sponsor si stanno tirando indietro?</title>
+            <link>https://www.youtube.com/watch?v=r2IFEp_NKpY</link>
+            <guid>https://www.youtube.com/watch?v=r2IFEp_NKpY</guid>
+            <pubDate>JULY 23, 2021 AT 02:38PM</pubDate>
+            <description>Quanto costa sponsorizzare le Olimpiadi? Perché alcuni sponsor si stanno tirando indietro?</description>
         </item>
         <item>
             <title>Marco Montemagno - Aprire un e-commerce: come si gestisce la questione fiscale?</title>
@@ -105,46 +28,123 @@
             <description>Aprire un e-commerce: come si gestisce la questione fiscale?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Tutto Montemagno...ne parliamo alla Hoepli (Live)</title>
-            <link>https://www.youtube.com/watch?v=XANJSyF1rac</link>
-            <guid>https://www.youtube.com/watch?v=XANJSyF1rac</guid>
-            <pubDate>JUNE 16, 2021 AT 12:42PM</pubDate>
-            <description>Tutto Montemagno...ne parliamo alla Hoepli (Live)</description>
+            <title>Matteo Flora - Cosa vogliono i Minori online? Tre richieste per una nuova Internet!</title>
+            <link>https://www.youtube.com/watch?v=Sh-dsL9U81M</link>
+            <guid>https://www.youtube.com/watch?v=Sh-dsL9U81M</guid>
+            <pubDate>NOVEMBER 17, 2021 AT 08:30AM</pubDate>
+            <description>Cosa vogliono i Minori online? Tre richieste per una nuova Internet!</description>
         </item>
         <item>
-            <title>Matteo Flora - Fingere il #Cancro per soldi: la storia della streamer che finse un cancro per due spiccioli...</title>
-            <link>https://www.youtube.com/watch?v=wEApGudIRs0</link>
-            <guid>https://www.youtube.com/watch?v=wEApGudIRs0</guid>
-            <pubDate>SEPTEMBER 10, 2021 AT 07:59AM</pubDate>
-            <description>Fingere il #Cancro per soldi: la storia della streamer che finse un cancro per due spiccioli...</description>
+            <title>Raffaele Gaito - MENO PIPPE MENTALI SUI LIBRI #shorts</title>
+            <link>https://www.youtube.com/watch?v=_qR6d_DAaPQ</link>
+            <guid>https://www.youtube.com/watch?v=_qR6d_DAaPQ</guid>
+            <pubDate>JULY 27, 2021 AT 08:00AM</pubDate>
+            <description>MENO PIPPE MENTALI SUI LIBRI #shorts</description>
         </item>
         <item>
-            <title>Rudy Bandiera - 3 mosse per risolvere problemi impossibili</title>
-            <link>https://www.youtube.com/watch?v=cqRbOjkHj_Q</link>
-            <guid>https://www.youtube.com/watch?v=cqRbOjkHj_Q</guid>
-            <pubDate>SEPTEMBER 15, 2021 AT 09:01AM</pubDate>
-            <description>3 mosse per risolvere problemi impossibili</description>
+            <title>Raffaele Gaito - MONETIZZAZIONE YOUTUBE: 10 STRATEGIE PER IL 2021</title>
+            <link>https://www.youtube.com/watch?v=rnuB3CPUAYg</link>
+            <guid>https://www.youtube.com/watch?v=rnuB3CPUAYg</guid>
+            <pubDate>MAY 3, 2021 AT 08:00AM</pubDate>
+            <description>MONETIZZAZIONE YOUTUBE: 10 STRATEGIE PER IL 2021</description>
         </item>
         <item>
-            <title>Marco Montemagno - Ci vediamo al Salone del Libro di Torino?</title>
-            <link>https://www.youtube.com/watch?v=n7TgKguBBo4</link>
-            <guid>https://www.youtube.com/watch?v=n7TgKguBBo4</guid>
-            <pubDate>OCTOBER 13, 2021 AT 12:03PM</pubDate>
-            <description>Ci vediamo al Salone del Libro di Torino?</description>
+            <title>Marco Montemagno - 4 chiacchiere con Enrico Casarosa (Regista di &quot;Luca&quot;, Pixar)</title>
+            <link>https://www.youtube.com/watch?v=3cp8IeLINRU</link>
+            <guid>https://www.youtube.com/watch?v=3cp8IeLINRU</guid>
+            <pubDate>JULY 1, 2021 AT 05:17PM</pubDate>
+            <description>4 chiacchiere con Enrico Casarosa (Regista di &quot;Luca&quot;, Pixar)</description>
         </item>
         <item>
-            <title>Marco Montemagno - StartupItalia cresce: ecco tutte le novità</title>
-            <link>https://www.youtube.com/watch?v=a-1VrIF8Zoc</link>
-            <guid>https://www.youtube.com/watch?v=a-1VrIF8Zoc</guid>
-            <pubDate>SEPTEMBER 22, 2021 AT 09:00AM</pubDate>
-            <description>StartupItalia cresce: ecco tutte le novità</description>
+            <title>Marco Montemagno - Come trovo clienti interessati al mio e-commerce?</title>
+            <link>https://www.youtube.com/watch?v=P90J0MZbr-o</link>
+            <guid>https://www.youtube.com/watch?v=P90J0MZbr-o</guid>
+            <pubDate>DECEMBER 1, 2021 AT 11:00AM</pubDate>
+            <description>Come trovo clienti interessati al mio e-commerce?</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con lo Chef Mauro Colagreco (&quot;miglior ristorante al mondo&quot;)</title>
-            <link>https://www.youtube.com/watch?v=gMB3ofzVufo</link>
-            <guid>https://www.youtube.com/watch?v=gMB3ofzVufo</guid>
-            <pubDate>JULY 1, 2021 AT 05:13PM</pubDate>
-            <description>4 chiacchiere con lo Chef Mauro Colagreco (&quot;miglior ristorante al mondo&quot;)</description>
+            <title>Marco Montemagno - Leggo le recensioni al mio libro (senza filtri ...)</title>
+            <link>https://www.youtube.com/watch?v=Vi5wot-6gBI</link>
+            <guid>https://www.youtube.com/watch?v=Vi5wot-6gBI</guid>
+            <pubDate>SEPTEMBER 14, 2021 AT 01:33PM</pubDate>
+            <description>Leggo le recensioni al mio libro (senza filtri ...)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - A conversation with Lara Gilmore (Food for Soul)</title>
+            <link>https://www.youtube.com/watch?v=wvrjrGXj-Hc</link>
+            <guid>https://www.youtube.com/watch?v=wvrjrGXj-Hc</guid>
+            <pubDate>MAY 17, 2021 AT 09:34PM</pubDate>
+            <description>A conversation with Lara Gilmore (Food for Soul)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Food Talks dal 17 al 21 maggio in collaborazione con San Pellegrino</title>
+            <link>https://www.youtube.com/watch?v=3qSaCLTZLTk</link>
+            <guid>https://www.youtube.com/watch?v=3qSaCLTZLTk</guid>
+            <pubDate>MAY 15, 2021 AT 09:29PM</pubDate>
+            <description>Food Talks dal 17 al 21 maggio in collaborazione con San Pellegrino</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Come trasformare i tuoi limiti in punti di forza? Ne avevamo parlato con Jovanotti</title>
+            <link>https://www.youtube.com/watch?v=Y2LWSgxbyH4</link>
+            <guid>https://www.youtube.com/watch?v=Y2LWSgxbyH4</guid>
+            <pubDate>AUGUST 23, 2021 AT 06:01PM</pubDate>
+            <description>Come trasformare i tuoi limiti in punti di forza? Ne avevamo parlato con Jovanotti</description>
+        </item>
+        <item>
+            <title>Matteo Flora - IOApp: il provvedimento del Garante e tutte le bugie di Colao</title>
+            <link>https://www.youtube.com/watch?v=4yQjn2s07i4</link>
+            <guid>https://www.youtube.com/watch?v=4yQjn2s07i4</guid>
+            <pubDate>JUNE 11, 2021 AT 11:51AM</pubDate>
+            <description>IOApp: il provvedimento del Garante e tutte le bugie di Colao</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Perché il DDL Autolesionismo è un pericolo per te e per la rete…</title>
+            <link>https://www.youtube.com/watch?v=V7DJqP_uTHg</link>
+            <guid>https://www.youtube.com/watch?v=V7DJqP_uTHg</guid>
+            <pubDate>AUGUST 1, 2021 AT 01:20PM</pubDate>
+            <description>Perché il DDL Autolesionismo è un pericolo per te e per la rete…</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - On Running si quoterà in borsa negli Stati Uniti ...Vi ricordate le loro scarpe in abbonamento?</title>
+            <link>https://www.youtube.com/watch?v=MgcfLx3OmHQ</link>
+            <guid>https://www.youtube.com/watch?v=MgcfLx3OmHQ</guid>
+            <pubDate>AUGUST 26, 2021 AT 09:00AM</pubDate>
+            <description>On Running si quoterà in borsa negli Stati Uniti ...Vi ricordate le loro scarpe in abbonamento?</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - TIENI D&#39;OCCHIO LE ALTRE INDUSTRIE (FA LA DIFFERENZA)</title>
+            <link>https://www.youtube.com/watch?v=BLzzaKOpSK0</link>
+            <guid>https://www.youtube.com/watch?v=BLzzaKOpSK0</guid>
+            <pubDate>JULY 13, 2021 AT 08:00AM</pubDate>
+            <description>TIENI D&#39;OCCHIO LE ALTRE INDUSTRIE (FA LA DIFFERENZA)</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - 4 dettagli che dicono moltissimo su di te</title>
+            <link>https://www.youtube.com/watch?v=qjMYvOg9SPY</link>
+            <guid>https://www.youtube.com/watch?v=qjMYvOg9SPY</guid>
+            <pubDate>JULY 13, 2021 AT 08:53AM</pubDate>
+            <description>4 dettagli che dicono moltissimo su di te</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Sui social possono farti sparire da un secondo all&#39;altro</title>
+            <link>https://www.youtube.com/watch?v=hJJqBRZ68sc</link>
+            <guid>https://www.youtube.com/watch?v=hJJqBRZ68sc</guid>
+            <pubDate>OCTOBER 14, 2021 AT 10:22AM</pubDate>
+            <description>Sui social possono farti sparire da un secondo all&#39;altro</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Persuasione: la tecnica della ripetizione...</title>
+            <link>https://www.youtube.com/watch?v=U4pWWi111ag</link>
+            <guid>https://www.youtube.com/watch?v=U4pWWi111ag</guid>
+            <pubDate>AUGUST 19, 2021 AT 05:54PM</pubDate>
+            <description>Persuasione: la tecnica della ripetizione...</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Niente copia del Green Pass!</title>
+            <link>https://www.youtube.com/watch?v=o72mEdJ_HvY</link>
+            <guid>https://www.youtube.com/watch?v=o72mEdJ_HvY</guid>
+            <pubDate>AUGUST 30, 2021 AT 07:45AM</pubDate>
+            <description>Niente copia del Green Pass!</description>
         </item>
     </channel>
 </rss>
