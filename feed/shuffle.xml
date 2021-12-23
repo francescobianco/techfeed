@@ -5,125 +5,83 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Wed, 22 Dec 2021 13:24:33 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 13:24:30 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - Aprire un e-commerce: come si gestisce la questione fiscale?</title>
-            <link>https://www.youtube.com/watch?v=1WkgxviR1-Y</link>
-            <guid>https://www.youtube.com/watch?v=1WkgxviR1-Y</guid>
-            <pubDate>DECEMBER 8, 2021 AT 09:00AM</pubDate>
-            <description>Aprire un e-commerce: come si gestisce la questione fiscale?</description>
+            <title>Marco Montemagno - 9 anni di Monty in meno di 9 minuti</title>
+            <link>https://www.youtube.com/watch?v=l8Q4Famg5Zo</link>
+            <guid>https://www.youtube.com/watch?v=l8Q4Famg5Zo</guid>
+            <pubDate>AUGUST 12, 2021 AT 01:17PM</pubDate>
+            <description>9 anni di Monty in meno di 9 minuti</description>
         </item>
         <item>
-            <title>Marco Montemagno - Ecco il nuovo rivoluzionario iPhone 13!</title>
-            <link>https://www.youtube.com/watch?v=8BwIZReoy0k</link>
-            <guid>https://www.youtube.com/watch?v=8BwIZReoy0k</guid>
-            <pubDate>SEPTEMBER 15, 2021 AT 11:09AM</pubDate>
-            <description>Ecco il nuovo rivoluzionario iPhone 13!</description>
+            <title>Matteo Flora - Lo Sforzo cognitivo e le Abitudini con Rick Dufer</title>
+            <link>https://www.youtube.com/watch?v=qNOcAo7ai1Y</link>
+            <guid>https://www.youtube.com/watch?v=qNOcAo7ai1Y</guid>
+            <pubDate>MAY 25, 2021 AT 09:14AM</pubDate>
+            <description>Lo Sforzo cognitivo e le Abitudini con Rick Dufer</description>
         </item>
         <item>
-            <title>Marco Montemagno - Perché i miliardari chiedono un sacco di prestiti (anche se non  hanno bisogno di soldi)...</title>
-            <link>https://www.youtube.com/watch?v=ixy7_7uw57M</link>
-            <guid>https://www.youtube.com/watch?v=ixy7_7uw57M</guid>
-            <pubDate>AUGUST 10, 2021 AT 01:00PM</pubDate>
-            <description>Perché i miliardari chiedono un sacco di prestiti (anche se non  hanno bisogno di soldi)...</description>
+            <title>Marco Montemagno - Come decidere più velocemente?</title>
+            <link>https://www.youtube.com/watch?v=-J6wf8O515M</link>
+            <guid>https://www.youtube.com/watch?v=-J6wf8O515M</guid>
+            <pubDate>NOVEMBER 8, 2021 AT 01:00PM</pubDate>
+            <description>Come decidere più velocemente?</description>
         </item>
         <item>
-            <title>Matteo Flora - Voto Elettronico: perché è (ancora) una pessima idea</title>
-            <link>https://www.youtube.com/watch?v=GvPZe41S_as</link>
-            <guid>https://www.youtube.com/watch?v=GvPZe41S_as</guid>
-            <pubDate>JUNE 8, 2021 AT 07:34AM</pubDate>
-            <description>Voto Elettronico: perché è (ancora) una pessima idea</description>
+            <title>Raffaele Gaito - Raffaele Gaito intervista Marco Montemagno</title>
+            <link>https://www.youtube.com/watch?v=B9hvpRS0aYs</link>
+            <guid>https://www.youtube.com/watch?v=B9hvpRS0aYs</guid>
+            <pubDate>JUNE 14, 2021 AT 07:42PM</pubDate>
+            <description>Raffaele Gaito intervista Marco Montemagno</description>
         </item>
         <item>
-            <title>Marco Montemagno - Consegne sempre più veloci: costi, problemi e sostenibilità</title>
-            <link>https://www.youtube.com/watch?v=aIXxuyc41sw</link>
-            <guid>https://www.youtube.com/watch?v=aIXxuyc41sw</guid>
-            <pubDate>DECEMBER 22, 2021 AT 12:50PM</pubDate>
-            <description>Consegne sempre più veloci: costi, problemi e sostenibilità</description>
+            <title>Matteo Flora - Draghi nel mirino dei No Vax, nelle chat minacce al premiere gli indirizzi di casa...</title>
+            <link>https://www.youtube.com/watch?v=GYE45aC7seU</link>
+            <guid>https://www.youtube.com/watch?v=GYE45aC7seU</guid>
+            <pubDate>DECEMBER 13, 2021 AT 08:30AM</pubDate>
+            <description>Draghi nel mirino dei No Vax, nelle chat minacce al premiere gli indirizzi di casa...</description>
         </item>
         <item>
-            <title>Marco Montemagno - Tutto quello che avresti sempre voluto sapere sull&#39;Idrogeno e sull&#39;Elettrificazione</title>
-            <link>https://www.youtube.com/watch?v=7h9FenptPBo</link>
-            <guid>https://www.youtube.com/watch?v=7h9FenptPBo</guid>
-            <pubDate>JULY 9, 2021 AT 10:00AM</pubDate>
-            <description>Tutto quello che avresti sempre voluto sapere sull&#39;Idrogeno e sull&#39;Elettrificazione</description>
+            <title>Marco Montemagno - Intelligenza artificiale e Diritto: opportunità e problematiche</title>
+            <link>https://www.youtube.com/watch?v=y-1uMh5B6CY</link>
+            <guid>https://www.youtube.com/watch?v=y-1uMh5B6CY</guid>
+            <pubDate>JUNE 24, 2021 AT 10:55PM</pubDate>
+            <description>Intelligenza artificiale e Diritto: opportunità e problematiche</description>
         </item>
         <item>
-            <title>Marco Montemagno - Lo sapevi che in realtà è possibile dire: &quot;non ne so abbastanza per avere una opinione&quot;- Feynman</title>
-            <link>https://www.youtube.com/watch?v=bSH180tfyLU</link>
-            <guid>https://www.youtube.com/watch?v=bSH180tfyLU</guid>
-            <pubDate>AUGUST 14, 2021 AT 01:00PM</pubDate>
-            <description>Lo sapevi che in realtà è possibile dire: &quot;non ne so abbastanza per avere una opinione&quot;- Feynman</description>
+            <title>Raffaele Gaito - QUAL È IL TUO PERCHÉ?!</title>
+            <link>https://www.youtube.com/watch?v=ZO20C81PxjM</link>
+            <guid>https://www.youtube.com/watch?v=ZO20C81PxjM</guid>
+            <pubDate>JUNE 2, 2021 AT 08:00AM</pubDate>
+            <description>QUAL È IL TUO PERCHÉ?!</description>
         </item>
         <item>
-            <title>Marco Montemagno - A conversation with M. Night Shyamalan (Sixth Sense/Old/Unbreakable, Split...)</title>
-            <link>https://www.youtube.com/watch?v=j2zw6qsVBxY</link>
-            <guid>https://www.youtube.com/watch?v=j2zw6qsVBxY</guid>
-            <pubDate>JULY 21, 2021 AT 05:42PM</pubDate>
-            <description>A conversation with M. Night Shyamalan (Sixth Sense/Old/Unbreakable, Split...)</description>
+            <title>Marco Montemagno - Intelligenza artificiale e mondo del lavoro</title>
+            <link>https://www.youtube.com/watch?v=Sa52naKlw_g</link>
+            <guid>https://www.youtube.com/watch?v=Sa52naKlw_g</guid>
+            <pubDate>JUNE 29, 2021 AT 08:25AM</pubDate>
+            <description>Intelligenza artificiale e mondo del lavoro</description>
         </item>
         <item>
-            <title>Marco Montemagno - Oooops in arrivo i Negozi/Supermercati di Amazon...</title>
-            <link>https://www.youtube.com/watch?v=-X6_oTFENJ0</link>
-            <guid>https://www.youtube.com/watch?v=-X6_oTFENJ0</guid>
-            <pubDate>AUGUST 20, 2021 AT 05:42PM</pubDate>
-            <description>Oooops in arrivo i Negozi/Supermercati di Amazon...</description>
+            <title>Marco Montemagno - Ci vediamo al Salone del Libro di Torino?</title>
+            <link>https://www.youtube.com/watch?v=n7TgKguBBo4</link>
+            <guid>https://www.youtube.com/watch?v=n7TgKguBBo4</guid>
+            <pubDate>OCTOBER 13, 2021 AT 12:03PM</pubDate>
+            <description>Ci vediamo al Salone del Libro di Torino?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Sentire gli odori su Internet: arrivano i &quot;nasi digitali&quot;</title>
-            <link>https://www.youtube.com/watch?v=GVGnUK6WCMw</link>
-            <guid>https://www.youtube.com/watch?v=GVGnUK6WCMw</guid>
-            <pubDate>DECEMBER 19, 2021 AT 12:30PM</pubDate>
-            <description>Sentire gli odori su Internet: arrivano i &quot;nasi digitali&quot;</description>
+            <title>Marco Montemagno - Facebook contro tutti: che fine farà?</title>
+            <link>https://www.youtube.com/watch?v=lctXH39zZCI</link>
+            <guid>https://www.youtube.com/watch?v=lctXH39zZCI</guid>
+            <pubDate>OCTOBER 5, 2021 AT 03:26PM</pubDate>
+            <description>Facebook contro tutti: che fine farà?</description>
         </item>
         <item>
-            <title>Marco Montemagno - On Running si quoterà in borsa negli Stati Uniti ...Vi ricordate le loro scarpe in abbonamento?</title>
-            <link>https://www.youtube.com/watch?v=MgcfLx3OmHQ</link>
-            <guid>https://www.youtube.com/watch?v=MgcfLx3OmHQ</guid>
-            <pubDate>AUGUST 26, 2021 AT 09:00AM</pubDate>
-            <description>On Running si quoterà in borsa negli Stati Uniti ...Vi ricordate le loro scarpe in abbonamento?</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Roma Nord, il Vietnam e Pietro Castellitto</title>
-            <link>https://www.youtube.com/watch?v=02uIKDbAYI4</link>
-            <guid>https://www.youtube.com/watch?v=02uIKDbAYI4</guid>
-            <pubDate>DECEMBER 8, 2021 AT 08:25AM</pubDate>
-            <description>Roma Nord, il Vietnam e Pietro Castellitto</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - MMA sarà presto lo sport più visto al mondo?</title>
-            <link>https://www.youtube.com/watch?v=at8wL5FhOdk</link>
-            <guid>https://www.youtube.com/watch?v=at8wL5FhOdk</guid>
-            <pubDate>NOVEMBER 6, 2021 AT 01:00PM</pubDate>
-            <description>MMA sarà presto lo sport più visto al mondo?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come faccio a tutelare legalmente il mio e-commerce?</title>
-            <link>https://www.youtube.com/watch?v=Uwdp3sZpQVc</link>
-            <guid>https://www.youtube.com/watch?v=Uwdp3sZpQVc</guid>
-            <pubDate>NOVEMBER 24, 2021 AT 10:55AM</pubDate>
-            <description>Come faccio a tutelare legalmente il mio e-commerce?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con Michelle Hunziker</title>
-            <link>https://www.youtube.com/watch?v=dM5IzQMQpNg</link>
-            <guid>https://www.youtube.com/watch?v=dM5IzQMQpNg</guid>
-            <pubDate>MAY 4, 2021 AT 04:49PM</pubDate>
-            <description>4 chiacchiere con Michelle Hunziker</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Tennis! Riccardo Piatti su Competenze.it (live)</title>
-            <link>https://www.youtube.com/watch?v=B5JblZBlS-A</link>
-            <guid>https://www.youtube.com/watch?v=B5JblZBlS-A</guid>
-            <pubDate>JUNE 21, 2021 AT 12:22PM</pubDate>
-            <description>Tennis! Riccardo Piatti su Competenze.it (live)</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - TI PRESENTO 30 GIORNI DI CRESCITA</title>
-            <link>https://www.youtube.com/watch?v=avtkQ9MxBZg</link>
-            <guid>https://www.youtube.com/watch?v=avtkQ9MxBZg</guid>
-            <pubDate>AUGUST 17, 2021 AT 08:00AM</pubDate>
-            <description>TI PRESENTO 30 GIORNI DI CRESCITA</description>
+            <title>Marco Montemagno - R101 a casa di Monty..</title>
+            <link>https://www.youtube.com/watch?v=AKxraPUIlgc</link>
+            <guid>https://www.youtube.com/watch?v=AKxraPUIlgc</guid>
+            <pubDate>JUNE 15, 2021 AT 01:41PM</pubDate>
+            <description>R101 a casa di Monty..</description>
         </item>
         <item>
             <title>Rudy Bandiera - 4 dettagli che dicono moltissimo su di te</title>
@@ -133,18 +91,60 @@
             <description>4 dettagli che dicono moltissimo su di te</description>
         </item>
         <item>
-            <title>Marco Montemagno - Food Talks con Carlo Cracco e Alessandro Bergamo</title>
-            <link>https://www.youtube.com/watch?v=zl6t3_9UiSY</link>
-            <guid>https://www.youtube.com/watch?v=zl6t3_9UiSY</guid>
-            <pubDate>MAY 20, 2021 AT 09:36AM</pubDate>
-            <description>Food Talks con Carlo Cracco e Alessandro Bergamo</description>
+            <title>Marco Montemagno - Shoemaker: a conversation with Reebok’s founder Joe Foster</title>
+            <link>https://www.youtube.com/watch?v=_l_YSlfeV6o</link>
+            <guid>https://www.youtube.com/watch?v=_l_YSlfeV6o</guid>
+            <pubDate>DECEMBER 10, 2021 AT 03:28PM</pubDate>
+            <description>Shoemaker: a conversation with Reebok’s founder Joe Foster</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Che gusto c’è a guardare uno che gioca ai videogiochi?</title>
-            <link>https://www.youtube.com/watch?v=8ghN03XA3gQ</link>
-            <guid>https://www.youtube.com/watch?v=8ghN03XA3gQ</guid>
-            <pubDate>DECEMBER 17, 2021 AT 09:02AM</pubDate>
-            <description>Che gusto c’è a guardare uno che gioca ai videogiochi?</description>
+            <title>Marco Montemagno - Come si intrattiene un pubblico? - Alessandro Cattelan</title>
+            <link>https://www.youtube.com/watch?v=7x7YHVaNpog</link>
+            <guid>https://www.youtube.com/watch?v=7x7YHVaNpog</guid>
+            <pubDate>AUGUST 25, 2021 AT 01:00PM</pubDate>
+            <description>Come si intrattiene un pubblico? - Alessandro Cattelan</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Perché il futuro della sostenibilità passa dall&#39;elettricità</title>
+            <link>https://www.youtube.com/watch?v=ueiCR_OY8KU</link>
+            <guid>https://www.youtube.com/watch?v=ueiCR_OY8KU</guid>
+            <pubDate>JULY 2, 2021 AT 03:00PM</pubDate>
+            <description>Perché il futuro della sostenibilità passa dall&#39;elettricità</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - I giganti social distribuiscono soldi a chi crea contenuto</title>
+            <link>https://www.youtube.com/watch?v=Mf0Caukt0kQ</link>
+            <guid>https://www.youtube.com/watch?v=Mf0Caukt0kQ</guid>
+            <pubDate>MAY 28, 2021 AT 08:51AM</pubDate>
+            <description>I giganti social distribuiscono soldi a chi crea contenuto</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Amazon paga l&#39;università ai dipendenti (mentre assume altre 125.000 persone)</title>
+            <link>https://www.youtube.com/watch?v=_1m5A82Hp40</link>
+            <guid>https://www.youtube.com/watch?v=_1m5A82Hp40</guid>
+            <pubDate>SEPTEMBER 18, 2021 AT 02:00PM</pubDate>
+            <description>Amazon paga l&#39;università ai dipendenti (mentre assume altre 125.000 persone)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Francesco Venturini, Enel X</title>
+            <link>https://www.youtube.com/watch?v=uytDTpsILFw</link>
+            <guid>https://www.youtube.com/watch?v=uytDTpsILFw</guid>
+            <pubDate>SEPTEMBER 7, 2021 AT 08:11PM</pubDate>
+            <description>Cambiamento climatico, elettrificazione e dintorni con Francesco Venturini, Enel X</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Da dove si parte per doppiare qualcuno? Ne avevamo parlato con Maurizio Merluzzo</title>
+            <link>https://www.youtube.com/watch?v=peIvWgg1PYY</link>
+            <guid>https://www.youtube.com/watch?v=peIvWgg1PYY</guid>
+            <pubDate>AUGUST 18, 2021 AT 06:30PM</pubDate>
+            <description>Da dove si parte per doppiare qualcuno? Ne avevamo parlato con Maurizio Merluzzo</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - &quot;Sii impaziente con le azioni, ma paziente con i risultati&quot; (Naval)</title>
+            <link>https://www.youtube.com/watch?v=xMHPznF_qs0</link>
+            <guid>https://www.youtube.com/watch?v=xMHPznF_qs0</guid>
+            <pubDate>DECEMBER 4, 2021 AT 04:00PM</pubDate>
+            <description>&quot;Sii impaziente con le azioni, ma paziente con i risultati&quot; (Naval)</description>
         </item>
     </channel>
 </rss>
