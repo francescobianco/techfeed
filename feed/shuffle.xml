@@ -5,84 +5,7 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Sun, 26 Dec 2021 13:22:18 +0000</lastBuildDate>
-        <item>
-            <title>Raffaele Gaito - IL PROBLEMA CON ALCUNI ESPERTI #shorts</title>
-            <link>https://www.youtube.com/watch?v=Qq7dpwlP8aw</link>
-            <guid>https://www.youtube.com/watch?v=Qq7dpwlP8aw</guid>
-            <pubDate>AUGUST 6, 2021 AT 08:00AM</pubDate>
-            <description>IL PROBLEMA CON ALCUNI ESPERTI #shorts</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Bitcoin: perché non puoi non conoscere Michael Saylor</title>
-            <link>https://www.youtube.com/watch?v=gMqtPe5kYls</link>
-            <guid>https://www.youtube.com/watch?v=gMqtPe5kYls</guid>
-            <pubDate>OCTOBER 19, 2021 AT 02:00PM</pubDate>
-            <description>Bitcoin: perché non puoi non conoscere Michael Saylor</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Il cambiamento climatico spiegato BENE: cos&#39;è e come combatterlo</title>
-            <link>https://www.youtube.com/watch?v=hCS6HdMf5Bo</link>
-            <guid>https://www.youtube.com/watch?v=hCS6HdMf5Bo</guid>
-            <pubDate>DECEMBER 13, 2021 AT 07:32PM</pubDate>
-            <description>Il cambiamento climatico spiegato BENE: cos&#39;è e come combatterlo</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Vuoi imparare a programmare?</title>
-            <link>https://www.youtube.com/watch?v=ueLooNS5iek</link>
-            <guid>https://www.youtube.com/watch?v=ueLooNS5iek</guid>
-            <pubDate>NOVEMBER 8, 2021 AT 03:00PM</pubDate>
-            <description>Vuoi imparare a programmare?</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - Le mie Newsletter e le mie Fonti: come mi organizzo</title>
-            <link>https://www.youtube.com/watch?v=SJWIku6zztk</link>
-            <guid>https://www.youtube.com/watch?v=SJWIku6zztk</guid>
-            <pubDate>JUNE 9, 2021 AT 07:30AM</pubDate>
-            <description>Le mie Newsletter e le mie Fonti: come mi organizzo</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Ti stai sabotando?</title>
-            <link>https://www.youtube.com/watch?v=5irXCLi6FJ4</link>
-            <guid>https://www.youtube.com/watch?v=5irXCLi6FJ4</guid>
-            <pubDate>SEPTEMBER 15, 2021 AT 02:11PM</pubDate>
-            <description>Ti stai sabotando?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Bufera sui Social! Sui social sono tutti contro tutti...</title>
-            <link>https://www.youtube.com/watch?v=pNJL82Ayg24</link>
-            <guid>https://www.youtube.com/watch?v=pNJL82Ayg24</guid>
-            <pubDate>JUNE 23, 2021 AT 06:42PM</pubDate>
-            <description>Bufera sui Social! Sui social sono tutti contro tutti...</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - L&#39;Italia s&#39;è desta! Come sta cambiando la percezione dell&#39;Italia nel mondo (e cosa si potrebbe fare)</title>
-            <link>https://www.youtube.com/watch?v=awJcWyt3pHA</link>
-            <guid>https://www.youtube.com/watch?v=awJcWyt3pHA</guid>
-            <pubDate>JULY 12, 2021 AT 06:24PM</pubDate>
-            <description>L&#39;Italia s&#39;è desta! Come sta cambiando la percezione dell&#39;Italia nel mondo (e cosa si potrebbe fare)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con Giacomo Poretti (Aldo, Giovanni e Giacomo)</title>
-            <link>https://www.youtube.com/watch?v=sSfI6l0w9MA</link>
-            <guid>https://www.youtube.com/watch?v=sSfI6l0w9MA</guid>
-            <pubDate>OCTOBER 2, 2021 AT 01:55PM</pubDate>
-            <description>4 chiacchiere con Giacomo Poretti (Aldo, Giovanni e Giacomo)</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Come #Facebook controlla i contenuti? Speciale Matteo incontra #Facebook (2 di 3)</title>
-            <link>https://www.youtube.com/watch?v=VtBxR7UkoFY</link>
-            <guid>https://www.youtube.com/watch?v=VtBxR7UkoFY</guid>
-            <pubDate>JULY 8, 2021 AT 09:00AM</pubDate>
-            <description>Come #Facebook controlla i contenuti? Speciale Matteo incontra #Facebook (2 di 3)</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - Sui social bisogna dire quello che si pensa?</title>
-            <link>https://www.youtube.com/watch?v=z5hSUktcuMc</link>
-            <guid>https://www.youtube.com/watch?v=z5hSUktcuMc</guid>
-            <pubDate>SEPTEMBER 28, 2021 AT 03:41PM</pubDate>
-            <description>Sui social bisogna dire quello che si pensa?</description>
-        </item>
+        <lastBuildDate>Mon, 27 Dec 2021 13:24:15 +0000</lastBuildDate>
         <item>
             <title>Marco Montemagno - Auto elettriche e nuove tecnologie... Facciamo il punto con Andrea Galeazzi</title>
             <link>https://www.youtube.com/watch?v=pfrTqZ9eE14</link>
@@ -91,46 +14,32 @@
             <description>Auto elettriche e nuove tecnologie... Facciamo il punto con Andrea Galeazzi</description>
         </item>
         <item>
-            <title>Matteo Flora - $SQUID: la TRUFFA della cryptovaluta rilanciata anche da Repubblica</title>
-            <link>https://www.youtube.com/watch?v=uknmp6-dFO4</link>
-            <guid>https://www.youtube.com/watch?v=uknmp6-dFO4</guid>
-            <pubDate>NOVEMBER 3, 2021 AT 07:45AM</pubDate>
-            <description>$SQUID: la TRUFFA della cryptovaluta rilanciata anche da Repubblica</description>
+            <title>Marco Montemagno - Tony Robbins: strategy, story and state #shorts</title>
+            <link>https://www.youtube.com/watch?v=sgfqiKyU4WM</link>
+            <guid>https://www.youtube.com/watch?v=sgfqiKyU4WM</guid>
+            <pubDate>MAY 11, 2021 AT 01:42PM</pubDate>
+            <description>Tony Robbins: strategy, story and state #shorts</description>
         </item>
         <item>
-            <title>Marco Montemagno - Perché il femminismo serve anche agli uomini. 4 chiacchiere con Lorenzo Gasparrini</title>
-            <link>https://www.youtube.com/watch?v=X9Y2SLpCJMY</link>
-            <guid>https://www.youtube.com/watch?v=X9Y2SLpCJMY</guid>
-            <pubDate>NOVEMBER 12, 2021 AT 03:14PM</pubDate>
-            <description>Perché il femminismo serve anche agli uomini. 4 chiacchiere con Lorenzo Gasparrini</description>
+            <title>Marco Montemagno - Non ho parole...(poi però non lamentiamoci del lavoro) #shorts</title>
+            <link>https://www.youtube.com/watch?v=LAI3ksteXOM</link>
+            <guid>https://www.youtube.com/watch?v=LAI3ksteXOM</guid>
+            <pubDate>JUNE 24, 2021 AT 07:30PM</pubDate>
+            <description>Non ho parole...(poi però non lamentiamoci del lavoro) #shorts</description>
         </item>
         <item>
-            <title>Marco Montemagno - Vuoi gestire la tua fatturazione/contabilità in modo semplice?</title>
-            <link>https://www.youtube.com/watch?v=z2zSQwY8jAs</link>
-            <guid>https://www.youtube.com/watch?v=z2zSQwY8jAs</guid>
-            <pubDate>NOVEMBER 18, 2021 AT 09:00AM</pubDate>
-            <description>Vuoi gestire la tua fatturazione/contabilità in modo semplice?</description>
+            <title>Rudy Bandiera - Black Friday: dati e previsioni</title>
+            <link>https://www.youtube.com/watch?v=IVBtwmPVywo</link>
+            <guid>https://www.youtube.com/watch?v=IVBtwmPVywo</guid>
+            <pubDate>OCTOBER 11, 2021 AT 12:29PM</pubDate>
+            <description>Black Friday: dati e previsioni</description>
         </item>
         <item>
-            <title>Matteo Flora - Cosa c&#39;è davvero dentro al QR code del Green Pass?</title>
-            <link>https://www.youtube.com/watch?v=4EW4WHiAv2A</link>
-            <guid>https://www.youtube.com/watch?v=4EW4WHiAv2A</guid>
-            <pubDate>JUNE 28, 2021 AT 11:01AM</pubDate>
-            <description>Cosa c&#39;è davvero dentro al QR code del Green Pass?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Su Competenze sta per arrivare Francesca Vecchioni con il corso Diversity &amp; Inclusion</title>
-            <link>https://www.youtube.com/watch?v=Rpptz2wz2no</link>
-            <guid>https://www.youtube.com/watch?v=Rpptz2wz2no</guid>
-            <pubDate>MAY 7, 2021 AT 12:29PM</pubDate>
-            <description>Su Competenze sta per arrivare Francesca Vecchioni con il corso Diversity &amp; Inclusion</description>
-        </item>
-        <item>
-            <title>Matteo Flora - DOCUMENTI ONLINE: quando la Trasparenza è troppa...</title>
-            <link>https://www.youtube.com/watch?v=tKNx58qROmc</link>
-            <guid>https://www.youtube.com/watch?v=tKNx58qROmc</guid>
-            <pubDate>MAY 17, 2021 AT 08:21AM</pubDate>
-            <description>DOCUMENTI ONLINE: quando la Trasparenza è troppa...</description>
+            <title>Rudy Bandiera - A 7 anni spende 1300 sterline in un videogame</title>
+            <link>https://www.youtube.com/watch?v=xY0VbwuGIbM</link>
+            <guid>https://www.youtube.com/watch?v=xY0VbwuGIbM</guid>
+            <pubDate>NOVEMBER 19, 2021 AT 09:07AM</pubDate>
+            <description>A 7 anni spende 1300 sterline in un videogame</description>
         </item>
         <item>
             <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Francesco Venturini, Enel X</title>
@@ -140,11 +49,102 @@
             <description>Cambiamento climatico, elettrificazione e dintorni con Francesco Venturini, Enel X</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Real Time Bergamo settembre 2021</title>
-            <link>https://www.youtube.com/watch?v=7Fs9pISi3X8</link>
-            <guid>https://www.youtube.com/watch?v=7Fs9pISi3X8</guid>
-            <pubDate>OCTOBER 6, 2021 AT 09:22AM</pubDate>
-            <description>Real Time Bergamo settembre 2021</description>
+            <title>Marco Montemagno - R101 a casa di Monty..</title>
+            <link>https://www.youtube.com/watch?v=AKxraPUIlgc</link>
+            <guid>https://www.youtube.com/watch?v=AKxraPUIlgc</guid>
+            <pubDate>JUNE 15, 2021 AT 01:41PM</pubDate>
+            <description>R101 a casa di Monty..</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Rayban Stories: parliamo dei nuovi occhiali di Facebook</title>
+            <link>https://www.youtube.com/watch?v=HEzA9CPcpns</link>
+            <guid>https://www.youtube.com/watch?v=HEzA9CPcpns</guid>
+            <pubDate>OCTOBER 11, 2021 AT 07:45AM</pubDate>
+            <description>Rayban Stories: parliamo dei nuovi occhiali di Facebook</description>
+        </item>
+        <item>
+            <title>Matteo Flora - [LIVE] #CiaoInternet Serale: HUDI, cosa è e come funziona?</title>
+            <link>https://www.youtube.com/watch?v=wmDmZO9K6V0</link>
+            <guid>https://www.youtube.com/watch?v=wmDmZO9K6V0</guid>
+            <pubDate>SEPTEMBER 13, 2021 AT 01:12PM</pubDate>
+            <description>[LIVE] #CiaoInternet Serale: HUDI, cosa è e come funziona?</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Facebook e Instagram a pagamento per colpa di Apple?</title>
+            <link>https://www.youtube.com/watch?v=JngaCH8MmGM</link>
+            <guid>https://www.youtube.com/watch?v=JngaCH8MmGM</guid>
+            <pubDate>MAY 4, 2021 AT 08:00AM</pubDate>
+            <description>Facebook e Instagram a pagamento per colpa di Apple?</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - E-commerce: aumentare le conversioni da mobile con i test. 5 Chicche di UX</title>
+            <link>https://www.youtube.com/watch?v=2FZA1pEER9o</link>
+            <guid>https://www.youtube.com/watch?v=2FZA1pEER9o</guid>
+            <pubDate>MAY 25, 2021 AT 07:30AM</pubDate>
+            <description>E-commerce: aumentare le conversioni da mobile con i test. 5 Chicche di UX</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Smettila di giudicare</title>
+            <link>https://www.youtube.com/watch?v=wDLFqqXdgXs</link>
+            <guid>https://www.youtube.com/watch?v=wDLFqqXdgXs</guid>
+            <pubDate>NOVEMBER 15, 2021 AT 01:00PM</pubDate>
+            <description>Smettila di giudicare</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Renzi, Mancini, Report e cosa non mi torna...</title>
+            <link>https://www.youtube.com/watch?v=BG--tVmBQu8</link>
+            <guid>https://www.youtube.com/watch?v=BG--tVmBQu8</guid>
+            <pubDate>MAY 9, 2021 AT 10:46AM</pubDate>
+            <description>Renzi, Mancini, Report e cosa non mi torna...</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Fingere il #Cancro per soldi: la storia della streamer che finse un cancro per due spiccioli...</title>
+            <link>https://www.youtube.com/watch?v=wEApGudIRs0</link>
+            <guid>https://www.youtube.com/watch?v=wEApGudIRs0</guid>
+            <pubDate>SEPTEMBER 10, 2021 AT 07:59AM</pubDate>
+            <description>Fingere il #Cancro per soldi: la storia della streamer che finse un cancro per due spiccioli...</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 5 curiosità che forse non sapevi sulle Olimpiadi 2021</title>
+            <link>https://www.youtube.com/watch?v=_88OlO2xCfs</link>
+            <guid>https://www.youtube.com/watch?v=_88OlO2xCfs</guid>
+            <pubDate>JULY 24, 2021 AT 04:04PM</pubDate>
+            <description>5 curiosità che forse non sapevi sulle Olimpiadi 2021</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Il #disastro #Reputazionale della Nazionale Cantanti, tra Aurora Leone e Gian Luca Pecchini</title>
+            <link>https://www.youtube.com/watch?v=zhcYfux2Fco</link>
+            <guid>https://www.youtube.com/watch?v=zhcYfux2Fco</guid>
+            <pubDate>MAY 25, 2021 AT 09:54PM</pubDate>
+            <description>Il #disastro #Reputazionale della Nazionale Cantanti, tra Aurora Leone e Gian Luca Pecchini</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - AUMENTARE VENDITE ECOMMERCE (9 CANALI DA USARE)</title>
+            <link>https://www.youtube.com/watch?v=5SMYPYDCkXg</link>
+            <guid>https://www.youtube.com/watch?v=5SMYPYDCkXg</guid>
+            <pubDate>JUNE 8, 2021 AT 08:00AM</pubDate>
+            <description>AUMENTARE VENDITE ECOMMERCE (9 CANALI DA USARE)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Come trasformare i tuoi limiti in punti di forza? Ne avevamo parlato con Jovanotti</title>
+            <link>https://www.youtube.com/watch?v=Y2LWSgxbyH4</link>
+            <guid>https://www.youtube.com/watch?v=Y2LWSgxbyH4</guid>
+            <pubDate>AUGUST 23, 2021 AT 06:01PM</pubDate>
+            <description>Come trasformare i tuoi limiti in punti di forza? Ne avevamo parlato con Jovanotti</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Davide Boosta Dileo e DANIJEL</title>
+            <link>https://www.youtube.com/watch?v=bPO60D88NdA</link>
+            <guid>https://www.youtube.com/watch?v=bPO60D88NdA</guid>
+            <pubDate>JUNE 7, 2021 AT 10:41AM</pubDate>
+            <description>4 chiacchiere con Davide Boosta Dileo e DANIJEL</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Simone Cristicchi</title>
+            <link>https://www.youtube.com/watch?v=55vVU_VZY4Y</link>
+            <guid>https://www.youtube.com/watch?v=55vVU_VZY4Y</guid>
+            <pubDate>NOVEMBER 11, 2021 AT 02:30PM</pubDate>
+            <description>4 chiacchiere con Simone Cristicchi</description>
         </item>
     </channel>
 </rss>
