@@ -5,97 +5,27 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Fri, 31 Dec 2021 13:23:43 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 13:22:38 +0000</lastBuildDate>
         <item>
-            <title>Raffaele Gaito - AZIENDE E SOSTENIBILITÀ: IL CASO TIMBERLAND</title>
-            <link>https://www.youtube.com/watch?v=F2UXJK5Hawc</link>
-            <guid>https://www.youtube.com/watch?v=F2UXJK5Hawc</guid>
-            <pubDate>JUNE 22, 2021 AT 08:00AM</pubDate>
-            <description>AZIENDE E SOSTENIBILITÀ: IL CASO TIMBERLAND</description>
+            <title>Marco Montemagno - Crypto is growing exponentially: which factors are driving that?</title>
+            <link>https://www.youtube.com/watch?v=iBKH4GGd_PU</link>
+            <guid>https://www.youtube.com/watch?v=iBKH4GGd_PU</guid>
+            <pubDate>DECEMBER 1, 2021 AT 01:00PM</pubDate>
+            <description>Crypto is growing exponentially: which factors are driving that?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Impara il Growth Hacking!</title>
-            <link>https://www.youtube.com/watch?v=NlyBRrkEoro</link>
-            <guid>https://www.youtube.com/watch?v=NlyBRrkEoro</guid>
-            <pubDate>SEPTEMBER 8, 2021 AT 04:11PM</pubDate>
-            <description>Impara il Growth Hacking!</description>
+            <title>Matteo Flora - [LIVE] - &quot;Il Diritto di Non-Opinione&quot;, Ciao Internet in DIRETTA 🔥</title>
+            <link>https://www.youtube.com/watch?v=bv49nggSmME</link>
+            <guid>https://www.youtube.com/watch?v=bv49nggSmME</guid>
+            <pubDate>MAY 9, 2021 AT 09:00AM</pubDate>
+            <description>[LIVE] - &quot;Il Diritto di Non-Opinione&quot;, Ciao Internet in DIRETTA 🔥</description>
         </item>
         <item>
-            <title>Marco Montemagno - Perché dovresti chiedere un aumento oggi stesso!</title>
-            <link>https://www.youtube.com/watch?v=dlLsAt6Z7J0</link>
-            <guid>https://www.youtube.com/watch?v=dlLsAt6Z7J0</guid>
-            <pubDate>SEPTEMBER 4, 2021 AT 10:00AM</pubDate>
-            <description>Perché dovresti chiedere un aumento oggi stesso!</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Chi sono le Virtual Influencer e perché sono un pericolo per le nostre libertà</title>
-            <link>https://www.youtube.com/watch?v=HpDJvijSp5c</link>
-            <guid>https://www.youtube.com/watch?v=HpDJvijSp5c</guid>
-            <pubDate>SEPTEMBER 15, 2021 AT 09:17AM</pubDate>
-            <description>Chi sono le Virtual Influencer e perché sono un pericolo per le nostre libertà</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Acquistare terreni nel metaverso è un buon investimento?</title>
-            <link>https://www.youtube.com/watch?v=_2LL95XD5vQ</link>
-            <guid>https://www.youtube.com/watch?v=_2LL95XD5vQ</guid>
-            <pubDate>DECEMBER 15, 2021 AT 12:30PM</pubDate>
-            <description>Acquistare terreni nel metaverso è un buon investimento?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - E-commerce 2022: 3 consigli</title>
-            <link>https://www.youtube.com/watch?v=zTkG0r6k6fI</link>
-            <guid>https://www.youtube.com/watch?v=zTkG0r6k6fI</guid>
-            <pubDate>DECEMBER 29, 2021 AT 01:00PM</pubDate>
-            <description>E-commerce 2022: 3 consigli</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con Gino D&#39;Acampo</title>
-            <link>https://www.youtube.com/watch?v=Sfl-pl_GTMU</link>
-            <guid>https://www.youtube.com/watch?v=Sfl-pl_GTMU</guid>
-            <pubDate>JULY 27, 2021 AT 04:46PM</pubDate>
-            <description>4 chiacchiere con Gino D&#39;Acampo</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - Quanto testo scrivere in un post di Linkedin?</title>
-            <link>https://www.youtube.com/watch?v=KC3Vs8FdRGI</link>
-            <guid>https://www.youtube.com/watch?v=KC3Vs8FdRGI</guid>
-            <pubDate>JUNE 15, 2021 AT 08:47AM</pubDate>
-            <description>Quanto testo scrivere in un post di Linkedin?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Cosa pensi che sia INEVITABILE?</title>
-            <link>https://www.youtube.com/watch?v=rCutCCKVYy4</link>
-            <guid>https://www.youtube.com/watch?v=rCutCCKVYy4</guid>
-            <pubDate>DECEMBER 16, 2021 AT 09:00AM</pubDate>
-            <description>Cosa pensi che sia INEVITABILE?</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Barbara Palombelli ed il DISASTRO delle (non) scuse...</title>
-            <link>https://www.youtube.com/watch?v=Mg57Uj58LrY</link>
-            <guid>https://www.youtube.com/watch?v=Mg57Uj58LrY</guid>
-            <pubDate>SEPTEMBER 22, 2021 AT 11:28AM</pubDate>
-            <description>Barbara Palombelli ed il DISASTRO delle (non) scuse...</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Se tornassi indietro, mi darei 4 suggerimenti ...</title>
-            <link>https://www.youtube.com/watch?v=jiXxdciVWTE</link>
-            <guid>https://www.youtube.com/watch?v=jiXxdciVWTE</guid>
-            <pubDate>AUGUST 21, 2021 AT 01:00PM</pubDate>
-            <description>Se tornassi indietro, mi darei 4 suggerimenti ...</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Quali sfide per la Privacy nel 2022? Ne parliamo con Guido Scorza!</title>
-            <link>https://www.youtube.com/watch?v=HTzBi89B41I</link>
-            <guid>https://www.youtube.com/watch?v=HTzBi89B41I</guid>
-            <pubDate>SEPTEMBER 6, 2021 AT 03:30PM</pubDate>
-            <description>Quali sfide per la Privacy nel 2022? Ne parliamo con Guido Scorza!</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Speciale Amazon: l&#39;ultimo giorno di Jeff Bezos da CEO</title>
-            <link>https://www.youtube.com/watch?v=qnJnitCM_BM</link>
-            <guid>https://www.youtube.com/watch?v=qnJnitCM_BM</guid>
-            <pubDate>JULY 3, 2021 AT 12:18PM</pubDate>
-            <description>Speciale Amazon: l&#39;ultimo giorno di Jeff Bezos da CEO</description>
+            <title>Giorgio Taverniti - Che news dalle Web Stories: sondaggi, quiz e stories a 360°!</title>
+            <link>https://www.youtube.com/watch?v=u6FhVqkDF1o</link>
+            <guid>https://www.youtube.com/watch?v=u6FhVqkDF1o</guid>
+            <pubDate>MAY 27, 2021 AT 07:30AM</pubDate>
+            <description>Che news dalle Web Stories: sondaggi, quiz e stories a 360°!</description>
         </item>
         <item>
             <title>Marco Montemagno - Su Competenze sta per arrivare Francesca Vecchioni con il corso Diversity &amp; Inclusion</title>
@@ -105,46 +35,116 @@
             <description>Su Competenze sta per arrivare Francesca Vecchioni con il corso Diversity &amp; Inclusion</description>
         </item>
         <item>
-            <title>Raffaele Gaito - Raffaele Gaito intervista Marco Montemagno</title>
-            <link>https://www.youtube.com/watch?v=B9hvpRS0aYs</link>
-            <guid>https://www.youtube.com/watch?v=B9hvpRS0aYs</guid>
-            <pubDate>JUNE 14, 2021 AT 07:42PM</pubDate>
-            <description>Raffaele Gaito intervista Marco Montemagno</description>
+            <title>Matteo Flora - TUTTI i #GreenPass italiani online! Ma è vero?</title>
+            <link>https://www.youtube.com/watch?v=olUCkl1eaZ4</link>
+            <guid>https://www.youtube.com/watch?v=olUCkl1eaZ4</guid>
+            <pubDate>NOVEMBER 20, 2021 AT 11:48AM</pubDate>
+            <description>TUTTI i #GreenPass italiani online! Ma è vero?</description>
         </item>
         <item>
-            <title>Matteo Flora - SIAE e #databreach: cosa è successo e tutto quello che ancora non torna</title>
-            <link>https://www.youtube.com/watch?v=82g7ujRYgCk</link>
-            <guid>https://www.youtube.com/watch?v=82g7ujRYgCk</guid>
-            <pubDate>OCTOBER 22, 2021 AT 04:26PM</pubDate>
-            <description>SIAE e #databreach: cosa è successo e tutto quello che ancora non torna</description>
+            <title>Matteo Flora - 🤡 #NoGreenPass: il devastante FLOP della manifestazione Telegram di BASTA DITTATURA!</title>
+            <link>https://www.youtube.com/watch?v=nD9W8zJiX8g</link>
+            <guid>https://www.youtube.com/watch?v=nD9W8zJiX8g</guid>
+            <pubDate>SEPTEMBER 2, 2021 AT 07:46AM</pubDate>
+            <description>🤡 #NoGreenPass: il devastante FLOP della manifestazione Telegram di BASTA DITTATURA!</description>
         </item>
         <item>
-            <title>Raffaele Gaito - COME ATTRARRE IL LAVORO DEI SOGNI</title>
-            <link>https://www.youtube.com/watch?v=lNZ_a6sFS5E</link>
-            <guid>https://www.youtube.com/watch?v=lNZ_a6sFS5E</guid>
-            <pubDate>JULY 31, 2020 AT 08:00AM</pubDate>
-            <description>COME ATTRARRE IL LAVORO DEI SOGNI</description>
+            <title>Matteo Flora - Multe del Garante a Roma e Lombardia: chi paga e dove vanno i soldi?</title>
+            <link>https://www.youtube.com/watch?v=rGzwN8UbJp4</link>
+            <guid>https://www.youtube.com/watch?v=rGzwN8UbJp4</guid>
+            <pubDate>SEPTEMBER 13, 2021 AT 11:15AM</pubDate>
+            <description>Multe del Garante a Roma e Lombardia: chi paga e dove vanno i soldi?</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Conta di più Jeff Bezos o il cambiamento climatico?</title>
-            <link>https://www.youtube.com/watch?v=jlwPlRb1jYU</link>
-            <guid>https://www.youtube.com/watch?v=jlwPlRb1jYU</guid>
-            <pubDate>NOVEMBER 12, 2021 AT 09:18AM</pubDate>
-            <description>Conta di più Jeff Bezos o il cambiamento climatico?</description>
+            <title>Matteo Flora - Il gruppo telegram no-greenpass BASTA CENSURA è stato bannato da Telegram. Cosa c&#39;è sotto?</title>
+            <link>https://www.youtube.com/watch?v=BM62cUtiKp4</link>
+            <guid>https://www.youtube.com/watch?v=BM62cUtiKp4</guid>
+            <pubDate>SEPTEMBER 28, 2021 AT 01:28PM</pubDate>
+            <description>Il gruppo telegram no-greenpass BASTA CENSURA è stato bannato da Telegram. Cosa c&#39;è sotto?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Perché Facebook cambia nome?</title>
-            <link>https://www.youtube.com/watch?v=lD92uGvMV4g</link>
-            <guid>https://www.youtube.com/watch?v=lD92uGvMV4g</guid>
-            <pubDate>OCTOBER 22, 2021 AT 12:00PM</pubDate>
-            <description>Perché Facebook cambia nome?</description>
+            <title>Matteo Flora - Ha Stato l&#39;Hacker: la Gioielleria Autieri e i Ferragnez</title>
+            <link>https://www.youtube.com/watch?v=u4vkO2QPKr0</link>
+            <guid>https://www.youtube.com/watch?v=u4vkO2QPKr0</guid>
+            <pubDate>DECEMBER 17, 2021 AT 08:45AM</pubDate>
+            <description>Ha Stato l&#39;Hacker: la Gioielleria Autieri e i Ferragnez</description>
         </item>
         <item>
-            <title>Marco Montemagno - 7 cose che ha detto Elon Musk che fanno riflettere</title>
-            <link>https://www.youtube.com/watch?v=1hPUXev58IM</link>
-            <guid>https://www.youtube.com/watch?v=1hPUXev58IM</guid>
-            <pubDate>DECEMBER 11, 2021 AT 01:00PM</pubDate>
-            <description>7 cose che ha detto Elon Musk che fanno riflettere</description>
+            <title>Marco Montemagno - Quanti contenuti al giorno pubblicare sui social?</title>
+            <link>https://www.youtube.com/watch?v=74E6qsjkOik</link>
+            <guid>https://www.youtube.com/watch?v=74E6qsjkOik</guid>
+            <pubDate>OCTOBER 24, 2021 AT 01:30PM</pubDate>
+            <description>Quanti contenuti al giorno pubblicare sui social?</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Mi hanno rubato il canale! Le nuove truffe e come evitare che ti rubino i profili!</title>
+            <link>https://www.youtube.com/watch?v=H467gzIYjXM</link>
+            <guid>https://www.youtube.com/watch?v=H467gzIYjXM</guid>
+            <pubDate>AUGUST 21, 2021 AT 08:35AM</pubDate>
+            <description>Mi hanno rubato il canale! Le nuove truffe e come evitare che ti rubino i profili!</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - VIDEO SPONSORIZZATI: RIFLESSIONI E SUGGERIMENTI</title>
+            <link>https://www.youtube.com/watch?v=lEEtOpxhpGM</link>
+            <guid>https://www.youtube.com/watch?v=lEEtOpxhpGM</guid>
+            <pubDate>MAY 21, 2021 AT 08:00AM</pubDate>
+            <description>VIDEO SPONSORIZZATI: RIFLESSIONI E SUGGERIMENTI</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - E ora che è finita che faccio? Da dove ricominciare quando finisce una carriera?</title>
+            <link>https://www.youtube.com/watch?v=ozH7rH6GIm4</link>
+            <guid>https://www.youtube.com/watch?v=ozH7rH6GIm4</guid>
+            <pubDate>AUGUST 6, 2021 AT 12:00PM</pubDate>
+            <description>E ora che è finita che faccio? Da dove ricominciare quando finisce una carriera?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Non ho parole...(poi però non lamentiamoci del lavoro) #shorts</title>
+            <link>https://www.youtube.com/watch?v=LAI3ksteXOM</link>
+            <guid>https://www.youtube.com/watch?v=LAI3ksteXOM</guid>
+            <pubDate>JUNE 24, 2021 AT 07:30PM</pubDate>
+            <description>Non ho parole...(poi però non lamentiamoci del lavoro) #shorts</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Perché l&#39;inclusione parte dal linguaggio?</title>
+            <link>https://www.youtube.com/watch?v=T63BFx9UUDI</link>
+            <guid>https://www.youtube.com/watch?v=T63BFx9UUDI</guid>
+            <pubDate>NOVEMBER 27, 2021 AT 03:00PM</pubDate>
+            <description>Perché l&#39;inclusione parte dal linguaggio?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Matthew McConaughey</title>
+            <link>https://www.youtube.com/watch?v=36-4W2PMs4s</link>
+            <guid>https://www.youtube.com/watch?v=36-4W2PMs4s</guid>
+            <pubDate>NOVEMBER 7, 2021 AT 02:00PM</pubDate>
+            <description>4 chiacchiere con Matthew McConaughey</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Ice Swimming (nuotare senza muta in acque gelide) con Paolo Chiarino</title>
+            <link>https://www.youtube.com/watch?v=ZaOEEYslbWI</link>
+            <guid>https://www.youtube.com/watch?v=ZaOEEYslbWI</guid>
+            <pubDate>MAY 26, 2021 AT 12:24PM</pubDate>
+            <description>Ice Swimming (nuotare senza muta in acque gelide) con Paolo Chiarino</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Come essere felici? - Umberto Galimberti</title>
+            <link>https://www.youtube.com/watch?v=53OFBbuJi98</link>
+            <guid>https://www.youtube.com/watch?v=53OFBbuJi98</guid>
+            <pubDate>AUGUST 17, 2021 AT 01:00PM</pubDate>
+            <description>Come essere felici? - Umberto Galimberti</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Fan Tokens with Alexander Dreyfus (Socios.com)</title>
+            <link>https://www.youtube.com/watch?v=cKAMg4okF44</link>
+            <guid>https://www.youtube.com/watch?v=cKAMg4okF44</guid>
+            <pubDate>DECEMBER 5, 2021 AT 03:00PM</pubDate>
+            <description>Fan Tokens with Alexander Dreyfus (Socios.com)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Speciale Amazon: l&#39;ultimo giorno di Jeff Bezos da CEO</title>
+            <link>https://www.youtube.com/watch?v=qnJnitCM_BM</link>
+            <guid>https://www.youtube.com/watch?v=qnJnitCM_BM</guid>
+            <pubDate>JULY 3, 2021 AT 12:18PM</pubDate>
+            <description>Speciale Amazon: l&#39;ultimo giorno di Jeff Bezos da CEO</description>
         </item>
     </channel>
 </rss>
