@@ -5,7 +5,7 @@
         <description>Tutte le novità in tempo reale dei tech opinion leader italiani</description>
         <link>https://techfeed.ml/feed/inbox.xml</link>
         <managingEditor>bianco@javanile.org (Francesco Bianco)</managingEditor>
-        <lastBuildDate>Mon, 24 Jan 2022 23:52:20 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 01:11:54 +0000</lastBuildDate>
         <item>
             <title>Matteo Flora - DataBreach: quando serve la notifica al Garante e quando la comunicazione agli interessati?</title>
             <link>https://www.youtube.com/watch?v=jwHQUarUcU8</link>
@@ -33,13 +33,6 @@
             <guid>https://www.youtube.com/watch?v=rf9ZP3rzQsY</guid>
             <pubDate>JANUARY 24, 2022 AT 10:00AM</pubDate>
             <description>Pregiudizio o realtà: qual è il confine?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - A conversation with Dangiuz</title>
-            <link>https://www.youtube.com/watch?v=H9B7QyPgqaQ</link>
-            <guid>https://www.youtube.com/watch?v=H9B7QyPgqaQ</guid>
-            <pubDate>JANUARY 23, 2022 AT 11:09AM</pubDate>
-            <description>A conversation with Dangiuz</description>
         </item>
     </channel>
 </rss>
