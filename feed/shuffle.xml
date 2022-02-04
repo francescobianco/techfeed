@@ -5,55 +5,34 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Thu, 03 Feb 2022 13:18:42 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 13:14:11 +0000</lastBuildDate>
         <item>
-            <title>Matteo Flora - Data Breach e sanzioni GDPR: 225M nel 2021. Commentiamo lo studio con Giulio Coraggio</title>
-            <link>https://www.youtube.com/watch?v=mPdiP5EdUd8</link>
-            <guid>https://www.youtube.com/watch?v=mPdiP5EdUd8</guid>
-            <pubDate>JANUARY 28, 2022 AT 02:29PM</pubDate>
-            <description>Data Breach e sanzioni GDPR: 225M nel 2021. Commentiamo lo studio con Giulio Coraggio</description>
+            <title>Marco Montemagno - Perché il femminismo serve anche agli uomini - 4 chiacchiere con Lorenzo Gasparrini</title>
+            <link>https://www.youtube.com/watch?v=g9zWbkLOe0c</link>
+            <guid>https://www.youtube.com/watch?v=g9zWbkLOe0c</guid>
+            <pubDate>NOVEMBER 12, 2021 AT 02:30PM</pubDate>
+            <description>Perché il femminismo serve anche agli uomini - 4 chiacchiere con Lorenzo Gasparrini</description>
         </item>
         <item>
-            <title>Matteo Flora - Log4j e Log4Shell: tutto quello da sapere sulla vulnerabilità 0-day con Stefano @raistolo Zanero</title>
-            <link>https://www.youtube.com/watch?v=vOo982VdHM0</link>
-            <guid>https://www.youtube.com/watch?v=vOo982VdHM0</guid>
-            <pubDate>DECEMBER 12, 2021 AT 06:32PM</pubDate>
-            <description>Log4j e Log4Shell: tutto quello da sapere sulla vulnerabilità 0-day con Stefano @raistolo Zanero</description>
+            <title>Raffaele Gaito - HO IL TERRORE! E TU?</title>
+            <link>https://www.youtube.com/watch?v=iBPoqd66OyQ</link>
+            <guid>https://www.youtube.com/watch?v=iBPoqd66OyQ</guid>
+            <pubDate>MARCH 30, 2021 AT 08:00AM</pubDate>
+            <description>HO IL TERRORE! E TU?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Food Talks 4 chiacchiere con Valeria Raimondi, Editor in Chief FineDiningLovers</title>
-            <link>https://www.youtube.com/watch?v=KBXFIq_xWmo</link>
-            <guid>https://www.youtube.com/watch?v=KBXFIq_xWmo</guid>
-            <pubDate>MAY 19, 2021 AT 09:24AM</pubDate>
-            <description>Food Talks 4 chiacchiere con Valeria Raimondi, Editor in Chief FineDiningLovers</description>
+            <title>Marco Montemagno - I poveri hanno grandi televisori, i ricchi hanno grandi librerie</title>
+            <link>https://www.youtube.com/watch?v=QiOzbrEWnTs</link>
+            <guid>https://www.youtube.com/watch?v=QiOzbrEWnTs</guid>
+            <pubDate>OCTOBER 29, 2021 AT 01:30PM</pubDate>
+            <description>I poveri hanno grandi televisori, i ricchi hanno grandi librerie</description>
         </item>
         <item>
-            <title>Marco Montemagno - Perché dovresti fregartene di quanti follower hai</title>
-            <link>https://www.youtube.com/watch?v=tONxNxARVNs</link>
-            <guid>https://www.youtube.com/watch?v=tONxNxARVNs</guid>
-            <pubDate>OCTOBER 30, 2021 AT 01:00PM</pubDate>
-            <description>Perché dovresti fregartene di quanti follower hai</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - Arriva su Google il profilo per Giornalisti e Content Creator!</title>
-            <link>https://www.youtube.com/watch?v=FSZaobShGl0</link>
-            <guid>https://www.youtube.com/watch?v=FSZaobShGl0</guid>
-            <pubDate>JUNE 17, 2021 AT 07:30AM</pubDate>
-            <description>Arriva su Google il profilo per Giornalisti e Content Creator!</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Chi controlla il Web?</title>
-            <link>https://www.youtube.com/watch?v=1FjN8FSRGEI</link>
-            <guid>https://www.youtube.com/watch?v=1FjN8FSRGEI</guid>
-            <pubDate>JANUARY 5, 2022 AT 10:00AM</pubDate>
-            <description>Chi controlla il Web?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Yuval Noah Harari:  after the pandemic, science has once again become the highest authority#shorts</title>
-            <link>https://www.youtube.com/watch?v=wUPF7Vzzu2k</link>
-            <guid>https://www.youtube.com/watch?v=wUPF7Vzzu2k</guid>
-            <pubDate>MAY 7, 2021 AT 08:21AM</pubDate>
-            <description>Yuval Noah Harari:  after the pandemic, science has once again become the highest authority#shorts</description>
+            <title>Marco Montemagno - Bitcoin, crypto e regolamentazione: facciamo chiarezza</title>
+            <link>https://www.youtube.com/watch?v=-doh-3adtQI</link>
+            <guid>https://www.youtube.com/watch?v=-doh-3adtQI</guid>
+            <pubDate>SEPTEMBER 22, 2021 AT 06:19PM</pubDate>
+            <description>Bitcoin, crypto e regolamentazione: facciamo chiarezza</description>
         </item>
         <item>
             <title>Matteo Flora - [LIVE] Ciao Internet SERALE in DIRETTA del 01.12.2021</title>
@@ -63,88 +42,109 @@
             <description>[LIVE] Ciao Internet SERALE in DIRETTA del 01.12.2021</description>
         </item>
         <item>
-            <title>Marco Montemagno - Acquistare terreni nel metaverso è un buon investimento?</title>
-            <link>https://www.youtube.com/watch?v=_2LL95XD5vQ</link>
-            <guid>https://www.youtube.com/watch?v=_2LL95XD5vQ</guid>
-            <pubDate>DECEMBER 15, 2021 AT 12:30PM</pubDate>
-            <description>Acquistare terreni nel metaverso è un buon investimento?</description>
+            <title>Giorgio Taverniti - Google Project Starline e le altre incredibili novità del Google I/O</title>
+            <link>https://www.youtube.com/watch?v=oN1deB5sF-Q</link>
+            <guid>https://www.youtube.com/watch?v=oN1deB5sF-Q</guid>
+            <pubDate>JUNE 4, 2021 AT 07:30AM</pubDate>
+            <description>Google Project Starline e le altre incredibili novità del Google I/O</description>
         </item>
         <item>
-            <title>Marco Montemagno - Conosci la legge dello schiaffone?</title>
-            <link>https://www.youtube.com/watch?v=cdo3-1ermxI</link>
-            <guid>https://www.youtube.com/watch?v=cdo3-1ermxI</guid>
-            <pubDate>JANUARY 8, 2022 AT 01:00PM</pubDate>
-            <description>Conosci la legge dello schiaffone?</description>
+            <title>Marco Montemagno - Arriva il Web3: tra bolla e rivoluzione</title>
+            <link>https://www.youtube.com/watch?v=0JuYGTqIzKY</link>
+            <guid>https://www.youtube.com/watch?v=0JuYGTqIzKY</guid>
+            <pubDate>JANUARY 30, 2022 AT 02:30PM</pubDate>
+            <description>Arriva il Web3: tra bolla e rivoluzione</description>
         </item>
         <item>
-            <title>Marco Montemagno - E ora che è finita che faccio? Da dove ricominciare quando finisce una carriera?</title>
-            <link>https://www.youtube.com/watch?v=ozH7rH6GIm4</link>
-            <guid>https://www.youtube.com/watch?v=ozH7rH6GIm4</guid>
-            <pubDate>AUGUST 6, 2021 AT 12:00PM</pubDate>
-            <description>E ora che è finita che faccio? Da dove ricominciare quando finisce una carriera?</description>
+            <title>Marco Montemagno - Come ha fatto TikTok a conquistare il mondo (alla velocità della luce)?</title>
+            <link>https://www.youtube.com/watch?v=LeK11lHxaCQ</link>
+            <guid>https://www.youtube.com/watch?v=LeK11lHxaCQ</guid>
+            <pubDate>JULY 14, 2021 AT 12:00PM</pubDate>
+            <description>Come ha fatto TikTok a conquistare il mondo (alla velocità della luce)?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Mentalità olimpica con Valentina Marchei</title>
-            <link>https://www.youtube.com/watch?v=H_ap3AIgU9E</link>
-            <guid>https://www.youtube.com/watch?v=H_ap3AIgU9E</guid>
-            <pubDate>SEPTEMBER 13, 2021 AT 12:42PM</pubDate>
-            <description>Mentalità olimpica con Valentina Marchei</description>
+            <title>Marco Montemagno - Crypto e Dintorni - 4 chiacchiere con Silvio Micali (Algorand)</title>
+            <link>https://www.youtube.com/watch?v=Ia-wVqiZZFM</link>
+            <guid>https://www.youtube.com/watch?v=Ia-wVqiZZFM</guid>
+            <pubDate>JUNE 17, 2021 AT 11:49AM</pubDate>
+            <description>Crypto e Dintorni - 4 chiacchiere con Silvio Micali (Algorand)</description>
         </item>
         <item>
-            <title>Marco Montemagno - NFT: cosa sono e quali sono i possibili utilizzi? #NFTDAY</title>
-            <link>https://www.youtube.com/watch?v=XN-8UlJG9LE</link>
-            <guid>https://www.youtube.com/watch?v=XN-8UlJG9LE</guid>
-            <pubDate>FEBRUARY 1, 2022 AT 09:45AM</pubDate>
-            <description>NFT: cosa sono e quali sono i possibili utilizzi? #NFTDAY</description>
+            <title>Rudy Bandiera - 3 mosse per risolvere problemi impossibili</title>
+            <link>https://www.youtube.com/watch?v=cqRbOjkHj_Q</link>
+            <guid>https://www.youtube.com/watch?v=cqRbOjkHj_Q</guid>
+            <pubDate>SEPTEMBER 15, 2021 AT 09:01AM</pubDate>
+            <description>3 mosse per risolvere problemi impossibili</description>
         </item>
         <item>
-            <title>Marco Montemagno - Tutti (ancora) pazzi per gli NFT</title>
-            <link>https://www.youtube.com/watch?v=LAC2LiW6amA</link>
-            <guid>https://www.youtube.com/watch?v=LAC2LiW6amA</guid>
-            <pubDate>AUGUST 25, 2021 AT 05:56PM</pubDate>
-            <description>Tutti (ancora) pazzi per gli NFT</description>
+            <title>Rudy Bandiera - Cosa succederà al lavoro DOPO la pandemia? #in2minuti</title>
+            <link>https://www.youtube.com/watch?v=Qo2IiixUsBw</link>
+            <guid>https://www.youtube.com/watch?v=Qo2IiixUsBw</guid>
+            <pubDate>MAY 12, 2021 AT 04:18PM</pubDate>
+            <description>Cosa succederà al lavoro DOPO la pandemia? #in2minuti</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Quali lavori spariranno nel futuro?</title>
-            <link>https://www.youtube.com/watch?v=amfqEKZiGck</link>
-            <guid>https://www.youtube.com/watch?v=amfqEKZiGck</guid>
-            <pubDate>OCTOBER 20, 2021 AT 08:58AM</pubDate>
-            <description>Quali lavori spariranno nel futuro?</description>
+            <title>Matteo Flora - Draghi nel mirino dei No Vax, nelle chat minacce al premiere gli indirizzi di casa...</title>
+            <link>https://www.youtube.com/watch?v=GYE45aC7seU</link>
+            <guid>https://www.youtube.com/watch?v=GYE45aC7seU</guid>
+            <pubDate>DECEMBER 13, 2021 AT 08:30AM</pubDate>
+            <description>Draghi nel mirino dei No Vax, nelle chat minacce al premiere gli indirizzi di casa...</description>
         </item>
         <item>
-            <title>Marco Montemagno - Leonteq: Demo live e Q&amp;A</title>
-            <link>https://www.youtube.com/watch?v=BoT7jm4II7A</link>
-            <guid>https://www.youtube.com/watch?v=BoT7jm4II7A</guid>
-            <pubDate>DECEMBER 2, 2021 AT 11:15AM</pubDate>
-            <description>Leonteq: Demo live e Q&amp;A</description>
+            <title>Giorgio Taverniti - Quali sono i Tool indispensabili per la SEO? +17 domande nel Q&amp;A</title>
+            <link>https://www.youtube.com/watch?v=NNuKkjpEK98</link>
+            <guid>https://www.youtube.com/watch?v=NNuKkjpEK98</guid>
+            <pubDate>MAY 20, 2021 AT 07:30AM</pubDate>
+            <description>Quali sono i Tool indispensabili per la SEO? +17 domande nel Q&amp;A</description>
         </item>
         <item>
-            <title>Marco Montemagno - Economia Circolare e dintorni</title>
-            <link>https://www.youtube.com/watch?v=vAICpbYkjqY</link>
-            <guid>https://www.youtube.com/watch?v=vAICpbYkjqY</guid>
-            <pubDate>SEPTEMBER 30, 2021 AT 09:13PM</pubDate>
-            <description>Economia Circolare e dintorni</description>
+            <title>Matteo Flora - Ma davvero il Garante è &quot;Signore dei Cavilli&quot;?</title>
+            <link>https://www.youtube.com/watch?v=kqGCsuas4sg</link>
+            <guid>https://www.youtube.com/watch?v=kqGCsuas4sg</guid>
+            <pubDate>JUNE 21, 2021 AT 08:44AM</pubDate>
+            <description>Ma davvero il Garante è &quot;Signore dei Cavilli&quot;?</description>
         </item>
         <item>
-            <title>Marco Montemagno - NFT MontyLab - Crazy Fury:  Domande e Risposte Live!</title>
-            <link>https://www.youtube.com/watch?v=A8IwAy6ZyME</link>
-            <guid>https://www.youtube.com/watch?v=A8IwAy6ZyME</guid>
-            <pubDate>JANUARY 24, 2022 AT 04:53PM</pubDate>
-            <description>NFT MontyLab - Crazy Fury:  Domande e Risposte Live!</description>
+            <title>Raffaele Gaito - 7 LIBRI CHE MI HANNO CAMBIATO LA VITA</title>
+            <link>https://www.youtube.com/watch?v=oDeYD6EZ2Qs</link>
+            <guid>https://www.youtube.com/watch?v=oDeYD6EZ2Qs</guid>
+            <pubDate>MAY 18, 2021 AT 08:00AM</pubDate>
+            <description>7 LIBRI CHE MI HANNO CAMBIATO LA VITA</description>
         </item>
         <item>
-            <title>Marco Montemagno - Regno Unito, che succede? Tra pandemia, Europei, Wimbledon e mamma di Goldrake</title>
-            <link>https://www.youtube.com/watch?v=p8T9APORrsw</link>
-            <guid>https://www.youtube.com/watch?v=p8T9APORrsw</guid>
-            <pubDate>JULY 8, 2021 AT 07:27PM</pubDate>
-            <description>Regno Unito, che succede? Tra pandemia, Europei, Wimbledon e mamma di Goldrake</description>
+            <title>Rudy Bandiera - Sapete chi è l’italiano più seguito sui social?</title>
+            <link>https://www.youtube.com/watch?v=3NIMJ9mu20k</link>
+            <guid>https://www.youtube.com/watch?v=3NIMJ9mu20k</guid>
+            <pubDate>MAY 25, 2021 AT 09:09AM</pubDate>
+            <description>Sapete chi è l’italiano più seguito sui social?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come trovare investitori</title>
-            <link>https://www.youtube.com/watch?v=pthoU5mxG3U</link>
-            <guid>https://www.youtube.com/watch?v=pthoU5mxG3U</guid>
-            <pubDate>DECEMBER 13, 2021 AT 12:00PM</pubDate>
-            <description>Come trovare investitori</description>
+            <title>Giorgio Taverniti - Google Sheets: script, componenti, API. Idee d&#39;uso INTERESSANTI</title>
+            <link>https://www.youtube.com/watch?v=jmZF_VRT2fA</link>
+            <guid>https://www.youtube.com/watch?v=jmZF_VRT2fA</guid>
+            <pubDate>MAY 10, 2021 AT 10:41AM</pubDate>
+            <description>Google Sheets: script, componenti, API. Idee d&#39;uso INTERESSANTI</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Francesco Vena (Amaro Lucano)</title>
+            <link>https://www.youtube.com/watch?v=14sNwIMDd8M</link>
+            <guid>https://www.youtube.com/watch?v=14sNwIMDd8M</guid>
+            <pubDate>JUNE 16, 2021 AT 12:09PM</pubDate>
+            <description>4 chiacchiere con Francesco Vena (Amaro Lucano)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 10 Frasi per convincere qualsiasi persona</title>
+            <link>https://www.youtube.com/watch?v=G6Xfj_4yqZM</link>
+            <guid>https://www.youtube.com/watch?v=G6Xfj_4yqZM</guid>
+            <pubDate>JUNE 4, 2021 AT 05:00PM</pubDate>
+            <description>10 Frasi per convincere qualsiasi persona</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Perché dico che in Italia la colpa del RevengePorn è dei giornalisti...</title>
+            <link>https://www.youtube.com/watch?v=tPqTBYt2la0</link>
+            <guid>https://www.youtube.com/watch?v=tPqTBYt2la0</guid>
+            <pubDate>NOVEMBER 12, 2021 AT 11:46AM</pubDate>
+            <description>Perché dico che in Italia la colpa del RevengePorn è dei giornalisti...</description>
         </item>
     </channel>
 </rss>
