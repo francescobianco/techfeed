@@ -22,7 +22,8 @@
 - https://www.youtube.com/c/JessicaRedeghieri/
 - https://www.youtube.com/channel/UCekaHQrJ0RpQhWFmEi8zF5g
 - https://www.youtube.com/channel/UC0HyfrdGsjimoixEGDk2ltQ/videos
-
+- https://www.youtube.com/c/MarioMoroniok/videos
+- 
 ## IFTTT
 
 - Raffele Gaito <https://ifttt.com/activity/applet/QavNkzCy>
