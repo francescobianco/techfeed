@@ -5,34 +5,69 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Mon, 28 Feb 2022 13:20:33 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 13:21:20 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - Non puoi cambiare il carattere delle persone intorno a te, ma ...</title>
-            <link>https://www.youtube.com/watch?v=1Nvx5176iuk</link>
-            <guid>https://www.youtube.com/watch?v=1Nvx5176iuk</guid>
-            <pubDate>DECEMBER 6, 2021 AT 09:00AM</pubDate>
-            <description>Non puoi cambiare il carattere delle persone intorno a te, ma ...</description>
+            <title>Matteo Flora - [LIVE] Quattro chiacchiere nel vostro Sabato Sera</title>
+            <link>https://www.youtube.com/watch?v=Cl6J-leRCrE</link>
+            <guid>https://www.youtube.com/watch?v=Cl6J-leRCrE</guid>
+            <pubDate>MAY 8, 2021 AT 10:28PM</pubDate>
+            <description>[LIVE] Quattro chiacchiere nel vostro Sabato Sera</description>
         </item>
         <item>
-            <title>Matteo Flora - Facebook, Instagram, Whatsapp Down: che cosa è successo davvero?</title>
-            <link>https://www.youtube.com/watch?v=o5r5FANXbzY</link>
-            <guid>https://www.youtube.com/watch?v=o5r5FANXbzY</guid>
-            <pubDate>OCTOBER 4, 2021 AT 11:14PM</pubDate>
-            <description>Facebook, Instagram, Whatsapp Down: che cosa è successo davvero?</description>
+            <title>Marco Montemagno - 4 chiacchiere con Sabaku no Maiku (6/10/2021)</title>
+            <link>https://www.youtube.com/watch?v=MUcKtC6TllA</link>
+            <guid>https://www.youtube.com/watch?v=MUcKtC6TllA</guid>
+            <pubDate>JANUARY 4, 2022 AT 01:00PM</pubDate>
+            <description>4 chiacchiere con Sabaku no Maiku (6/10/2021)</description>
         </item>
         <item>
-            <title>Matteo Flora - Il Chief Innovation Officer (CINO): chi è e cosa fa in azienda con Stefano Denicolai</title>
-            <link>https://www.youtube.com/watch?v=cR0_IyWoWqY</link>
-            <guid>https://www.youtube.com/watch?v=cR0_IyWoWqY</guid>
-            <pubDate>DECEMBER 29, 2021 AT 12:32PM</pubDate>
-            <description>Il Chief Innovation Officer (CINO): chi è e cosa fa in azienda con Stefano Denicolai</description>
+            <title>Marco Montemagno - Tutto quello che dovresti sapere sulle DAO con Thomas Bertani</title>
+            <link>https://www.youtube.com/watch?v=IIAi0TZHsKA</link>
+            <guid>https://www.youtube.com/watch?v=IIAi0TZHsKA</guid>
+            <pubDate>DECEMBER 4, 2021 AT 01:00PM</pubDate>
+            <description>Tutto quello che dovresti sapere sulle DAO con Thomas Bertani</description>
         </item>
         <item>
-            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Emanuele Bompan</title>
-            <link>https://www.youtube.com/watch?v=iGMl-9DQLCo</link>
-            <guid>https://www.youtube.com/watch?v=iGMl-9DQLCo</guid>
-            <pubDate>SEPTEMBER 9, 2021 AT 07:07PM</pubDate>
-            <description>Cambiamento climatico, elettrificazione e dintorni con Emanuele Bompan</description>
+            <title>Matteo Flora - Voto Elettronico: perché è (ancora) una pessima idea</title>
+            <link>https://www.youtube.com/watch?v=GvPZe41S_as</link>
+            <guid>https://www.youtube.com/watch?v=GvPZe41S_as</guid>
+            <pubDate>JUNE 8, 2021 AT 07:34AM</pubDate>
+            <description>Voto Elettronico: perché è (ancora) una pessima idea</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Lavoro e giovani: ci sono 700 mila posti di lavoro disponibili ma...</title>
+            <link>https://www.youtube.com/watch?v=7h9FKqj26_s</link>
+            <guid>https://www.youtube.com/watch?v=7h9FKqj26_s</guid>
+            <pubDate>DECEMBER 17, 2021 AT 01:00PM</pubDate>
+            <description>Lavoro e giovani: ci sono 700 mila posti di lavoro disponibili ma...</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Economia Circolare e dintorni</title>
+            <link>https://www.youtube.com/watch?v=vAICpbYkjqY</link>
+            <guid>https://www.youtube.com/watch?v=vAICpbYkjqY</guid>
+            <pubDate>SEPTEMBER 30, 2021 AT 09:13PM</pubDate>
+            <description>Economia Circolare e dintorni</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Gianni Morandi</title>
+            <link>https://www.youtube.com/watch?v=nP0XxGx7qco</link>
+            <guid>https://www.youtube.com/watch?v=nP0XxGx7qco</guid>
+            <pubDate>JUNE 22, 2021 AT 02:10PM</pubDate>
+            <description>4 chiacchiere con Gianni Morandi</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Parmigiano Reggiano, lo spot di &quot;Renatino&quot; e la CATASTROFE reputazionale</title>
+            <link>https://www.youtube.com/watch?v=SSLqp90wkqc</link>
+            <guid>https://www.youtube.com/watch?v=SSLqp90wkqc</guid>
+            <pubDate>DECEMBER 3, 2021 AT 08:00AM</pubDate>
+            <description>Parmigiano Reggiano, lo spot di &quot;Renatino&quot; e la CATASTROFE reputazionale</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Tette, piscine e soldi. No clickbait, davvero parliamo di tette e #demonetizzazione</title>
+            <link>https://www.youtube.com/watch?v=dVKjE4CJmew</link>
+            <guid>https://www.youtube.com/watch?v=dVKjE4CJmew</guid>
+            <pubDate>MAY 21, 2021 AT 08:00AM</pubDate>
+            <description>Tette, piscine e soldi. No clickbait, davvero parliamo di tette e #demonetizzazione</description>
         </item>
         <item>
             <title>Matteo Flora - [LIVE] L&#39;aperitivo di Ciao Internet1</title>
@@ -42,109 +77,74 @@
             <description>[LIVE] L&#39;aperitivo di Ciao Internet1</description>
         </item>
         <item>
-            <title>Matteo Flora - Il Riconoscimento Facciale, da Meta alle Città Italiane</title>
-            <link>https://www.youtube.com/watch?v=D5Wq7ZhmiEM</link>
-            <guid>https://www.youtube.com/watch?v=D5Wq7ZhmiEM</guid>
-            <pubDate>NOVEMBER 9, 2021 AT 10:56AM</pubDate>
-            <description>Il Riconoscimento Facciale, da Meta alle Città Italiane</description>
+            <title>Marco Montemagno - Un giorno su, un giorno giù...</title>
+            <link>https://www.youtube.com/watch?v=FHRg8Lzwyzc</link>
+            <guid>https://www.youtube.com/watch?v=FHRg8Lzwyzc</guid>
+            <pubDate>NOVEMBER 9, 2021 AT 03:06PM</pubDate>
+            <description>Un giorno su, un giorno giù...</description>
         </item>
         <item>
-            <title>Marco Montemagno - Europei 2021: Congratulazioni Azzurri!</title>
-            <link>https://www.youtube.com/watch?v=B2dpKlbVv4k</link>
-            <guid>https://www.youtube.com/watch?v=B2dpKlbVv4k</guid>
-            <pubDate>JULY 12, 2021 AT 01:00PM</pubDate>
-            <description>Europei 2021: Congratulazioni Azzurri!</description>
+            <title>Marco Montemagno - Mentalità olimpica con Valentina Marchei</title>
+            <link>https://www.youtube.com/watch?v=H_ap3AIgU9E</link>
+            <guid>https://www.youtube.com/watch?v=H_ap3AIgU9E</guid>
+            <pubDate>SEPTEMBER 13, 2021 AT 12:42PM</pubDate>
+            <description>Mentalità olimpica con Valentina Marchei</description>
         </item>
         <item>
-            <title>Marco Montemagno - Why Africa is Leading Global Crypto Adoption with Paxful</title>
-            <link>https://www.youtube.com/watch?v=pr6XfIYJyY8</link>
-            <guid>https://www.youtube.com/watch?v=pr6XfIYJyY8</guid>
-            <pubDate>NOVEMBER 26, 2021 AT 03:00PM</pubDate>
-            <description>Why Africa is Leading Global Crypto Adoption with Paxful</description>
+            <title>Marco Montemagno - Food Talks 4 chiacchiere con Vincenzo Ferrieri (Cioccolati Italiani) e Vittoria Zanetti (Poke House)</title>
+            <link>https://www.youtube.com/watch?v=ze-950IFPvs</link>
+            <guid>https://www.youtube.com/watch?v=ze-950IFPvs</guid>
+            <pubDate>MAY 17, 2021 AT 11:37AM</pubDate>
+            <description>Food Talks 4 chiacchiere con Vincenzo Ferrieri (Cioccolati Italiani) e Vittoria Zanetti (Poke House)</description>
         </item>
         <item>
-            <title>Rudy Bandiera - 3 abitudini per rendere più produttive le tue giornate</title>
-            <link>https://www.youtube.com/watch?v=Zkms0bdaQwM</link>
-            <guid>https://www.youtube.com/watch?v=Zkms0bdaQwM</guid>
-            <pubDate>DECEMBER 10, 2021 AT 09:12AM</pubDate>
-            <description>3 abitudini per rendere più produttive le tue giornate</description>
+            <title>Giorgio Taverniti - Perché YouTube mi ha costretto a passare a Twitch</title>
+            <link>https://www.youtube.com/watch?v=H0apJ8TS6Co</link>
+            <guid>https://www.youtube.com/watch?v=H0apJ8TS6Co</guid>
+            <pubDate>JUNE 21, 2021 AT 07:30AM</pubDate>
+            <description>Perché YouTube mi ha costretto a passare a Twitch</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Diodato</title>
-            <link>https://www.youtube.com/watch?v=yAuJEdAsvuw</link>
-            <guid>https://www.youtube.com/watch?v=yAuJEdAsvuw</guid>
-            <pubDate>JUNE 3, 2021 AT 11:21AM</pubDate>
-            <description>4 chiacchiere con Diodato</description>
+            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Valerio De Molli, Ambrosetti</title>
+            <link>https://www.youtube.com/watch?v=aVEE8ls70nA</link>
+            <guid>https://www.youtube.com/watch?v=aVEE8ls70nA</guid>
+            <pubDate>SEPTEMBER 6, 2021 AT 06:01PM</pubDate>
+            <description>Cambiamento climatico, elettrificazione e dintorni con Valerio De Molli, Ambrosetti</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con l&#39;arma dei carabinieri (Luca de Marchis)</title>
-            <link>https://www.youtube.com/watch?v=7y2pbB3FZSY</link>
-            <guid>https://www.youtube.com/watch?v=7y2pbB3FZSY</guid>
-            <pubDate>NOVEMBER 9, 2021 AT 01:00PM</pubDate>
-            <description>4 chiacchiere con l&#39;arma dei carabinieri (Luca de Marchis)</description>
+            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Alberto De Paoli, Enel</title>
+            <link>https://www.youtube.com/watch?v=MpxMDkbPCHE</link>
+            <guid>https://www.youtube.com/watch?v=MpxMDkbPCHE</guid>
+            <pubDate>SEPTEMBER 10, 2021 AT 12:41PM</pubDate>
+            <description>Cambiamento climatico, elettrificazione e dintorni con Alberto De Paoli, Enel</description>
         </item>
         <item>
-            <title>Marco Montemagno - Netflix perde abbonati. Calo fisiologico o problemi in vista?</title>
-            <link>https://www.youtube.com/watch?v=4KPHJfzKscU</link>
-            <guid>https://www.youtube.com/watch?v=4KPHJfzKscU</guid>
-            <pubDate>JULY 28, 2021 AT 12:45PM</pubDate>
-            <description>Netflix perde abbonati. Calo fisiologico o problemi in vista?</description>
+            <title>Marco Montemagno - ho pubblicato 2222 video su YouTube.. 7 suggerimenti...</title>
+            <link>https://www.youtube.com/watch?v=HIdrfmzKLPs</link>
+            <guid>https://www.youtube.com/watch?v=HIdrfmzKLPs</guid>
+            <pubDate>SEPTEMBER 12, 2021 AT 02:00PM</pubDate>
+            <description>ho pubblicato 2222 video su YouTube.. 7 suggerimenti...</description>
         </item>
         <item>
-            <title>Marco Montemagno - Chi controlla il Web?</title>
-            <link>https://www.youtube.com/watch?v=1FjN8FSRGEI</link>
-            <guid>https://www.youtube.com/watch?v=1FjN8FSRGEI</guid>
-            <pubDate>JANUARY 5, 2022 AT 10:00AM</pubDate>
-            <description>Chi controlla il Web?</description>
+            <title>Marco Montemagno - Indovina quanto ha incassato Tim (il CEO di Apple)?</title>
+            <link>https://www.youtube.com/watch?v=H6n0ZQRvgJQ</link>
+            <guid>https://www.youtube.com/watch?v=H6n0ZQRvgJQ</guid>
+            <pubDate>AUGUST 28, 2021 AT 11:48PM</pubDate>
+            <description>Indovina quanto ha incassato Tim (il CEO di Apple)?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Auto elettriche e Aziende, quali opportunità?</title>
-            <link>https://www.youtube.com/watch?v=70_qB-Mw2jM</link>
-            <guid>https://www.youtube.com/watch?v=70_qB-Mw2jM</guid>
-            <pubDate>JUNE 26, 2021 AT 03:00PM</pubDate>
-            <description>Auto elettriche e Aziende, quali opportunità?</description>
+            <title>Marco Montemagno - Perché anche davanti ai fatti la gente non cambia idea</title>
+            <link>https://www.youtube.com/watch?v=jqCSBWbN66U</link>
+            <guid>https://www.youtube.com/watch?v=jqCSBWbN66U</guid>
+            <pubDate>JULY 17, 2021 AT 02:00PM</pubDate>
+            <description>Perché anche davanti ai fatti la gente non cambia idea</description>
         </item>
         <item>
-            <title>Marco Montemagno - I Måneskin alla conquista del mondo</title>
-            <link>https://www.youtube.com/watch?v=1_4Jh22J1WE</link>
-            <guid>https://www.youtube.com/watch?v=1_4Jh22J1WE</guid>
-            <pubDate>JULY 16, 2021 AT 01:15PM</pubDate>
-            <description>I Måneskin alla conquista del mondo</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Cambi opinione se cambiano i fatti?</title>
-            <link>https://www.youtube.com/watch?v=3SeyKwgCqwY</link>
-            <guid>https://www.youtube.com/watch?v=3SeyKwgCqwY</guid>
-            <pubDate>JUNE 6, 2021 AT 03:52PM</pubDate>
-            <description>Cambi opinione se cambiano i fatti?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come capire cosa indossi? Lucia Mantero su Competenze</title>
-            <link>https://www.youtube.com/watch?v=ZD--gwTuukY</link>
-            <guid>https://www.youtube.com/watch?v=ZD--gwTuukY</guid>
-            <pubDate>JUNE 15, 2021 AT 12:46PM</pubDate>
-            <description>Come capire cosa indossi? Lucia Mantero su Competenze</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - Sapete chi è l’italiano più seguito sui social?</title>
-            <link>https://www.youtube.com/watch?v=3NIMJ9mu20k</link>
-            <guid>https://www.youtube.com/watch?v=3NIMJ9mu20k</guid>
-            <pubDate>MAY 25, 2021 AT 09:09AM</pubDate>
-            <description>Sapete chi è l’italiano più seguito sui social?</description>
-        </item>
-        <item>
-            <title>Matteo Flora - [LIVE] #CiaoInternet Serale: Apple e la Pedopornografia</title>
-            <link>https://www.youtube.com/watch?v=ttkEnmrAJ1g</link>
-            <guid>https://www.youtube.com/watch?v=ttkEnmrAJ1g</guid>
-            <pubDate>SEPTEMBER 4, 2021 AT 10:25AM</pubDate>
-            <description>[LIVE] #CiaoInternet Serale: Apple e la Pedopornografia</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come faccio a lanciare una iniziativa? #shorts</title>
-            <link>https://www.youtube.com/watch?v=llvS6_CX-Y0</link>
-            <guid>https://www.youtube.com/watch?v=llvS6_CX-Y0</guid>
-            <pubDate>JULY 29, 2021 AT 05:00PM</pubDate>
-            <description>Come faccio a lanciare una iniziativa? #shorts</description>
+            <title>Marco Montemagno - Everything you have to know about Bitcoin ETF &amp; more</title>
+            <link>https://www.youtube.com/watch?v=7XBJ0h3w7yw</link>
+            <guid>https://www.youtube.com/watch?v=7XBJ0h3w7yw</guid>
+            <pubDate>DECEMBER 2, 2021 AT 09:00AM</pubDate>
+            <description>Everything you have to know about Bitcoin ETF &amp; more</description>
         </item>
     </channel>
 </rss>
