@@ -5,34 +5,104 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Thu, 10 Mar 2022 13:22:33 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 13:21:22 +0000</lastBuildDate>
         <item>
-            <title>Giorgio Taverniti - Il Fallimento di Clubhouse: una meteora utile - W&amp;L Aprile 2021</title>
-            <link>https://www.youtube.com/watch?v=mWrc0lYq_ws</link>
-            <guid>https://www.youtube.com/watch?v=mWrc0lYq_ws</guid>
-            <pubDate>MAY 6, 2021 AT 07:30AM</pubDate>
-            <description>Il Fallimento di Clubhouse: una meteora utile - W&amp;L Aprile 2021</description>
+            <title>Marco Montemagno - Da dove si parte per doppiare qualcuno? Ne avevamo parlato con Maurizio Merluzzo</title>
+            <link>https://www.youtube.com/watch?v=peIvWgg1PYY</link>
+            <guid>https://www.youtube.com/watch?v=peIvWgg1PYY</guid>
+            <pubDate>AUGUST 18, 2021 AT 06:30PM</pubDate>
+            <description>Da dove si parte per doppiare qualcuno? Ne avevamo parlato con Maurizio Merluzzo</description>
         </item>
         <item>
-            <title>Marco Montemagno - Facebook ed Instagram chiudono in Europa?</title>
-            <link>https://www.youtube.com/watch?v=6HSKwm6zG5Y</link>
-            <guid>https://www.youtube.com/watch?v=6HSKwm6zG5Y</guid>
-            <pubDate>FEBRUARY 9, 2022 AT 01:18PM</pubDate>
-            <description>Facebook ed Instagram chiudono in Europa?</description>
+            <title>Marco Montemagno - Come gli NFT possono rivoluzionare il tuo business</title>
+            <link>https://www.youtube.com/watch?v=7BqlwZHHPBM</link>
+            <guid>https://www.youtube.com/watch?v=7BqlwZHHPBM</guid>
+            <pubDate>NOVEMBER 5, 2021 AT 12:56PM</pubDate>
+            <description>Come gli NFT possono rivoluzionare il tuo business</description>
         </item>
         <item>
-            <title>Raffaele Gaito - LA LEAD GENERATION (SPIEGATA SEMPLICE)</title>
-            <link>https://www.youtube.com/watch?v=MCj5CQ91hbg</link>
-            <guid>https://www.youtube.com/watch?v=MCj5CQ91hbg</guid>
-            <pubDate>JUNE 25, 2021 AT 08:00AM</pubDate>
-            <description>LA LEAD GENERATION (SPIEGATA SEMPLICE)</description>
+            <title>Marco Montemagno - Blockchain, mining/environment, Stablecoins...a conversation with Algorand</title>
+            <link>https://www.youtube.com/watch?v=FTYhKY4o-4g</link>
+            <guid>https://www.youtube.com/watch?v=FTYhKY4o-4g</guid>
+            <pubDate>NOVEMBER 24, 2021 AT 03:00PM</pubDate>
+            <description>Blockchain, mining/environment, Stablecoins...a conversation with Algorand</description>
         </item>
         <item>
-            <title>Marco Montemagno - Il potere silenzioso dell&#39;incoraggiamento</title>
-            <link>https://www.youtube.com/watch?v=t7fgqz4CyEA</link>
-            <guid>https://www.youtube.com/watch?v=t7fgqz4CyEA</guid>
-            <pubDate>NOVEMBER 3, 2021 AT 10:17AM</pubDate>
-            <description>Il potere silenzioso dell&#39;incoraggiamento</description>
+            <title>Marco Montemagno - I Social ... GRAVEMENTE alla ...?</title>
+            <link>https://www.youtube.com/watch?v=e2UiZNgdA9A</link>
+            <guid>https://www.youtube.com/watch?v=e2UiZNgdA9A</guid>
+            <pubDate>SEPTEMBER 16, 2021 AT 04:39PM</pubDate>
+            <description>I Social ... GRAVEMENTE alla ...?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Le 80 Frasi più odiose che sento ogni giorno sul lavoro</title>
+            <link>https://www.youtube.com/watch?v=0j2hlNLi0rA</link>
+            <guid>https://www.youtube.com/watch?v=0j2hlNLi0rA</guid>
+            <pubDate>OCTOBER 16, 2021 AT 02:00PM</pubDate>
+            <description>Le 80 Frasi più odiose che sento ogni giorno sul lavoro</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Audio Revolution! Da Greenroom di Spotify a Facebook</title>
+            <link>https://www.youtube.com/watch?v=nCpp7GaMwqE</link>
+            <guid>https://www.youtube.com/watch?v=nCpp7GaMwqE</guid>
+            <pubDate>JUNE 25, 2021 AT 07:30AM</pubDate>
+            <description>Audio Revolution! Da Greenroom di Spotify a Facebook</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - La tecnica dell&#39;Anticipazione #shorts</title>
+            <link>https://www.youtube.com/watch?v=ByNMO4gUUWc</link>
+            <guid>https://www.youtube.com/watch?v=ByNMO4gUUWc</guid>
+            <pubDate>AUGUST 20, 2021 AT 12:02PM</pubDate>
+            <description>La tecnica dell&#39;Anticipazione #shorts</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - La vita costa sempre di più...</title>
+            <link>https://www.youtube.com/watch?v=5oCCrYpd-HM</link>
+            <guid>https://www.youtube.com/watch?v=5oCCrYpd-HM</guid>
+            <pubDate>JULY 29, 2021 AT 12:00PM</pubDate>
+            <description>La vita costa sempre di più...</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - C&#39;è sempre qualcuno che ...</title>
+            <link>https://www.youtube.com/watch?v=mQCXMuJgPlw</link>
+            <guid>https://www.youtube.com/watch?v=mQCXMuJgPlw</guid>
+            <pubDate>DECEMBER 8, 2021 AT 01:00PM</pubDate>
+            <description>C&#39;è sempre qualcuno che ...</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Boom di App per spiare?</title>
+            <link>https://www.youtube.com/watch?v=KBmtPK75lRM</link>
+            <guid>https://www.youtube.com/watch?v=KBmtPK75lRM</guid>
+            <pubDate>NOVEMBER 29, 2021 AT 11:00AM</pubDate>
+            <description>Boom di App per spiare?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Se tornassi indietro, mi darei 4 suggerimenti ...</title>
+            <link>https://www.youtube.com/watch?v=jiXxdciVWTE</link>
+            <guid>https://www.youtube.com/watch?v=jiXxdciVWTE</guid>
+            <pubDate>AUGUST 21, 2021 AT 01:00PM</pubDate>
+            <description>Se tornassi indietro, mi darei 4 suggerimenti ...</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Antonio Cammisecra (Enel)</title>
+            <link>https://www.youtube.com/watch?v=ym8xfRvhkOI</link>
+            <guid>https://www.youtube.com/watch?v=ym8xfRvhkOI</guid>
+            <pubDate>SEPTEMBER 5, 2021 AT 06:58PM</pubDate>
+            <description>Cambiamento climatico, elettrificazione e dintorni con Antonio Cammisecra (Enel)</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Facebook, Instagram, Whatsapp Down: che cosa è successo davvero?</title>
+            <link>https://www.youtube.com/watch?v=o5r5FANXbzY</link>
+            <guid>https://www.youtube.com/watch?v=o5r5FANXbzY</guid>
+            <pubDate>OCTOBER 4, 2021 AT 11:14PM</pubDate>
+            <description>Facebook, Instagram, Whatsapp Down: che cosa è successo davvero?</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - La più grande opportunità per chi fa SEO oggi</title>
+            <link>https://www.youtube.com/watch?v=HyPZwSK48fo</link>
+            <guid>https://www.youtube.com/watch?v=HyPZwSK48fo</guid>
+            <pubDate>JULY 7, 2021 AT 07:30AM</pubDate>
+            <description>La più grande opportunità per chi fa SEO oggi</description>
         </item>
         <item>
             <title>Marco Montemagno - Che impatto ha la competizione ESTREMA sulla nostra salute mentale e fisica?</title>
@@ -42,109 +112,39 @@
             <description>Che impatto ha la competizione ESTREMA sulla nostra salute mentale e fisica?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Bitcoin, NFT, Crypto...Riassunto delle puntate precedenti</title>
-            <link>https://www.youtube.com/watch?v=RGYYuxubUGE</link>
-            <guid>https://www.youtube.com/watch?v=RGYYuxubUGE</guid>
-            <pubDate>NOVEMBER 21, 2021 AT 06:00PM</pubDate>
-            <description>Bitcoin, NFT, Crypto...Riassunto delle puntate precedenti</description>
+            <title>Marco Montemagno - Come ha fatto TikTok a conquistare il mondo (alla velocità della luce)?</title>
+            <link>https://www.youtube.com/watch?v=LeK11lHxaCQ</link>
+            <guid>https://www.youtube.com/watch?v=LeK11lHxaCQ</guid>
+            <pubDate>JULY 14, 2021 AT 12:00PM</pubDate>
+            <description>Come ha fatto TikTok a conquistare il mondo (alla velocità della luce)?</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Black Friday: dati e previsioni</title>
-            <link>https://www.youtube.com/watch?v=IVBtwmPVywo</link>
-            <guid>https://www.youtube.com/watch?v=IVBtwmPVywo</guid>
-            <pubDate>OCTOBER 11, 2021 AT 12:29PM</pubDate>
-            <description>Black Friday: dati e previsioni</description>
+            <title>Matteo Flora - NaturaSì e i tamponi ai no-vax: come Buriani ha salvato il Brand...</title>
+            <link>https://www.youtube.com/watch?v=xi8B9csi7pE</link>
+            <guid>https://www.youtube.com/watch?v=xi8B9csi7pE</guid>
+            <pubDate>SEPTEMBER 24, 2021 AT 07:45AM</pubDate>
+            <description>NaturaSì e i tamponi ai no-vax: come Buriani ha salvato il Brand...</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - E-commerce: aumentare le conversioni da mobile con i test. 5 Chicche di UX</title>
-            <link>https://www.youtube.com/watch?v=2FZA1pEER9o</link>
-            <guid>https://www.youtube.com/watch?v=2FZA1pEER9o</guid>
-            <pubDate>MAY 25, 2021 AT 07:30AM</pubDate>
-            <description>E-commerce: aumentare le conversioni da mobile con i test. 5 Chicche di UX</description>
+            <title>Marco Montemagno - L&#39;intelligenza Artificiale sta aumentando la competitività aziendale</title>
+            <link>https://www.youtube.com/watch?v=qRpl-Q6a9x4</link>
+            <guid>https://www.youtube.com/watch?v=qRpl-Q6a9x4</guid>
+            <pubDate>JUNE 22, 2021 AT 10:36PM</pubDate>
+            <description>L&#39;intelligenza Artificiale sta aumentando la competitività aziendale</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Advertising e Privacy: ma che cosa sta succedendo?</title>
-            <link>https://www.youtube.com/watch?v=6ZzALaEwIak</link>
-            <guid>https://www.youtube.com/watch?v=6ZzALaEwIak</guid>
-            <pubDate>JULY 6, 2021 AT 07:30AM</pubDate>
-            <description>Advertising e Privacy: ma che cosa sta succedendo?</description>
+            <title>Marco Montemagno - Quanto costa sponsorizzare le Olimpiadi? Perché alcuni sponsor si stanno tirando indietro?</title>
+            <link>https://www.youtube.com/watch?v=r2IFEp_NKpY</link>
+            <guid>https://www.youtube.com/watch?v=r2IFEp_NKpY</guid>
+            <pubDate>JULY 23, 2021 AT 02:38PM</pubDate>
+            <description>Quanto costa sponsorizzare le Olimpiadi? Perché alcuni sponsor si stanno tirando indietro?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come capire cosa indossi? Lucia Mantero su Competenze</title>
-            <link>https://www.youtube.com/watch?v=ZD--gwTuukY</link>
-            <guid>https://www.youtube.com/watch?v=ZD--gwTuukY</guid>
-            <pubDate>JUNE 15, 2021 AT 12:46PM</pubDate>
-            <description>Come capire cosa indossi? Lucia Mantero su Competenze</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come trovare investitori</title>
-            <link>https://www.youtube.com/watch?v=pthoU5mxG3U</link>
-            <guid>https://www.youtube.com/watch?v=pthoU5mxG3U</guid>
-            <pubDate>DECEMBER 13, 2021 AT 12:00PM</pubDate>
-            <description>Come trovare investitori</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Human Safari, in 6 minuti</title>
-            <link>https://www.youtube.com/watch?v=_bD3UN7rADc</link>
-            <guid>https://www.youtube.com/watch?v=_bD3UN7rADc</guid>
-            <pubDate>SEPTEMBER 1, 2021 AT 07:58PM</pubDate>
-            <description>Human Safari, in 6 minuti</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con Gino Strada</title>
-            <link>https://www.youtube.com/watch?v=4weR9T3v3XA</link>
-            <guid>https://www.youtube.com/watch?v=4weR9T3v3XA</guid>
-            <pubDate>MAY 20, 2021 AT 08:49AM</pubDate>
-            <description>4 chiacchiere con Gino Strada</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Bitcoin: perché non puoi non conoscere Michael Saylor</title>
-            <link>https://www.youtube.com/watch?v=gMqtPe5kYls</link>
-            <guid>https://www.youtube.com/watch?v=gMqtPe5kYls</guid>
-            <pubDate>OCTOBER 19, 2021 AT 02:00PM</pubDate>
-            <description>Bitcoin: perché non puoi non conoscere Michael Saylor</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - La matrice di Eisenhower per capire urgenze e priorità #in2minuti</title>
-            <link>https://www.youtube.com/watch?v=mGZsfWVdxPs</link>
-            <guid>https://www.youtube.com/watch?v=mGZsfWVdxPs</guid>
-            <pubDate>MAY 16, 2021 AT 09:48AM</pubDate>
-            <description>La matrice di Eisenhower per capire urgenze e priorità #in2minuti</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 15 tipologie di clienti da evitare come la peste</title>
-            <link>https://www.youtube.com/watch?v=jBFJMpSPG-w</link>
-            <guid>https://www.youtube.com/watch?v=jBFJMpSPG-w</guid>
-            <pubDate>OCTOBER 23, 2021 AT 04:00PM</pubDate>
-            <description>15 tipologie di clienti da evitare come la peste</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con lo Chef Mauro Colagreco (&quot;miglior ristorante al mondo&quot;)</title>
-            <link>https://www.youtube.com/watch?v=AWzt4FPoLqQ</link>
-            <guid>https://www.youtube.com/watch?v=AWzt4FPoLqQ</guid>
-            <pubDate>JULY 5, 2021 AT 11:11AM</pubDate>
-            <description>4 chiacchiere con lo Chef Mauro Colagreco (&quot;miglior ristorante al mondo&quot;)</description>
-        </item>
-        <item>
-            <title>Matteo Flora - [LIVE] L&#39;aperitivo di Ciao Internet1</title>
-            <link>https://www.youtube.com/watch?v=mRNfAidC3R8</link>
-            <guid>https://www.youtube.com/watch?v=mRNfAidC3R8</guid>
-            <pubDate>JULY 13, 2021 AT 08:39PM</pubDate>
-            <description>[LIVE] L&#39;aperitivo di Ciao Internet1</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Sentire gli odori su Internet: arrivano i &quot;nasi digitali&quot;</title>
-            <link>https://www.youtube.com/watch?v=GVGnUK6WCMw</link>
-            <guid>https://www.youtube.com/watch?v=GVGnUK6WCMw</guid>
-            <pubDate>DECEMBER 19, 2021 AT 12:30PM</pubDate>
-            <description>Sentire gli odori su Internet: arrivano i &quot;nasi digitali&quot;</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come decidere più velocemente?</title>
-            <link>https://www.youtube.com/watch?v=-J6wf8O515M</link>
-            <guid>https://www.youtube.com/watch?v=-J6wf8O515M</guid>
-            <pubDate>NOVEMBER 8, 2021 AT 01:00PM</pubDate>
-            <description>Come decidere più velocemente?</description>
+            <title>Matteo Flora - [LIVE] Ciao Internet SERALE in DIRETTA del 01.12.2021</title>
+            <link>https://www.youtube.com/watch?v=jcCHDFdJ_LA</link>
+            <guid>https://www.youtube.com/watch?v=jcCHDFdJ_LA</guid>
+            <pubDate>NOVEMBER 1, 2021 AT 11:45PM</pubDate>
+            <description>[LIVE] Ciao Internet SERALE in DIRETTA del 01.12.2021</description>
         </item>
     </channel>
 </rss>
