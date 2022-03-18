@@ -5,104 +5,27 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Thu, 17 Mar 2022 13:23:34 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 13:22:04 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - A conversation with Lang Lang</title>
-            <link>https://www.youtube.com/watch?v=bj5mVA_kjW4</link>
-            <guid>https://www.youtube.com/watch?v=bj5mVA_kjW4</guid>
-            <pubDate>DECEMBER 9, 2021 AT 01:00PM</pubDate>
-            <description>A conversation with Lang Lang</description>
+            <title>Marco Montemagno - A conversation with Dangiuz</title>
+            <link>https://www.youtube.com/watch?v=H9B7QyPgqaQ</link>
+            <guid>https://www.youtube.com/watch?v=H9B7QyPgqaQ</guid>
+            <pubDate>JANUARY 23, 2022 AT 11:09AM</pubDate>
+            <description>A conversation with Dangiuz</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come capire cosa indossi? Lucia Mantero su Competenze</title>
-            <link>https://www.youtube.com/watch?v=ZD--gwTuukY</link>
-            <guid>https://www.youtube.com/watch?v=ZD--gwTuukY</guid>
-            <pubDate>JUNE 15, 2021 AT 12:46PM</pubDate>
-            <description>Come capire cosa indossi? Lucia Mantero su Competenze</description>
+            <title>Matteo Flora - [LIVE] Quattro chiacchiere nel vostro Sabato Sera</title>
+            <link>https://www.youtube.com/watch?v=Cl6J-leRCrE</link>
+            <guid>https://www.youtube.com/watch?v=Cl6J-leRCrE</guid>
+            <pubDate>MAY 8, 2021 AT 10:28PM</pubDate>
+            <description>[LIVE] Quattro chiacchiere nel vostro Sabato Sera</description>
         </item>
         <item>
-            <title>Matteo Flora - Safer Internet Day 2022 e l&#39;Internet dei Bambini</title>
-            <link>https://www.youtube.com/watch?v=xAcpWx7om0M</link>
-            <guid>https://www.youtube.com/watch?v=xAcpWx7om0M</guid>
-            <pubDate>FEBRUARY 7, 2022 AT 10:00AM</pubDate>
-            <description>Safer Internet Day 2022 e l&#39;Internet dei Bambini</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con Gino D&#39;Acampo</title>
-            <link>https://www.youtube.com/watch?v=Sfl-pl_GTMU</link>
-            <guid>https://www.youtube.com/watch?v=Sfl-pl_GTMU</guid>
-            <pubDate>JULY 27, 2021 AT 04:46PM</pubDate>
-            <description>4 chiacchiere con Gino D&#39;Acampo</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - Google è l&#39;e-commerce del Mondo: il login dei brand in SERP!</title>
-            <link>https://www.youtube.com/watch?v=vg0rgjRMgX0</link>
-            <guid>https://www.youtube.com/watch?v=vg0rgjRMgX0</guid>
-            <pubDate>JUNE 1, 2021 AT 07:30AM</pubDate>
-            <description>Google è l&#39;e-commerce del Mondo: il login dei brand in SERP!</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Competenze.it e dintorni - 4 chiacchiere con Enrico Bertolino</title>
-            <link>https://www.youtube.com/watch?v=GHB0-bpEJnU</link>
-            <guid>https://www.youtube.com/watch?v=GHB0-bpEJnU</guid>
-            <pubDate>MAY 19, 2021 AT 12:15PM</pubDate>
-            <description>Competenze.it e dintorni - 4 chiacchiere con Enrico Bertolino</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Monica Cirinnà, la cameriera e la Reputazione perduta...</title>
-            <link>https://www.youtube.com/watch?v=YgrjSCp6kCk</link>
-            <guid>https://www.youtube.com/watch?v=YgrjSCp6kCk</guid>
-            <pubDate>SEPTEMBER 1, 2021 AT 07:45AM</pubDate>
-            <description>Monica Cirinnà, la cameriera e la Reputazione perduta...</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - StartupItalia cresce: ecco tutte le novità</title>
-            <link>https://www.youtube.com/watch?v=a-1VrIF8Zoc</link>
-            <guid>https://www.youtube.com/watch?v=a-1VrIF8Zoc</guid>
-            <pubDate>SEPTEMBER 22, 2021 AT 09:00AM</pubDate>
-            <description>StartupItalia cresce: ecco tutte le novità</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 6 abitudini che mi hanno cambiato la vita</title>
-            <link>https://www.youtube.com/watch?v=s8d9cY6Y6V4</link>
-            <guid>https://www.youtube.com/watch?v=s8d9cY6Y6V4</guid>
-            <pubDate>JANUARY 13, 2022 AT 01:00PM</pubDate>
-            <description>6 abitudini che mi hanno cambiato la vita</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 9 anni di Monty in meno di 9 minuti</title>
-            <link>https://www.youtube.com/watch?v=l8Q4Famg5Zo</link>
-            <guid>https://www.youtube.com/watch?v=l8Q4Famg5Zo</guid>
-            <pubDate>AUGUST 12, 2021 AT 01:17PM</pubDate>
-            <description>9 anni di Monty in meno di 9 minuti</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - IL PROBLEMA CON ALCUNI ESPERTI #shorts</title>
-            <link>https://www.youtube.com/watch?v=Qq7dpwlP8aw</link>
-            <guid>https://www.youtube.com/watch?v=Qq7dpwlP8aw</guid>
-            <pubDate>AUGUST 6, 2021 AT 08:00AM</pubDate>
-            <description>IL PROBLEMA CON ALCUNI ESPERTI #shorts</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - Riusciresti a videogiocare solo tre ore a settimana?</title>
-            <link>https://www.youtube.com/watch?v=fiU3R1Eav5U</link>
-            <guid>https://www.youtube.com/watch?v=fiU3R1Eav5U</guid>
-            <pubDate>DECEMBER 1, 2021 AT 09:07AM</pubDate>
-            <description>Riusciresti a videogiocare solo tre ore a settimana?</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Il tweet storm di #DiMaioOut e la fotografia di #Salvini &quot;photoshoppata&quot;</title>
-            <link>https://www.youtube.com/watch?v=lgUVNJIFXus</link>
-            <guid>https://www.youtube.com/watch?v=lgUVNJIFXus</guid>
-            <pubDate>FEBRUARY 2, 2022 AT 05:26PM</pubDate>
-            <description>Il tweet storm di #DiMaioOut e la fotografia di #Salvini &quot;photoshoppata&quot;</description>
-        </item>
-        <item>
-            <title>Matteo Flora - [LIVE] - Ciao Internet SERALE in DIRETTA</title>
-            <link>https://www.youtube.com/watch?v=yc8KxlMb1s8</link>
-            <guid>https://www.youtube.com/watch?v=yc8KxlMb1s8</guid>
-            <pubDate>AUGUST 24, 2021 AT 12:43PM</pubDate>
-            <description>[LIVE] - Ciao Internet SERALE in DIRETTA</description>
+            <title>Matteo Flora - Robert Kennedy jr, Anna Frank, i no-vax e l&#39;olocausto: perché non accettare le scuse</title>
+            <link>https://www.youtube.com/watch?v=Spb9UN1es44</link>
+            <guid>https://www.youtube.com/watch?v=Spb9UN1es44</guid>
+            <pubDate>JANUARY 26, 2022 AT 07:42PM</pubDate>
+            <description>Robert Kennedy jr, Anna Frank, i no-vax e l&#39;olocausto: perché non accettare le scuse</description>
         </item>
         <item>
             <title>Marco Montemagno - Intelligenza Artificiale e nuove professioni/nuovi lavori</title>
@@ -112,18 +35,81 @@
             <description>Intelligenza Artificiale e nuove professioni/nuovi lavori</description>
         </item>
         <item>
-            <title>Marco Montemagno - Le 80 Frasi più odiose che sento ogni giorno sul lavoro</title>
-            <link>https://www.youtube.com/watch?v=0j2hlNLi0rA</link>
-            <guid>https://www.youtube.com/watch?v=0j2hlNLi0rA</guid>
-            <pubDate>OCTOBER 16, 2021 AT 02:00PM</pubDate>
-            <description>Le 80 Frasi più odiose che sento ogni giorno sul lavoro</description>
+            <title>Matteo Flora - IOApp: il provvedimento del Garante e tutte le bugie di Colao</title>
+            <link>https://www.youtube.com/watch?v=4yQjn2s07i4</link>
+            <guid>https://www.youtube.com/watch?v=4yQjn2s07i4</guid>
+            <pubDate>JUNE 11, 2021 AT 11:51AM</pubDate>
+            <description>IOApp: il provvedimento del Garante e tutte le bugie di Colao</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Caparezza</title>
-            <link>https://www.youtube.com/watch?v=NOinzKgD9N4</link>
-            <guid>https://www.youtube.com/watch?v=NOinzKgD9N4</guid>
-            <pubDate>MAY 25, 2021 AT 12:35PM</pubDate>
-            <description>4 chiacchiere con Caparezza</description>
+            <title>Matteo Flora - TUTTI i #GreenPass italiani online! Ma è vero?</title>
+            <link>https://www.youtube.com/watch?v=olUCkl1eaZ4</link>
+            <guid>https://www.youtube.com/watch?v=olUCkl1eaZ4</guid>
+            <pubDate>NOVEMBER 20, 2021 AT 11:48AM</pubDate>
+            <description>TUTTI i #GreenPass italiani online! Ma è vero?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Norma&#39;s Teaching (Norma Cerletti)</title>
+            <link>https://www.youtube.com/watch?v=Y3PCDbQ2SuY</link>
+            <guid>https://www.youtube.com/watch?v=Y3PCDbQ2SuY</guid>
+            <pubDate>JUNE 9, 2021 AT 10:54AM</pubDate>
+            <description>4 chiacchiere con Norma&#39;s Teaching (Norma Cerletti)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Le nuove opportunità NFT e Crypto per l&#39;editoria</title>
+            <link>https://www.youtube.com/watch?v=CPvQm82A42Q</link>
+            <guid>https://www.youtube.com/watch?v=CPvQm82A42Q</guid>
+            <pubDate>DECEMBER 3, 2021 AT 09:00AM</pubDate>
+            <description>Le nuove opportunità NFT e Crypto per l&#39;editoria</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Giovanni Truppi</title>
+            <link>https://www.youtube.com/watch?v=Nr88tAgdR0M</link>
+            <guid>https://www.youtube.com/watch?v=Nr88tAgdR0M</guid>
+            <pubDate>FEBRUARY 12, 2022 AT 01:00PM</pubDate>
+            <description>4 chiacchiere con Giovanni Truppi</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - IL SEGRETO PER VENDERE #shorts</title>
+            <link>https://www.youtube.com/watch?v=bxc1ZaYpPYc</link>
+            <guid>https://www.youtube.com/watch?v=bxc1ZaYpPYc</guid>
+            <pubDate>JULY 9, 2021 AT 08:00AM</pubDate>
+            <description>IL SEGRETO PER VENDERE #shorts</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - Come rendere il tuo business e il tuo e-commerce più profittevole</title>
+            <link>https://www.youtube.com/watch?v=9jjnmawpsTo</link>
+            <guid>https://www.youtube.com/watch?v=9jjnmawpsTo</guid>
+            <pubDate>MAY 4, 2021 AT 09:44AM</pubDate>
+            <description>Come rendere il tuo business e il tuo e-commerce più profittevole</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Da &quot;bluff&quot; a 1.000 miliardi: come Elon Musk ha zittito tutti con Tesla</title>
+            <link>https://www.youtube.com/watch?v=KjFpO7ZkbNg</link>
+            <guid>https://www.youtube.com/watch?v=KjFpO7ZkbNg</guid>
+            <pubDate>OCTOBER 27, 2021 AT 12:30PM</pubDate>
+            <description>Da &quot;bluff&quot; a 1.000 miliardi: come Elon Musk ha zittito tutti con Tesla</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - A conversation with M. Night Shyamalan</title>
+            <link>https://www.youtube.com/watch?v=hi31OPRNrII</link>
+            <guid>https://www.youtube.com/watch?v=hi31OPRNrII</guid>
+            <pubDate>JULY 21, 2021 AT 03:44PM</pubDate>
+            <description>A conversation with M. Night Shyamalan</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - The Coin of Champions: Demo live e Q&amp;A</title>
+            <link>https://www.youtube.com/watch?v=cxso2vZlye4</link>
+            <guid>https://www.youtube.com/watch?v=cxso2vZlye4</guid>
+            <pubDate>NOVEMBER 25, 2021 AT 04:22PM</pubDate>
+            <description>The Coin of Champions: Demo live e Q&amp;A</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Quali sono i Tool indispensabili per la SEO? +17 domande nel Q&amp;A</title>
+            <link>https://www.youtube.com/watch?v=NNuKkjpEK98</link>
+            <guid>https://www.youtube.com/watch?v=NNuKkjpEK98</guid>
+            <pubDate>MAY 20, 2021 AT 07:30AM</pubDate>
+            <description>Quali sono i Tool indispensabili per la SEO? +17 domande nel Q&amp;A</description>
         </item>
         <item>
             <title>Marco Montemagno - Lavoro e giovani: ci sono 700 mila posti di lavoro disponibili ma...</title>
@@ -133,18 +119,32 @@
             <description>Lavoro e giovani: ci sono 700 mila posti di lavoro disponibili ma...</description>
         </item>
         <item>
-            <title>Marco Montemagno - Pregiudizio o realtà: qual è il confine?</title>
-            <link>https://www.youtube.com/watch?v=rf9ZP3rzQsY</link>
-            <guid>https://www.youtube.com/watch?v=rf9ZP3rzQsY</guid>
-            <pubDate>JANUARY 24, 2022 AT 10:00AM</pubDate>
-            <description>Pregiudizio o realtà: qual è il confine?</description>
+            <title>Marco Montemagno - Gino non le manda a dire ;)</title>
+            <link>https://www.youtube.com/watch?v=Xlyrx1wUGIs</link>
+            <guid>https://www.youtube.com/watch?v=Xlyrx1wUGIs</guid>
+            <pubDate>JULY 30, 2021 AT 11:28AM</pubDate>
+            <description>Gino non le manda a dire ;)</description>
         </item>
         <item>
-            <title>Marco Montemagno - Perché dovresti fregartene di quanti follower hai</title>
-            <link>https://www.youtube.com/watch?v=tONxNxARVNs</link>
-            <guid>https://www.youtube.com/watch?v=tONxNxARVNs</guid>
-            <pubDate>OCTOBER 30, 2021 AT 01:00PM</pubDate>
-            <description>Perché dovresti fregartene di quanti follower hai</description>
+            <title>Marco Montemagno - Bezos, Branson, Musk: la corsa dei Miliardari per accaparrarsi il nuovo business dello Spazio</title>
+            <link>https://www.youtube.com/watch?v=M4Q6hKyqME4</link>
+            <guid>https://www.youtube.com/watch?v=M4Q6hKyqME4</guid>
+            <pubDate>JULY 20, 2021 AT 01:06PM</pubDate>
+            <description>Bezos, Branson, Musk: la corsa dei Miliardari per accaparrarsi il nuovo business dello Spazio</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Non puoi cambiare il carattere delle persone intorno a te, ma ...</title>
+            <link>https://www.youtube.com/watch?v=1Nvx5176iuk</link>
+            <guid>https://www.youtube.com/watch?v=1Nvx5176iuk</guid>
+            <pubDate>DECEMBER 6, 2021 AT 09:00AM</pubDate>
+            <description>Non puoi cambiare il carattere delle persone intorno a te, ma ...</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - Come creare e vendere un NFT</title>
+            <link>https://www.youtube.com/watch?v=jzi6yQROUNs</link>
+            <guid>https://www.youtube.com/watch?v=jzi6yQROUNs</guid>
+            <pubDate>FEBRUARY 11, 2022 AT 09:12AM</pubDate>
+            <description>Come creare e vendere un NFT</description>
         </item>
     </channel>
 </rss>
