@@ -5,34 +5,104 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Sun, 27 Mar 2022 13:20:45 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 13:25:53 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con gli Extraliscio</title>
-            <link>https://www.youtube.com/watch?v=8wDM9ot5o8g</link>
-            <guid>https://www.youtube.com/watch?v=8wDM9ot5o8g</guid>
-            <pubDate>JUNE 10, 2021 AT 11:57AM</pubDate>
-            <description>4 chiacchiere con gli Extraliscio</description>
+            <title>Raffaele Gaito - QUAL È IL TUO PERCHÉ? #shorts</title>
+            <link>https://www.youtube.com/watch?v=Fjb0X8Pn5DY</link>
+            <guid>https://www.youtube.com/watch?v=Fjb0X8Pn5DY</guid>
+            <pubDate>JULY 23, 2021 AT 08:00AM</pubDate>
+            <description>QUAL È IL TUO PERCHÉ? #shorts</description>
         </item>
         <item>
-            <title>Marco Montemagno - Perché il femminismo serve anche agli uomini - 4 chiacchiere con Lorenzo Gasparrini</title>
-            <link>https://www.youtube.com/watch?v=g9zWbkLOe0c</link>
-            <guid>https://www.youtube.com/watch?v=g9zWbkLOe0c</guid>
-            <pubDate>NOVEMBER 12, 2021 AT 02:30PM</pubDate>
-            <description>Perché il femminismo serve anche agli uomini - 4 chiacchiere con Lorenzo Gasparrini</description>
+            <title>Marco Montemagno - 10 Frasi per convincere qualsiasi persona</title>
+            <link>https://www.youtube.com/watch?v=G6Xfj_4yqZM</link>
+            <guid>https://www.youtube.com/watch?v=G6Xfj_4yqZM</guid>
+            <pubDate>JUNE 4, 2021 AT 05:00PM</pubDate>
+            <description>10 Frasi per convincere qualsiasi persona</description>
         </item>
         <item>
-            <title>Raffaele Gaito - 7 LIBRI CHE MI HANNO CAMBIATO LA VITA</title>
-            <link>https://www.youtube.com/watch?v=oDeYD6EZ2Qs</link>
-            <guid>https://www.youtube.com/watch?v=oDeYD6EZ2Qs</guid>
-            <pubDate>MAY 18, 2021 AT 08:00AM</pubDate>
-            <description>7 LIBRI CHE MI HANNO CAMBIATO LA VITA</description>
+            <title>Marco Montemagno - Bitcoin, Crypto, NFT...che succede?</title>
+            <link>https://www.youtube.com/watch?v=iwQL8AdTEXk</link>
+            <guid>https://www.youtube.com/watch?v=iwQL8AdTEXk</guid>
+            <pubDate>MAY 31, 2021 AT 09:17AM</pubDate>
+            <description>Bitcoin, Crypto, NFT...che succede?</description>
         </item>
         <item>
-            <title>Matteo Flora - Il Riconoscimento Facciale, da Meta alle Città Italiane</title>
-            <link>https://www.youtube.com/watch?v=D5Wq7ZhmiEM</link>
-            <guid>https://www.youtube.com/watch?v=D5Wq7ZhmiEM</guid>
-            <pubDate>NOVEMBER 9, 2021 AT 10:56AM</pubDate>
-            <description>Il Riconoscimento Facciale, da Meta alle Città Italiane</description>
+            <title>Raffaele Gaito - È SUCCESSA UNA COSA BELLISSIMA (CON LA MIA COMMUNITY)</title>
+            <link>https://www.youtube.com/watch?v=uwuYsNWX-TQ</link>
+            <guid>https://www.youtube.com/watch?v=uwuYsNWX-TQ</guid>
+            <pubDate>APRIL 13, 2021 AT 08:00AM</pubDate>
+            <description>È SUCCESSA UNA COSA BELLISSIMA (CON LA MIA COMMUNITY)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Growth Hacking: ultimo giorno per iscriverti</title>
+            <link>https://www.youtube.com/watch?v=Lwt_JFBZZzA</link>
+            <guid>https://www.youtube.com/watch?v=Lwt_JFBZZzA</guid>
+            <pubDate>SEPTEMBER 10, 2021 AT 03:21PM</pubDate>
+            <description>Growth Hacking: ultimo giorno per iscriverti</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Ma come ho fatto a non pensarci prima!</title>
+            <link>https://www.youtube.com/watch?v=DNRgTrpdMhw</link>
+            <guid>https://www.youtube.com/watch?v=DNRgTrpdMhw</guid>
+            <pubDate>JULY 30, 2021 AT 03:01PM</pubDate>
+            <description>Ma come ho fatto a non pensarci prima!</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Il &quot;lavoro in nero di sinistra&quot; e la crisi reputazionale di Roberto Angelini</title>
+            <link>https://www.youtube.com/watch?v=aeCpHyVxGH4</link>
+            <guid>https://www.youtube.com/watch?v=aeCpHyVxGH4</guid>
+            <pubDate>MAY 18, 2021 AT 11:33AM</pubDate>
+            <description>Il &quot;lavoro in nero di sinistra&quot; e la crisi reputazionale di Roberto Angelini</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Monty: il meglio del 2021</title>
+            <link>https://www.youtube.com/watch?v=LdRuTSAC14g</link>
+            <guid>https://www.youtube.com/watch?v=LdRuTSAC14g</guid>
+            <pubDate>DECEMBER 30, 2021 AT 01:30PM</pubDate>
+            <description>Monty: il meglio del 2021</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con The Crypto Gateway (Lua Boiardi)</title>
+            <link>https://www.youtube.com/watch?v=F-BSt-aYXCQ</link>
+            <guid>https://www.youtube.com/watch?v=F-BSt-aYXCQ</guid>
+            <pubDate>JANUARY 12, 2022 AT 11:19PM</pubDate>
+            <description>4 chiacchiere con The Crypto Gateway (Lua Boiardi)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Metaverso: la prossima mossa di Facebook (e delle big tech)</title>
+            <link>https://www.youtube.com/watch?v=KlkvVVcvN8M</link>
+            <guid>https://www.youtube.com/watch?v=KlkvVVcvN8M</guid>
+            <pubDate>NOVEMBER 1, 2021 AT 01:39PM</pubDate>
+            <description>Metaverso: la prossima mossa di Facebook (e delle big tech)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Come capire cosa indossi? Lucia Mantero su Competenze</title>
+            <link>https://www.youtube.com/watch?v=ZD--gwTuukY</link>
+            <guid>https://www.youtube.com/watch?v=ZD--gwTuukY</guid>
+            <pubDate>JUNE 15, 2021 AT 12:46PM</pubDate>
+            <description>Come capire cosa indossi? Lucia Mantero su Competenze</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Advertising e Privacy: ma che cosa sta succedendo?</title>
+            <link>https://www.youtube.com/watch?v=6ZzALaEwIak</link>
+            <guid>https://www.youtube.com/watch?v=6ZzALaEwIak</guid>
+            <pubDate>JULY 6, 2021 AT 07:30AM</pubDate>
+            <description>Advertising e Privacy: ma che cosa sta succedendo?</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - La più grande opportunità per chi fa SEO oggi</title>
+            <link>https://www.youtube.com/watch?v=HyPZwSK48fo</link>
+            <guid>https://www.youtube.com/watch?v=HyPZwSK48fo</guid>
+            <pubDate>JULY 7, 2021 AT 07:30AM</pubDate>
+            <description>La più grande opportunità per chi fa SEO oggi</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 5 (+1) errori ASSOLUTAMENTE da evitare quando parli in pubblico</title>
+            <link>https://www.youtube.com/watch?v=dT8wIajxiks</link>
+            <guid>https://www.youtube.com/watch?v=dT8wIajxiks</guid>
+            <pubDate>SEPTEMBER 23, 2021 AT 01:06PM</pubDate>
+            <description>5 (+1) errori ASSOLUTAMENTE da evitare quando parli in pubblico</description>
         </item>
         <item>
             <title>Marco Montemagno - La tecnica dell&#39;Anticipazione #shorts</title>
@@ -42,109 +112,39 @@
             <description>La tecnica dell&#39;Anticipazione #shorts</description>
         </item>
         <item>
-            <title>Matteo Flora - Youtube e &quot;non mi piace&quot;: perché sono stati fatti sparire i numeri? E cosa significa?</title>
-            <link>https://www.youtube.com/watch?v=5wyWpKllNa8</link>
-            <guid>https://www.youtube.com/watch?v=5wyWpKllNa8</guid>
-            <pubDate>DECEMBER 1, 2021 AT 08:48AM</pubDate>
-            <description>Youtube e &quot;non mi piace&quot;: perché sono stati fatti sparire i numeri? E cosa significa?</description>
+            <title>Marco Montemagno - Print on demand: trends and best practice with Printful</title>
+            <link>https://www.youtube.com/watch?v=iQfj4u6yraw</link>
+            <guid>https://www.youtube.com/watch?v=iQfj4u6yraw</guid>
+            <pubDate>JANUARY 28, 2022 AT 09:40AM</pubDate>
+            <description>Print on demand: trends and best practice with Printful</description>
         </item>
         <item>
-            <title>Marco Montemagno - L’arte di preparare i cocktail con Ago Perrone e Giorgio Bargiani</title>
-            <link>https://www.youtube.com/watch?v=cbVlSdwGY4o</link>
-            <guid>https://www.youtube.com/watch?v=cbVlSdwGY4o</guid>
-            <pubDate>DECEMBER 13, 2021 AT 01:45PM</pubDate>
-            <description>L’arte di preparare i cocktail con Ago Perrone e Giorgio Bargiani</description>
+            <title>Marco Montemagno - Non puoi cambiare il carattere delle persone intorno a te, ma ...</title>
+            <link>https://www.youtube.com/watch?v=1Nvx5176iuk</link>
+            <guid>https://www.youtube.com/watch?v=1Nvx5176iuk</guid>
+            <pubDate>DECEMBER 6, 2021 AT 09:00AM</pubDate>
+            <description>Non puoi cambiare il carattere delle persone intorno a te, ma ...</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Gino Strada</title>
-            <link>https://www.youtube.com/watch?v=4weR9T3v3XA</link>
-            <guid>https://www.youtube.com/watch?v=4weR9T3v3XA</guid>
-            <pubDate>MAY 20, 2021 AT 08:49AM</pubDate>
-            <description>4 chiacchiere con Gino Strada</description>
+            <title>Marco Montemagno - Leader Giovani e Sostenibilità con Livia Firth</title>
+            <link>https://www.youtube.com/watch?v=L2deg_wSV1g</link>
+            <guid>https://www.youtube.com/watch?v=L2deg_wSV1g</guid>
+            <pubDate>NOVEMBER 20, 2021 AT 03:17PM</pubDate>
+            <description>Leader Giovani e Sostenibilità con Livia Firth</description>
         </item>
         <item>
-            <title>Raffaele Gaito - COME DIFFERENZIARSI DALLA CONCORRENZA (E NON SOLO)</title>
-            <link>https://www.youtube.com/watch?v=0-SbdkcHFGA</link>
-            <guid>https://www.youtube.com/watch?v=0-SbdkcHFGA</guid>
-            <pubDate>AUGUST 3, 2021 AT 08:00AM</pubDate>
-            <description>COME DIFFERENZIARSI DALLA CONCORRENZA (E NON SOLO)</description>
+            <title>Marco Montemagno - Intelligenza Artificiale...che succede?</title>
+            <link>https://www.youtube.com/watch?v=JVCSeaEG6lU</link>
+            <guid>https://www.youtube.com/watch?v=JVCSeaEG6lU</guid>
+            <pubDate>JUNE 20, 2021 AT 11:43PM</pubDate>
+            <description>Intelligenza Artificiale...che succede?</description>
         </item>
         <item>
-            <title>Raffaele Gaito - Tempo al tempo | Matteo Professione - Ernia | TEDxUNICATT</title>
-            <link>https://www.youtube.com/watch?v=7GfTF5YTA0I</link>
-            <guid>https://www.youtube.com/watch?v=7GfTF5YTA0I</guid>
-            <pubDate>MARCH 30, 2021 AT 06:28PM</pubDate>
-            <description>Tempo al tempo | Matteo Professione - Ernia | TEDxUNICATT</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - Da Apple FaceTime alle nuove mappe, tutte le novità in arrivo con iOS 15</title>
-            <link>https://www.youtube.com/watch?v=-L2pjqw2dMA</link>
-            <guid>https://www.youtube.com/watch?v=-L2pjqw2dMA</guid>
-            <pubDate>JUNE 9, 2021 AT 08:30AM</pubDate>
-            <description>Da Apple FaceTime alle nuove mappe, tutte le novità in arrivo con iOS 15</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Crypto e sport con The Coin of Champions</title>
-            <link>https://www.youtube.com/watch?v=jzyFGHRmo04</link>
-            <guid>https://www.youtube.com/watch?v=jzyFGHRmo04</guid>
-            <pubDate>NOVEMBER 30, 2021 AT 03:00PM</pubDate>
-            <description>Crypto e sport con The Coin of Champions</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Il Chief Innovation Officer (CINO): chi è e cosa fa in azienda con Stefano Denicolai</title>
-            <link>https://www.youtube.com/watch?v=cR0_IyWoWqY</link>
-            <guid>https://www.youtube.com/watch?v=cR0_IyWoWqY</guid>
-            <pubDate>DECEMBER 29, 2021 AT 12:32PM</pubDate>
-            <description>Il Chief Innovation Officer (CINO): chi è e cosa fa in azienda con Stefano Denicolai</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Roma Nord, il Vietnam e Pietro Castellitto</title>
-            <link>https://www.youtube.com/watch?v=02uIKDbAYI4</link>
-            <guid>https://www.youtube.com/watch?v=02uIKDbAYI4</guid>
-            <pubDate>DECEMBER 8, 2021 AT 08:25AM</pubDate>
-            <description>Roma Nord, il Vietnam e Pietro Castellitto</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Da dove si parte per doppiare qualcuno? Ne avevamo parlato con Maurizio Merluzzo</title>
-            <link>https://www.youtube.com/watch?v=peIvWgg1PYY</link>
-            <guid>https://www.youtube.com/watch?v=peIvWgg1PYY</guid>
-            <pubDate>AUGUST 18, 2021 AT 06:30PM</pubDate>
-            <description>Da dove si parte per doppiare qualcuno? Ne avevamo parlato con Maurizio Merluzzo</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Enrico Bertolino sta per arrivare su Competenze con il corso &quot;Capitalizzare il potere dell&#39;ironia&quot;</title>
-            <link>https://www.youtube.com/watch?v=FS4eps3Ztyo</link>
-            <guid>https://www.youtube.com/watch?v=FS4eps3Ztyo</guid>
-            <pubDate>MAY 12, 2021 AT 12:45PM</pubDate>
-            <description>Enrico Bertolino sta per arrivare su Competenze con il corso &quot;Capitalizzare il potere dell&#39;ironia&quot;</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - Le differenze tra iPhone e Andorid e 4 chiacchiere sul calcio</title>
-            <link>https://www.youtube.com/watch?v=O1ITBfa-Hv0</link>
-            <guid>https://www.youtube.com/watch?v=O1ITBfa-Hv0</guid>
-            <pubDate>FEBRUARY 2, 2022 AT 10:44AM</pubDate>
-            <description>Le differenze tra iPhone e Andorid e 4 chiacchiere sul calcio</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - David di Donatello 2021, Matilda De Angelis migliore attrice non protagonista. Grandissima!</title>
-            <link>https://www.youtube.com/watch?v=y5Sd4FuY-0M</link>
-            <guid>https://www.youtube.com/watch?v=y5Sd4FuY-0M</guid>
-            <pubDate>MAY 12, 2021 AT 04:15PM</pubDate>
-            <description>David di Donatello 2021, Matilda De Angelis migliore attrice non protagonista. Grandissima!</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 12 errori assolutamente da non fare, quando scrivi per un lavoro</title>
-            <link>https://www.youtube.com/watch?v=mguXOSdqbpE</link>
-            <guid>https://www.youtube.com/watch?v=mguXOSdqbpE</guid>
-            <pubDate>JULY 1, 2021 AT 03:49PM</pubDate>
-            <description>12 errori assolutamente da non fare, quando scrivi per un lavoro</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - Anche tu sei stato colpito dallo Smishing?</title>
-            <link>https://www.youtube.com/watch?v=tsoWT_o4fv0</link>
-            <guid>https://www.youtube.com/watch?v=tsoWT_o4fv0</guid>
-            <pubDate>JANUARY 28, 2022 AT 09:51AM</pubDate>
-            <description>Anche tu sei stato colpito dallo Smishing?</description>
+            <title>Matteo Flora - #Report e &quot;le fonti&quot;: cosa è successo davvero e perché non è un attacco alla democrazia</title>
+            <link>https://www.youtube.com/watch?v=HXTvPnUKKsE</link>
+            <guid>https://www.youtube.com/watch?v=HXTvPnUKKsE</guid>
+            <pubDate>JUNE 20, 2021 AT 09:15PM</pubDate>
+            <description>#Report e &quot;le fonti&quot;: cosa è successo davvero e perché non è un attacco alla democrazia</description>
         </item>
     </channel>
 </rss>
