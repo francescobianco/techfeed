@@ -5,27 +5,55 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Sat, 23 Apr 2022 13:24:38 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 13:25:26 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - Il principio di Pareto sul lavoro: qual è il tuo 20% che conta?</title>
-            <link>https://www.youtube.com/watch?v=OpaLsqvA4lI</link>
-            <guid>https://www.youtube.com/watch?v=OpaLsqvA4lI</guid>
-            <pubDate>OCTOBER 15, 2021 AT 02:30PM</pubDate>
-            <description>Il principio di Pareto sul lavoro: qual è il tuo 20% che conta?</description>
+            <title>Matteo Flora - Facebook spegne, come IBM, il riconoscimento facciale. Perché?</title>
+            <link>https://www.youtube.com/watch?v=laZVDIEt6CA</link>
+            <guid>https://www.youtube.com/watch?v=laZVDIEt6CA</guid>
+            <pubDate>NOVEMBER 3, 2021 AT 09:18AM</pubDate>
+            <description>Facebook spegne, come IBM, il riconoscimento facciale. Perché?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Internet cambia: fuori i social dentro web3 e metaversi</title>
-            <link>https://www.youtube.com/watch?v=VYnUHKH8Va0</link>
-            <guid>https://www.youtube.com/watch?v=VYnUHKH8Va0</guid>
-            <pubDate>NOVEMBER 13, 2021 AT 03:30PM</pubDate>
-            <description>Internet cambia: fuori i social dentro web3 e metaversi</description>
+            <title>Marco Montemagno - Se non funziona, farò qualcos&#39;altro</title>
+            <link>https://www.youtube.com/watch?v=4DzJ3SN5uoI</link>
+            <guid>https://www.youtube.com/watch?v=4DzJ3SN5uoI</guid>
+            <pubDate>JANUARY 10, 2022 AT 01:00PM</pubDate>
+            <description>Se non funziona, farò qualcos&#39;altro</description>
         </item>
         <item>
-            <title>Marco Montemagno - Hai un cane, un gatto...Monica Pais su Competenze.it</title>
-            <link>https://www.youtube.com/watch?v=bmb7cm81r3Q</link>
-            <guid>https://www.youtube.com/watch?v=bmb7cm81r3Q</guid>
-            <pubDate>JULY 12, 2021 AT 12:32PM</pubDate>
-            <description>Hai un cane, un gatto...Monica Pais su Competenze.it</description>
+            <title>Marco Montemagno - Bitcoin, NFT, Crypto...Riassunto delle puntate precedenti</title>
+            <link>https://www.youtube.com/watch?v=RGYYuxubUGE</link>
+            <guid>https://www.youtube.com/watch?v=RGYYuxubUGE</guid>
+            <pubDate>NOVEMBER 21, 2021 AT 06:00PM</pubDate>
+            <description>Bitcoin, NFT, Crypto...Riassunto delle puntate precedenti</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Come hanno fatto a convincerti?</title>
+            <link>https://www.youtube.com/watch?v=4gzdjg-CSOU</link>
+            <guid>https://www.youtube.com/watch?v=4gzdjg-CSOU</guid>
+            <pubDate>DECEMBER 9, 2021 AT 06:49PM</pubDate>
+            <description>Come hanno fatto a convincerti?</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - Atassia spinocerebellare. Cos’è, chi è a rischio, come curarla</title>
+            <link>https://www.youtube.com/watch?v=5cVBb2QpZsU</link>
+            <guid>https://www.youtube.com/watch?v=5cVBb2QpZsU</guid>
+            <pubDate>DECEMBER 13, 2021 AT 09:47AM</pubDate>
+            <description>Atassia spinocerebellare. Cos’è, chi è a rischio, come curarla</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - QUAL È IL TUO PERCHÉ? #shorts</title>
+            <link>https://www.youtube.com/watch?v=Fjb0X8Pn5DY</link>
+            <guid>https://www.youtube.com/watch?v=Fjb0X8Pn5DY</guid>
+            <pubDate>JULY 23, 2021 AT 08:00AM</pubDate>
+            <description>QUAL È IL TUO PERCHÉ? #shorts</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - ... Ma prendere decisioni meno stupide?</title>
+            <link>https://www.youtube.com/watch?v=XankQ8Kbsh8</link>
+            <guid>https://www.youtube.com/watch?v=XankQ8Kbsh8</guid>
+            <pubDate>SEPTEMBER 27, 2021 AT 02:00PM</pubDate>
+            <description>... Ma prendere decisioni meno stupide?</description>
         </item>
         <item>
             <title>Marco Montemagno - Metaverso..tutto quello che avresti sempre voluto sapere e non hai mai osato chiedere</title>
@@ -35,116 +63,88 @@
             <description>Metaverso..tutto quello che avresti sempre voluto sapere e non hai mai osato chiedere</description>
         </item>
         <item>
-            <title>Marco Montemagno - Ti odio...perché sei pelato...#shorts</title>
-            <link>https://www.youtube.com/watch?v=wxxQ9gqvNT4</link>
-            <guid>https://www.youtube.com/watch?v=wxxQ9gqvNT4</guid>
-            <pubDate>AUGUST 31, 2021 AT 10:37AM</pubDate>
-            <description>Ti odio...perché sei pelato...#shorts</description>
+            <title>Matteo Flora - Perché dico che in Italia la colpa del RevengePorn è dei giornalisti...</title>
+            <link>https://www.youtube.com/watch?v=tPqTBYt2la0</link>
+            <guid>https://www.youtube.com/watch?v=tPqTBYt2la0</guid>
+            <pubDate>NOVEMBER 12, 2021 AT 11:46AM</pubDate>
+            <description>Perché dico che in Italia la colpa del RevengePorn è dei giornalisti...</description>
         </item>
         <item>
-            <title>Marco Montemagno - Human Safari, in 6 minuti</title>
-            <link>https://www.youtube.com/watch?v=_bD3UN7rADc</link>
-            <guid>https://www.youtube.com/watch?v=_bD3UN7rADc</guid>
-            <pubDate>SEPTEMBER 1, 2021 AT 07:58PM</pubDate>
-            <description>Human Safari, in 6 minuti</description>
+            <title>Marco Montemagno - Cosa sono le gas fee?</title>
+            <link>https://www.youtube.com/watch?v=0Ao4Cet8SmU</link>
+            <guid>https://www.youtube.com/watch?v=0Ao4Cet8SmU</guid>
+            <pubDate>JANUARY 27, 2022 AT 11:00AM</pubDate>
+            <description>Cosa sono le gas fee?</description>
         </item>
         <item>
-            <title>Raffaele Gaito - QUAL È IL TUO PERCHÉ?!</title>
-            <link>https://www.youtube.com/watch?v=ZO20C81PxjM</link>
-            <guid>https://www.youtube.com/watch?v=ZO20C81PxjM</guid>
-            <pubDate>JUNE 2, 2021 AT 08:00AM</pubDate>
-            <description>QUAL È IL TUO PERCHÉ?!</description>
+            <title>Marco Montemagno - Per cosa possono essere usati gli NFT? (No, non sono solo per l&#39;arte)</title>
+            <link>https://www.youtube.com/watch?v=yiya_MBWZso</link>
+            <guid>https://www.youtube.com/watch?v=yiya_MBWZso</guid>
+            <pubDate>JANUARY 24, 2022 AT 03:26PM</pubDate>
+            <description>Per cosa possono essere usati gli NFT? (No, non sono solo per l&#39;arte)</description>
         </item>
         <item>
-            <title>Marco Montemagno - La vita costa sempre di più...</title>
-            <link>https://www.youtube.com/watch?v=5oCCrYpd-HM</link>
-            <guid>https://www.youtube.com/watch?v=5oCCrYpd-HM</guid>
-            <pubDate>JULY 29, 2021 AT 12:00PM</pubDate>
-            <description>La vita costa sempre di più...</description>
+            <title>Marco Montemagno - Conosci la legge dello schiaffone?</title>
+            <link>https://www.youtube.com/watch?v=cdo3-1ermxI</link>
+            <guid>https://www.youtube.com/watch?v=cdo3-1ermxI</guid>
+            <pubDate>JANUARY 8, 2022 AT 01:00PM</pubDate>
+            <description>Conosci la legge dello schiaffone?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come faccio a tutelare legalmente il mio e-commerce?</title>
-            <link>https://www.youtube.com/watch?v=GcpFl-Bj6xw</link>
-            <guid>https://www.youtube.com/watch?v=GcpFl-Bj6xw</guid>
-            <pubDate>OCTOBER 8, 2021 AT 01:00PM</pubDate>
-            <description>Come faccio a tutelare legalmente il mio e-commerce?</description>
+            <title>Marco Montemagno - 5 (+1) errori ASSOLUTAMENTE da evitare quando parli in pubblico</title>
+            <link>https://www.youtube.com/watch?v=dT8wIajxiks</link>
+            <guid>https://www.youtube.com/watch?v=dT8wIajxiks</guid>
+            <pubDate>SEPTEMBER 23, 2021 AT 01:06PM</pubDate>
+            <description>5 (+1) errori ASSOLUTAMENTE da evitare quando parli in pubblico</description>
         </item>
         <item>
-            <title>Marco Montemagno - Food Talks Mixology con Agostino Perrone e Giorgio Bargiani</title>
-            <link>https://www.youtube.com/watch?v=mT6FawwWqrw</link>
-            <guid>https://www.youtube.com/watch?v=mT6FawwWqrw</guid>
-            <pubDate>MAY 21, 2021 AT 11:04AM</pubDate>
-            <description>Food Talks Mixology con Agostino Perrone e Giorgio Bargiani</description>
+            <title>Matteo Flora - [LIVE] - &quot;Il Diritto di Non-Opinione&quot;, Ciao Internet in DIRETTA 🔥</title>
+            <link>https://www.youtube.com/watch?v=TeJbW9ud8K4</link>
+            <guid>https://www.youtube.com/watch?v=TeJbW9ud8K4</guid>
+            <pubDate>MAY 7, 2021 AT 11:36AM</pubDate>
+            <description>[LIVE] - &quot;Il Diritto di Non-Opinione&quot;, Ciao Internet in DIRETTA 🔥</description>
         </item>
         <item>
-            <title>Matteo Flora - Chi sono le Virtual Influencer e perché sono un pericolo per le nostre libertà</title>
-            <link>https://www.youtube.com/watch?v=HpDJvijSp5c</link>
-            <guid>https://www.youtube.com/watch?v=HpDJvijSp5c</guid>
-            <pubDate>SEPTEMBER 15, 2021 AT 09:17AM</pubDate>
-            <description>Chi sono le Virtual Influencer e perché sono un pericolo per le nostre libertà</description>
+            <title>Matteo Flora - Giorgia Soleri, il razzismo, l&#39;attivismo, la &quot;fidanzata di Damiano dei Maneskin&quot; e la redenzione...</title>
+            <link>https://www.youtube.com/watch?v=3n2qeiTaGik</link>
+            <guid>https://www.youtube.com/watch?v=3n2qeiTaGik</guid>
+            <pubDate>JANUARY 14, 2022 AT 06:30PM</pubDate>
+            <description>Giorgia Soleri, il razzismo, l&#39;attivismo, la &quot;fidanzata di Damiano dei Maneskin&quot; e la redenzione...</description>
         </item>
         <item>
-            <title>Marco Montemagno - A conversation with M. Night Shyamalan (Sixth Sense/Old/Unbreakable, Split...)</title>
-            <link>https://www.youtube.com/watch?v=j2zw6qsVBxY</link>
-            <guid>https://www.youtube.com/watch?v=j2zw6qsVBxY</guid>
-            <pubDate>JULY 21, 2021 AT 05:42PM</pubDate>
-            <description>A conversation with M. Night Shyamalan (Sixth Sense/Old/Unbreakable, Split...)</description>
+            <title>Matteo Flora - SIAE e #databreach: cosa è successo e tutto quello che ancora non torna</title>
+            <link>https://www.youtube.com/watch?v=82g7ujRYgCk</link>
+            <guid>https://www.youtube.com/watch?v=82g7ujRYgCk</guid>
+            <pubDate>OCTOBER 22, 2021 AT 04:26PM</pubDate>
+            <description>SIAE e #databreach: cosa è successo e tutto quello che ancora non torna</description>
         </item>
         <item>
-            <title>Marco Montemagno - Nek racconta com&#39;è nata &quot;Laura non c&#39;è&quot;</title>
-            <link>https://www.youtube.com/watch?v=LcbQwOmlyYk</link>
-            <guid>https://www.youtube.com/watch?v=LcbQwOmlyYk</guid>
-            <pubDate>JULY 10, 2021 AT 10:54AM</pubDate>
-            <description>Nek racconta com&#39;è nata &quot;Laura non c&#39;è&quot;</description>
+            <title>Marco Montemagno - 4 chiacchiere con Davide Boosta Dileo e DANIJEL</title>
+            <link>https://www.youtube.com/watch?v=bPO60D88NdA</link>
+            <guid>https://www.youtube.com/watch?v=bPO60D88NdA</guid>
+            <pubDate>JUNE 7, 2021 AT 10:41AM</pubDate>
+            <description>4 chiacchiere con Davide Boosta Dileo e DANIJEL</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Nek</title>
-            <link>https://www.youtube.com/watch?v=Pj947GejFI0</link>
-            <guid>https://www.youtube.com/watch?v=Pj947GejFI0</guid>
-            <pubDate>JULY 8, 2021 AT 09:02PM</pubDate>
-            <description>4 chiacchiere con Nek</description>
+            <title>Matteo Flora - Tutto quello che dovete sapere su Pegasus, Intercettazioni e Captatori…</title>
+            <link>https://www.youtube.com/watch?v=Z8Q0dBKSQHU</link>
+            <guid>https://www.youtube.com/watch?v=Z8Q0dBKSQHU</guid>
+            <pubDate>JULY 26, 2021 AT 10:00AM</pubDate>
+            <description>Tutto quello che dovete sapere su Pegasus, Intercettazioni e Captatori…</description>
         </item>
         <item>
-            <title>Raffaele Gaito - PERCHÉ LE AZIENDE VENDONO IL CAFFÈ IN ABBONAMENTO? #shorts</title>
-            <link>https://www.youtube.com/watch?v=pVKmp4juAX8</link>
-            <guid>https://www.youtube.com/watch?v=pVKmp4juAX8</guid>
-            <pubDate>AUGUST 24, 2021 AT 09:13AM</pubDate>
-            <description>PERCHÉ LE AZIENDE VENDONO IL CAFFÈ IN ABBONAMENTO? #shorts</description>
+            <title>Marco Montemagno - Bitcoin che succede? Previsioni per il 2022</title>
+            <link>https://www.youtube.com/watch?v=3NDZDR_aIxM</link>
+            <guid>https://www.youtube.com/watch?v=3NDZDR_aIxM</guid>
+            <pubDate>JANUARY 5, 2022 AT 11:55PM</pubDate>
+            <description>Bitcoin che succede? Previsioni per il 2022</description>
         </item>
         <item>
-            <title>Matteo Flora - Mi hanno rubato il canale! Le nuove truffe e come evitare che ti rubino i profili!</title>
-            <link>https://www.youtube.com/watch?v=H467gzIYjXM</link>
-            <guid>https://www.youtube.com/watch?v=H467gzIYjXM</guid>
-            <pubDate>AUGUST 21, 2021 AT 08:35AM</pubDate>
-            <description>Mi hanno rubato il canale! Le nuove truffe e come evitare che ti rubino i profili!</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - Perché YouTube mi ha costretto a passare a Twitch</title>
-            <link>https://www.youtube.com/watch?v=H0apJ8TS6Co</link>
-            <guid>https://www.youtube.com/watch?v=H0apJ8TS6Co</guid>
-            <pubDate>JUNE 21, 2021 AT 07:30AM</pubDate>
-            <description>Perché YouTube mi ha costretto a passare a Twitch</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Regno Unito, che succede? Tra pandemia, Europei, Wimbledon e mamma di Goldrake</title>
-            <link>https://www.youtube.com/watch?v=p8T9APORrsw</link>
-            <guid>https://www.youtube.com/watch?v=p8T9APORrsw</guid>
-            <pubDate>JULY 8, 2021 AT 07:27PM</pubDate>
-            <description>Regno Unito, che succede? Tra pandemia, Europei, Wimbledon e mamma di Goldrake</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Intelligenza Artificiale e CUSTOMER CARE</title>
-            <link>https://www.youtube.com/watch?v=uPI609RWDMs</link>
-            <guid>https://www.youtube.com/watch?v=uPI609RWDMs</guid>
-            <pubDate>JUNE 23, 2021 AT 10:26PM</pubDate>
-            <description>Intelligenza Artificiale e CUSTOMER CARE</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - On Running si quoterà in borsa negli Stati Uniti ...Vi ricordate le loro scarpe in abbonamento?</title>
-            <link>https://www.youtube.com/watch?v=MgcfLx3OmHQ</link>
-            <guid>https://www.youtube.com/watch?v=MgcfLx3OmHQ</guid>
-            <pubDate>AUGUST 26, 2021 AT 09:00AM</pubDate>
-            <description>On Running si quoterà in borsa negli Stati Uniti ...Vi ricordate le loro scarpe in abbonamento?</description>
+            <title>Raffaele Gaito - IMPRESE ITALIANE E DIGITALIZZAZIONE, COME SIAMO MESSI?!</title>
+            <link>https://www.youtube.com/watch?v=SGs4LsPVkV8</link>
+            <guid>https://www.youtube.com/watch?v=SGs4LsPVkV8</guid>
+            <pubDate>JULY 30, 2021 AT 08:00AM</pubDate>
+            <description>IMPRESE ITALIANE E DIGITALIZZAZIONE, COME SIAMO MESSI?!</description>
         </item>
     </channel>
 </rss>
