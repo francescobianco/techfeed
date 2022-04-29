@@ -23,7 +23,8 @@
 - https://www.youtube.com/channel/UCekaHQrJ0RpQhWFmEi8zF5g
 - https://www.youtube.com/channel/UC0HyfrdGsjimoixEGDk2ltQ/videos
 - https://www.youtube.com/c/MarioMoroniok/videos
-- 
+- https://www.youtube.com/channel/UCZtJSW0X3_I45ZyU6x4GCGg
+
 ## IFTTT
 
 - Raffele Gaito <https://ifttt.com/activity/applet/QavNkzCy>
