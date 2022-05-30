@@ -5,7 +5,35 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Sun, 29 May 2022 13:28:49 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 13:41:33 +0000</lastBuildDate>
+        <item>
+            <title>Marco Montemagno - Ethereum 2.0 e il futuro delle blockchain</title>
+            <link>https://www.youtube.com/watch?v=IHVz72i0pMI</link>
+            <guid>https://www.youtube.com/watch?v=IHVz72i0pMI</guid>
+            <pubDate>DECEMBER 4, 2021 AT 03:00PM</pubDate>
+            <description>Ethereum 2.0 e il futuro delle blockchain</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - La più Grande Rivoluzione SEO degli ultimi anni!</title>
+            <link>https://www.youtube.com/watch?v=_9mS8gdn3KY</link>
+            <guid>https://www.youtube.com/watch?v=_9mS8gdn3KY</guid>
+            <pubDate>MAY 28, 2021 AT 07:30AM</pubDate>
+            <description>La più Grande Rivoluzione SEO degli ultimi anni!</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Persuasione: la tecnica della ripetizione...</title>
+            <link>https://www.youtube.com/watch?v=U4pWWi111ag</link>
+            <guid>https://www.youtube.com/watch?v=U4pWWi111ag</guid>
+            <pubDate>AUGUST 19, 2021 AT 05:54PM</pubDate>
+            <description>Persuasione: la tecnica della ripetizione...</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Moda ed e-commerce: il ruolo fondamentale della sostenibilità</title>
+            <link>https://www.youtube.com/watch?v=qJmikLxAuSc</link>
+            <guid>https://www.youtube.com/watch?v=qJmikLxAuSc</guid>
+            <pubDate>JANUARY 6, 2022 AT 10:00AM</pubDate>
+            <description>Moda ed e-commerce: il ruolo fondamentale della sostenibilità</description>
+        </item>
         <item>
             <title>Marco Montemagno - Arturo Brachetti in arrivo su Competenze con il corso &quot;Come diventare stage performer&quot;</title>
             <link>https://www.youtube.com/watch?v=pnwdh2dTuc4</link>
@@ -14,137 +42,109 @@
             <description>Arturo Brachetti in arrivo su Competenze con il corso &quot;Come diventare stage performer&quot;</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come ha fatto TikTok a conquistare il mondo (alla velocità della luce)?</title>
-            <link>https://www.youtube.com/watch?v=LeK11lHxaCQ</link>
-            <guid>https://www.youtube.com/watch?v=LeK11lHxaCQ</guid>
-            <pubDate>JULY 14, 2021 AT 12:00PM</pubDate>
-            <description>Come ha fatto TikTok a conquistare il mondo (alla velocità della luce)?</description>
+            <title>Matteo Flora - Tommaso Montesano e le scuse fatte molto male che distruggono la sua reputazione</title>
+            <link>https://www.youtube.com/watch?v=j-7STbqKbQk</link>
+            <guid>https://www.youtube.com/watch?v=j-7STbqKbQk</guid>
+            <pubDate>FEBRUARY 11, 2022 AT 01:00PM</pubDate>
+            <description>Tommaso Montesano e le scuse fatte molto male che distruggono la sua reputazione</description>
         </item>
         <item>
-            <title>Rudy Bandiera - 4 attributi chiave per un business da sogno</title>
-            <link>https://www.youtube.com/watch?v=D5aRlD1WKqI</link>
-            <guid>https://www.youtube.com/watch?v=D5aRlD1WKqI</guid>
-            <pubDate>JULY 19, 2021 AT 09:17AM</pubDate>
-            <description>4 attributi chiave per un business da sogno</description>
+            <title>Matteo Flora - [LIVE] Quattro chiacchiere nel vostro Sabato Sera</title>
+            <link>https://www.youtube.com/watch?v=Cl6J-leRCrE</link>
+            <guid>https://www.youtube.com/watch?v=Cl6J-leRCrE</guid>
+            <pubDate>MAY 8, 2021 AT 10:28PM</pubDate>
+            <description>[LIVE] Quattro chiacchiere nel vostro Sabato Sera</description>
         </item>
         <item>
-            <title>Marco Montemagno - How to make crypto accessible to all with Cyrus Fazel - CEO di SwissBorg</title>
-            <link>https://www.youtube.com/watch?v=vGPhQsjyV_8</link>
-            <guid>https://www.youtube.com/watch?v=vGPhQsjyV_8</guid>
-            <pubDate>NOVEMBER 27, 2021 AT 09:00AM</pubDate>
-            <description>How to make crypto accessible to all with Cyrus Fazel - CEO di SwissBorg</description>
+            <title>Matteo Flora - Fingere il #Cancro per soldi: la storia della streamer che finse un cancro per due spiccioli...</title>
+            <link>https://www.youtube.com/watch?v=wEApGudIRs0</link>
+            <guid>https://www.youtube.com/watch?v=wEApGudIRs0</guid>
+            <pubDate>SEPTEMBER 10, 2021 AT 07:59AM</pubDate>
+            <description>Fingere il #Cancro per soldi: la storia della streamer che finse un cancro per due spiccioli...</description>
         </item>
         <item>
-            <title>Matteo Flora - [LIVE] #CiaoInternet Serale: Apple e la Pedopornografia</title>
-            <link>https://www.youtube.com/watch?v=eVjNjFikDho</link>
-            <guid>https://www.youtube.com/watch?v=eVjNjFikDho</guid>
-            <pubDate>SEPTEMBER 4, 2021 AT 09:26AM</pubDate>
-            <description>[LIVE] #CiaoInternet Serale: Apple e la Pedopornografia</description>
+            <title>Marco Montemagno - Come si crea un prodotto finanziario?</title>
+            <link>https://www.youtube.com/watch?v=uXO5ba2vgrA</link>
+            <guid>https://www.youtube.com/watch?v=uXO5ba2vgrA</guid>
+            <pubDate>NOVEMBER 21, 2021 AT 09:40PM</pubDate>
+            <description>Come si crea un prodotto finanziario?</description>
         </item>
         <item>
-            <title>Marco Montemagno - La grande bufala del &quot;noi mettiamo il consumatore al centro&quot;...</title>
-            <link>https://www.youtube.com/watch?v=yoGpmrjRg_g</link>
-            <guid>https://www.youtube.com/watch?v=yoGpmrjRg_g</guid>
-            <pubDate>SEPTEMBER 2, 2021 AT 08:33PM</pubDate>
-            <description>La grande bufala del &quot;noi mettiamo il consumatore al centro&quot;...</description>
+            <title>Marco Montemagno - Ciao Gino, è stato un onore conoscerti ...</title>
+            <link>https://www.youtube.com/watch?v=AFFiomh_lac</link>
+            <guid>https://www.youtube.com/watch?v=AFFiomh_lac</guid>
+            <pubDate>AUGUST 13, 2021 AT 04:11PM</pubDate>
+            <description>Ciao Gino, è stato un onore conoscerti ...</description>
         </item>
         <item>
-            <title>Marco Montemagno - La Filosofia fa la differenza! Impariamola con Maura Gancitano</title>
-            <link>https://www.youtube.com/watch?v=QBfzKdHKNYA</link>
-            <guid>https://www.youtube.com/watch?v=QBfzKdHKNYA</guid>
-            <pubDate>AUGUST 5, 2021 AT 09:36AM</pubDate>
-            <description>La Filosofia fa la differenza! Impariamola con Maura Gancitano</description>
+            <title>Marco Montemagno - Acquistare terreni nel metaverso è un buon investimento?</title>
+            <link>https://www.youtube.com/watch?v=_2LL95XD5vQ</link>
+            <guid>https://www.youtube.com/watch?v=_2LL95XD5vQ</guid>
+            <pubDate>DECEMBER 15, 2021 AT 12:30PM</pubDate>
+            <description>Acquistare terreni nel metaverso è un buon investimento?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come si affronta DAVVERO la trasformazione digitale in azienda?</title>
-            <link>https://www.youtube.com/watch?v=ne9moTOOnDM</link>
-            <guid>https://www.youtube.com/watch?v=ne9moTOOnDM</guid>
-            <pubDate>DECEMBER 2, 2021 AT 01:00PM</pubDate>
-            <description>Come si affronta DAVVERO la trasformazione digitale in azienda?</description>
+            <title>Rudy Bandiera - Meglio essere governati dai politici o dall&#39;intelligenza artificiale?</title>
+            <link>https://www.youtube.com/watch?v=8AEZLzOq0j0</link>
+            <guid>https://www.youtube.com/watch?v=8AEZLzOq0j0</guid>
+            <pubDate>JUNE 11, 2021 AT 08:45AM</pubDate>
+            <description>Meglio essere governati dai politici o dall&#39;intelligenza artificiale?</description>
         </item>
         <item>
-            <title>Marco Montemagno - 6 abitudini che mi hanno cambiato la vita</title>
-            <link>https://www.youtube.com/watch?v=s8d9cY6Y6V4</link>
-            <guid>https://www.youtube.com/watch?v=s8d9cY6Y6V4</guid>
-            <pubDate>JANUARY 13, 2022 AT 01:00PM</pubDate>
-            <description>6 abitudini che mi hanno cambiato la vita</description>
+            <title>Marco Montemagno - Print on demand: cos&#39;è e perché rivoluzionerà il modo di vendere</title>
+            <link>https://www.youtube.com/watch?v=D4Py1HjmNTw</link>
+            <guid>https://www.youtube.com/watch?v=D4Py1HjmNTw</guid>
+            <pubDate>SEPTEMBER 24, 2021 AT 02:41PM</pubDate>
+            <description>Print on demand: cos&#39;è e perché rivoluzionerà il modo di vendere</description>
         </item>
         <item>
-            <title>Marco Montemagno - Moby: how much does making music for passion or for work change? #shorts</title>
-            <link>https://www.youtube.com/watch?v=uyPN38jPAFA</link>
-            <guid>https://www.youtube.com/watch?v=uyPN38jPAFA</guid>
-            <pubDate>MAY 9, 2021 AT 11:02AM</pubDate>
-            <description>Moby: how much does making music for passion or for work change? #shorts</description>
+            <title>Giorgio Taverniti - La Trasparenza è un Fattore SEO per Google</title>
+            <link>https://www.youtube.com/watch?v=IuQkUDeNwMk</link>
+            <guid>https://www.youtube.com/watch?v=IuQkUDeNwMk</guid>
+            <pubDate>JUNE 8, 2021 AT 07:30AM</pubDate>
+            <description>La Trasparenza è un Fattore SEO per Google</description>
         </item>
         <item>
-            <title>Marco Montemagno - Ronaldo, le bottigliette e gli sponsor (è ora di cambiare)</title>
-            <link>https://www.youtube.com/watch?v=w30vYEfkAFg</link>
-            <guid>https://www.youtube.com/watch?v=w30vYEfkAFg</guid>
-            <pubDate>JUNE 17, 2021 AT 04:38PM</pubDate>
-            <description>Ronaldo, le bottigliette e gli sponsor (è ora di cambiare)</description>
+            <title>Marco Montemagno - Intelligenza artificiale e Diritto: opportunità e problematiche</title>
+            <link>https://www.youtube.com/watch?v=y-1uMh5B6CY</link>
+            <guid>https://www.youtube.com/watch?v=y-1uMh5B6CY</guid>
+            <pubDate>JUNE 24, 2021 AT 10:55PM</pubDate>
+            <description>Intelligenza artificiale e Diritto: opportunità e problematiche</description>
         </item>
         <item>
-            <title>Matteo Flora - [LIVE] - &quot;Il Diritto di Non-Opinione&quot;, Ciao Internet in DIRETTA 🔥</title>
-            <link>https://www.youtube.com/watch?v=TeJbW9ud8K4</link>
-            <guid>https://www.youtube.com/watch?v=TeJbW9ud8K4</guid>
-            <pubDate>MAY 7, 2021 AT 11:36AM</pubDate>
-            <description>[LIVE] - &quot;Il Diritto di Non-Opinione&quot;, Ciao Internet in DIRETTA 🔥</description>
+            <title>Marco Montemagno - Chi sta investendo negli NFT? E gli aspetti fiscali?</title>
+            <link>https://www.youtube.com/watch?v=CTyFgkfZcss</link>
+            <guid>https://www.youtube.com/watch?v=CTyFgkfZcss</guid>
+            <pubDate>FEBRUARY 1, 2022 AT 11:51AM</pubDate>
+            <description>Chi sta investendo negli NFT? E gli aspetti fiscali?</description>
         </item>
         <item>
-            <title>Matteo Flora - Come fare un Reclamo al Garante sulla Privacy (e per quali ragioni): una guida per tutti</title>
-            <link>https://www.youtube.com/watch?v=RMZb73hN5fA</link>
-            <guid>https://www.youtube.com/watch?v=RMZb73hN5fA</guid>
-            <pubDate>MAY 24, 2021 AT 09:23AM</pubDate>
-            <description>Come fare un Reclamo al Garante sulla Privacy (e per quali ragioni): una guida per tutti</description>
+            <title>Marco Montemagno - Food Talks 4 chiacchiere con Matias Perdomo chef Contraste</title>
+            <link>https://www.youtube.com/watch?v=V11MC9r0WxY</link>
+            <guid>https://www.youtube.com/watch?v=V11MC9r0WxY</guid>
+            <pubDate>MAY 18, 2021 AT 02:07PM</pubDate>
+            <description>Food Talks 4 chiacchiere con Matias Perdomo chef Contraste</description>
         </item>
         <item>
-            <title>Rudy Bandiera - 9 cose che le persone socialmente funzionali non dicono MAI</title>
-            <link>https://www.youtube.com/watch?v=siZ-jCWTiqk</link>
-            <guid>https://www.youtube.com/watch?v=siZ-jCWTiqk</guid>
-            <pubDate>JULY 2, 2021 AT 08:52AM</pubDate>
-            <description>9 cose che le persone socialmente funzionali non dicono MAI</description>
+            <title>Rudy Bandiera - 4 verità che non ti raccontano sull’avviare un business da zero</title>
+            <link>https://www.youtube.com/watch?v=L7-f73tPcC4</link>
+            <guid>https://www.youtube.com/watch?v=L7-f73tPcC4</guid>
+            <pubDate>NOVEMBER 5, 2021 AT 09:24AM</pubDate>
+            <description>4 verità che non ti raccontano sull’avviare un business da zero</description>
         </item>
         <item>
-            <title>Marco Montemagno - Food Talks 4 chiacchiere con Vincenzo Ferrieri (Cioccolati Italiani) e Vittoria Zanetti (Poke House)</title>
-            <link>https://www.youtube.com/watch?v=ze-950IFPvs</link>
-            <guid>https://www.youtube.com/watch?v=ze-950IFPvs</guid>
-            <pubDate>MAY 17, 2021 AT 11:37AM</pubDate>
-            <description>Food Talks 4 chiacchiere con Vincenzo Ferrieri (Cioccolati Italiani) e Vittoria Zanetti (Poke House)</description>
+            <title>Giorgio Taverniti - La più grande opportunità per chi fa SEO oggi</title>
+            <link>https://www.youtube.com/watch?v=HyPZwSK48fo</link>
+            <guid>https://www.youtube.com/watch?v=HyPZwSK48fo</guid>
+            <pubDate>JULY 7, 2021 AT 07:30AM</pubDate>
+            <description>La più grande opportunità per chi fa SEO oggi</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come usare Instagram Analytics con Yari Brugnoni</title>
-            <link>https://www.youtube.com/watch?v=u5zyUXJRizE</link>
-            <guid>https://www.youtube.com/watch?v=u5zyUXJRizE</guid>
-            <pubDate>FEBRUARY 11, 2022 AT 10:07AM</pubDate>
-            <description>Come usare Instagram Analytics con Yari Brugnoni</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Marco &quot;Monty&quot; Montemagno, Monty Lab e gli NFT: geniale o SCAM?</title>
-            <link>https://www.youtube.com/watch?v=uV5N9dE6-6o</link>
-            <guid>https://www.youtube.com/watch?v=uV5N9dE6-6o</guid>
-            <pubDate>JANUARY 21, 2022 AT 01:00PM</pubDate>
-            <description>Marco &quot;Monty&quot; Montemagno, Monty Lab e gli NFT: geniale o SCAM?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con Riccardo Zanotti (Pinguini Tattici Nucleari)</title>
-            <link>https://www.youtube.com/watch?v=xcAOM9r50K8</link>
-            <guid>https://www.youtube.com/watch?v=xcAOM9r50K8</guid>
-            <pubDate>NOVEMBER 4, 2021 AT 10:28AM</pubDate>
-            <description>4 chiacchiere con Riccardo Zanotti (Pinguini Tattici Nucleari)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Regolamentazione crypto ed NFT: cosa c’è da sapere?</title>
-            <link>https://www.youtube.com/watch?v=GIhPi5nDS8o</link>
-            <guid>https://www.youtube.com/watch?v=GIhPi5nDS8o</guid>
-            <pubDate>NOVEMBER 25, 2021 AT 01:00PM</pubDate>
-            <description>Regolamentazione crypto ed NFT: cosa c’è da sapere?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Monty NTF: hai visto cosa è successo? Hai tempo fino al 22/2/22</title>
-            <link>https://www.youtube.com/watch?v=LMOPVD869XY</link>
-            <guid>https://www.youtube.com/watch?v=LMOPVD869XY</guid>
-            <pubDate>FEBRUARY 10, 2022 AT 11:23AM</pubDate>
-            <description>Monty NTF: hai visto cosa è successo? Hai tempo fino al 22/2/22</description>
+            <title>Raffaele Gaito - HO IL TERRORE! E TU?</title>
+            <link>https://www.youtube.com/watch?v=iBPoqd66OyQ</link>
+            <guid>https://www.youtube.com/watch?v=iBPoqd66OyQ</guid>
+            <pubDate>MARCH 30, 2021 AT 08:00AM</pubDate>
+            <description>HO IL TERRORE! E TU?</description>
         </item>
     </channel>
 </rss>
