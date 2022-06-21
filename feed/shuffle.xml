@@ -5,98 +5,7 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Mon, 20 Jun 2022 13:38:42 +0000</lastBuildDate>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con Simone Cristicchi</title>
-            <link>https://www.youtube.com/watch?v=55vVU_VZY4Y</link>
-            <guid>https://www.youtube.com/watch?v=55vVU_VZY4Y</guid>
-            <pubDate>NOVEMBER 11, 2021 AT 02:30PM</pubDate>
-            <description>4 chiacchiere con Simone Cristicchi</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Tutti (ancora) pazzi per gli NFT</title>
-            <link>https://www.youtube.com/watch?v=LAC2LiW6amA</link>
-            <guid>https://www.youtube.com/watch?v=LAC2LiW6amA</guid>
-            <pubDate>AUGUST 25, 2021 AT 05:56PM</pubDate>
-            <description>Tutti (ancora) pazzi per gli NFT</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 cose da fare quando le cose vanno male...</title>
-            <link>https://www.youtube.com/watch?v=GdI00d9ECGM</link>
-            <guid>https://www.youtube.com/watch?v=GdI00d9ECGM</guid>
-            <pubDate>JULY 6, 2021 AT 02:00PM</pubDate>
-            <description>4 cose da fare quando le cose vanno male...</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Bitcoin: perché non puoi non conoscere Michael Saylor</title>
-            <link>https://www.youtube.com/watch?v=gMqtPe5kYls</link>
-            <guid>https://www.youtube.com/watch?v=gMqtPe5kYls</guid>
-            <pubDate>OCTOBER 19, 2021 AT 02:00PM</pubDate>
-            <description>Bitcoin: perché non puoi non conoscere Michael Saylor</description>
-        </item>
-        <item>
-            <title>Matteo Flora - [DIRETTA] - Ne usciremo Diversi: di Pandemia e di Comunicazione</title>
-            <link>https://www.youtube.com/watch?v=keZHqN40Jck</link>
-            <guid>https://www.youtube.com/watch?v=keZHqN40Jck</guid>
-            <pubDate>DECEMBER 22, 2021 AT 01:34PM</pubDate>
-            <description>[DIRETTA] - Ne usciremo Diversi: di Pandemia e di Comunicazione</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Perché le aziende dovrebbero usare TikTok?</title>
-            <link>https://www.youtube.com/watch?v=1wAAOrj8_6o</link>
-            <guid>https://www.youtube.com/watch?v=1wAAOrj8_6o</guid>
-            <pubDate>AUGUST 26, 2021 AT 01:51PM</pubDate>
-            <description>Perché le aziende dovrebbero usare TikTok?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - A conversation with M. Night Shyamalan (Sixth Sense/Old/Unbreakable, Split...)</title>
-            <link>https://www.youtube.com/watch?v=j2zw6qsVBxY</link>
-            <guid>https://www.youtube.com/watch?v=j2zw6qsVBxY</guid>
-            <pubDate>JULY 21, 2021 AT 05:42PM</pubDate>
-            <description>A conversation with M. Night Shyamalan (Sixth Sense/Old/Unbreakable, Split...)</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - Arriva su Google il profilo per Giornalisti e Content Creator!</title>
-            <link>https://www.youtube.com/watch?v=FSZaobShGl0</link>
-            <guid>https://www.youtube.com/watch?v=FSZaobShGl0</guid>
-            <pubDate>JUNE 17, 2021 AT 07:30AM</pubDate>
-            <description>Arriva su Google il profilo per Giornalisti e Content Creator!</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - COME DIFFERENZIARSI DALLA CONCORRENZA (E NON SOLO)</title>
-            <link>https://www.youtube.com/watch?v=0-SbdkcHFGA</link>
-            <guid>https://www.youtube.com/watch?v=0-SbdkcHFGA</guid>
-            <pubDate>AUGUST 3, 2021 AT 08:00AM</pubDate>
-            <description>COME DIFFERENZIARSI DALLA CONCORRENZA (E NON SOLO)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Chi è causa del suo mal...</title>
-            <link>https://www.youtube.com/watch?v=xdobxcYfwd8</link>
-            <guid>https://www.youtube.com/watch?v=xdobxcYfwd8</guid>
-            <pubDate>NOVEMBER 22, 2021 AT 01:00PM</pubDate>
-            <description>Chi è causa del suo mal...</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Alberto Forchielli su Competenze.it (live)</title>
-            <link>https://www.youtube.com/watch?v=wzOizPfkU_4</link>
-            <guid>https://www.youtube.com/watch?v=wzOizPfkU_4</guid>
-            <pubDate>JULY 5, 2021 AT 08:48AM</pubDate>
-            <description>Alberto Forchielli su Competenze.it (live)</description>
-        </item>
-        <item>
-            <title>Matteo Flora - [LIVE] #CiaoInternet Serale: Apple e la Pedopornografia</title>
-            <link>https://www.youtube.com/watch?v=ttkEnmrAJ1g</link>
-            <guid>https://www.youtube.com/watch?v=ttkEnmrAJ1g</guid>
-            <pubDate>SEPTEMBER 4, 2021 AT 10:25AM</pubDate>
-            <description>[LIVE] #CiaoInternet Serale: Apple e la Pedopornografia</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Cosa fare con gli haters (con chi ti insulta, ti provoca e ti attacca sui social)?</title>
-            <link>https://www.youtube.com/watch?v=ksol4EKuPBI</link>
-            <guid>https://www.youtube.com/watch?v=ksol4EKuPBI</guid>
-            <pubDate>JUNE 20, 2021 AT 10:35AM</pubDate>
-            <description>Cosa fare con gli haters (con chi ti insulta, ti provoca e ti attacca sui social)?</description>
-        </item>
+        <lastBuildDate>Tue, 21 Jun 2022 13:42:23 +0000</lastBuildDate>
         <item>
             <title>Matteo Flora - Multe del Garante a Roma e Lombardia: chi paga e dove vanno i soldi?</title>
             <link>https://www.youtube.com/watch?v=rGzwN8UbJp4</link>
@@ -105,46 +14,137 @@
             <description>Multe del Garante a Roma e Lombardia: chi paga e dove vanno i soldi?</description>
         </item>
         <item>
-            <title>Matteo Flora - CROWDFUNDING: cosa è, come funziona e cosa devi sapere per iniziare!</title>
-            <link>https://www.youtube.com/watch?v=V3DgJ6mRXEM</link>
-            <guid>https://www.youtube.com/watch?v=V3DgJ6mRXEM</guid>
-            <pubDate>OCTOBER 7, 2021 AT 06:15PM</pubDate>
-            <description>CROWDFUNDING: cosa è, come funziona e cosa devi sapere per iniziare!</description>
+            <title>Matteo Flora - [DIRETTA] - Ciao Internet Live!</title>
+            <link>https://www.youtube.com/watch?v=9xzyg8gBDB8</link>
+            <guid>https://www.youtube.com/watch?v=9xzyg8gBDB8</guid>
+            <pubDate>FEBRUARY 4, 2022 AT 08:34PM</pubDate>
+            <description>[DIRETTA] - Ciao Internet Live!</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Come mai non si trovano Playstation 5?</title>
-            <link>https://www.youtube.com/watch?v=3uBM_znMVdQ</link>
-            <guid>https://www.youtube.com/watch?v=3uBM_znMVdQ</guid>
-            <pubDate>JANUARY 10, 2022 AT 09:40AM</pubDate>
-            <description>Come mai non si trovano Playstation 5?</description>
+            <title>Matteo Flora - [LIVE] Ciao Internet Serale</title>
+            <link>https://www.youtube.com/watch?v=nF7PMTpVRHE</link>
+            <guid>https://www.youtube.com/watch?v=nF7PMTpVRHE</guid>
+            <pubDate>AUGUST 31, 2021 AT 12:46PM</pubDate>
+            <description>[LIVE] Ciao Internet Serale</description>
         </item>
         <item>
-            <title>Marco Montemagno - Intelligenza Artificiale e nuove professioni/nuovi lavori</title>
-            <link>https://www.youtube.com/watch?v=-TAZAPCtypE</link>
-            <guid>https://www.youtube.com/watch?v=-TAZAPCtypE</guid>
-            <pubDate>JUNE 23, 2021 AT 11:01AM</pubDate>
-            <description>Intelligenza Artificiale e nuove professioni/nuovi lavori</description>
+            <title>Marco Montemagno - TUTTO quello che devi sapere per comprare un NFT (Guida completa con Marco Crotta) #NFTDAY</title>
+            <link>https://www.youtube.com/watch?v=CL_nHn9P3Qw</link>
+            <guid>https://www.youtube.com/watch?v=CL_nHn9P3Qw</guid>
+            <pubDate>FEBRUARY 1, 2022 AT 09:48AM</pubDate>
+            <description>TUTTO quello che devi sapere per comprare un NFT (Guida completa con Marco Crotta) #NFTDAY</description>
         </item>
         <item>
-            <title>Marco Montemagno - Sui social tutti cercano di influenzarti: sai riconoscere la verità?</title>
-            <link>https://www.youtube.com/watch?v=uNwDXZDJjPs</link>
-            <guid>https://www.youtube.com/watch?v=uNwDXZDJjPs</guid>
-            <pubDate>AUGUST 3, 2021 AT 01:00PM</pubDate>
-            <description>Sui social tutti cercano di influenzarti: sai riconoscere la verità?</description>
+            <title>Matteo Flora - Robert Kennedy jr, Anna Frank, i no-vax e l&#39;olocausto: perché non accettare le scuse</title>
+            <link>https://www.youtube.com/watch?v=Spb9UN1es44</link>
+            <guid>https://www.youtube.com/watch?v=Spb9UN1es44</guid>
+            <pubDate>JANUARY 26, 2022 AT 07:42PM</pubDate>
+            <description>Robert Kennedy jr, Anna Frank, i no-vax e l&#39;olocausto: perché non accettare le scuse</description>
         </item>
         <item>
-            <title>Marco Montemagno - Conosci la legge dello schiaffone?</title>
-            <link>https://www.youtube.com/watch?v=cdo3-1ermxI</link>
-            <guid>https://www.youtube.com/watch?v=cdo3-1ermxI</guid>
-            <pubDate>JANUARY 8, 2022 AT 01:00PM</pubDate>
-            <description>Conosci la legge dello schiaffone?</description>
+            <title>Marco Montemagno - 12 errori assolutamente da non fare, quando scrivi per un lavoro</title>
+            <link>https://www.youtube.com/watch?v=mguXOSdqbpE</link>
+            <guid>https://www.youtube.com/watch?v=mguXOSdqbpE</guid>
+            <pubDate>JULY 1, 2021 AT 03:49PM</pubDate>
+            <description>12 errori assolutamente da non fare, quando scrivi per un lavoro</description>
         </item>
         <item>
-            <title>Matteo Flora - [LIVE] Quattro chiacchiere nel vostro Sabato Sera</title>
-            <link>https://www.youtube.com/watch?v=Cl6J-leRCrE</link>
-            <guid>https://www.youtube.com/watch?v=Cl6J-leRCrE</guid>
-            <pubDate>MAY 8, 2021 AT 10:28PM</pubDate>
-            <description>[LIVE] Quattro chiacchiere nel vostro Sabato Sera</description>
+            <title>Marco Montemagno - Non ragioniam di lor, ma guarda e passa #shorts</title>
+            <link>https://www.youtube.com/watch?v=h-jRIliZynk</link>
+            <guid>https://www.youtube.com/watch?v=h-jRIliZynk</guid>
+            <pubDate>AUGUST 27, 2021 AT 01:25PM</pubDate>
+            <description>Non ragioniam di lor, ma guarda e passa #shorts</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 2 REGALI per ringraziarti</title>
+            <link>https://www.youtube.com/watch?v=i2AovXBaSvg</link>
+            <guid>https://www.youtube.com/watch?v=i2AovXBaSvg</guid>
+            <pubDate>JUNE 9, 2021 AT 04:36PM</pubDate>
+            <description>2 REGALI per ringraziarti</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Tommaso Montesano e le scuse fatte molto male che distruggono la sua reputazione</title>
+            <link>https://www.youtube.com/watch?v=j-7STbqKbQk</link>
+            <guid>https://www.youtube.com/watch?v=j-7STbqKbQk</guid>
+            <pubDate>FEBRUARY 11, 2022 AT 01:00PM</pubDate>
+            <description>Tommaso Montesano e le scuse fatte molto male che distruggono la sua reputazione</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Ragioni da dipendente o da imprenditore?</title>
+            <link>https://www.youtube.com/watch?v=6Ot_GKFNP1I</link>
+            <guid>https://www.youtube.com/watch?v=6Ot_GKFNP1I</guid>
+            <pubDate>SEPTEMBER 26, 2021 AT 02:00PM</pubDate>
+            <description>Ragioni da dipendente o da imprenditore?</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - 3 mosse per risolvere problemi impossibili</title>
+            <link>https://www.youtube.com/watch?v=cqRbOjkHj_Q</link>
+            <guid>https://www.youtube.com/watch?v=cqRbOjkHj_Q</guid>
+            <pubDate>SEPTEMBER 15, 2021 AT 09:01AM</pubDate>
+            <description>3 mosse per risolvere problemi impossibili</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Vuoi lavorare da casa o in ufficio?</title>
+            <link>https://www.youtube.com/watch?v=jwLVMiXvzTs</link>
+            <guid>https://www.youtube.com/watch?v=jwLVMiXvzTs</guid>
+            <pubDate>JULY 25, 2021 AT 01:30PM</pubDate>
+            <description>Vuoi lavorare da casa o in ufficio?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Inventati una soluzione</title>
+            <link>https://www.youtube.com/watch?v=pjl4owUGR8Y</link>
+            <guid>https://www.youtube.com/watch?v=pjl4owUGR8Y</guid>
+            <pubDate>MAY 6, 2021 AT 04:05PM</pubDate>
+            <description>Inventati una soluzione</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Sabaku no Maiku</title>
+            <link>https://www.youtube.com/watch?v=AJN_zdTDwT8</link>
+            <guid>https://www.youtube.com/watch?v=AJN_zdTDwT8</guid>
+            <pubDate>OCTOBER 5, 2021 AT 08:31PM</pubDate>
+            <description>4 chiacchiere con Sabaku no Maiku</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Chi sta investendo negli NFT? E gli aspetti fiscali?</title>
+            <link>https://www.youtube.com/watch?v=CTyFgkfZcss</link>
+            <guid>https://www.youtube.com/watch?v=CTyFgkfZcss</guid>
+            <pubDate>FEBRUARY 1, 2022 AT 11:51AM</pubDate>
+            <description>Chi sta investendo negli NFT? E gli aspetti fiscali?</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - LA LEAD GENERATION (SPIEGATA SEMPLICE)</title>
+            <link>https://www.youtube.com/watch?v=MCj5CQ91hbg</link>
+            <guid>https://www.youtube.com/watch?v=MCj5CQ91hbg</guid>
+            <pubDate>JUNE 25, 2021 AT 08:00AM</pubDate>
+            <description>LA LEAD GENERATION (SPIEGATA SEMPLICE)</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - Cosa succederà al lavoro DOPO la pandemia? #in2minuti</title>
+            <link>https://www.youtube.com/watch?v=Qo2IiixUsBw</link>
+            <guid>https://www.youtube.com/watch?v=Qo2IiixUsBw</guid>
+            <pubDate>MAY 12, 2021 AT 04:18PM</pubDate>
+            <description>Cosa succederà al lavoro DOPO la pandemia? #in2minuti</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Francesco Vena (Amaro Lucano)</title>
+            <link>https://www.youtube.com/watch?v=VvqgGU_55NM</link>
+            <guid>https://www.youtube.com/watch?v=VvqgGU_55NM</guid>
+            <pubDate>JUNE 16, 2021 AT 12:47PM</pubDate>
+            <description>4 chiacchiere con Francesco Vena (Amaro Lucano)</description>
+        </item>
+        <item>
+            <title>Matteo Flora - I Social sono davvero gratis?</title>
+            <link>https://www.youtube.com/watch?v=oHomWnIXE4k</link>
+            <guid>https://www.youtube.com/watch?v=oHomWnIXE4k</guid>
+            <pubDate>JUNE 7, 2021 AT 08:30AM</pubDate>
+            <description>I Social sono davvero gratis?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Quanto costa sponsorizzare le Olimpiadi? Perché alcuni sponsor si stanno tirando indietro?</title>
+            <link>https://www.youtube.com/watch?v=r2IFEp_NKpY</link>
+            <guid>https://www.youtube.com/watch?v=r2IFEp_NKpY</guid>
+            <pubDate>JULY 23, 2021 AT 02:38PM</pubDate>
+            <description>Quanto costa sponsorizzare le Olimpiadi? Perché alcuni sponsor si stanno tirando indietro?</description>
         </item>
     </channel>
 </rss>
