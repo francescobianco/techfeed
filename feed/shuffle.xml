@@ -5,41 +5,104 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Fri, 24 Jun 2022 13:38:54 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 13:24:21 +0000</lastBuildDate>
         <item>
-            <title>Rudy Bandiera - I tuoi contenuti sono noiosi?</title>
-            <link>https://www.youtube.com/watch?v=n0ZCv0HTAK0</link>
-            <guid>https://www.youtube.com/watch?v=n0ZCv0HTAK0</guid>
-            <pubDate>NOVEMBER 26, 2021 AT 09:06AM</pubDate>
-            <description>I tuoi contenuti sono noiosi?</description>
+            <title>Marco Montemagno - 4 chiacchiere con Giacomo Poretti (Aldo, Giovanni e Giacomo)</title>
+            <link>https://www.youtube.com/watch?v=sSfI6l0w9MA</link>
+            <guid>https://www.youtube.com/watch?v=sSfI6l0w9MA</guid>
+            <pubDate>OCTOBER 2, 2021 AT 01:55PM</pubDate>
+            <description>4 chiacchiere con Giacomo Poretti (Aldo, Giovanni e Giacomo)</description>
         </item>
         <item>
-            <title>Marco Montemagno - Intelligenza Artificiale, a che punto siamo?</title>
-            <link>https://www.youtube.com/watch?v=TklXYH0VFjs</link>
-            <guid>https://www.youtube.com/watch?v=TklXYH0VFjs</guid>
-            <pubDate>JUNE 22, 2021 AT 08:42AM</pubDate>
-            <description>Intelligenza Artificiale, a che punto siamo?</description>
+            <title>Marco Montemagno - O paghi il prezzo dell&#39;umiltà o paghi il prezzo del rimpianto</title>
+            <link>https://www.youtube.com/watch?v=QDmmRv_j-RY</link>
+            <guid>https://www.youtube.com/watch?v=QDmmRv_j-RY</guid>
+            <pubDate>FEBRUARY 6, 2022 AT 10:35AM</pubDate>
+            <description>O paghi il prezzo dell&#39;umiltà o paghi il prezzo del rimpianto</description>
         </item>
         <item>
-            <title>Marco Montemagno - Food Talks with Trudie Styler, Tony Sasa, Riccardo Cotarella</title>
-            <link>https://www.youtube.com/watch?v=gKmm6a2HP_I</link>
-            <guid>https://www.youtube.com/watch?v=gKmm6a2HP_I</guid>
-            <pubDate>MAY 21, 2021 AT 11:06AM</pubDate>
-            <description>Food Talks with Trudie Styler, Tony Sasa, Riccardo Cotarella</description>
+            <title>Matteo Flora - Ciao Intenter! La LIVE Serale!</title>
+            <link>https://www.youtube.com/watch?v=JdSn_llbFx8</link>
+            <guid>https://www.youtube.com/watch?v=JdSn_llbFx8</guid>
+            <pubDate>NOVEMBER 1, 2021 AT 03:15PM</pubDate>
+            <description>Ciao Intenter! La LIVE Serale!</description>
         </item>
         <item>
-            <title>Matteo Flora - NaturaSì e i tamponi ai no-vax: come Buriani ha salvato il Brand...</title>
-            <link>https://www.youtube.com/watch?v=xi8B9csi7pE</link>
-            <guid>https://www.youtube.com/watch?v=xi8B9csi7pE</guid>
-            <pubDate>SEPTEMBER 24, 2021 AT 07:45AM</pubDate>
-            <description>NaturaSì e i tamponi ai no-vax: come Buriani ha salvato il Brand...</description>
+            <title>Marco Montemagno - Quali sono i social più usati in assoluto?</title>
+            <link>https://www.youtube.com/watch?v=RFr6m3QsSBY</link>
+            <guid>https://www.youtube.com/watch?v=RFr6m3QsSBY</guid>
+            <pubDate>OCTOBER 1, 2021 AT 01:00PM</pubDate>
+            <description>Quali sono i social più usati in assoluto?</description>
         </item>
         <item>
-            <title>Raffaele Gaito - Raffaele Gaito intervista Marco Montemagno</title>
-            <link>https://www.youtube.com/watch?v=B9hvpRS0aYs</link>
-            <guid>https://www.youtube.com/watch?v=B9hvpRS0aYs</guid>
-            <pubDate>JUNE 14, 2021 AT 07:42PM</pubDate>
-            <description>Raffaele Gaito intervista Marco Montemagno</description>
+            <title>Marco Montemagno - 4 chiacchiere con Giuliano Sangiorgi (Negramaro)</title>
+            <link>https://www.youtube.com/watch?v=uc0BZbT95BQ</link>
+            <guid>https://www.youtube.com/watch?v=uc0BZbT95BQ</guid>
+            <pubDate>MAY 23, 2021 AT 09:31PM</pubDate>
+            <description>4 chiacchiere con Giuliano Sangiorgi (Negramaro)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Pregiudizio o realtà: qual è il confine?</title>
+            <link>https://www.youtube.com/watch?v=rf9ZP3rzQsY</link>
+            <guid>https://www.youtube.com/watch?v=rf9ZP3rzQsY</guid>
+            <pubDate>JANUARY 24, 2022 AT 10:00AM</pubDate>
+            <description>Pregiudizio o realtà: qual è il confine?</description>
+        </item>
+        <item>
+            <title>Matteo Flora - [LIVE] L&#39;aperitivo di Ciao Internet1</title>
+            <link>https://www.youtube.com/watch?v=yZ3AFIlrUWo</link>
+            <guid>https://www.youtube.com/watch?v=yZ3AFIlrUWo</guid>
+            <pubDate>AUGUST 27, 2021 AT 09:38PM</pubDate>
+            <description>[LIVE] L&#39;aperitivo di Ciao Internet1</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - I colossi Crypto alla conquista del mondo</title>
+            <link>https://www.youtube.com/watch?v=3qYCDik9kgc</link>
+            <guid>https://www.youtube.com/watch?v=3qYCDik9kgc</guid>
+            <pubDate>NOVEMBER 17, 2021 AT 03:30PM</pubDate>
+            <description>I colossi Crypto alla conquista del mondo</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - R101 a casa di Monty..</title>
+            <link>https://www.youtube.com/watch?v=AKxraPUIlgc</link>
+            <guid>https://www.youtube.com/watch?v=AKxraPUIlgc</guid>
+            <pubDate>JUNE 15, 2021 AT 01:41PM</pubDate>
+            <description>R101 a casa di Monty..</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Arriva il Web3: tra bolla e rivoluzione</title>
+            <link>https://www.youtube.com/watch?v=0JuYGTqIzKY</link>
+            <guid>https://www.youtube.com/watch?v=0JuYGTqIzKY</guid>
+            <pubDate>JANUARY 30, 2022 AT 02:30PM</pubDate>
+            <description>Arriva il Web3: tra bolla e rivoluzione</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Nicola Armaroli, CNR</title>
+            <link>https://www.youtube.com/watch?v=d6VURF9jGQk</link>
+            <guid>https://www.youtube.com/watch?v=d6VURF9jGQk</guid>
+            <pubDate>SEPTEMBER 6, 2021 AT 05:59PM</pubDate>
+            <description>Cambiamento climatico, elettrificazione e dintorni con Nicola Armaroli, CNR</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Fiducia in se stessi: il metodo Mouratoglou</title>
+            <link>https://www.youtube.com/watch?v=H0w03B9R9e8</link>
+            <guid>https://www.youtube.com/watch?v=H0w03B9R9e8</guid>
+            <pubDate>JANUARY 3, 2022 AT 01:27PM</pubDate>
+            <description>Fiducia in se stessi: il metodo Mouratoglou</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Crypto e arte con Clapis, Quaroni e Motta</title>
+            <link>https://www.youtube.com/watch?v=U0bKiKzEHjA</link>
+            <guid>https://www.youtube.com/watch?v=U0bKiKzEHjA</guid>
+            <pubDate>NOVEMBER 29, 2021 AT 03:00PM</pubDate>
+            <description>Crypto e arte con Clapis, Quaroni e Motta</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - A conversation with Lang Lang</title>
+            <link>https://www.youtube.com/watch?v=bj5mVA_kjW4</link>
+            <guid>https://www.youtube.com/watch?v=bj5mVA_kjW4</guid>
+            <pubDate>DECEMBER 9, 2021 AT 01:00PM</pubDate>
+            <description>A conversation with Lang Lang</description>
         </item>
         <item>
             <title>Marco Montemagno - Longevi si diventa: ecco come</title>
@@ -49,102 +112,39 @@
             <description>Longevi si diventa: ecco come</description>
         </item>
         <item>
-            <title>Raffaele Gaito - PERCHÉ LE AZIENDE VENDONO IL CAFFÈ IN ABBONAMENTO? #shorts</title>
-            <link>https://www.youtube.com/watch?v=pVKmp4juAX8</link>
-            <guid>https://www.youtube.com/watch?v=pVKmp4juAX8</guid>
-            <pubDate>AUGUST 24, 2021 AT 09:13AM</pubDate>
-            <description>PERCHÉ LE AZIENDE VENDONO IL CAFFÈ IN ABBONAMENTO? #shorts</description>
+            <title>Matteo Flora - Monica Cirinnà, la cameriera e la Reputazione perduta...</title>
+            <link>https://www.youtube.com/watch?v=YgrjSCp6kCk</link>
+            <guid>https://www.youtube.com/watch?v=YgrjSCp6kCk</guid>
+            <pubDate>SEPTEMBER 1, 2021 AT 07:45AM</pubDate>
+            <description>Monica Cirinnà, la cameriera e la Reputazione perduta...</description>
         </item>
         <item>
-            <title>Marco Montemagno - La vedova nera fa causa a Disney: per quanti $$$ e perchè è importante</title>
-            <link>https://www.youtube.com/watch?v=TzyE-hLp4nE</link>
-            <guid>https://www.youtube.com/watch?v=TzyE-hLp4nE</guid>
-            <pubDate>AUGUST 5, 2021 AT 03:37PM</pubDate>
-            <description>La vedova nera fa causa a Disney: per quanti $$$ e perchè è importante</description>
+            <title>Matteo Flora - Draghi nel mirino dei No Vax, nelle chat minacce al premiere gli indirizzi di casa...</title>
+            <link>https://www.youtube.com/watch?v=GYE45aC7seU</link>
+            <guid>https://www.youtube.com/watch?v=GYE45aC7seU</guid>
+            <pubDate>DECEMBER 13, 2021 AT 08:30AM</pubDate>
+            <description>Draghi nel mirino dei No Vax, nelle chat minacce al premiere gli indirizzi di casa...</description>
         </item>
         <item>
-            <title>Marco Montemagno - Perché dovresti fregartene di quanti follower hai</title>
-            <link>https://www.youtube.com/watch?v=tONxNxARVNs</link>
-            <guid>https://www.youtube.com/watch?v=tONxNxARVNs</guid>
-            <pubDate>OCTOBER 30, 2021 AT 01:00PM</pubDate>
-            <description>Perché dovresti fregartene di quanti follower hai</description>
+            <title>Marco Montemagno - Consegne sempre più veloci: costi, problemi e sostenibilità</title>
+            <link>https://www.youtube.com/watch?v=aIXxuyc41sw</link>
+            <guid>https://www.youtube.com/watch?v=aIXxuyc41sw</guid>
+            <pubDate>DECEMBER 22, 2021 AT 12:50PM</pubDate>
+            <description>Consegne sempre più veloci: costi, problemi e sostenibilità</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Cosa succederà al lavoro DOPO la pandemia? #in2minuti</title>
-            <link>https://www.youtube.com/watch?v=Qo2IiixUsBw</link>
-            <guid>https://www.youtube.com/watch?v=Qo2IiixUsBw</guid>
-            <pubDate>MAY 12, 2021 AT 04:18PM</pubDate>
-            <description>Cosa succederà al lavoro DOPO la pandemia? #in2minuti</description>
+            <title>Marco Montemagno - 4 chiacchiere con Diodato</title>
+            <link>https://www.youtube.com/watch?v=yAuJEdAsvuw</link>
+            <guid>https://www.youtube.com/watch?v=yAuJEdAsvuw</guid>
+            <pubDate>JUNE 3, 2021 AT 11:21AM</pubDate>
+            <description>4 chiacchiere con Diodato</description>
         </item>
         <item>
-            <title>Marco Montemagno - Cosa sono le gas fee?</title>
-            <link>https://www.youtube.com/watch?v=0Ao4Cet8SmU</link>
-            <guid>https://www.youtube.com/watch?v=0Ao4Cet8SmU</guid>
-            <pubDate>JANUARY 27, 2022 AT 11:00AM</pubDate>
-            <description>Cosa sono le gas fee?</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - Google è un Ecosistema Liquido: l&#39;accordo con Shopify ne è la prova!</title>
-            <link>https://www.youtube.com/watch?v=3o9sWQe0S7o</link>
-            <guid>https://www.youtube.com/watch?v=3o9sWQe0S7o</guid>
-            <pubDate>MAY 26, 2021 AT 07:30AM</pubDate>
-            <description>Google è un Ecosistema Liquido: l&#39;accordo con Shopify ne è la prova!</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - Come mai non si trovano Playstation 5?</title>
-            <link>https://www.youtube.com/watch?v=3uBM_znMVdQ</link>
-            <guid>https://www.youtube.com/watch?v=3uBM_znMVdQ</guid>
-            <pubDate>JANUARY 10, 2022 AT 09:40AM</pubDate>
-            <description>Come mai non si trovano Playstation 5?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Nek racconta com&#39;è nata &quot;Laura non c&#39;è&quot;</title>
-            <link>https://www.youtube.com/watch?v=LcbQwOmlyYk</link>
-            <guid>https://www.youtube.com/watch?v=LcbQwOmlyYk</guid>
-            <pubDate>JULY 10, 2021 AT 10:54AM</pubDate>
-            <description>Nek racconta com&#39;è nata &quot;Laura non c&#39;è&quot;</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - AUMENTARE VENDITE ECOMMERCE (9 CANALI DA USARE)</title>
-            <link>https://www.youtube.com/watch?v=5SMYPYDCkXg</link>
-            <guid>https://www.youtube.com/watch?v=5SMYPYDCkXg</guid>
-            <pubDate>JUNE 8, 2021 AT 08:00AM</pubDate>
-            <description>AUMENTARE VENDITE ECOMMERCE (9 CANALI DA USARE)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - NFT, arte e dintorni con Andrea Concas</title>
-            <link>https://www.youtube.com/watch?v=BvSYNfQSRjc</link>
-            <guid>https://www.youtube.com/watch?v=BvSYNfQSRjc</guid>
-            <pubDate>NOVEMBER 25, 2021 AT 03:00PM</pubDate>
-            <description>NFT, arte e dintorni con Andrea Concas</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - Tutto sul Google Page Experience con Andrea Pernici</title>
-            <link>https://www.youtube.com/watch?v=v4kl9R4zM7o</link>
-            <guid>https://www.youtube.com/watch?v=v4kl9R4zM7o</guid>
-            <pubDate>JUNE 29, 2021 AT 09:17AM</pubDate>
-            <description>Tutto sul Google Page Experience con Andrea Pernici</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - La Vittoria dei Måneskin - W&amp;L Maggio 2021</title>
-            <link>https://www.youtube.com/watch?v=44KV4eTObSQ</link>
-            <guid>https://www.youtube.com/watch?v=44KV4eTObSQ</guid>
-            <pubDate>JUNE 10, 2021 AT 07:30AM</pubDate>
-            <description>La Vittoria dei Måneskin - W&amp;L Maggio 2021</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Ha Stato l&#39;Hacker: la Gioielleria Autieri e i Ferragnez</title>
-            <link>https://www.youtube.com/watch?v=u4vkO2QPKr0</link>
-            <guid>https://www.youtube.com/watch?v=u4vkO2QPKr0</guid>
-            <pubDate>DECEMBER 17, 2021 AT 08:45AM</pubDate>
-            <description>Ha Stato l&#39;Hacker: la Gioielleria Autieri e i Ferragnez</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 15 tipologie di clienti da evitare come la peste</title>
-            <link>https://www.youtube.com/watch?v=jBFJMpSPG-w</link>
-            <guid>https://www.youtube.com/watch?v=jBFJMpSPG-w</guid>
-            <pubDate>OCTOBER 23, 2021 AT 04:00PM</pubDate>
-            <description>15 tipologie di clienti da evitare come la peste</description>
+            <title>Raffaele Gaito - HO IL TERRORE! E TU?</title>
+            <link>https://www.youtube.com/watch?v=iBPoqd66OyQ</link>
+            <guid>https://www.youtube.com/watch?v=iBPoqd66OyQ</guid>
+            <pubDate>MARCH 30, 2021 AT 08:00AM</pubDate>
+            <description>HO IL TERRORE! E TU?</description>
         </item>
     </channel>
 </rss>
