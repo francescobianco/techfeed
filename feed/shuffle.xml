@@ -5,34 +5,125 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Mon, 15 Aug 2022 13:40:55 +0000</lastBuildDate>
-        <item>
-            <title>Rudy Bandiera - 6 dati di fatto che è bene accettare il prima possibile per vivere e lavorare meglio</title>
-            <link>https://www.youtube.com/watch?v=7mVCpLySEUg</link>
-            <guid>https://www.youtube.com/watch?v=7mVCpLySEUg</guid>
-            <pubDate>JULY 16, 2021 AT 08:37AM</pubDate>
-            <description>6 dati di fatto che è bene accettare il prima possibile per vivere e lavorare meglio</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - 4 verità che non ti raccontano sull’avviare un business da zero</title>
-            <link>https://www.youtube.com/watch?v=L7-f73tPcC4</link>
-            <guid>https://www.youtube.com/watch?v=L7-f73tPcC4</guid>
-            <pubDate>NOVEMBER 5, 2021 AT 09:24AM</pubDate>
-            <description>4 verità che non ti raccontano sull’avviare un business da zero</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - Parlando del futuro dei videogame e di PS5</title>
-            <link>https://www.youtube.com/watch?v=a9PyCx8iYaM</link>
-            <guid>https://www.youtube.com/watch?v=a9PyCx8iYaM</guid>
-            <pubDate>FEBRUARY 7, 2022 AT 10:22AM</pubDate>
-            <description>Parlando del futuro dei videogame e di PS5</description>
-        </item>
+        <lastBuildDate>Tue, 16 Aug 2022 13:30:51 +0000</lastBuildDate>
         <item>
             <title>Rudy Bandiera - I giganti social distribuiscono soldi a chi crea contenuto</title>
             <link>https://www.youtube.com/watch?v=Mf0Caukt0kQ</link>
             <guid>https://www.youtube.com/watch?v=Mf0Caukt0kQ</guid>
             <pubDate>MAY 28, 2021 AT 08:51AM</pubDate>
             <description>I giganti social distribuiscono soldi a chi crea contenuto</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Chi sono le Virtual Influencer e perché sono un pericolo per le nostre libertà</title>
+            <link>https://www.youtube.com/watch?v=HpDJvijSp5c</link>
+            <guid>https://www.youtube.com/watch?v=HpDJvijSp5c</guid>
+            <pubDate>SEPTEMBER 15, 2021 AT 09:17AM</pubDate>
+            <description>Chi sono le Virtual Influencer e perché sono un pericolo per le nostre libertà</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Smettila di giudicare</title>
+            <link>https://www.youtube.com/watch?v=wDLFqqXdgXs</link>
+            <guid>https://www.youtube.com/watch?v=wDLFqqXdgXs</guid>
+            <pubDate>NOVEMBER 15, 2021 AT 01:00PM</pubDate>
+            <description>Smettila di giudicare</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 12 errori assolutamente da non fare, quando scrivi per un lavoro</title>
+            <link>https://www.youtube.com/watch?v=mguXOSdqbpE</link>
+            <guid>https://www.youtube.com/watch?v=mguXOSdqbpE</guid>
+            <pubDate>JULY 1, 2021 AT 03:49PM</pubDate>
+            <description>12 errori assolutamente da non fare, quando scrivi per un lavoro</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - Tempo al tempo | Matteo Professione - Ernia | TEDxUNICATT</title>
+            <link>https://www.youtube.com/watch?v=7GfTF5YTA0I</link>
+            <guid>https://www.youtube.com/watch?v=7GfTF5YTA0I</guid>
+            <pubDate>MARCH 30, 2021 AT 06:28PM</pubDate>
+            <description>Tempo al tempo | Matteo Professione - Ernia | TEDxUNICATT</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Perché è così difficile superare gli stereotipi. 4 chiacchiere con Eloisa</title>
+            <link>https://www.youtube.com/watch?v=_DXiV2n0raU</link>
+            <guid>https://www.youtube.com/watch?v=_DXiV2n0raU</guid>
+            <pubDate>DECEMBER 5, 2021 AT 01:00PM</pubDate>
+            <description>Perché è così difficile superare gli stereotipi. 4 chiacchiere con Eloisa</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Valerio De Molli, Ambrosetti</title>
+            <link>https://www.youtube.com/watch?v=aVEE8ls70nA</link>
+            <guid>https://www.youtube.com/watch?v=aVEE8ls70nA</guid>
+            <pubDate>SEPTEMBER 6, 2021 AT 06:01PM</pubDate>
+            <description>Cambiamento climatico, elettrificazione e dintorni con Valerio De Molli, Ambrosetti</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Intelligenza Artificiale...che succede?</title>
+            <link>https://www.youtube.com/watch?v=JVCSeaEG6lU</link>
+            <guid>https://www.youtube.com/watch?v=JVCSeaEG6lU</guid>
+            <pubDate>JUNE 20, 2021 AT 11:43PM</pubDate>
+            <description>Intelligenza Artificiale...che succede?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Il business miliardario di James Bond</title>
+            <link>https://www.youtube.com/watch?v=0Kx-kVWcrkU</link>
+            <guid>https://www.youtube.com/watch?v=0Kx-kVWcrkU</guid>
+            <pubDate>OCTOBER 2, 2021 AT 02:29PM</pubDate>
+            <description>Il business miliardario di James Bond</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con l&#39;arma dei carabinieri (Luca de Marchis)</title>
+            <link>https://www.youtube.com/watch?v=7y2pbB3FZSY</link>
+            <guid>https://www.youtube.com/watch?v=7y2pbB3FZSY</guid>
+            <pubDate>NOVEMBER 9, 2021 AT 01:00PM</pubDate>
+            <description>4 chiacchiere con l&#39;arma dei carabinieri (Luca de Marchis)</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - Diamo un&#39;occhiata all&#39;interno del primo Google Store al mondo</title>
+            <link>https://www.youtube.com/watch?v=Ra3hfVs7RuM</link>
+            <guid>https://www.youtube.com/watch?v=Ra3hfVs7RuM</guid>
+            <pubDate>JUNE 18, 2021 AT 09:04AM</pubDate>
+            <description>Diamo un&#39;occhiata all&#39;interno del primo Google Store al mondo</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Su Competenze.com arriva Arturo Brachetti</title>
+            <link>https://www.youtube.com/watch?v=NdLL2nBJ24o</link>
+            <guid>https://www.youtube.com/watch?v=NdLL2nBJ24o</guid>
+            <pubDate>JUNE 7, 2021 AT 05:44PM</pubDate>
+            <description>Su Competenze.com arriva Arturo Brachetti</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - Fare pubblicità su Sky, TV, radio, web, social e App. Tutorial di Sky Advertising Manager</title>
+            <link>https://www.youtube.com/watch?v=9fxHYHCZUE4</link>
+            <guid>https://www.youtube.com/watch?v=9fxHYHCZUE4</guid>
+            <pubDate>MAY 11, 2021 AT 09:24AM</pubDate>
+            <description>Fare pubblicità su Sky, TV, radio, web, social e App. Tutorial di Sky Advertising Manager</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 9 anni di Monty in meno di 9 minuti</title>
+            <link>https://www.youtube.com/watch?v=l8Q4Famg5Zo</link>
+            <guid>https://www.youtube.com/watch?v=l8Q4Famg5Zo</guid>
+            <pubDate>AUGUST 12, 2021 AT 01:17PM</pubDate>
+            <description>9 anni di Monty in meno di 9 minuti</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Cosa non toccare quando il sito è PRIMO su Google e deve fare un Restyle</title>
+            <link>https://www.youtube.com/watch?v=1n7NiUqIk4Q</link>
+            <guid>https://www.youtube.com/watch?v=1n7NiUqIk4Q</guid>
+            <pubDate>MAY 31, 2021 AT 07:30AM</pubDate>
+            <description>Cosa non toccare quando il sito è PRIMO su Google e deve fare un Restyle</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - È arrivato il Black Friday ...</title>
+            <link>https://www.youtube.com/watch?v=PLA-Bq8YSyE</link>
+            <guid>https://www.youtube.com/watch?v=PLA-Bq8YSyE</guid>
+            <pubDate>NOVEMBER 24, 2021 AT 04:30PM</pubDate>
+            <description>È arrivato il Black Friday ...</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Food Talks con Carlo Cracco e Alessandro Bergamo</title>
+            <link>https://www.youtube.com/watch?v=zl6t3_9UiSY</link>
+            <guid>https://www.youtube.com/watch?v=zl6t3_9UiSY</guid>
+            <pubDate>MAY 20, 2021 AT 09:36AM</pubDate>
+            <description>Food Talks con Carlo Cracco e Alessandro Bergamo</description>
         </item>
         <item>
             <title>Marco Montemagno - Iginio e Debora Massari su Competenze.it!</title>
@@ -42,109 +133,18 @@
             <description>Iginio e Debora Massari su Competenze.it!</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Google è l&#39;e-commerce del Mondo: il login dei brand in SERP!</title>
-            <link>https://www.youtube.com/watch?v=vg0rgjRMgX0</link>
-            <guid>https://www.youtube.com/watch?v=vg0rgjRMgX0</guid>
-            <pubDate>JUNE 1, 2021 AT 07:30AM</pubDate>
-            <description>Google è l&#39;e-commerce del Mondo: il login dei brand in SERP!</description>
+            <title>Raffaele Gaito - Raffaele Gaito intervista Marco Montemagno</title>
+            <link>https://www.youtube.com/watch?v=B9hvpRS0aYs</link>
+            <guid>https://www.youtube.com/watch?v=B9hvpRS0aYs</guid>
+            <pubDate>JUNE 14, 2021 AT 07:42PM</pubDate>
+            <description>Raffaele Gaito intervista Marco Montemagno</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Davide Boosta Dileo e DANIJEL</title>
-            <link>https://www.youtube.com/watch?v=bPO60D88NdA</link>
-            <guid>https://www.youtube.com/watch?v=bPO60D88NdA</guid>
-            <pubDate>JUNE 7, 2021 AT 10:41AM</pubDate>
-            <description>4 chiacchiere con Davide Boosta Dileo e DANIJEL</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con Riccardo Zanotti (Pinguini Tattici Nucleari)</title>
-            <link>https://www.youtube.com/watch?v=xcAOM9r50K8</link>
-            <guid>https://www.youtube.com/watch?v=xcAOM9r50K8</guid>
-            <pubDate>NOVEMBER 4, 2021 AT 10:28AM</pubDate>
-            <description>4 chiacchiere con Riccardo Zanotti (Pinguini Tattici Nucleari)</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Roma Nord, il Vietnam e Pietro Castellitto</title>
-            <link>https://www.youtube.com/watch?v=02uIKDbAYI4</link>
-            <guid>https://www.youtube.com/watch?v=02uIKDbAYI4</guid>
-            <pubDate>DECEMBER 8, 2021 AT 08:25AM</pubDate>
-            <description>Roma Nord, il Vietnam e Pietro Castellitto</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come decidere più velocemente?</title>
-            <link>https://www.youtube.com/watch?v=-J6wf8O515M</link>
-            <guid>https://www.youtube.com/watch?v=-J6wf8O515M</guid>
-            <pubDate>NOVEMBER 8, 2021 AT 01:00PM</pubDate>
-            <description>Come decidere più velocemente?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Vuoi imparare l&#39;inglese?...con me e Norma&#39;s teaching? #shorts</title>
-            <link>https://www.youtube.com/watch?v=AobD91Qqup8</link>
-            <guid>https://www.youtube.com/watch?v=AobD91Qqup8</guid>
-            <pubDate>JULY 7, 2021 AT 02:17PM</pubDate>
-            <description>Vuoi imparare l&#39;inglese?...con me e Norma&#39;s teaching? #shorts</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - A conversation with The Sandbox Founder</title>
-            <link>https://www.youtube.com/watch?v=81-ieelCVPc</link>
-            <guid>https://www.youtube.com/watch?v=81-ieelCVPc</guid>
-            <pubDate>DECEMBER 21, 2021 AT 01:00PM</pubDate>
-            <description>A conversation with The Sandbox Founder</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Tennis! Riccardo Piatti su Competenze.it (live)</title>
-            <link>https://www.youtube.com/watch?v=B5JblZBlS-A</link>
-            <guid>https://www.youtube.com/watch?v=B5JblZBlS-A</guid>
-            <pubDate>JUNE 21, 2021 AT 12:22PM</pubDate>
-            <description>Tennis! Riccardo Piatti su Competenze.it (live)</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - PERCHÉ LE AZIENDE METTONO SUL SITO I LOGHI DEI CLIENTI? #shorts</title>
-            <link>https://www.youtube.com/watch?v=ch8p07w9GaE</link>
-            <guid>https://www.youtube.com/watch?v=ch8p07w9GaE</guid>
-            <pubDate>AUGUST 20, 2021 AT 01:09PM</pubDate>
-            <description>PERCHÉ LE AZIENDE METTONO SUL SITO I LOGHI DEI CLIENTI? #shorts</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Lavoro e giovani: ci sono 700 mila posti di lavoro disponibili ma...</title>
-            <link>https://www.youtube.com/watch?v=7h9FKqj26_s</link>
-            <guid>https://www.youtube.com/watch?v=7h9FKqj26_s</guid>
-            <pubDate>DECEMBER 17, 2021 AT 01:00PM</pubDate>
-            <description>Lavoro e giovani: ci sono 700 mila posti di lavoro disponibili ma...</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - È Finita?</title>
-            <link>https://www.youtube.com/watch?v=LzcM-nLZXWc</link>
-            <guid>https://www.youtube.com/watch?v=LzcM-nLZXWc</guid>
-            <pubDate>JUNE 13, 2021 AT 05:17PM</pubDate>
-            <description>È Finita?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Non ho parole...(poi però non lamentiamoci del lavoro) #shorts</title>
-            <link>https://www.youtube.com/watch?v=LAI3ksteXOM</link>
-            <guid>https://www.youtube.com/watch?v=LAI3ksteXOM</guid>
-            <pubDate>JUNE 24, 2021 AT 07:30PM</pubDate>
-            <description>Non ho parole...(poi però non lamentiamoci del lavoro) #shorts</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Crypto Art e dintorni con Giuseppe Veneziano</title>
-            <link>https://www.youtube.com/watch?v=-7SyK95oVtk</link>
-            <guid>https://www.youtube.com/watch?v=-7SyK95oVtk</guid>
-            <pubDate>DECEMBER 18, 2021 AT 01:00PM</pubDate>
-            <description>Crypto Art e dintorni con Giuseppe Veneziano</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Ronaldo, le bottigliette e gli sponsor (è ora di cambiare)</title>
-            <link>https://www.youtube.com/watch?v=w30vYEfkAFg</link>
-            <guid>https://www.youtube.com/watch?v=w30vYEfkAFg</guid>
-            <pubDate>JUNE 17, 2021 AT 04:38PM</pubDate>
-            <description>Ronaldo, le bottigliette e gli sponsor (è ora di cambiare)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Faccio del mio meglio</title>
-            <link>https://www.youtube.com/watch?v=spTgt4VkeHo</link>
-            <guid>https://www.youtube.com/watch?v=spTgt4VkeHo</guid>
-            <pubDate>MAY 28, 2021 AT 06:55PM</pubDate>
-            <description>Faccio del mio meglio</description>
+            <title>Marco Montemagno - Sai quanto spende MrBeast?</title>
+            <link>https://www.youtube.com/watch?v=IxWpEqERtLM</link>
+            <guid>https://www.youtube.com/watch?v=IxWpEqERtLM</guid>
+            <pubDate>SEPTEMBER 19, 2021 AT 05:37PM</pubDate>
+            <description>Sai quanto spende MrBeast?</description>
         </item>
     </channel>
 </rss>
