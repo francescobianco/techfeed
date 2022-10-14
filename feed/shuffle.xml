@@ -5,27 +5,13 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Thu, 13 Oct 2022 13:57:05 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 14 Oct 2022 14:01:33 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - Il mondo nel 2022: 5 trend da tenere d&#39;occhio</title>
-            <link>https://www.youtube.com/watch?v=hiBtdBHfCo0</link>
-            <guid>https://www.youtube.com/watch?v=hiBtdBHfCo0</guid>
-            <pubDate>DECEMBER 26, 2021 AT 12:45PM</pubDate>
-            <description>Il mondo nel 2022: 5 trend da tenere d&#39;occhio</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - NFT dalla A alla Z</title>
-            <link>https://www.youtube.com/watch?v=vlCnyDSNC7g</link>
-            <guid>https://www.youtube.com/watch?v=vlCnyDSNC7g</guid>
-            <pubDate>DECEMBER 4, 2021 AT 09:00AM</pubDate>
-            <description>NFT dalla A alla Z</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Il mio NFT MontyLab: tutto quello che c&#39;è da sapere con Alessandro De Grandi</title>
-            <link>https://www.youtube.com/watch?v=AD55yS8p2Io</link>
-            <guid>https://www.youtube.com/watch?v=AD55yS8p2Io</guid>
-            <pubDate>JANUARY 31, 2022 AT 01:00PM</pubDate>
-            <description>Il mio NFT MontyLab: tutto quello che c&#39;è da sapere con Alessandro De Grandi</description>
+            <title>Marco Montemagno - Gli NFT sono solo semplici immagini?</title>
+            <link>https://www.youtube.com/watch?v=oKy7-7qJr7U</link>
+            <guid>https://www.youtube.com/watch?v=oKy7-7qJr7U</guid>
+            <pubDate>FEBRUARY 1, 2022 AT 09:52AM</pubDate>
+            <description>Gli NFT sono solo semplici immagini?</description>
         </item>
         <item>
             <title>Marco Montemagno - Come funziona il Marketing Natalizio...(Auguri!)</title>
@@ -35,25 +21,39 @@
             <description>Come funziona il Marketing Natalizio...(Auguri!)</description>
         </item>
         <item>
-            <title>Marco Montemagno - David di Donatello 2021, Matilda De Angelis migliore attrice non protagonista. Grandissima!</title>
-            <link>https://www.youtube.com/watch?v=y5Sd4FuY-0M</link>
-            <guid>https://www.youtube.com/watch?v=y5Sd4FuY-0M</guid>
-            <pubDate>MAY 12, 2021 AT 04:15PM</pubDate>
-            <description>David di Donatello 2021, Matilda De Angelis migliore attrice non protagonista. Grandissima!</description>
+            <title>Marco Montemagno - Come gli NFT possono rivoluzionare il tuo business</title>
+            <link>https://www.youtube.com/watch?v=7BqlwZHHPBM</link>
+            <guid>https://www.youtube.com/watch?v=7BqlwZHHPBM</guid>
+            <pubDate>NOVEMBER 5, 2021 AT 12:56PM</pubDate>
+            <description>Come gli NFT possono rivoluzionare il tuo business</description>
         </item>
         <item>
-            <title>Matteo Flora - I certificati online non mi rendono felice, mi fanno solo arrabbiare moltissimo. Ecco Perché!</title>
-            <link>https://www.youtube.com/watch?v=2gQVci3drQg</link>
-            <guid>https://www.youtube.com/watch?v=2gQVci3drQg</guid>
-            <pubDate>NOVEMBER 19, 2021 AT 08:05AM</pubDate>
-            <description>I certificati online non mi rendono felice, mi fanno solo arrabbiare moltissimo. Ecco Perché!</description>
+            <title>Marco Montemagno - Persuasione: la tecnica della ripetizione...</title>
+            <link>https://www.youtube.com/watch?v=U4pWWi111ag</link>
+            <guid>https://www.youtube.com/watch?v=U4pWWi111ag</guid>
+            <pubDate>AUGUST 19, 2021 AT 05:54PM</pubDate>
+            <description>Persuasione: la tecnica della ripetizione...</description>
         </item>
         <item>
-            <title>Marco Montemagno - E ora che è finita che faccio? Da dove ricominciare quando finisce una carriera?</title>
-            <link>https://www.youtube.com/watch?v=ozH7rH6GIm4</link>
-            <guid>https://www.youtube.com/watch?v=ozH7rH6GIm4</guid>
-            <pubDate>AUGUST 6, 2021 AT 12:00PM</pubDate>
-            <description>E ora che è finita che faccio? Da dove ricominciare quando finisce una carriera?</description>
+            <title>Marco Montemagno - La tecnica dell&#39;Anticipazione #shorts</title>
+            <link>https://www.youtube.com/watch?v=ByNMO4gUUWc</link>
+            <guid>https://www.youtube.com/watch?v=ByNMO4gUUWc</guid>
+            <pubDate>AUGUST 20, 2021 AT 12:02PM</pubDate>
+            <description>La tecnica dell&#39;Anticipazione #shorts</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Chi controlla il Web?</title>
+            <link>https://www.youtube.com/watch?v=1FjN8FSRGEI</link>
+            <guid>https://www.youtube.com/watch?v=1FjN8FSRGEI</guid>
+            <pubDate>JANUARY 5, 2022 AT 10:00AM</pubDate>
+            <description>Chi controlla il Web?</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - E-commerce: aumentare le conversioni da mobile con i test. 5 Chicche di UX</title>
+            <link>https://www.youtube.com/watch?v=2FZA1pEER9o</link>
+            <guid>https://www.youtube.com/watch?v=2FZA1pEER9o</guid>
+            <pubDate>MAY 25, 2021 AT 07:30AM</pubDate>
+            <description>E-commerce: aumentare le conversioni da mobile con i test. 5 Chicche di UX</description>
         </item>
         <item>
             <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Valerio De Molli, Ambrosetti</title>
@@ -63,88 +63,88 @@
             <description>Cambiamento climatico, elettrificazione e dintorni con Valerio De Molli, Ambrosetti</description>
         </item>
         <item>
-            <title>Marco Montemagno - Amazon paga l&#39;università ai dipendenti (mentre assume altre 125.000 persone)</title>
-            <link>https://www.youtube.com/watch?v=_1m5A82Hp40</link>
-            <guid>https://www.youtube.com/watch?v=_1m5A82Hp40</guid>
-            <pubDate>SEPTEMBER 18, 2021 AT 02:00PM</pubDate>
-            <description>Amazon paga l&#39;università ai dipendenti (mentre assume altre 125.000 persone)</description>
+            <title>Matteo Flora - Il tweet storm di #DiMaioOut e la fotografia di #Salvini &quot;photoshoppata&quot;</title>
+            <link>https://www.youtube.com/watch?v=lgUVNJIFXus</link>
+            <guid>https://www.youtube.com/watch?v=lgUVNJIFXus</guid>
+            <pubDate>FEBRUARY 2, 2022 AT 05:26PM</pubDate>
+            <description>Il tweet storm di #DiMaioOut e la fotografia di #Salvini &quot;photoshoppata&quot;</description>
         </item>
         <item>
-            <title>Matteo Flora - Il &quot;lavoro in nero di sinistra&quot; e la crisi reputazionale di Roberto Angelini</title>
-            <link>https://www.youtube.com/watch?v=aeCpHyVxGH4</link>
-            <guid>https://www.youtube.com/watch?v=aeCpHyVxGH4</guid>
-            <pubDate>MAY 18, 2021 AT 11:33AM</pubDate>
-            <description>Il &quot;lavoro in nero di sinistra&quot; e la crisi reputazionale di Roberto Angelini</description>
+            <title>Matteo Flora - Tette, piscine e soldi. No clickbait, davvero parliamo di tette e #demonetizzazione</title>
+            <link>https://www.youtube.com/watch?v=dVKjE4CJmew</link>
+            <guid>https://www.youtube.com/watch?v=dVKjE4CJmew</guid>
+            <pubDate>MAY 21, 2021 AT 08:00AM</pubDate>
+            <description>Tette, piscine e soldi. No clickbait, davvero parliamo di tette e #demonetizzazione</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Sui social bisogna dire quello che si pensa?</title>
-            <link>https://www.youtube.com/watch?v=z5hSUktcuMc</link>
-            <guid>https://www.youtube.com/watch?v=z5hSUktcuMc</guid>
-            <pubDate>SEPTEMBER 28, 2021 AT 03:41PM</pubDate>
-            <description>Sui social bisogna dire quello che si pensa?</description>
+            <title>Marco Montemagno - 4 chiacchiere con lo Chef Mauro Colagreco (&quot;miglior ristorante al mondo&quot;)</title>
+            <link>https://www.youtube.com/watch?v=gMB3ofzVufo</link>
+            <guid>https://www.youtube.com/watch?v=gMB3ofzVufo</guid>
+            <pubDate>JULY 1, 2021 AT 05:13PM</pubDate>
+            <description>4 chiacchiere con lo Chef Mauro Colagreco (&quot;miglior ristorante al mondo&quot;)</description>
         </item>
         <item>
-            <title>Marco Montemagno - ST@RT - Mettiti alla prova e crea il tuo business con le professioni di domani.</title>
-            <link>https://www.youtube.com/watch?v=TOf1XtWip6Y</link>
-            <guid>https://www.youtube.com/watch?v=TOf1XtWip6Y</guid>
-            <pubDate>DECEMBER 17, 2021 AT 10:12AM</pubDate>
-            <description>ST@RT - Mettiti alla prova e crea il tuo business con le professioni di domani.</description>
+            <title>Matteo Flora - 1:30 di update veloce su dove sono :)</title>
+            <link>https://www.youtube.com/watch?v=-oU50CXUq4M</link>
+            <guid>https://www.youtube.com/watch?v=-oU50CXUq4M</guid>
+            <pubDate>JUNE 20, 2021 AT 12:12PM</pubDate>
+            <description>1:30 di update veloce su dove sono :)</description>
         </item>
         <item>
-            <title>Raffaele Gaito - COSA CHIEDETE A GOOGLE... SU DI ME!</title>
-            <link>https://www.youtube.com/watch?v=9RUi2B3mXfg</link>
-            <guid>https://www.youtube.com/watch?v=9RUi2B3mXfg</guid>
-            <pubDate>AUGUST 27, 2021 AT 08:00AM</pubDate>
-            <description>COSA CHIEDETE A GOOGLE... SU DI ME!</description>
+            <title>Marco Montemagno - Perché dovresti chiedere un aumento oggi stesso!</title>
+            <link>https://www.youtube.com/watch?v=dlLsAt6Z7J0</link>
+            <guid>https://www.youtube.com/watch?v=dlLsAt6Z7J0</guid>
+            <pubDate>SEPTEMBER 4, 2021 AT 10:00AM</pubDate>
+            <description>Perché dovresti chiedere un aumento oggi stesso!</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Google per l&#39;e-commerce con Grow My Store: ma è valido?</title>
-            <link>https://www.youtube.com/watch?v=Hq_s5J2gSSY</link>
-            <guid>https://www.youtube.com/watch?v=Hq_s5J2gSSY</guid>
-            <pubDate>JUNE 3, 2021 AT 07:30AM</pubDate>
-            <description>Google per l&#39;e-commerce con Grow My Store: ma è valido?</description>
+            <title>Marco Montemagno - La grande bufala del &quot;noi mettiamo il consumatore al centro&quot;...</title>
+            <link>https://www.youtube.com/watch?v=yoGpmrjRg_g</link>
+            <guid>https://www.youtube.com/watch?v=yoGpmrjRg_g</guid>
+            <pubDate>SEPTEMBER 2, 2021 AT 08:33PM</pubDate>
+            <description>La grande bufala del &quot;noi mettiamo il consumatore al centro&quot;...</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come ha fatto TikTok a conquistare il mondo (alla velocità della luce)?</title>
-            <link>https://www.youtube.com/watch?v=LeK11lHxaCQ</link>
-            <guid>https://www.youtube.com/watch?v=LeK11lHxaCQ</guid>
-            <pubDate>JULY 14, 2021 AT 12:00PM</pubDate>
-            <description>Come ha fatto TikTok a conquistare il mondo (alla velocità della luce)?</description>
+            <title>Raffaele Gaito - 7 LIBRI CHE MI HANNO CAMBIATO LA VITA</title>
+            <link>https://www.youtube.com/watch?v=oDeYD6EZ2Qs</link>
+            <guid>https://www.youtube.com/watch?v=oDeYD6EZ2Qs</guid>
+            <pubDate>MAY 18, 2021 AT 08:00AM</pubDate>
+            <description>7 LIBRI CHE MI HANNO CAMBIATO LA VITA</description>
         </item>
         <item>
-            <title>Marco Montemagno - Monty Lab: quanto costa e altre info importanti</title>
-            <link>https://www.youtube.com/watch?v=5gDMDET5ucY</link>
-            <guid>https://www.youtube.com/watch?v=5gDMDET5ucY</guid>
-            <pubDate>JANUARY 28, 2022 AT 07:09PM</pubDate>
-            <description>Monty Lab: quanto costa e altre info importanti</description>
+            <title>Rudy Bandiera - Atassia spinocerebellare. Cos’è, chi è a rischio, come curarla</title>
+            <link>https://www.youtube.com/watch?v=5cVBb2QpZsU</link>
+            <guid>https://www.youtube.com/watch?v=5cVBb2QpZsU</guid>
+            <pubDate>DECEMBER 13, 2021 AT 09:47AM</pubDate>
+            <description>Atassia spinocerebellare. Cos’è, chi è a rischio, come curarla</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - L&#39;importanza fondamentale del Search Intent per la SEO - con Gianluca Fiorelli</title>
-            <link>https://www.youtube.com/watch?v=6u04ojYeXIw</link>
-            <guid>https://www.youtube.com/watch?v=6u04ojYeXIw</guid>
-            <pubDate>MAY 19, 2021 AT 07:30AM</pubDate>
-            <description>L&#39;importanza fondamentale del Search Intent per la SEO - con Gianluca Fiorelli</description>
+            <title>Marco Montemagno - Non ragioniam di lor, ma guarda e passa #shorts</title>
+            <link>https://www.youtube.com/watch?v=h-jRIliZynk</link>
+            <guid>https://www.youtube.com/watch?v=h-jRIliZynk</guid>
+            <pubDate>AUGUST 27, 2021 AT 01:25PM</pubDate>
+            <description>Non ragioniam di lor, ma guarda e passa #shorts</description>
         </item>
         <item>
-            <title>Raffaele Gaito - Tempo al tempo | Matteo Professione - Ernia | TEDxUNICATT</title>
-            <link>https://www.youtube.com/watch?v=7GfTF5YTA0I</link>
-            <guid>https://www.youtube.com/watch?v=7GfTF5YTA0I</guid>
-            <pubDate>MARCH 30, 2021 AT 06:28PM</pubDate>
-            <description>Tempo al tempo | Matteo Professione - Ernia | TEDxUNICATT</description>
+            <title>Marco Montemagno - Moby: how much does making music for passion or for work change? #shorts</title>
+            <link>https://www.youtube.com/watch?v=uyPN38jPAFA</link>
+            <guid>https://www.youtube.com/watch?v=uyPN38jPAFA</guid>
+            <pubDate>MAY 9, 2021 AT 11:02AM</pubDate>
+            <description>Moby: how much does making music for passion or for work change? #shorts</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Nek</title>
-            <link>https://www.youtube.com/watch?v=Pj947GejFI0</link>
-            <guid>https://www.youtube.com/watch?v=Pj947GejFI0</guid>
-            <pubDate>JULY 8, 2021 AT 09:02PM</pubDate>
-            <description>4 chiacchiere con Nek</description>
+            <title>Marco Montemagno - Biennale di Venezia: dietro le quinte con Alessandro Melis, curatore del Padiglione Italiano</title>
+            <link>https://www.youtube.com/watch?v=rVx3NMasF1Y</link>
+            <guid>https://www.youtube.com/watch?v=rVx3NMasF1Y</guid>
+            <pubDate>OCTOBER 31, 2021 AT 01:30PM</pubDate>
+            <description>Biennale di Venezia: dietro le quinte con Alessandro Melis, curatore del Padiglione Italiano</description>
         </item>
         <item>
-            <title>Marco Montemagno - 15 tipologie di clienti da evitare come la peste</title>
-            <link>https://www.youtube.com/watch?v=jBFJMpSPG-w</link>
-            <guid>https://www.youtube.com/watch?v=jBFJMpSPG-w</guid>
-            <pubDate>OCTOBER 23, 2021 AT 04:00PM</pubDate>
-            <description>15 tipologie di clienti da evitare come la peste</description>
+            <title>Matteo Flora - Fingere il #Cancro per soldi: la storia della streamer che finse un cancro per due spiccioli...</title>
+            <link>https://www.youtube.com/watch?v=wEApGudIRs0</link>
+            <guid>https://www.youtube.com/watch?v=wEApGudIRs0</guid>
+            <pubDate>SEPTEMBER 10, 2021 AT 07:59AM</pubDate>
+            <description>Fingere il #Cancro per soldi: la storia della streamer che finse un cancro per due spiccioli...</description>
         </item>
     </channel>
 </rss>
