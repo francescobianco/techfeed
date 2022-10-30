@@ -5,83 +5,34 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Sat, 29 Oct 2022 13:32:04 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 30 Oct 2022 13:33:22 +0000</lastBuildDate>
         <item>
-            <title>Matteo Flora - Il Chief Innovation Officer (CINO): chi è e cosa fa in azienda con Stefano Denicolai</title>
-            <link>https://www.youtube.com/watch?v=cR0_IyWoWqY</link>
-            <guid>https://www.youtube.com/watch?v=cR0_IyWoWqY</guid>
-            <pubDate>DECEMBER 29, 2021 AT 12:32PM</pubDate>
-            <description>Il Chief Innovation Officer (CINO): chi è e cosa fa in azienda con Stefano Denicolai</description>
+            <title>Marco Montemagno - Crypto: questo è quello che sta succedendo</title>
+            <link>https://www.youtube.com/watch?v=PXaaUDagtOI</link>
+            <guid>https://www.youtube.com/watch?v=PXaaUDagtOI</guid>
+            <pubDate>AUGUST 24, 2021 AT 01:10PM</pubDate>
+            <description>Crypto: questo è quello che sta succedendo</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Arriva su Google il profilo per Giornalisti e Content Creator!</title>
-            <link>https://www.youtube.com/watch?v=FSZaobShGl0</link>
-            <guid>https://www.youtube.com/watch?v=FSZaobShGl0</guid>
-            <pubDate>JUNE 17, 2021 AT 07:30AM</pubDate>
-            <description>Arriva su Google il profilo per Giornalisti e Content Creator!</description>
+            <title>Marco Montemagno - Come si intrattiene un pubblico? - Alessandro Cattelan</title>
+            <link>https://www.youtube.com/watch?v=7x7YHVaNpog</link>
+            <guid>https://www.youtube.com/watch?v=7x7YHVaNpog</guid>
+            <pubDate>AUGUST 25, 2021 AT 01:00PM</pubDate>
+            <description>Come si intrattiene un pubblico? - Alessandro Cattelan</description>
         </item>
         <item>
-            <title>Marco Montemagno - Intelligenza Artificiale...che succede?</title>
-            <link>https://www.youtube.com/watch?v=KunZGa1koR8</link>
-            <guid>https://www.youtube.com/watch?v=KunZGa1koR8</guid>
-            <pubDate>JUNE 23, 2021 AT 10:29PM</pubDate>
-            <description>Intelligenza Artificiale...che succede?</description>
+            <title>Marco Montemagno - Vuoi imparare a programmare?</title>
+            <link>https://www.youtube.com/watch?v=ueLooNS5iek</link>
+            <guid>https://www.youtube.com/watch?v=ueLooNS5iek</guid>
+            <pubDate>NOVEMBER 8, 2021 AT 03:00PM</pubDate>
+            <description>Vuoi imparare a programmare?</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Substack è un pericolo per i giornali. Ora è ufficiale.</title>
-            <link>https://www.youtube.com/watch?v=qlnYWsM5CJM</link>
-            <guid>https://www.youtube.com/watch?v=qlnYWsM5CJM</guid>
-            <pubDate>MAY 12, 2021 AT 08:34AM</pubDate>
-            <description>Substack è un pericolo per i giornali. Ora è ufficiale.</description>
-        </item>
-        <item>
-            <title>Matteo Flora - I certificati online non mi rendono felice, mi fanno solo arrabbiare moltissimo. Ecco Perché!</title>
-            <link>https://www.youtube.com/watch?v=2gQVci3drQg</link>
-            <guid>https://www.youtube.com/watch?v=2gQVci3drQg</guid>
-            <pubDate>NOVEMBER 19, 2021 AT 08:05AM</pubDate>
-            <description>I certificati online non mi rendono felice, mi fanno solo arrabbiare moltissimo. Ecco Perché!</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Sconfiggere i Malware con una… TASTIERA?</title>
-            <link>https://www.youtube.com/watch?v=e6TfDAoup7Y</link>
-            <guid>https://www.youtube.com/watch?v=e6TfDAoup7Y</guid>
-            <pubDate>MAY 20, 2021 AT 08:00AM</pubDate>
-            <description>Sconfiggere i Malware con una… TASTIERA?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Ice Swimming (nuotare senza muta in acque gelide) con Paolo Chiarino</title>
-            <link>https://www.youtube.com/watch?v=ZaOEEYslbWI</link>
-            <guid>https://www.youtube.com/watch?v=ZaOEEYslbWI</guid>
-            <pubDate>MAY 26, 2021 AT 12:24PM</pubDate>
-            <description>Ice Swimming (nuotare senza muta in acque gelide) con Paolo Chiarino</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - La vedova nera fa causa a Disney: per quanti $$$ e perchè è importante</title>
-            <link>https://www.youtube.com/watch?v=TzyE-hLp4nE</link>
-            <guid>https://www.youtube.com/watch?v=TzyE-hLp4nE</guid>
-            <pubDate>AUGUST 5, 2021 AT 03:37PM</pubDate>
-            <description>La vedova nera fa causa a Disney: per quanti $$$ e perchè è importante</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - Search Console Insight: tutto quello da sapere!</title>
-            <link>https://www.youtube.com/watch?v=zbJHlWAs8j0</link>
-            <guid>https://www.youtube.com/watch?v=zbJHlWAs8j0</guid>
-            <pubDate>JUNE 18, 2021 AT 07:30AM</pubDate>
-            <description>Search Console Insight: tutto quello da sapere!</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Perché siamo circondati dai Pessimisti</title>
-            <link>https://www.youtube.com/watch?v=XYf0oIP7GLo</link>
-            <guid>https://www.youtube.com/watch?v=XYf0oIP7GLo</guid>
-            <pubDate>MAY 22, 2021 AT 10:16AM</pubDate>
-            <description>Perché siamo circondati dai Pessimisti</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - No perché gli spogliatoi sono brutti...</title>
-            <link>https://www.youtube.com/watch?v=mReEPFUx0O0</link>
-            <guid>https://www.youtube.com/watch?v=mReEPFUx0O0</guid>
-            <pubDate>OCTOBER 26, 2021 AT 09:46PM</pubDate>
-            <description>No perché gli spogliatoi sono brutti...</description>
+            <title>Matteo Flora - DOCUMENTI ONLINE: quando la Trasparenza è troppa...</title>
+            <link>https://www.youtube.com/watch?v=tKNx58qROmc</link>
+            <guid>https://www.youtube.com/watch?v=tKNx58qROmc</guid>
+            <pubDate>MAY 17, 2021 AT 08:21AM</pubDate>
+            <description>DOCUMENTI ONLINE: quando la Trasparenza è troppa...</description>
         </item>
         <item>
             <title>Marco Montemagno - Why Africa is Leading Global Crypto Adoption with Paxful</title>
@@ -91,60 +42,109 @@
             <description>Why Africa is Leading Global Crypto Adoption with Paxful</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Quale tra questi NON è tra i tre principali vantaggi portati dalla digitalizzazione?</title>
-            <link>https://www.youtube.com/watch?v=FsOkrz3bTI8</link>
-            <guid>https://www.youtube.com/watch?v=FsOkrz3bTI8</guid>
-            <pubDate>JULY 21, 2021 AT 08:54AM</pubDate>
-            <description>Quale tra questi NON è tra i tre principali vantaggi portati dalla digitalizzazione?</description>
+            <title>Rudy Bandiera - Black Friday: dati e previsioni</title>
+            <link>https://www.youtube.com/watch?v=bRrpCe6zi_o</link>
+            <guid>https://www.youtube.com/watch?v=bRrpCe6zi_o</guid>
+            <pubDate>OCTOBER 20, 2021 AT 01:12AM</pubDate>
+            <description>Black Friday: dati e previsioni</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come si applica la blockchain al settore del lusso (e non solo)</title>
-            <link>https://www.youtube.com/watch?v=IzgT51XXepE</link>
-            <guid>https://www.youtube.com/watch?v=IzgT51XXepE</guid>
-            <pubDate>NOVEMBER 28, 2021 AT 01:00PM</pubDate>
-            <description>Come si applica la blockchain al settore del lusso (e non solo)</description>
+            <title>Marco Montemagno - Non puoi cambiare il carattere delle persone intorno a te, ma ...</title>
+            <link>https://www.youtube.com/watch?v=1Nvx5176iuk</link>
+            <guid>https://www.youtube.com/watch?v=1Nvx5176iuk</guid>
+            <pubDate>DECEMBER 6, 2021 AT 09:00AM</pubDate>
+            <description>Non puoi cambiare il carattere delle persone intorno a te, ma ...</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come trasformare i tuoi limiti in punti di forza? Ne avevamo parlato con Jovanotti</title>
-            <link>https://www.youtube.com/watch?v=Y2LWSgxbyH4</link>
-            <guid>https://www.youtube.com/watch?v=Y2LWSgxbyH4</guid>
-            <pubDate>AUGUST 23, 2021 AT 06:01PM</pubDate>
-            <description>Come trasformare i tuoi limiti in punti di forza? Ne avevamo parlato con Jovanotti</description>
+            <title>Marco Montemagno - 4 chiacchiere con Giuliano Sangiorgi (Negramaro)</title>
+            <link>https://www.youtube.com/watch?v=uc0BZbT95BQ</link>
+            <guid>https://www.youtube.com/watch?v=uc0BZbT95BQ</guid>
+            <pubDate>MAY 23, 2021 AT 09:31PM</pubDate>
+            <description>4 chiacchiere con Giuliano Sangiorgi (Negramaro)</description>
         </item>
         <item>
-            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Salvatore Bernabei, Enel Green Power</title>
-            <link>https://www.youtube.com/watch?v=j-69YcOeAMI</link>
-            <guid>https://www.youtube.com/watch?v=j-69YcOeAMI</guid>
-            <pubDate>SEPTEMBER 8, 2021 AT 08:00PM</pubDate>
-            <description>Cambiamento climatico, elettrificazione e dintorni con Salvatore Bernabei, Enel Green Power</description>
+            <title>Matteo Flora - Cristina Fogazzi, Estetista Cinica, la crisi reputazionale dei &quot;Punti Fagiana&quot; e le scuse</title>
+            <link>https://www.youtube.com/watch?v=9sk4LTEjgGg</link>
+            <guid>https://www.youtube.com/watch?v=9sk4LTEjgGg</guid>
+            <pubDate>FEBRUARY 9, 2022 AT 01:04PM</pubDate>
+            <description>Cristina Fogazzi, Estetista Cinica, la crisi reputazionale dei &quot;Punti Fagiana&quot; e le scuse</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Google è un Ecosistema Liquido: l&#39;accordo con Shopify ne è la prova!</title>
-            <link>https://www.youtube.com/watch?v=3o9sWQe0S7o</link>
-            <guid>https://www.youtube.com/watch?v=3o9sWQe0S7o</guid>
-            <pubDate>MAY 26, 2021 AT 07:30AM</pubDate>
-            <description>Google è un Ecosistema Liquido: l&#39;accordo con Shopify ne è la prova!</description>
+            <title>Marco Montemagno - Il cambiamento climatico spiegato BENE: cos&#39;è e come combatterlo</title>
+            <link>https://www.youtube.com/watch?v=hCS6HdMf5Bo</link>
+            <guid>https://www.youtube.com/watch?v=hCS6HdMf5Bo</guid>
+            <pubDate>DECEMBER 13, 2021 AT 07:32PM</pubDate>
+            <description>Il cambiamento climatico spiegato BENE: cos&#39;è e come combatterlo</description>
         </item>
         <item>
-            <title>Marco Montemagno - Leadership Gentile con Guido Stratta (Direttore People &amp; Organisation Gruppo Enel)</title>
-            <link>https://www.youtube.com/watch?v=_qAOAqmh0Sw</link>
-            <guid>https://www.youtube.com/watch?v=_qAOAqmh0Sw</guid>
-            <pubDate>DECEMBER 20, 2021 AT 01:00PM</pubDate>
-            <description>Leadership Gentile con Guido Stratta (Direttore People &amp; Organisation Gruppo Enel)</description>
+            <title>Matteo Flora - Sconfiggere i Malware con una… TASTIERA?</title>
+            <link>https://www.youtube.com/watch?v=e6TfDAoup7Y</link>
+            <guid>https://www.youtube.com/watch?v=e6TfDAoup7Y</guid>
+            <pubDate>MAY 20, 2021 AT 08:00AM</pubDate>
+            <description>Sconfiggere i Malware con una… TASTIERA?</description>
         </item>
         <item>
-            <title>Marco Montemagno - David di Donatello 2021, Matilda De Angelis migliore attrice non protagonista. Grandissima!</title>
-            <link>https://www.youtube.com/watch?v=y5Sd4FuY-0M</link>
-            <guid>https://www.youtube.com/watch?v=y5Sd4FuY-0M</guid>
-            <pubDate>MAY 12, 2021 AT 04:15PM</pubDate>
-            <description>David di Donatello 2021, Matilda De Angelis migliore attrice non protagonista. Grandissima!</description>
+            <title>Rudy Bandiera - Meglio essere governati dai politici o dall&#39;intelligenza artificiale?</title>
+            <link>https://www.youtube.com/watch?v=8AEZLzOq0j0</link>
+            <guid>https://www.youtube.com/watch?v=8AEZLzOq0j0</guid>
+            <pubDate>JUNE 11, 2021 AT 08:45AM</pubDate>
+            <description>Meglio essere governati dai politici o dall&#39;intelligenza artificiale?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come trovare investitori</title>
-            <link>https://www.youtube.com/watch?v=pthoU5mxG3U</link>
-            <guid>https://www.youtube.com/watch?v=pthoU5mxG3U</guid>
-            <pubDate>DECEMBER 13, 2021 AT 12:00PM</pubDate>
-            <description>Come trovare investitori</description>
+            <title>Marco Montemagno - Leadership e dintorni con Claudia Parzani</title>
+            <link>https://www.youtube.com/watch?v=ZoU6cQR0jIE</link>
+            <guid>https://www.youtube.com/watch?v=ZoU6cQR0jIE</guid>
+            <pubDate>NOVEMBER 18, 2021 AT 10:59AM</pubDate>
+            <description>Leadership e dintorni con Claudia Parzani</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Come comprare Ethereum e spostarli sul tuo wallet</title>
+            <link>https://www.youtube.com/watch?v=Di5yeLmFYaw</link>
+            <guid>https://www.youtube.com/watch?v=Di5yeLmFYaw</guid>
+            <pubDate>JANUARY 26, 2022 AT 09:58AM</pubDate>
+            <description>Come comprare Ethereum e spostarli sul tuo wallet</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Problema di Tesla e proprietari chiusi fuori! Ma davvero?</title>
+            <link>https://www.youtube.com/watch?v=T_obEfuukcQ</link>
+            <guid>https://www.youtube.com/watch?v=T_obEfuukcQ</guid>
+            <pubDate>NOVEMBER 24, 2021 AT 06:47AM</pubDate>
+            <description>Problema di Tesla e proprietari chiusi fuori! Ma davvero?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - La Filosofia fa la differenza! Impariamola con Maura Gancitano</title>
+            <link>https://www.youtube.com/watch?v=QBfzKdHKNYA</link>
+            <guid>https://www.youtube.com/watch?v=QBfzKdHKNYA</guid>
+            <pubDate>AUGUST 5, 2021 AT 09:36AM</pubDate>
+            <description>La Filosofia fa la differenza! Impariamola con Maura Gancitano</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Cristiano Godano (Marlene Kuntz)</title>
+            <link>https://www.youtube.com/watch?v=FvFLwWJGkQ8</link>
+            <guid>https://www.youtube.com/watch?v=FvFLwWJGkQ8</guid>
+            <pubDate>JULY 8, 2021 AT 12:19PM</pubDate>
+            <description>4 chiacchiere con Cristiano Godano (Marlene Kuntz)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Bitcoin vincerà</title>
+            <link>https://www.youtube.com/watch?v=pW2J0ygGj7g</link>
+            <guid>https://www.youtube.com/watch?v=pW2J0ygGj7g</guid>
+            <pubDate>JANUARY 11, 2022 AT 01:00PM</pubDate>
+            <description>Bitcoin vincerà</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 consigli utili per il tuo lavoro da 4 grandi imprenditori italiani</title>
+            <link>https://www.youtube.com/watch?v=Fs0w1QIlF_4</link>
+            <guid>https://www.youtube.com/watch?v=Fs0w1QIlF_4</guid>
+            <pubDate>AUGUST 11, 2021 AT 01:00PM</pubDate>
+            <description>4 consigli utili per il tuo lavoro da 4 grandi imprenditori italiani</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Elisabetta Sgarbi</title>
+            <link>https://www.youtube.com/watch?v=zuC5MTlCB4M</link>
+            <guid>https://www.youtube.com/watch?v=zuC5MTlCB4M</guid>
+            <pubDate>JUNE 1, 2021 AT 11:55AM</pubDate>
+            <description>4 chiacchiere con Elisabetta Sgarbi</description>
         </item>
     </channel>
 </rss>
