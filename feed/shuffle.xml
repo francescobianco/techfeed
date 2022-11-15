@@ -5,139 +5,83 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Mon, 14 Nov 2022 13:48:56 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 15 Nov 2022 13:35:18 +0000</lastBuildDate>
         <item>
-            <title>Rudy Bandiera - Anche tu sei stato colpito dallo Smishing?</title>
-            <link>https://www.youtube.com/watch?v=tsoWT_o4fv0</link>
-            <guid>https://www.youtube.com/watch?v=tsoWT_o4fv0</guid>
-            <pubDate>JANUARY 28, 2022 AT 09:51AM</pubDate>
-            <description>Anche tu sei stato colpito dallo Smishing?</description>
+            <title>Matteo Flora - Il tweet storm di #DiMaioOut e la fotografia di #Salvini &quot;photoshoppata&quot;</title>
+            <link>https://www.youtube.com/watch?v=lgUVNJIFXus</link>
+            <guid>https://www.youtube.com/watch?v=lgUVNJIFXus</guid>
+            <pubDate>FEBRUARY 2, 2022 AT 05:26PM</pubDate>
+            <description>Il tweet storm di #DiMaioOut e la fotografia di #Salvini &quot;photoshoppata&quot;</description>
         </item>
         <item>
-            <title>Marco Montemagno - &quot;I fatti parlano da soli. Ma chi li ascolta?&quot;</title>
-            <link>https://www.youtube.com/watch?v=ICDIdxfEcV0</link>
-            <guid>https://www.youtube.com/watch?v=ICDIdxfEcV0</guid>
-            <pubDate>FEBRUARY 13, 2022 AT 12:26PM</pubDate>
-            <description>&quot;I fatti parlano da soli. Ma chi li ascolta?&quot;</description>
+            <title>Marco Montemagno - È urgente!</title>
+            <link>https://www.youtube.com/watch?v=IzXbcyjlfIw</link>
+            <guid>https://www.youtube.com/watch?v=IzXbcyjlfIw</guid>
+            <pubDate>SEPTEMBER 13, 2021 AT 07:22PM</pubDate>
+            <description>È urgente!</description>
         </item>
         <item>
-            <title>Matteo Flora - Log4j e Log4Shell: tutto quello da sapere sulla vulnerabilità 0-day con Stefano @raistolo Zanero</title>
-            <link>https://www.youtube.com/watch?v=vOo982VdHM0</link>
-            <guid>https://www.youtube.com/watch?v=vOo982VdHM0</guid>
-            <pubDate>DECEMBER 12, 2021 AT 06:32PM</pubDate>
-            <description>Log4j e Log4Shell: tutto quello da sapere sulla vulnerabilità 0-day con Stefano @raistolo Zanero</description>
+            <title>Marco Montemagno - 4 storie di leadership al femminile</title>
+            <link>https://www.youtube.com/watch?v=UVz_rXdWXR0</link>
+            <guid>https://www.youtube.com/watch?v=UVz_rXdWXR0</guid>
+            <pubDate>AUGUST 13, 2021 AT 01:00PM</pubDate>
+            <description>4 storie di leadership al femminile</description>
         </item>
         <item>
-            <title>Matteo Flora - Cos&#39;è HUDI (Human Data Income), la crypto che permette agli utenti di monetizzare i propri dati!</title>
-            <link>https://www.youtube.com/watch?v=FSxPOOWo3jg</link>
-            <guid>https://www.youtube.com/watch?v=FSxPOOWo3jg</guid>
-            <pubDate>SEPTEMBER 15, 2021 AT 12:09AM</pubDate>
-            <description>Cos&#39;è HUDI (Human Data Income), la crypto che permette agli utenti di monetizzare i propri dati!</description>
+            <title>Rudy Bandiera - Come scrivere un’avvincente descrizione di un evento o un webinar</title>
+            <link>https://www.youtube.com/watch?v=iyVZdwe-STE</link>
+            <guid>https://www.youtube.com/watch?v=iyVZdwe-STE</guid>
+            <pubDate>MAY 24, 2021 AT 08:18AM</pubDate>
+            <description>Come scrivere un’avvincente descrizione di un evento o un webinar</description>
         </item>
         <item>
-            <title>Marco Montemagno - Intelligenza Artificiale...che succede?</title>
-            <link>https://www.youtube.com/watch?v=KunZGa1koR8</link>
-            <guid>https://www.youtube.com/watch?v=KunZGa1koR8</guid>
-            <pubDate>JUNE 23, 2021 AT 10:29PM</pubDate>
-            <description>Intelligenza Artificiale...che succede?</description>
+            <title>Marco Montemagno - Come costruire, fidelizzare e gestire una squadra di valore con Francesca Polti</title>
+            <link>https://www.youtube.com/watch?v=D1bS6bUY6xM</link>
+            <guid>https://www.youtube.com/watch?v=D1bS6bUY6xM</guid>
+            <pubDate>NOVEMBER 10, 2021 AT 11:25AM</pubDate>
+            <description>Come costruire, fidelizzare e gestire una squadra di valore con Francesca Polti</description>
         </item>
         <item>
-            <title>Raffaele Gaito - PERCHÉ LE AZIENDE METTONO SUL SITO I LOGHI DEI CLIENTI? #shorts</title>
-            <link>https://www.youtube.com/watch?v=ch8p07w9GaE</link>
-            <guid>https://www.youtube.com/watch?v=ch8p07w9GaE</guid>
-            <pubDate>AUGUST 20, 2021 AT 01:09PM</pubDate>
-            <description>PERCHÉ LE AZIENDE METTONO SUL SITO I LOGHI DEI CLIENTI? #shorts</description>
+            <title>Marco Montemagno - &quot;Non ascoltare quello che dicono, guarda quello che fanno&quot;</title>
+            <link>https://www.youtube.com/watch?v=FbQOxASUDKI</link>
+            <guid>https://www.youtube.com/watch?v=FbQOxASUDKI</guid>
+            <pubDate>MAY 13, 2021 AT 11:46AM</pubDate>
+            <description>&quot;Non ascoltare quello che dicono, guarda quello che fanno&quot;</description>
         </item>
         <item>
-            <title>Rudy Bandiera - La matrice di Eisenhower per capire urgenze e priorità #in2minuti</title>
-            <link>https://www.youtube.com/watch?v=mGZsfWVdxPs</link>
-            <guid>https://www.youtube.com/watch?v=mGZsfWVdxPs</guid>
-            <pubDate>MAY 16, 2021 AT 09:48AM</pubDate>
-            <description>La matrice di Eisenhower per capire urgenze e priorità #in2minuti</description>
+            <title>Giorgio Taverniti - La Vittoria dei Måneskin - W&amp;L Maggio 2021</title>
+            <link>https://www.youtube.com/watch?v=44KV4eTObSQ</link>
+            <guid>https://www.youtube.com/watch?v=44KV4eTObSQ</guid>
+            <pubDate>JUNE 10, 2021 AT 07:30AM</pubDate>
+            <description>La Vittoria dei Måneskin - W&amp;L Maggio 2021</description>
         </item>
         <item>
-            <title>Matteo Flora - Le non scuse di Fabio Meroni, il consigliere leghista che ha chiamato Liliana Segre &quot;numero 75190&quot;</title>
-            <link>https://www.youtube.com/watch?v=bikBAr3zuw8</link>
-            <guid>https://www.youtube.com/watch?v=bikBAr3zuw8</guid>
-            <pubDate>NOVEMBER 26, 2021 AT 07:45AM</pubDate>
-            <description>Le non scuse di Fabio Meroni, il consigliere leghista che ha chiamato Liliana Segre &quot;numero 75190&quot;</description>
+            <title>Giorgio Taverniti - I Social sconvolti dall&#39;audio, la SEO dai contenuti: 4 mesi di news in 30 minuti!</title>
+            <link>https://www.youtube.com/watch?v=MNko70Z82I8</link>
+            <guid>https://www.youtube.com/watch?v=MNko70Z82I8</guid>
+            <pubDate>MAY 17, 2021 AT 07:30AM</pubDate>
+            <description>I Social sconvolti dall&#39;audio, la SEO dai contenuti: 4 mesi di news in 30 minuti!</description>
         </item>
         <item>
-            <title>Marco Montemagno - Monty contro Tutti...Domande e risposte Live!</title>
-            <link>https://www.youtube.com/watch?v=qMdFVDU_Q3w</link>
-            <guid>https://www.youtube.com/watch?v=qMdFVDU_Q3w</guid>
-            <pubDate>FEBRUARY 2, 2022 AT 04:55PM</pubDate>
-            <description>Monty contro Tutti...Domande e risposte Live!</description>
+            <title>Marco Montemagno - La tecnica dell&#39;Anticipazione #shorts</title>
+            <link>https://www.youtube.com/watch?v=ByNMO4gUUWc</link>
+            <guid>https://www.youtube.com/watch?v=ByNMO4gUUWc</guid>
+            <pubDate>AUGUST 20, 2021 AT 12:02PM</pubDate>
+            <description>La tecnica dell&#39;Anticipazione #shorts</description>
         </item>
         <item>
-            <title>Marco Montemagno - ho pubblicato 2222 video su YouTube.. 7 suggerimenti...</title>
-            <link>https://www.youtube.com/watch?v=HIdrfmzKLPs</link>
-            <guid>https://www.youtube.com/watch?v=HIdrfmzKLPs</guid>
-            <pubDate>SEPTEMBER 12, 2021 AT 02:00PM</pubDate>
-            <description>ho pubblicato 2222 video su YouTube.. 7 suggerimenti...</description>
+            <title>Matteo Flora - Cosa vogliono i Minori online? Tre richieste per una nuova Internet!</title>
+            <link>https://www.youtube.com/watch?v=Sh-dsL9U81M</link>
+            <guid>https://www.youtube.com/watch?v=Sh-dsL9U81M</guid>
+            <pubDate>NOVEMBER 17, 2021 AT 08:30AM</pubDate>
+            <description>Cosa vogliono i Minori online? Tre richieste per una nuova Internet!</description>
         </item>
         <item>
-            <title>Marco Montemagno - Surf e dintorni - 4 chiacchiere con Edoardo Papa</title>
-            <link>https://www.youtube.com/watch?v=tECN8BieqSk</link>
-            <guid>https://www.youtube.com/watch?v=tECN8BieqSk</guid>
-            <pubDate>JUNE 14, 2021 AT 01:23PM</pubDate>
-            <description>Surf e dintorni - 4 chiacchiere con Edoardo Papa</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Everything you have to know about Bitcoin ETF &amp; more</title>
-            <link>https://www.youtube.com/watch?v=7XBJ0h3w7yw</link>
-            <guid>https://www.youtube.com/watch?v=7XBJ0h3w7yw</guid>
-            <pubDate>DECEMBER 2, 2021 AT 09:00AM</pubDate>
-            <description>Everything you have to know about Bitcoin ETF &amp; more</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 300Mln$?!? Ma Apple e Google sono davvero concorrenti? #shorts</title>
-            <link>https://www.youtube.com/watch?v=Y-4yci_uu2M</link>
-            <guid>https://www.youtube.com/watch?v=Y-4yci_uu2M</guid>
-            <pubDate>JULY 5, 2021 AT 03:36PM</pubDate>
-            <description>300Mln$?!? Ma Apple e Google sono davvero concorrenti? #shorts</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Food Talks 4 chiacchiere con Vincenzo Ferrieri (Cioccolati Italiani) e Vittoria Zanetti (Poke House)</title>
-            <link>https://www.youtube.com/watch?v=ze-950IFPvs</link>
-            <guid>https://www.youtube.com/watch?v=ze-950IFPvs</guid>
-            <pubDate>MAY 17, 2021 AT 11:37AM</pubDate>
-            <description>Food Talks 4 chiacchiere con Vincenzo Ferrieri (Cioccolati Italiani) e Vittoria Zanetti (Poke House)</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - What&#39;s up Internet! La Mega Rassegna Settimanale per capire Internet</title>
-            <link>https://www.youtube.com/watch?v=sDgWBBnILh0</link>
-            <guid>https://www.youtube.com/watch?v=sDgWBBnILh0</guid>
-            <pubDate>MAY 18, 2021 AT 07:30AM</pubDate>
-            <description>What&#39;s up Internet! La Mega Rassegna Settimanale per capire Internet</description>
-        </item>
-        <item>
-            <title>Matteo Flora - [LIVE] L&#39;aperitivo di Ciao Internet1</title>
-            <link>https://www.youtube.com/watch?v=yZ3AFIlrUWo</link>
-            <guid>https://www.youtube.com/watch?v=yZ3AFIlrUWo</guid>
-            <pubDate>JULY 13, 2021 AT 10:05PM</pubDate>
-            <description>[LIVE] L&#39;aperitivo di Ciao Internet1</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Usare Google Analytics è ILLEGALE per Privacy e viola il GDPR. Ma davvero? E ora?</title>
-            <link>https://www.youtube.com/watch?v=hHAYDMVK7G0</link>
-            <guid>https://www.youtube.com/watch?v=hHAYDMVK7G0</guid>
-            <pubDate>JANUARY 17, 2022 AT 04:37PM</pubDate>
-            <description>Usare Google Analytics è ILLEGALE per Privacy e viola il GDPR. Ma davvero? E ora?</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - Parlando del futuro dei videogame e di PS5</title>
-            <link>https://www.youtube.com/watch?v=a9PyCx8iYaM</link>
-            <guid>https://www.youtube.com/watch?v=a9PyCx8iYaM</guid>
-            <pubDate>FEBRUARY 7, 2022 AT 10:22AM</pubDate>
-            <description>Parlando del futuro dei videogame e di PS5</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come essere felici? - Umberto Galimberti</title>
-            <link>https://www.youtube.com/watch?v=53OFBbuJi98</link>
-            <guid>https://www.youtube.com/watch?v=53OFBbuJi98</guid>
-            <pubDate>AUGUST 17, 2021 AT 01:00PM</pubDate>
-            <description>Come essere felici? - Umberto Galimberti</description>
+            <title>Marco Montemagno - La Filosofia fa la differenza! Impariamola con Maura Gancitano</title>
+            <link>https://www.youtube.com/watch?v=QBfzKdHKNYA</link>
+            <guid>https://www.youtube.com/watch?v=QBfzKdHKNYA</guid>
+            <pubDate>AUGUST 5, 2021 AT 09:36AM</pubDate>
+            <description>La Filosofia fa la differenza! Impariamola con Maura Gancitano</description>
         </item>
         <item>
             <title>Rudy Bandiera - Da Apple FaceTime alle nuove mappe, tutte le novità in arrivo con iOS 15</title>
@@ -145,6 +89,62 @@
             <guid>https://www.youtube.com/watch?v=-L2pjqw2dMA</guid>
             <pubDate>JUNE 9, 2021 AT 08:30AM</pubDate>
             <description>Da Apple FaceTime alle nuove mappe, tutte le novità in arrivo con iOS 15</description>
+        </item>
+        <item>
+            <title>Matteo Flora - NaturaSì e i tamponi ai no-vax: come Buriani ha salvato il Brand...</title>
+            <link>https://www.youtube.com/watch?v=xi8B9csi7pE</link>
+            <guid>https://www.youtube.com/watch?v=xi8B9csi7pE</guid>
+            <pubDate>SEPTEMBER 24, 2021 AT 07:45AM</pubDate>
+            <description>NaturaSì e i tamponi ai no-vax: come Buriani ha salvato il Brand...</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Crypto e arte con Clapis, Quaroni e Motta</title>
+            <link>https://www.youtube.com/watch?v=U0bKiKzEHjA</link>
+            <guid>https://www.youtube.com/watch?v=U0bKiKzEHjA</guid>
+            <pubDate>NOVEMBER 29, 2021 AT 03:00PM</pubDate>
+            <description>Crypto e arte con Clapis, Quaroni e Motta</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Come usare Instagram Analytics con Yari Brugnoni</title>
+            <link>https://www.youtube.com/watch?v=u5zyUXJRizE</link>
+            <guid>https://www.youtube.com/watch?v=u5zyUXJRizE</guid>
+            <pubDate>FEBRUARY 11, 2022 AT 10:07AM</pubDate>
+            <description>Come usare Instagram Analytics con Yari Brugnoni</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Matthew McConaughey</title>
+            <link>https://www.youtube.com/watch?v=36-4W2PMs4s</link>
+            <guid>https://www.youtube.com/watch?v=36-4W2PMs4s</guid>
+            <pubDate>NOVEMBER 7, 2021 AT 02:00PM</pubDate>
+            <description>4 chiacchiere con Matthew McConaughey</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Search Console Insight: tutto quello da sapere!</title>
+            <link>https://www.youtube.com/watch?v=zbJHlWAs8j0</link>
+            <guid>https://www.youtube.com/watch?v=zbJHlWAs8j0</guid>
+            <pubDate>JUNE 18, 2021 AT 07:30AM</pubDate>
+            <description>Search Console Insight: tutto quello da sapere!</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Metaverso..tutto quello che avresti sempre voluto sapere e non hai mai osato chiedere</title>
+            <link>https://www.youtube.com/watch?v=smcOi8GyasY</link>
+            <guid>https://www.youtube.com/watch?v=smcOi8GyasY</guid>
+            <pubDate>NOVEMBER 23, 2021 AT 03:00PM</pubDate>
+            <description>Metaverso..tutto quello che avresti sempre voluto sapere e non hai mai osato chiedere</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Come promovere il tuo e-commerce su Google</title>
+            <link>https://www.youtube.com/watch?v=cVQV9MxOmg4</link>
+            <guid>https://www.youtube.com/watch?v=cVQV9MxOmg4</guid>
+            <pubDate>JUNE 15, 2021 AT 07:30AM</pubDate>
+            <description>Come promovere il tuo e-commerce su Google</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - UK vs ITALIA: Pro e Contro</title>
+            <link>https://www.youtube.com/watch?v=dpPGSc_m4Xw</link>
+            <guid>https://www.youtube.com/watch?v=dpPGSc_m4Xw</guid>
+            <pubDate>NOVEMBER 2, 2021 AT 01:28PM</pubDate>
+            <description>UK vs ITALIA: Pro e Contro</description>
         </item>
     </channel>
 </rss>
