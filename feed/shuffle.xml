@@ -5,27 +5,83 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Fri, 18 Nov 2022 13:35:23 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 13:26:19 +0000</lastBuildDate>
         <item>
-            <title>Matteo Flora - Cos&#39;è HUDI (Human Data Income), la crypto che permette agli utenti di monetizzare i propri dati!</title>
-            <link>https://www.youtube.com/watch?v=FSxPOOWo3jg</link>
-            <guid>https://www.youtube.com/watch?v=FSxPOOWo3jg</guid>
-            <pubDate>SEPTEMBER 15, 2021 AT 12:09AM</pubDate>
-            <description>Cos&#39;è HUDI (Human Data Income), la crypto che permette agli utenti di monetizzare i propri dati!</description>
+            <title>Giorgio Taverniti - Google Sheets: script, componenti, API. Idee d&#39;uso INTERESSANTI</title>
+            <link>https://www.youtube.com/watch?v=jmZF_VRT2fA</link>
+            <guid>https://www.youtube.com/watch?v=jmZF_VRT2fA</guid>
+            <pubDate>MAY 10, 2021 AT 10:41AM</pubDate>
+            <description>Google Sheets: script, componenti, API. Idee d&#39;uso INTERESSANTI</description>
         </item>
         <item>
-            <title>Marco Montemagno - Bezos, Branson, Musk: la corsa dei Miliardari per accaparrarsi il nuovo business dello Spazio</title>
-            <link>https://www.youtube.com/watch?v=M4Q6hKyqME4</link>
-            <guid>https://www.youtube.com/watch?v=M4Q6hKyqME4</guid>
-            <pubDate>JULY 20, 2021 AT 01:06PM</pubDate>
-            <description>Bezos, Branson, Musk: la corsa dei Miliardari per accaparrarsi il nuovo business dello Spazio</description>
+            <title>Marco Montemagno - The Coin of Champions: Demo live e Q&amp;A</title>
+            <link>https://www.youtube.com/watch?v=cxso2vZlye4</link>
+            <guid>https://www.youtube.com/watch?v=cxso2vZlye4</guid>
+            <pubDate>NOVEMBER 25, 2021 AT 04:22PM</pubDate>
+            <description>The Coin of Champions: Demo live e Q&amp;A</description>
         </item>
         <item>
-            <title>Raffaele Gaito - STAGING PER WORDPRESS (E NON SOLO) SENZA PLUGIN</title>
-            <link>https://www.youtube.com/watch?v=6Up3Vu2vslk</link>
-            <guid>https://www.youtube.com/watch?v=6Up3Vu2vslk</guid>
-            <pubDate>MAY 7, 2021 AT 08:00AM</pubDate>
-            <description>STAGING PER WORDPRESS (E NON SOLO) SENZA PLUGIN</description>
+            <title>Matteo Flora - Perché dico che in Italia la colpa del RevengePorn è dei giornalisti...</title>
+            <link>https://www.youtube.com/watch?v=tPqTBYt2la0</link>
+            <guid>https://www.youtube.com/watch?v=tPqTBYt2la0</guid>
+            <pubDate>NOVEMBER 12, 2021 AT 11:46AM</pubDate>
+            <description>Perché dico che in Italia la colpa del RevengePorn è dei giornalisti...</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - Parlando del futuro dei videogame e di PS5</title>
+            <link>https://www.youtube.com/watch?v=a9PyCx8iYaM</link>
+            <guid>https://www.youtube.com/watch?v=a9PyCx8iYaM</guid>
+            <pubDate>FEBRUARY 7, 2022 AT 10:22AM</pubDate>
+            <description>Parlando del futuro dei videogame e di PS5</description>
+        </item>
+        <item>
+            <title>Matteo Flora - [LIVE] - &quot;Il Diritto di Non-Opinione&quot;, Ciao Internet in DIRETTA 🔥</title>
+            <link>https://www.youtube.com/watch?v=TeJbW9ud8K4</link>
+            <guid>https://www.youtube.com/watch?v=TeJbW9ud8K4</guid>
+            <pubDate>MAY 7, 2021 AT 11:36AM</pubDate>
+            <description>[LIVE] - &quot;Il Diritto di Non-Opinione&quot;, Ciao Internet in DIRETTA 🔥</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Le mie Newsletter e le mie Fonti: come mi organizzo</title>
+            <link>https://www.youtube.com/watch?v=SJWIku6zztk</link>
+            <guid>https://www.youtube.com/watch?v=SJWIku6zztk</guid>
+            <pubDate>JUNE 9, 2021 AT 07:30AM</pubDate>
+            <description>Le mie Newsletter e le mie Fonti: come mi organizzo</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Tutto Montemagno...ne parliamo alla Hoepli (Live)</title>
+            <link>https://www.youtube.com/watch?v=XANJSyF1rac</link>
+            <guid>https://www.youtube.com/watch?v=XANJSyF1rac</guid>
+            <pubDate>JUNE 16, 2021 AT 12:42PM</pubDate>
+            <description>Tutto Montemagno...ne parliamo alla Hoepli (Live)</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Ciao Intenter! La LIVE Serale!</title>
+            <link>https://www.youtube.com/watch?v=JdSn_llbFx8</link>
+            <guid>https://www.youtube.com/watch?v=JdSn_llbFx8</guid>
+            <pubDate>NOVEMBER 1, 2021 AT 03:15PM</pubDate>
+            <description>Ciao Intenter! La LIVE Serale!</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Bitcoin, Blockchain e il futuro del mondo Crypto</title>
+            <link>https://www.youtube.com/watch?v=pusKdQwFrHw</link>
+            <guid>https://www.youtube.com/watch?v=pusKdQwFrHw</guid>
+            <pubDate>NOVEMBER 22, 2021 AT 03:00PM</pubDate>
+            <description>Bitcoin, Blockchain e il futuro del mondo Crypto</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Il Regno Unito riapre tutto (nonostante i contagi in crescita): via mascherine e restrizioni</title>
+            <link>https://www.youtube.com/watch?v=PcTg406tjqk</link>
+            <guid>https://www.youtube.com/watch?v=PcTg406tjqk</guid>
+            <pubDate>JULY 19, 2021 AT 01:40PM</pubDate>
+            <description>Il Regno Unito riapre tutto (nonostante i contagi in crescita): via mascherine e restrizioni</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 10 Frasi per convincere qualsiasi persona</title>
+            <link>https://www.youtube.com/watch?v=G6Xfj_4yqZM</link>
+            <guid>https://www.youtube.com/watch?v=G6Xfj_4yqZM</guid>
+            <pubDate>JUNE 4, 2021 AT 05:00PM</pubDate>
+            <description>10 Frasi per convincere qualsiasi persona</description>
         </item>
         <item>
             <title>Matteo Flora - 🤡 #NoGreenPass: il devastante FLOP della manifestazione Telegram di BASTA DITTATURA!</title>
@@ -35,116 +91,60 @@
             <description>🤡 #NoGreenPass: il devastante FLOP della manifestazione Telegram di BASTA DITTATURA!</description>
         </item>
         <item>
-            <title>Raffaele Gaito - LA MALEDIZIONE DELLA CONOSCENZA (COS&#39;È E COME USCIRNE)</title>
-            <link>https://www.youtube.com/watch?v=hcJwTlEFPXI</link>
-            <guid>https://www.youtube.com/watch?v=hcJwTlEFPXI</guid>
-            <pubDate>JULY 20, 2021 AT 08:00AM</pubDate>
-            <description>LA MALEDIZIONE DELLA CONOSCENZA (COS&#39;È E COME USCIRNE)</description>
+            <title>Matteo Flora - Il Riconoscimento Facciale, da Meta alle Città Italiane</title>
+            <link>https://www.youtube.com/watch?v=D5Wq7ZhmiEM</link>
+            <guid>https://www.youtube.com/watch?v=D5Wq7ZhmiEM</guid>
+            <pubDate>NOVEMBER 9, 2021 AT 10:56AM</pubDate>
+            <description>Il Riconoscimento Facciale, da Meta alle Città Italiane</description>
         </item>
         <item>
-            <title>Marco Montemagno - È questo che ti frega</title>
-            <link>https://www.youtube.com/watch?v=z9w7EDuS_bw</link>
-            <guid>https://www.youtube.com/watch?v=z9w7EDuS_bw</guid>
-            <pubDate>MAY 10, 2021 AT 11:42AM</pubDate>
-            <description>È questo che ti frega</description>
+            <title>Marco Montemagno - Ecco il nuovo rivoluzionario iPhone 13!</title>
+            <link>https://www.youtube.com/watch?v=8BwIZReoy0k</link>
+            <guid>https://www.youtube.com/watch?v=8BwIZReoy0k</guid>
+            <pubDate>SEPTEMBER 15, 2021 AT 11:09AM</pubDate>
+            <description>Ecco il nuovo rivoluzionario iPhone 13!</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 caratteristiche OVVIE di chi ottiene grandi risultati</title>
-            <link>https://www.youtube.com/watch?v=0oyO6Aanqhk</link>
-            <guid>https://www.youtube.com/watch?v=0oyO6Aanqhk</guid>
-            <pubDate>JUNE 8, 2021 AT 12:53PM</pubDate>
-            <description>4 caratteristiche OVVIE di chi ottiene grandi risultati</description>
+            <title>Matteo Flora - Telefono Azzurro e il Patto di Treviso per la tutela dei Minorenni</title>
+            <link>https://www.youtube.com/watch?v=JRXlrv5eucQ</link>
+            <guid>https://www.youtube.com/watch?v=JRXlrv5eucQ</guid>
+            <pubDate>NOVEMBER 15, 2021 AT 07:45AM</pubDate>
+            <description>Telefono Azzurro e il Patto di Treviso per la tutela dei Minorenni</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come si affronta DAVVERO la trasformazione digitale in azienda?</title>
-            <link>https://www.youtube.com/watch?v=ne9moTOOnDM</link>
-            <guid>https://www.youtube.com/watch?v=ne9moTOOnDM</guid>
-            <pubDate>DECEMBER 2, 2021 AT 01:00PM</pubDate>
-            <description>Come si affronta DAVVERO la trasformazione digitale in azienda?</description>
+            <title>Raffaele Gaito - MENO PIPPE MENTALI SUI LIBRI #shorts</title>
+            <link>https://www.youtube.com/watch?v=_qR6d_DAaPQ</link>
+            <guid>https://www.youtube.com/watch?v=_qR6d_DAaPQ</guid>
+            <pubDate>JULY 27, 2021 AT 08:00AM</pubDate>
+            <description>MENO PIPPE MENTALI SUI LIBRI #shorts</description>
         </item>
         <item>
-            <title>Matteo Flora - Il &quot;lavoro in nero di sinistra&quot; e la crisi reputazionale di Roberto Angelini</title>
-            <link>https://www.youtube.com/watch?v=aeCpHyVxGH4</link>
-            <guid>https://www.youtube.com/watch?v=aeCpHyVxGH4</guid>
-            <pubDate>MAY 18, 2021 AT 11:33AM</pubDate>
-            <description>Il &quot;lavoro in nero di sinistra&quot; e la crisi reputazionale di Roberto Angelini</description>
+            <title>Marco Montemagno - How to make crypto accessible to all with Cyrus Fazel - CEO di SwissBorg</title>
+            <link>https://www.youtube.com/watch?v=vGPhQsjyV_8</link>
+            <guid>https://www.youtube.com/watch?v=vGPhQsjyV_8</guid>
+            <pubDate>NOVEMBER 27, 2021 AT 09:00AM</pubDate>
+            <description>How to make crypto accessible to all with Cyrus Fazel - CEO di SwissBorg</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come usare Instagram Analytics con Yari Brugnoni</title>
-            <link>https://www.youtube.com/watch?v=u5zyUXJRizE</link>
-            <guid>https://www.youtube.com/watch?v=u5zyUXJRizE</guid>
-            <pubDate>FEBRUARY 11, 2022 AT 10:07AM</pubDate>
-            <description>Come usare Instagram Analytics con Yari Brugnoni</description>
+            <title>Marco Montemagno - Questo è il libro da leggere quest&#39;estate</title>
+            <link>https://www.youtube.com/watch?v=McrzZpM4VT4</link>
+            <guid>https://www.youtube.com/watch?v=McrzZpM4VT4</guid>
+            <pubDate>JUNE 14, 2021 AT 04:41PM</pubDate>
+            <description>Questo è il libro da leggere quest&#39;estate</description>
         </item>
         <item>
-            <title>Marco Montemagno - Vuoi lavorare da casa o in ufficio?</title>
-            <link>https://www.youtube.com/watch?v=jwLVMiXvzTs</link>
-            <guid>https://www.youtube.com/watch?v=jwLVMiXvzTs</guid>
-            <pubDate>JULY 25, 2021 AT 01:30PM</pubDate>
-            <description>Vuoi lavorare da casa o in ufficio?</description>
+            <title>Marco Montemagno - Food Talks con Almir Ambeskovich (CEO The Fork)</title>
+            <link>https://www.youtube.com/watch?v=_mZ3BjqN8Zo</link>
+            <guid>https://www.youtube.com/watch?v=_mZ3BjqN8Zo</guid>
+            <pubDate>MAY 20, 2021 AT 08:47AM</pubDate>
+            <description>Food Talks con Almir Ambeskovich (CEO The Fork)</description>
         </item>
         <item>
-            <title>Matteo Flora - Marco Montemagno: il video sessista e il video di scuse (che non convincono)</title>
-            <link>https://www.youtube.com/watch?v=K3e7HrEi1p4</link>
-            <guid>https://www.youtube.com/watch?v=K3e7HrEi1p4</guid>
-            <pubDate>OCTOBER 12, 2021 AT 09:23AM</pubDate>
-            <description>Marco Montemagno: il video sessista e il video di scuse (che non convincono)</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - 7 LIBRI CHE MI HANNO CAMBIATO LA VITA</title>
-            <link>https://www.youtube.com/watch?v=oDeYD6EZ2Qs</link>
-            <guid>https://www.youtube.com/watch?v=oDeYD6EZ2Qs</guid>
-            <pubDate>MAY 18, 2021 AT 08:00AM</pubDate>
-            <description>7 LIBRI CHE MI HANNO CAMBIATO LA VITA</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 cose da fare quando le cose vanno male...</title>
-            <link>https://www.youtube.com/watch?v=GdI00d9ECGM</link>
-            <guid>https://www.youtube.com/watch?v=GdI00d9ECGM</guid>
-            <pubDate>JULY 6, 2021 AT 02:00PM</pubDate>
-            <description>4 cose da fare quando le cose vanno male...</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Don&#39;t look up: ma come abbiamo fatto a ridurci così?</title>
-            <link>https://www.youtube.com/watch?v=BC1yLebnHqU</link>
-            <guid>https://www.youtube.com/watch?v=BC1yLebnHqU</guid>
-            <pubDate>JANUARY 7, 2022 AT 12:57PM</pubDate>
-            <description>Don&#39;t look up: ma come abbiamo fatto a ridurci così?</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - La mobilità del futuro: autobus volanti o auto elettriche?</title>
-            <link>https://www.youtube.com/watch?v=gmVDMcv7f5Q</link>
-            <guid>https://www.youtube.com/watch?v=gmVDMcv7f5Q</guid>
-            <pubDate>NOVEMBER 22, 2021 AT 09:33AM</pubDate>
-            <description>La mobilità del futuro: autobus volanti o auto elettriche?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Tutti (ancora) pazzi per gli NFT</title>
-            <link>https://www.youtube.com/watch?v=LAC2LiW6amA</link>
-            <guid>https://www.youtube.com/watch?v=LAC2LiW6amA</guid>
-            <pubDate>AUGUST 25, 2021 AT 05:56PM</pubDate>
-            <description>Tutti (ancora) pazzi per gli NFT</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 5 (+1) errori ASSOLUTAMENTE da evitare quando parli in pubblico</title>
-            <link>https://www.youtube.com/watch?v=dT8wIajxiks</link>
-            <guid>https://www.youtube.com/watch?v=dT8wIajxiks</guid>
-            <pubDate>SEPTEMBER 23, 2021 AT 01:06PM</pubDate>
-            <description>5 (+1) errori ASSOLUTAMENTE da evitare quando parli in pubblico</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con l&#39;arma dei carabinieri (Luca de Marchis)</title>
-            <link>https://www.youtube.com/watch?v=7y2pbB3FZSY</link>
-            <guid>https://www.youtube.com/watch?v=7y2pbB3FZSY</guid>
-            <pubDate>NOVEMBER 9, 2021 AT 01:00PM</pubDate>
-            <description>4 chiacchiere con l&#39;arma dei carabinieri (Luca de Marchis)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Il principio di Pareto sul lavoro: qual è il tuo 20% che conta?</title>
-            <link>https://www.youtube.com/watch?v=OpaLsqvA4lI</link>
-            <guid>https://www.youtube.com/watch?v=OpaLsqvA4lI</guid>
-            <pubDate>OCTOBER 15, 2021 AT 02:30PM</pubDate>
-            <description>Il principio di Pareto sul lavoro: qual è il tuo 20% che conta?</description>
+            <title>Marco Montemagno - Conosci la legge dello schiaffone?</title>
+            <link>https://www.youtube.com/watch?v=cdo3-1ermxI</link>
+            <guid>https://www.youtube.com/watch?v=cdo3-1ermxI</guid>
+            <pubDate>JANUARY 8, 2022 AT 01:00PM</pubDate>
+            <description>Conosci la legge dello schiaffone?</description>
         </item>
     </channel>
 </rss>
