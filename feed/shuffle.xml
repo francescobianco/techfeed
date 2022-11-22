@@ -5,139 +5,34 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Mon, 21 Nov 2022 13:40:38 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 13:31:50 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - Vuoi lavorare con me?</title>
-            <link>https://www.youtube.com/watch?v=WaM8OkmNBN8</link>
-            <guid>https://www.youtube.com/watch?v=WaM8OkmNBN8</guid>
-            <pubDate>JUNE 24, 2021 AT 07:33PM</pubDate>
-            <description>Vuoi lavorare con me?</description>
+            <title>Marco Montemagno - Come si applica la blockchain al settore del lusso (e non solo)</title>
+            <link>https://www.youtube.com/watch?v=IzgT51XXepE</link>
+            <guid>https://www.youtube.com/watch?v=IzgT51XXepE</guid>
+            <pubDate>NOVEMBER 28, 2021 AT 01:00PM</pubDate>
+            <description>Come si applica la blockchain al settore del lusso (e non solo)</description>
         </item>
         <item>
-            <title>Matteo Flora - Il #disastro #Reputazionale della Nazionale Cantanti, tra Aurora Leone e Gian Luca Pecchini</title>
-            <link>https://www.youtube.com/watch?v=zhcYfux2Fco</link>
-            <guid>https://www.youtube.com/watch?v=zhcYfux2Fco</guid>
-            <pubDate>MAY 25, 2021 AT 09:54PM</pubDate>
-            <description>Il #disastro #Reputazionale della Nazionale Cantanti, tra Aurora Leone e Gian Luca Pecchini</description>
+            <title>Marco Montemagno - Il business miliardario di James Bond</title>
+            <link>https://www.youtube.com/watch?v=0Kx-kVWcrkU</link>
+            <guid>https://www.youtube.com/watch?v=0Kx-kVWcrkU</guid>
+            <pubDate>OCTOBER 2, 2021 AT 02:29PM</pubDate>
+            <description>Il business miliardario di James Bond</description>
         </item>
         <item>
-            <title>Matteo Flora - Alexa, parla con mio figlio!</title>
-            <link>https://www.youtube.com/watch?v=_3a2-YsIjjE</link>
-            <guid>https://www.youtube.com/watch?v=_3a2-YsIjjE</guid>
-            <pubDate>JULY 5, 2021 AT 12:00PM</pubDate>
-            <description>Alexa, parla con mio figlio!</description>
+            <title>Marco Montemagno - Intelligenza Artificiale...che succede?</title>
+            <link>https://www.youtube.com/watch?v=JVCSeaEG6lU</link>
+            <guid>https://www.youtube.com/watch?v=JVCSeaEG6lU</guid>
+            <pubDate>JUNE 20, 2021 AT 11:43PM</pubDate>
+            <description>Intelligenza Artificiale...che succede?</description>
         </item>
         <item>
-            <title>Matteo Flora - Data Breach e sanzioni GDPR: 225M nel 2021. Commentiamo lo studio con Giulio Coraggio</title>
-            <link>https://www.youtube.com/watch?v=mPdiP5EdUd8</link>
-            <guid>https://www.youtube.com/watch?v=mPdiP5EdUd8</guid>
-            <pubDate>JANUARY 28, 2022 AT 02:29PM</pubDate>
-            <description>Data Breach e sanzioni GDPR: 225M nel 2021. Commentiamo lo studio con Giulio Coraggio</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - ... Ma prendere decisioni meno stupide?</title>
-            <link>https://www.youtube.com/watch?v=XankQ8Kbsh8</link>
-            <guid>https://www.youtube.com/watch?v=XankQ8Kbsh8</guid>
-            <pubDate>SEPTEMBER 27, 2021 AT 02:00PM</pubDate>
-            <description>... Ma prendere decisioni meno stupide?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Il mio NFT MontyLab: tutto quello che c&#39;è da sapere con Alessandro De Grandi</title>
-            <link>https://www.youtube.com/watch?v=AD55yS8p2Io</link>
-            <guid>https://www.youtube.com/watch?v=AD55yS8p2Io</guid>
-            <pubDate>JANUARY 31, 2022 AT 01:00PM</pubDate>
-            <description>Il mio NFT MontyLab: tutto quello che c&#39;è da sapere con Alessandro De Grandi</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - E-commerce: aumentare le conversioni da mobile con i test. 5 Chicche di UX</title>
-            <link>https://www.youtube.com/watch?v=2FZA1pEER9o</link>
-            <guid>https://www.youtube.com/watch?v=2FZA1pEER9o</guid>
-            <pubDate>MAY 25, 2021 AT 07:30AM</pubDate>
-            <description>E-commerce: aumentare le conversioni da mobile con i test. 5 Chicche di UX</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Questo è il libro da leggere quest&#39;estate</title>
-            <link>https://www.youtube.com/watch?v=McrzZpM4VT4</link>
-            <guid>https://www.youtube.com/watch?v=McrzZpM4VT4</guid>
-            <pubDate>JUNE 14, 2021 AT 04:41PM</pubDate>
-            <description>Questo è il libro da leggere quest&#39;estate</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Regno Unito, che succede? Tra pandemia, Europei, Wimbledon e mamma di Goldrake</title>
-            <link>https://www.youtube.com/watch?v=p8T9APORrsw</link>
-            <guid>https://www.youtube.com/watch?v=p8T9APORrsw</guid>
-            <pubDate>JULY 8, 2021 AT 07:27PM</pubDate>
-            <description>Regno Unito, che succede? Tra pandemia, Europei, Wimbledon e mamma di Goldrake</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Surf e dintorni - 4 chiacchiere con Edoardo Papa</title>
-            <link>https://www.youtube.com/watch?v=tECN8BieqSk</link>
-            <guid>https://www.youtube.com/watch?v=tECN8BieqSk</guid>
-            <pubDate>JUNE 14, 2021 AT 01:23PM</pubDate>
-            <description>Surf e dintorni - 4 chiacchiere con Edoardo Papa</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - NON C&#39;È UN CA**O DA VINCERE NEL BUSINESS</title>
-            <link>https://www.youtube.com/watch?v=ymFgDA7MrxI</link>
-            <guid>https://www.youtube.com/watch?v=ymFgDA7MrxI</guid>
-            <pubDate>MAY 11, 2021 AT 08:00AM</pubDate>
-            <description>NON C&#39;È UN CA**O DA VINCERE NEL BUSINESS</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - Le mie Newsletter e le mie Fonti: come mi organizzo</title>
-            <link>https://www.youtube.com/watch?v=SJWIku6zztk</link>
-            <guid>https://www.youtube.com/watch?v=SJWIku6zztk</guid>
-            <pubDate>JUNE 9, 2021 AT 07:30AM</pubDate>
-            <description>Le mie Newsletter e le mie Fonti: come mi organizzo</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Da &quot;bluff&quot; a 1.000 miliardi: come Elon Musk ha zittito tutti con Tesla</title>
-            <link>https://www.youtube.com/watch?v=KjFpO7ZkbNg</link>
-            <guid>https://www.youtube.com/watch?v=KjFpO7ZkbNg</guid>
-            <pubDate>OCTOBER 27, 2021 AT 12:30PM</pubDate>
-            <description>Da &quot;bluff&quot; a 1.000 miliardi: come Elon Musk ha zittito tutti con Tesla</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - La Trasparenza è un Fattore SEO per Google</title>
-            <link>https://www.youtube.com/watch?v=IuQkUDeNwMk</link>
-            <guid>https://www.youtube.com/watch?v=IuQkUDeNwMk</guid>
-            <pubDate>JUNE 8, 2021 AT 07:30AM</pubDate>
-            <description>La Trasparenza è un Fattore SEO per Google</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Food Talks dal 17 al 21 maggio in collaborazione con San Pellegrino</title>
-            <link>https://www.youtube.com/watch?v=3qSaCLTZLTk</link>
-            <guid>https://www.youtube.com/watch?v=3qSaCLTZLTk</guid>
-            <pubDate>MAY 15, 2021 AT 09:29PM</pubDate>
-            <description>Food Talks dal 17 al 21 maggio in collaborazione con San Pellegrino</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - Come rendere il tuo business e il tuo e-commerce più profittevole</title>
-            <link>https://www.youtube.com/watch?v=9jjnmawpsTo</link>
-            <guid>https://www.youtube.com/watch?v=9jjnmawpsTo</guid>
-            <pubDate>MAY 4, 2021 AT 09:44AM</pubDate>
-            <description>Come rendere il tuo business e il tuo e-commerce più profittevole</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Quelli che insultano e si sfogano sui social e spacciano i loro deliri per Critiche...</title>
-            <link>https://www.youtube.com/watch?v=Bt0is3i7_Dc</link>
-            <guid>https://www.youtube.com/watch?v=Bt0is3i7_Dc</guid>
-            <pubDate>MAY 29, 2021 AT 12:03PM</pubDate>
-            <description>Quelli che insultano e si sfogano sui social e spacciano i loro deliri per Critiche...</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Bitcoin, crypto e regolamentazione: facciamo chiarezza</title>
-            <link>https://www.youtube.com/watch?v=-doh-3adtQI</link>
-            <guid>https://www.youtube.com/watch?v=-doh-3adtQI</guid>
-            <pubDate>SEPTEMBER 22, 2021 AT 06:19PM</pubDate>
-            <description>Bitcoin, crypto e regolamentazione: facciamo chiarezza</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - Quali lavori spariranno nel futuro?</title>
-            <link>https://www.youtube.com/watch?v=amfqEKZiGck</link>
-            <guid>https://www.youtube.com/watch?v=amfqEKZiGck</guid>
-            <pubDate>OCTOBER 20, 2021 AT 08:58AM</pubDate>
-            <description>Quali lavori spariranno nel futuro?</description>
+            <title>Raffaele Gaito - DOBBIAMO DIVENTARE ANTIFRAGILI #shorts</title>
+            <link>https://www.youtube.com/watch?v=Wes7tl9ZNow</link>
+            <guid>https://www.youtube.com/watch?v=Wes7tl9ZNow</guid>
+            <pubDate>JULY 16, 2021 AT 08:00AM</pubDate>
+            <description>DOBBIAMO DIVENTARE ANTIFRAGILI #shorts</description>
         </item>
         <item>
             <title>Matteo Flora - VI STANNO MENTENDO: non esiste modo per REVOCARE i #GreenPass</title>
@@ -145,6 +40,111 @@
             <guid>https://www.youtube.com/watch?v=TQeVGLhqpO4</guid>
             <pubDate>AUGUST 13, 2021 AT 07:00AM</pubDate>
             <description>VI STANNO MENTENDO: non esiste modo per REVOCARE i #GreenPass</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Intelligenza artificiale, blockchain, nft tutto quello che c’è da sapere</title>
+            <link>https://www.youtube.com/watch?v=-P5iRKBoLhw</link>
+            <guid>https://www.youtube.com/watch?v=-P5iRKBoLhw</guid>
+            <pubDate>NOVEMBER 24, 2021 AT 09:00AM</pubDate>
+            <description>Intelligenza artificiale, blockchain, nft tutto quello che c’è da sapere</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Cosa non toccare quando il sito è PRIMO su Google e deve fare un Restyle</title>
+            <link>https://www.youtube.com/watch?v=1n7NiUqIk4Q</link>
+            <guid>https://www.youtube.com/watch?v=1n7NiUqIk4Q</guid>
+            <pubDate>MAY 31, 2021 AT 07:30AM</pubDate>
+            <description>Cosa non toccare quando il sito è PRIMO su Google e deve fare un Restyle</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Come ha fatto TikTok a conquistare il mondo (alla velocità della luce)?</title>
+            <link>https://www.youtube.com/watch?v=LeK11lHxaCQ</link>
+            <guid>https://www.youtube.com/watch?v=LeK11lHxaCQ</guid>
+            <pubDate>JULY 14, 2021 AT 12:00PM</pubDate>
+            <description>Come ha fatto TikTok a conquistare il mondo (alla velocità della luce)?</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Il Garante della Privacy è davvero un &quot;ostacolo&quot;?</title>
+            <link>https://www.youtube.com/watch?v=ax8NVfiaSHU</link>
+            <guid>https://www.youtube.com/watch?v=ax8NVfiaSHU</guid>
+            <pubDate>JUNE 14, 2021 AT 11:50AM</pubDate>
+            <description>Il Garante della Privacy è davvero un &quot;ostacolo&quot;?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 storie di leadership al femminile</title>
+            <link>https://www.youtube.com/watch?v=UVz_rXdWXR0</link>
+            <guid>https://www.youtube.com/watch?v=UVz_rXdWXR0</guid>
+            <pubDate>AUGUST 13, 2021 AT 01:00PM</pubDate>
+            <description>4 storie di leadership al femminile</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - Il Titanic è stato affondato dagli alieni, giusto?</title>
+            <link>https://www.youtube.com/watch?v=zF8Z_aGF6ls</link>
+            <guid>https://www.youtube.com/watch?v=zF8Z_aGF6ls</guid>
+            <pubDate>AUGUST 2, 2021 AT 09:17AM</pubDate>
+            <description>Il Titanic è stato affondato dagli alieni, giusto?</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - PERCHÉ LE AZIENDE VENDONO IL CAFFÈ IN ABBONAMENTO? #shorts</title>
+            <link>https://www.youtube.com/watch?v=pVKmp4juAX8</link>
+            <guid>https://www.youtube.com/watch?v=pVKmp4juAX8</guid>
+            <pubDate>AUGUST 24, 2021 AT 09:13AM</pubDate>
+            <description>PERCHÉ LE AZIENDE VENDONO IL CAFFÈ IN ABBONAMENTO? #shorts</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Netflix perde abbonati. Calo fisiologico o problemi in vista?</title>
+            <link>https://www.youtube.com/watch?v=4KPHJfzKscU</link>
+            <guid>https://www.youtube.com/watch?v=4KPHJfzKscU</guid>
+            <pubDate>JULY 28, 2021 AT 12:45PM</pubDate>
+            <description>Netflix perde abbonati. Calo fisiologico o problemi in vista?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Chi controlla il Web?</title>
+            <link>https://www.youtube.com/watch?v=1FjN8FSRGEI</link>
+            <guid>https://www.youtube.com/watch?v=1FjN8FSRGEI</guid>
+            <pubDate>JANUARY 5, 2022 AT 10:00AM</pubDate>
+            <description>Chi controlla il Web?</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - VENDERE SIGNIFICA ANTICIPARE OBIEZIONI</title>
+            <link>https://www.youtube.com/watch?v=CBTIXqxaJeo</link>
+            <guid>https://www.youtube.com/watch?v=CBTIXqxaJeo</guid>
+            <pubDate>JULY 6, 2021 AT 08:00AM</pubDate>
+            <description>VENDERE SIGNIFICA ANTICIPARE OBIEZIONI</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - Da Apple FaceTime alle nuove mappe, tutte le novità in arrivo con iOS 15</title>
+            <link>https://www.youtube.com/watch?v=-L2pjqw2dMA</link>
+            <guid>https://www.youtube.com/watch?v=-L2pjqw2dMA</guid>
+            <pubDate>JUNE 9, 2021 AT 08:30AM</pubDate>
+            <description>Da Apple FaceTime alle nuove mappe, tutte le novità in arrivo con iOS 15</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - 9 cose che le persone socialmente funzionali non dicono MAI</title>
+            <link>https://www.youtube.com/watch?v=siZ-jCWTiqk</link>
+            <guid>https://www.youtube.com/watch?v=siZ-jCWTiqk</guid>
+            <pubDate>JULY 2, 2021 AT 08:52AM</pubDate>
+            <description>9 cose che le persone socialmente funzionali non dicono MAI</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - La Cina contro i social: non più di 40 minuti al giorno</title>
+            <link>https://www.youtube.com/watch?v=m311XQavGqE</link>
+            <guid>https://www.youtube.com/watch?v=m311XQavGqE</guid>
+            <pubDate>SEPTEMBER 21, 2021 AT 04:53PM</pubDate>
+            <description>La Cina contro i social: non più di 40 minuti al giorno</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Intelligenza artificiale e business</title>
+            <link>https://www.youtube.com/watch?v=TnQTorpw2dA</link>
+            <guid>https://www.youtube.com/watch?v=TnQTorpw2dA</guid>
+            <pubDate>JUNE 22, 2021 AT 08:47AM</pubDate>
+            <description>Intelligenza artificiale e business</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Vuoi lavorare con me?</title>
+            <link>https://www.youtube.com/watch?v=WaM8OkmNBN8</link>
+            <guid>https://www.youtube.com/watch?v=WaM8OkmNBN8</guid>
+            <pubDate>JUNE 24, 2021 AT 07:33PM</pubDate>
+            <description>Vuoi lavorare con me?</description>
         </item>
     </channel>
 </rss>
