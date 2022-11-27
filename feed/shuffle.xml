@@ -5,20 +5,62 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Sat, 26 Nov 2022 13:21:59 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 13:22:19 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - La Filosofia fa la differenza! Impariamola con Maura Gancitano</title>
-            <link>https://www.youtube.com/watch?v=QBfzKdHKNYA</link>
-            <guid>https://www.youtube.com/watch?v=QBfzKdHKNYA</guid>
-            <pubDate>AUGUST 5, 2021 AT 09:36AM</pubDate>
-            <description>La Filosofia fa la differenza! Impariamola con Maura Gancitano</description>
+            <title>Marco Montemagno - 4 chiacchiere con gli Extraliscio</title>
+            <link>https://www.youtube.com/watch?v=8wDM9ot5o8g</link>
+            <guid>https://www.youtube.com/watch?v=8wDM9ot5o8g</guid>
+            <pubDate>JUNE 10, 2021 AT 11:57AM</pubDate>
+            <description>4 chiacchiere con gli Extraliscio</description>
         </item>
         <item>
-            <title>Raffaele Gaito - UN'ESPERIENZA UNICA DI FORMAZIONE: GROWTH PROGRAM</title>
-            <link>https://www.youtube.com/watch?v=sgy6Zqylna8</link>
-            <guid>https://www.youtube.com/watch?v=sgy6Zqylna8</guid>
-            <pubDate>FEBRUARY 17, 2021 AT 08:00AM</pubDate>
-            <description>UN'ESPERIENZA UNICA DI FORMAZIONE: GROWTH PROGRAM</description>
+            <title>Rudy Bandiera - 3 mosse per risolvere problemi impossibili</title>
+            <link>https://www.youtube.com/watch?v=cqRbOjkHj_Q</link>
+            <guid>https://www.youtube.com/watch?v=cqRbOjkHj_Q</guid>
+            <pubDate>SEPTEMBER 15, 2021 AT 09:01AM</pubDate>
+            <description>3 mosse per risolvere problemi impossibili</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Tutto sul Google Page Experience con Andrea Pernici</title>
+            <link>https://www.youtube.com/watch?v=v4kl9R4zM7o</link>
+            <guid>https://www.youtube.com/watch?v=v4kl9R4zM7o</guid>
+            <pubDate>JUNE 29, 2021 AT 09:17AM</pubDate>
+            <description>Tutto sul Google Page Experience con Andrea Pernici</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - Quanto testo scrivere in un post di Linkedin?</title>
+            <link>https://www.youtube.com/watch?v=KC3Vs8FdRGI</link>
+            <guid>https://www.youtube.com/watch?v=KC3Vs8FdRGI</guid>
+            <pubDate>JUNE 15, 2021 AT 08:47AM</pubDate>
+            <description>Quanto testo scrivere in un post di Linkedin?</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Tutto quello che dovete sapere su Pegasus, Intercettazioni e Captatori…</title>
+            <link>https://www.youtube.com/watch?v=Z8Q0dBKSQHU</link>
+            <guid>https://www.youtube.com/watch?v=Z8Q0dBKSQHU</guid>
+            <pubDate>JULY 26, 2021 AT 10:00AM</pubDate>
+            <description>Tutto quello che dovete sapere su Pegasus, Intercettazioni e Captatori…</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - HO IL TERRORE! E TU?</title>
+            <link>https://www.youtube.com/watch?v=iBPoqd66OyQ</link>
+            <guid>https://www.youtube.com/watch?v=iBPoqd66OyQ</guid>
+            <pubDate>MARCH 30, 2021 AT 08:00AM</pubDate>
+            <description>HO IL TERRORE! E TU?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - NFT MontyLab - Crazy Fury:  Domande e Risposte Live!</title>
+            <link>https://www.youtube.com/watch?v=A8IwAy6ZyME</link>
+            <guid>https://www.youtube.com/watch?v=A8IwAy6ZyME</guid>
+            <pubDate>JANUARY 24, 2022 AT 04:53PM</pubDate>
+            <description>NFT MontyLab - Crazy Fury:  Domande e Risposte Live!</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Intelligenza Artificiale e aziende: quali opportunità?</title>
+            <link>https://www.youtube.com/watch?v=d3zi4yRnbhw</link>
+            <guid>https://www.youtube.com/watch?v=d3zi4yRnbhw</guid>
+            <pubDate>JUNE 22, 2021 AT 08:45AM</pubDate>
+            <description>Intelligenza Artificiale e aziende: quali opportunità?</description>
         </item>
         <item>
             <title>Marco Montemagno - Dieta, Digiuno e dintorni - 4 chiacchiere con il Prof. Valter Longo</title>
@@ -28,123 +70,81 @@
             <description>Dieta, Digiuno e dintorni - 4 chiacchiere con il Prof. Valter Longo</description>
         </item>
         <item>
-            <title>Marco Montemagno - Il business miliardario di James Bond</title>
-            <link>https://www.youtube.com/watch?v=0Kx-kVWcrkU</link>
-            <guid>https://www.youtube.com/watch?v=0Kx-kVWcrkU</guid>
-            <pubDate>OCTOBER 2, 2021 AT 02:29PM</pubDate>
-            <description>Il business miliardario di James Bond</description>
+            <title>Matteo Flora - Aruba, il data breach e le scuse fatte male...</title>
+            <link>https://www.youtube.com/watch?v=7e3erd0tnj8</link>
+            <guid>https://www.youtube.com/watch?v=7e3erd0tnj8</guid>
+            <pubDate>JULY 18, 2021 AT 06:21PM</pubDate>
+            <description>Aruba, il data breach e le scuse fatte male...</description>
         </item>
         <item>
-            <title>Matteo Flora - Cristina Fogazzi, Estetista Cinica, la crisi reputazionale dei &quot;Punti Fagiana&quot; e le scuse</title>
-            <link>https://www.youtube.com/watch?v=9sk4LTEjgGg</link>
-            <guid>https://www.youtube.com/watch?v=9sk4LTEjgGg</guid>
-            <pubDate>FEBRUARY 9, 2022 AT 01:04PM</pubDate>
-            <description>Cristina Fogazzi, Estetista Cinica, la crisi reputazionale dei &quot;Punti Fagiana&quot; e le scuse</description>
+            <title>Marco Montemagno - E ora che è finita che faccio? Da dove ricominciare quando finisce una carriera?</title>
+            <link>https://www.youtube.com/watch?v=ozH7rH6GIm4</link>
+            <guid>https://www.youtube.com/watch?v=ozH7rH6GIm4</guid>
+            <pubDate>AUGUST 6, 2021 AT 12:00PM</pubDate>
+            <description>E ora che è finita che faccio? Da dove ricominciare quando finisce una carriera?</description>
         </item>
         <item>
-            <title>Marco Montemagno - 12 errori assolutamente da non fare, quando scrivi per un lavoro</title>
-            <link>https://www.youtube.com/watch?v=mguXOSdqbpE</link>
-            <guid>https://www.youtube.com/watch?v=mguXOSdqbpE</guid>
-            <pubDate>JULY 1, 2021 AT 03:49PM</pubDate>
-            <description>12 errori assolutamente da non fare, quando scrivi per un lavoro</description>
+            <title>Marco Montemagno - Yuval Noah Harari:  after the pandemic, science has once again become the highest authority#shorts</title>
+            <link>https://www.youtube.com/watch?v=wUPF7Vzzu2k</link>
+            <guid>https://www.youtube.com/watch?v=wUPF7Vzzu2k</guid>
+            <pubDate>MAY 7, 2021 AT 08:21AM</pubDate>
+            <description>Yuval Noah Harari:  after the pandemic, science has once again become the highest authority#shorts</description>
         </item>
         <item>
-            <title>Marco Montemagno - Intelligenza Artificiale e nuove professioni/nuovi lavori</title>
-            <link>https://www.youtube.com/watch?v=-TAZAPCtypE</link>
-            <guid>https://www.youtube.com/watch?v=-TAZAPCtypE</guid>
-            <pubDate>JUNE 23, 2021 AT 11:01AM</pubDate>
-            <description>Intelligenza Artificiale e nuove professioni/nuovi lavori</description>
+            <title>Marco Montemagno - Cos&#39;è un Wallet e come aprirne uno (se vuoi avere i miei NFT)</title>
+            <link>https://www.youtube.com/watch?v=3UFq1YVT-ko</link>
+            <guid>https://www.youtube.com/watch?v=3UFq1YVT-ko</guid>
+            <pubDate>JANUARY 25, 2022 AT 01:00PM</pubDate>
+            <description>Cos&#39;è un Wallet e come aprirne uno (se vuoi avere i miei NFT)</description>
         </item>
         <item>
-            <title>Marco Montemagno - Gli NFT sono solo semplici immagini?</title>
-            <link>https://www.youtube.com/watch?v=oKy7-7qJr7U</link>
-            <guid>https://www.youtube.com/watch?v=oKy7-7qJr7U</guid>
-            <pubDate>FEBRUARY 1, 2022 AT 09:52AM</pubDate>
-            <description>Gli NFT sono solo semplici immagini?</description>
+            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Alberto De Paoli, Enel</title>
+            <link>https://www.youtube.com/watch?v=ry5YKko0WRU</link>
+            <guid>https://www.youtube.com/watch?v=ry5YKko0WRU</guid>
+            <pubDate>SEPTEMBER 9, 2021 AT 07:09PM</pubDate>
+            <description>Cambiamento climatico, elettrificazione e dintorni con Alberto De Paoli, Enel</description>
         </item>
         <item>
-            <title>Marco Montemagno - È possibile o è probabile?</title>
-            <link>https://www.youtube.com/watch?v=Jb9OrN2Ij60</link>
-            <guid>https://www.youtube.com/watch?v=Jb9OrN2Ij60</guid>
-            <pubDate>JANUARY 9, 2022 AT 01:00PM</pubDate>
-            <description>È possibile o è probabile?</description>
+            <title>Marco Montemagno - Come trovare investitori</title>
+            <link>https://www.youtube.com/watch?v=pthoU5mxG3U</link>
+            <guid>https://www.youtube.com/watch?v=pthoU5mxG3U</guid>
+            <pubDate>DECEMBER 13, 2021 AT 12:00PM</pubDate>
+            <description>Come trovare investitori</description>
         </item>
         <item>
-            <title>Marco Montemagno - Le 9 citazioni che devi assolutamente conoscere (e applicare)</title>
-            <link>https://www.youtube.com/watch?v=VtKm1hiydZw</link>
-            <guid>https://www.youtube.com/watch?v=VtKm1hiydZw</guid>
-            <pubDate>JUNE 27, 2021 AT 10:55AM</pubDate>
-            <description>Le 9 citazioni che devi assolutamente conoscere (e applicare)</description>
+            <title>Marco Montemagno - Un giorno su, un giorno giù...</title>
+            <link>https://www.youtube.com/watch?v=FHRg8Lzwyzc</link>
+            <guid>https://www.youtube.com/watch?v=FHRg8Lzwyzc</guid>
+            <pubDate>NOVEMBER 9, 2021 AT 03:06PM</pubDate>
+            <description>Un giorno su, un giorno giù...</description>
         </item>
         <item>
-            <title>Marco Montemagno - &quot;Quando sei diventato Monty&quot; ... dopo un anno e mezzo di video con zero views è successo questo...</title>
-            <link>https://www.youtube.com/watch?v=TXY4f5a-VFk</link>
-            <guid>https://www.youtube.com/watch?v=TXY4f5a-VFk</guid>
-            <pubDate>AUGUST 1, 2021 AT 02:27PM</pubDate>
-            <description>&quot;Quando sei diventato Monty&quot; ... dopo un anno e mezzo di video con zero views è successo questo...</description>
+            <title>Marco Montemagno - Facebook ed Instagram chiudono in Europa?</title>
+            <link>https://www.youtube.com/watch?v=6HSKwm6zG5Y</link>
+            <guid>https://www.youtube.com/watch?v=6HSKwm6zG5Y</guid>
+            <pubDate>FEBRUARY 9, 2022 AT 01:18PM</pubDate>
+            <description>Facebook ed Instagram chiudono in Europa?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Il mio nome è Bond...JEFF BOND (perché Amazon ha comprato MGM)</title>
-            <link>https://www.youtube.com/watch?v=4eIs8Q0ZOxk</link>
-            <guid>https://www.youtube.com/watch?v=4eIs8Q0ZOxk</guid>
-            <pubDate>MAY 26, 2021 AT 05:30PM</pubDate>
-            <description>Il mio nome è Bond...JEFF BOND (perché Amazon ha comprato MGM)</description>
+            <title>Marco Montemagno - NFT, videogame e “Play to Earn”: cosa c’è da sapere</title>
+            <link>https://www.youtube.com/watch?v=r0E2OjkDXgI</link>
+            <guid>https://www.youtube.com/watch?v=r0E2OjkDXgI</guid>
+            <pubDate>DECEMBER 1, 2021 AT 03:00PM</pubDate>
+            <description>NFT, videogame e “Play to Earn”: cosa c’è da sapere</description>
         </item>
         <item>
-            <title>Marco Montemagno - Ice Swimming (nuotare senza muta in acque gelide) con Paolo Chiarino</title>
-            <link>https://www.youtube.com/watch?v=ZaOEEYslbWI</link>
-            <guid>https://www.youtube.com/watch?v=ZaOEEYslbWI</guid>
-            <pubDate>MAY 26, 2021 AT 12:24PM</pubDate>
-            <description>Ice Swimming (nuotare senza muta in acque gelide) con Paolo Chiarino</description>
+            <title>Marco Montemagno - 4 chiacchiere con Gino Strada</title>
+            <link>https://www.youtube.com/watch?v=4weR9T3v3XA</link>
+            <guid>https://www.youtube.com/watch?v=4weR9T3v3XA</guid>
+            <pubDate>MAY 20, 2021 AT 08:49AM</pubDate>
+            <description>4 chiacchiere con Gino Strada</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - E-commerce: aumentare le conversioni da mobile con i test. 5 Chicche di UX</title>
-            <link>https://www.youtube.com/watch?v=2FZA1pEER9o</link>
-            <guid>https://www.youtube.com/watch?v=2FZA1pEER9o</guid>
-            <pubDate>MAY 25, 2021 AT 07:30AM</pubDate>
-            <description>E-commerce: aumentare le conversioni da mobile con i test. 5 Chicche di UX</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Vuoi lavorare con me?</title>
-            <link>https://www.youtube.com/watch?v=WaM8OkmNBN8</link>
-            <guid>https://www.youtube.com/watch?v=WaM8OkmNBN8</guid>
-            <pubDate>JUNE 24, 2021 AT 07:33PM</pubDate>
-            <description>Vuoi lavorare con me?</description>
-        </item>
-        <item>
-            <title>Matteo Flora - [LIVE] L&#39;aperitivo di Ciao Internet1</title>
-            <link>https://www.youtube.com/watch?v=yZ3AFIlrUWo</link>
-            <guid>https://www.youtube.com/watch?v=yZ3AFIlrUWo</guid>
-            <pubDate>AUGUST 27, 2021 AT 09:38PM</pubDate>
-            <description>[LIVE] L&#39;aperitivo di Ciao Internet1</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Sui social tutti cercano di influenzarti: sai riconoscere la verità?</title>
-            <link>https://www.youtube.com/watch?v=uNwDXZDJjPs</link>
-            <guid>https://www.youtube.com/watch?v=uNwDXZDJjPs</guid>
-            <pubDate>AUGUST 3, 2021 AT 01:00PM</pubDate>
-            <description>Sui social tutti cercano di influenzarti: sai riconoscere la verità?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - A conversation with  Beniamin Mincu - CEO &amp; Co-Founder di Elrond</title>
-            <link>https://www.youtube.com/watch?v=Kn9ZdgkIEVs</link>
-            <guid>https://www.youtube.com/watch?v=Kn9ZdgkIEVs</guid>
-            <pubDate>NOVEMBER 23, 2021 AT 01:00PM</pubDate>
-            <description>A conversation with  Beniamin Mincu - CEO &amp; Co-Founder di Elrond</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - DeFI, NFT, Web3? A conversation with Ryan Sean Adams (Bankless)</title>
-            <link>https://www.youtube.com/watch?v=oTNSePIPlxA</link>
-            <guid>https://www.youtube.com/watch?v=oTNSePIPlxA</guid>
-            <pubDate>JANUARY 26, 2022 AT 03:00PM</pubDate>
-            <description>DeFI, NFT, Web3? A conversation with Ryan Sean Adams (Bankless)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con lo Chef Mauro Colagreco (&quot;miglior ristorante al mondo&quot;)</title>
-            <link>https://www.youtube.com/watch?v=gMB3ofzVufo</link>
-            <guid>https://www.youtube.com/watch?v=gMB3ofzVufo</guid>
-            <pubDate>JULY 1, 2021 AT 05:13PM</pubDate>
-            <description>4 chiacchiere con lo Chef Mauro Colagreco (&quot;miglior ristorante al mondo&quot;)</description>
+            <title>Matteo Flora - SIAE e #databreach: cosa è successo e tutto quello che ancora non torna</title>
+            <link>https://www.youtube.com/watch?v=82g7ujRYgCk</link>
+            <guid>https://www.youtube.com/watch?v=82g7ujRYgCk</guid>
+            <pubDate>OCTOBER 22, 2021 AT 04:26PM</pubDate>
+            <description>SIAE e #databreach: cosa è successo e tutto quello che ancora non torna</description>
         </item>
     </channel>
 </rss>
