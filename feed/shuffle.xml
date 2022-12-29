@@ -5,13 +5,111 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Wed, 28 Dec 2022 13:19:22 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 13:19:14 +0000</lastBuildDate>
         <item>
-            <title>Rudy Bandiera - Quale tra questi NON è tra i tre principali vantaggi portati dalla digitalizzazione?</title>
-            <link>https://www.youtube.com/watch?v=FsOkrz3bTI8</link>
-            <guid>https://www.youtube.com/watch?v=FsOkrz3bTI8</guid>
-            <pubDate>JULY 21, 2021 AT 08:54AM</pubDate>
-            <description>Quale tra questi NON è tra i tre principali vantaggi portati dalla digitalizzazione?</description>
+            <title>Matteo Flora - Cristina Fogazzi, Estetista Cinica, la crisi reputazionale dei &quot;Punti Fagiana&quot; e le scuse</title>
+            <link>https://www.youtube.com/watch?v=9sk4LTEjgGg</link>
+            <guid>https://www.youtube.com/watch?v=9sk4LTEjgGg</guid>
+            <pubDate>FEBRUARY 9, 2022 AT 01:04PM</pubDate>
+            <description>Cristina Fogazzi, Estetista Cinica, la crisi reputazionale dei &quot;Punti Fagiana&quot; e le scuse</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Se dura più di 1 minuto non è un vocale...è un audiolibro!</title>
+            <link>https://www.youtube.com/watch?v=YvpeDG3bfio</link>
+            <guid>https://www.youtube.com/watch?v=YvpeDG3bfio</guid>
+            <pubDate>SEPTEMBER 29, 2021 AT 01:31PM</pubDate>
+            <description>Se dura più di 1 minuto non è un vocale...è un audiolibro!</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - El Salvador, Lightning, Taproot e il futuro di Bitcoin con Giacomo Zucco</title>
+            <link>https://www.youtube.com/watch?v=B3vTVe0EROg</link>
+            <guid>https://www.youtube.com/watch?v=B3vTVe0EROg</guid>
+            <pubDate>NOVEMBER 30, 2021 AT 01:00PM</pubDate>
+            <description>El Salvador, Lightning, Taproot e il futuro di Bitcoin con Giacomo Zucco</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - 4 attributi chiave per un business da sogno</title>
+            <link>https://www.youtube.com/watch?v=D5aRlD1WKqI</link>
+            <guid>https://www.youtube.com/watch?v=D5aRlD1WKqI</guid>
+            <pubDate>JULY 19, 2021 AT 09:17AM</pubDate>
+            <description>4 attributi chiave per un business da sogno</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - David di Donatello 2021, Matilda De Angelis migliore attrice non protagonista. Grandissima!</title>
+            <link>https://www.youtube.com/watch?v=y5Sd4FuY-0M</link>
+            <guid>https://www.youtube.com/watch?v=y5Sd4FuY-0M</guid>
+            <pubDate>MAY 12, 2021 AT 04:15PM</pubDate>
+            <description>David di Donatello 2021, Matilda De Angelis migliore attrice non protagonista. Grandissima!</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - Cosa succederà al lavoro DOPO la pandemia? #in2minuti</title>
+            <link>https://www.youtube.com/watch?v=Qo2IiixUsBw</link>
+            <guid>https://www.youtube.com/watch?v=Qo2IiixUsBw</guid>
+            <pubDate>MAY 12, 2021 AT 04:18PM</pubDate>
+            <description>Cosa succederà al lavoro DOPO la pandemia? #in2minuti</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 5 problemi del lavoro da remoto che devi considerare</title>
+            <link>https://www.youtube.com/watch?v=_KBO_nUmAv4</link>
+            <guid>https://www.youtube.com/watch?v=_KBO_nUmAv4</guid>
+            <pubDate>OCTOBER 7, 2021 AT 01:30PM</pubDate>
+            <description>5 problemi del lavoro da remoto che devi considerare</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - &quot;I fatti parlano da soli. Ma chi li ascolta?&quot;</title>
+            <link>https://www.youtube.com/watch?v=ICDIdxfEcV0</link>
+            <guid>https://www.youtube.com/watch?v=ICDIdxfEcV0</guid>
+            <pubDate>FEBRUARY 13, 2022 AT 12:26PM</pubDate>
+            <description>&quot;I fatti parlano da soli. Ma chi li ascolta?&quot;</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Gianni Morandi</title>
+            <link>https://www.youtube.com/watch?v=nP0XxGx7qco</link>
+            <guid>https://www.youtube.com/watch?v=nP0XxGx7qco</guid>
+            <pubDate>JUNE 22, 2021 AT 02:10PM</pubDate>
+            <description>4 chiacchiere con Gianni Morandi</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Intelligenza Artificiale e Sanità: a che punto siamo?</title>
+            <link>https://www.youtube.com/watch?v=S-50DuXwW9o</link>
+            <guid>https://www.youtube.com/watch?v=S-50DuXwW9o</guid>
+            <pubDate>JUNE 20, 2021 AT 11:46PM</pubDate>
+            <description>Intelligenza Artificiale e Sanità: a che punto siamo?</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - Smetti di seguire gente tossica #shorts</title>
+            <link>https://www.youtube.com/watch?v=Z7Zw0hJEPCQ</link>
+            <guid>https://www.youtube.com/watch?v=Z7Zw0hJEPCQ</guid>
+            <pubDate>JUNE 30, 2021 AT 03:54PM</pubDate>
+            <description>Smetti di seguire gente tossica #shorts</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - R101 a casa di Monty..</title>
+            <link>https://www.youtube.com/watch?v=AKxraPUIlgc</link>
+            <guid>https://www.youtube.com/watch?v=AKxraPUIlgc</guid>
+            <pubDate>JUNE 15, 2021 AT 01:41PM</pubDate>
+            <description>R101 a casa di Monty..</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Food Talks with Trudie Styler, Tony Sasa, Riccardo Cotarella</title>
+            <link>https://www.youtube.com/watch?v=gKmm6a2HP_I</link>
+            <guid>https://www.youtube.com/watch?v=gKmm6a2HP_I</guid>
+            <pubDate>MAY 21, 2021 AT 11:06AM</pubDate>
+            <description>Food Talks with Trudie Styler, Tony Sasa, Riccardo Cotarella</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Vuoi imparare l&#39;inglese?...con me e Norma&#39;s teaching? #shorts</title>
+            <link>https://www.youtube.com/watch?v=AobD91Qqup8</link>
+            <guid>https://www.youtube.com/watch?v=AobD91Qqup8</guid>
+            <pubDate>JULY 7, 2021 AT 02:17PM</pubDate>
+            <description>Vuoi imparare l&#39;inglese?...con me e Norma&#39;s teaching? #shorts</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - &quot;Nel 2022 non vedo l&#39;ora di __________&quot; (completa la frase)</title>
+            <link>https://www.youtube.com/watch?v=t9h7lWTLyK4</link>
+            <guid>https://www.youtube.com/watch?v=t9h7lWTLyK4</guid>
+            <pubDate>JANUARY 1, 2022 AT 11:36AM</pubDate>
+            <description>&quot;Nel 2022 non vedo l&#39;ora di __________&quot; (completa la frase)</description>
         </item>
         <item>
             <title>Matteo Flora - Come rimuovere i contenuti di Cyberbullismo di minori gratis grazie al Garante della Privacy</title>
@@ -21,130 +119,32 @@
             <description>Come rimuovere i contenuti di Cyberbullismo di minori gratis grazie al Garante della Privacy</description>
         </item>
         <item>
-            <title>Marco Montemagno - A conversation with  Beniamin Mincu - CEO &amp; Co-Founder di Elrond</title>
-            <link>https://www.youtube.com/watch?v=Kn9ZdgkIEVs</link>
-            <guid>https://www.youtube.com/watch?v=Kn9ZdgkIEVs</guid>
-            <pubDate>NOVEMBER 23, 2021 AT 01:00PM</pubDate>
-            <description>A conversation with  Beniamin Mincu - CEO &amp; Co-Founder di Elrond</description>
+            <title>Giorgio Taverniti - What&#39;s up Internet! La Mega Rassegna Settimanale per capire Internet</title>
+            <link>https://www.youtube.com/watch?v=sDgWBBnILh0</link>
+            <guid>https://www.youtube.com/watch?v=sDgWBBnILh0</guid>
+            <pubDate>MAY 18, 2021 AT 07:30AM</pubDate>
+            <description>What&#39;s up Internet! La Mega Rassegna Settimanale per capire Internet</description>
         </item>
         <item>
-            <title>Marco Montemagno - Perché Facebook cambia nome?</title>
-            <link>https://www.youtube.com/watch?v=lD92uGvMV4g</link>
-            <guid>https://www.youtube.com/watch?v=lD92uGvMV4g</guid>
-            <pubDate>OCTOBER 22, 2021 AT 12:00PM</pubDate>
-            <description>Perché Facebook cambia nome?</description>
+            <title>Marco Montemagno - Il potere senza fine dei colossi tech è ora di cambiare</title>
+            <link>https://www.youtube.com/watch?v=KK2SzjgD824</link>
+            <guid>https://www.youtube.com/watch?v=KK2SzjgD824</guid>
+            <pubDate>FEBRUARY 7, 2022 AT 01:56PM</pubDate>
+            <description>Il potere senza fine dei colossi tech è ora di cambiare</description>
         </item>
         <item>
-            <title>Marco Montemagno - Se tornassi indietro, mi darei 4 suggerimenti ...</title>
-            <link>https://www.youtube.com/watch?v=jiXxdciVWTE</link>
-            <guid>https://www.youtube.com/watch?v=jiXxdciVWTE</guid>
-            <pubDate>AUGUST 21, 2021 AT 01:00PM</pubDate>
-            <description>Se tornassi indietro, mi darei 4 suggerimenti ...</description>
+            <title>Marco Montemagno - Crypto e arte con Clapis, Quaroni e Motta</title>
+            <link>https://www.youtube.com/watch?v=U0bKiKzEHjA</link>
+            <guid>https://www.youtube.com/watch?v=U0bKiKzEHjA</guid>
+            <pubDate>NOVEMBER 29, 2021 AT 03:00PM</pubDate>
+            <description>Crypto e arte con Clapis, Quaroni e Motta</description>
         </item>
         <item>
-            <title>Marco Montemagno - Le big tech si stanno mangiando il mondo (e questa è la prossima mossa)</title>
-            <link>https://www.youtube.com/watch?v=-N4E50CKN2E</link>
-            <guid>https://www.youtube.com/watch?v=-N4E50CKN2E</guid>
-            <pubDate>JULY 31, 2021 AT 02:14PM</pubDate>
-            <description>Le big tech si stanno mangiando il mondo (e questa è la prossima mossa)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Intelligenza Artificiale e CUSTOMER CARE</title>
-            <link>https://www.youtube.com/watch?v=uPI609RWDMs</link>
-            <guid>https://www.youtube.com/watch?v=uPI609RWDMs</guid>
-            <pubDate>JUNE 23, 2021 AT 10:26PM</pubDate>
-            <description>Intelligenza Artificiale e CUSTOMER CARE</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Trading e piattaforme di investimenti crypto</title>
-            <link>https://www.youtube.com/watch?v=AWlUN_xS0Eg</link>
-            <guid>https://www.youtube.com/watch?v=AWlUN_xS0Eg</guid>
-            <pubDate>NOVEMBER 28, 2021 AT 03:00PM</pubDate>
-            <description>Trading e piattaforme di investimenti crypto</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - COME ATTRARRE IL LAVORO DEI SOGNI</title>
-            <link>https://www.youtube.com/watch?v=lNZ_a6sFS5E</link>
-            <guid>https://www.youtube.com/watch?v=lNZ_a6sFS5E</guid>
-            <pubDate>JULY 31, 2020 AT 08:00AM</pubDate>
-            <description>COME ATTRARRE IL LAVORO DEI SOGNI</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - 3 mosse per risolvere problemi impossibili</title>
-            <link>https://www.youtube.com/watch?v=cqRbOjkHj_Q</link>
-            <guid>https://www.youtube.com/watch?v=cqRbOjkHj_Q</guid>
-            <pubDate>SEPTEMBER 15, 2021 AT 09:01AM</pubDate>
-            <description>3 mosse per risolvere problemi impossibili</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con Norma&#39;s Teaching (Norma Cerletti)</title>
-            <link>https://www.youtube.com/watch?v=Y3PCDbQ2SuY</link>
-            <guid>https://www.youtube.com/watch?v=Y3PCDbQ2SuY</guid>
-            <pubDate>JUNE 9, 2021 AT 10:54AM</pubDate>
-            <description>4 chiacchiere con Norma&#39;s Teaching (Norma Cerletti)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Regolamentazione crypto ed NFT: cosa c’è da sapere?</title>
-            <link>https://www.youtube.com/watch?v=GIhPi5nDS8o</link>
-            <guid>https://www.youtube.com/watch?v=GIhPi5nDS8o</guid>
-            <pubDate>NOVEMBER 25, 2021 AT 01:00PM</pubDate>
-            <description>Regolamentazione crypto ed NFT: cosa c’è da sapere?</description>
-        </item>
-        <item>
-            <title>Matteo Flora - [LIVE] #CiaoInternet Serale: Apple e la Pedopornografia</title>
-            <link>https://www.youtube.com/watch?v=ttkEnmrAJ1g</link>
-            <guid>https://www.youtube.com/watch?v=ttkEnmrAJ1g</guid>
-            <pubDate>SEPTEMBER 4, 2021 AT 10:25AM</pubDate>
-            <description>[LIVE] #CiaoInternet Serale: Apple e la Pedopornografia</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Quali sono i social più usati in assoluto?</title>
-            <link>https://www.youtube.com/watch?v=RFr6m3QsSBY</link>
-            <guid>https://www.youtube.com/watch?v=RFr6m3QsSBY</guid>
-            <pubDate>OCTOBER 1, 2021 AT 01:00PM</pubDate>
-            <description>Quali sono i social più usati in assoluto?</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Il &quot;lavoro in nero di sinistra&quot; e la crisi reputazionale di Roberto Angelini</title>
-            <link>https://www.youtube.com/watch?v=aeCpHyVxGH4</link>
-            <guid>https://www.youtube.com/watch?v=aeCpHyVxGH4</guid>
-            <pubDate>MAY 18, 2021 AT 11:33AM</pubDate>
-            <description>Il &quot;lavoro in nero di sinistra&quot; e la crisi reputazionale di Roberto Angelini</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Ristorazione: come uscire dalla crisi? Con Martino de Rosa (Carmen)</title>
-            <link>https://www.youtube.com/watch?v=8FGM1Rt6A-A</link>
-            <guid>https://www.youtube.com/watch?v=8FGM1Rt6A-A</guid>
-            <pubDate>MAY 18, 2021 AT 10:41PM</pubDate>
-            <description>Ristorazione: come uscire dalla crisi? Con Martino de Rosa (Carmen)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Amazon paga l&#39;università ai dipendenti (mentre assume altre 125.000 persone)</title>
-            <link>https://www.youtube.com/watch?v=_1m5A82Hp40</link>
-            <guid>https://www.youtube.com/watch?v=_1m5A82Hp40</guid>
-            <pubDate>SEPTEMBER 18, 2021 AT 02:00PM</pubDate>
-            <description>Amazon paga l&#39;università ai dipendenti (mentre assume altre 125.000 persone)</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - 6 cose da fare invece di prendere in mano il telefono</title>
-            <link>https://www.youtube.com/watch?v=OJ5M0J2GpAE</link>
-            <guid>https://www.youtube.com/watch?v=OJ5M0J2GpAE</guid>
-            <pubDate>JULY 7, 2021 AT 10:06AM</pubDate>
-            <description>6 cose da fare invece di prendere in mano il telefono</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Renzi, Mancini, Report e cosa non mi torna...</title>
-            <link>https://www.youtube.com/watch?v=BG--tVmBQu8</link>
-            <guid>https://www.youtube.com/watch?v=BG--tVmBQu8</guid>
-            <pubDate>MAY 9, 2021 AT 10:46AM</pubDate>
-            <description>Renzi, Mancini, Report e cosa non mi torna...</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - &quot;Quando sei diventato Monty&quot; ... dopo un anno e mezzo di video con zero views è successo questo...</title>
-            <link>https://www.youtube.com/watch?v=TXY4f5a-VFk</link>
-            <guid>https://www.youtube.com/watch?v=TXY4f5a-VFk</guid>
-            <pubDate>AUGUST 1, 2021 AT 02:27PM</pubDate>
-            <description>&quot;Quando sei diventato Monty&quot; ... dopo un anno e mezzo di video con zero views è successo questo...</description>
+            <title>Matteo Flora - Perché dico che in Italia la colpa del RevengePorn è dei giornalisti...</title>
+            <link>https://www.youtube.com/watch?v=tPqTBYt2la0</link>
+            <guid>https://www.youtube.com/watch?v=tPqTBYt2la0</guid>
+            <pubDate>NOVEMBER 12, 2021 AT 11:46AM</pubDate>
+            <description>Perché dico che in Italia la colpa del RevengePorn è dei giornalisti...</description>
         </item>
     </channel>
 </rss>
