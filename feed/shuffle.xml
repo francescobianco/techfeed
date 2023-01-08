@@ -5,111 +5,20 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Sat, 07 Jan 2023 13:17:57 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2023 13:18:33 +0000</lastBuildDate>
         <item>
-            <title>Raffaele Gaito - DOBBIAMO DIVENTARE ANTIFRAGILI #shorts</title>
-            <link>https://www.youtube.com/watch?v=Wes7tl9ZNow</link>
-            <guid>https://www.youtube.com/watch?v=Wes7tl9ZNow</guid>
-            <pubDate>JULY 16, 2021 AT 08:00AM</pubDate>
-            <description>DOBBIAMO DIVENTARE ANTIFRAGILI #shorts</description>
+            <title>Marco Montemagno - Faccio del mio meglio</title>
+            <link>https://www.youtube.com/watch?v=spTgt4VkeHo</link>
+            <guid>https://www.youtube.com/watch?v=spTgt4VkeHo</guid>
+            <pubDate>MAY 28, 2021 AT 06:55PM</pubDate>
+            <description>Faccio del mio meglio</description>
         </item>
         <item>
-            <title>Marco Montemagno - Tony Robbins: strategy, story and state #shorts</title>
-            <link>https://www.youtube.com/watch?v=sgfqiKyU4WM</link>
-            <guid>https://www.youtube.com/watch?v=sgfqiKyU4WM</guid>
-            <pubDate>MAY 11, 2021 AT 01:42PM</pubDate>
-            <description>Tony Robbins: strategy, story and state #shorts</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Regolamentazione crypto ed NFT: cosa c’è da sapere?</title>
-            <link>https://www.youtube.com/watch?v=GIhPi5nDS8o</link>
-            <guid>https://www.youtube.com/watch?v=GIhPi5nDS8o</guid>
-            <pubDate>NOVEMBER 25, 2021 AT 01:00PM</pubDate>
-            <description>Regolamentazione crypto ed NFT: cosa c’è da sapere?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Ragioni da dipendente o da imprenditore?</title>
-            <link>https://www.youtube.com/watch?v=6Ot_GKFNP1I</link>
-            <guid>https://www.youtube.com/watch?v=6Ot_GKFNP1I</guid>
-            <pubDate>SEPTEMBER 26, 2021 AT 02:00PM</pubDate>
-            <description>Ragioni da dipendente o da imprenditore?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con l&#39;arma dei carabinieri (Luca de Marchis)</title>
-            <link>https://www.youtube.com/watch?v=7y2pbB3FZSY</link>
-            <guid>https://www.youtube.com/watch?v=7y2pbB3FZSY</guid>
-            <pubDate>NOVEMBER 9, 2021 AT 01:00PM</pubDate>
-            <description>4 chiacchiere con l&#39;arma dei carabinieri (Luca de Marchis)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Perché il futuro della sostenibilità passa dall&#39;elettricità</title>
-            <link>https://www.youtube.com/watch?v=ueiCR_OY8KU</link>
-            <guid>https://www.youtube.com/watch?v=ueiCR_OY8KU</guid>
-            <pubDate>JULY 2, 2021 AT 03:00PM</pubDate>
-            <description>Perché il futuro della sostenibilità passa dall&#39;elettricità</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Multe del Garante a Roma e Lombardia: chi paga e dove vanno i soldi?</title>
-            <link>https://www.youtube.com/watch?v=rGzwN8UbJp4</link>
-            <guid>https://www.youtube.com/watch?v=rGzwN8UbJp4</guid>
-            <pubDate>SEPTEMBER 13, 2021 AT 11:15AM</pubDate>
-            <description>Multe del Garante a Roma e Lombardia: chi paga e dove vanno i soldi?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Tutto quello che dovresti sapere sulle DAO con Thomas Bertani</title>
-            <link>https://www.youtube.com/watch?v=IIAi0TZHsKA</link>
-            <guid>https://www.youtube.com/watch?v=IIAi0TZHsKA</guid>
-            <pubDate>DECEMBER 4, 2021 AT 01:00PM</pubDate>
-            <description>Tutto quello che dovresti sapere sulle DAO con Thomas Bertani</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - DeFI, NFT, Web3? A conversation with Ryan Sean Adams (Bankless)</title>
-            <link>https://www.youtube.com/watch?v=oTNSePIPlxA</link>
-            <guid>https://www.youtube.com/watch?v=oTNSePIPlxA</guid>
-            <pubDate>JANUARY 26, 2022 AT 03:00PM</pubDate>
-            <description>DeFI, NFT, Web3? A conversation with Ryan Sean Adams (Bankless)</description>
-        </item>
-        <item>
-            <title>Matteo Flora - [LIVE] Ciao Internet Serale</title>
-            <link>https://www.youtube.com/watch?v=nF7PMTpVRHE</link>
-            <guid>https://www.youtube.com/watch?v=nF7PMTpVRHE</guid>
-            <pubDate>AUGUST 31, 2021 AT 12:46PM</pubDate>
-            <description>[LIVE] Ciao Internet Serale</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come gli NFT possono rivoluzionare il tuo business</title>
-            <link>https://www.youtube.com/watch?v=7BqlwZHHPBM</link>
-            <guid>https://www.youtube.com/watch?v=7BqlwZHHPBM</guid>
-            <pubDate>NOVEMBER 5, 2021 AT 12:56PM</pubDate>
-            <description>Come gli NFT possono rivoluzionare il tuo business</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Ooopss YouTube (NON) è Morto</title>
-            <link>https://www.youtube.com/watch?v=g9Od18htf3U</link>
-            <guid>https://www.youtube.com/watch?v=g9Od18htf3U</guid>
-            <pubDate>MAY 8, 2021 AT 12:07PM</pubDate>
-            <description>Ooopss YouTube (NON) è Morto</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con Skygolpe</title>
-            <link>https://www.youtube.com/watch?v=YANbGmeN6to</link>
-            <guid>https://www.youtube.com/watch?v=YANbGmeN6to</guid>
-            <pubDate>JANUARY 16, 2022 AT 01:00PM</pubDate>
-            <description>4 chiacchiere con Skygolpe</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 6 abitudini che mi hanno cambiato la vita</title>
-            <link>https://www.youtube.com/watch?v=s8d9cY6Y6V4</link>
-            <guid>https://www.youtube.com/watch?v=s8d9cY6Y6V4</guid>
-            <pubDate>JANUARY 13, 2022 AT 01:00PM</pubDate>
-            <description>6 abitudini che mi hanno cambiato la vita</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - COSA CHIEDETE A GOOGLE... SU DI ME!</title>
-            <link>https://www.youtube.com/watch?v=9RUi2B3mXfg</link>
-            <guid>https://www.youtube.com/watch?v=9RUi2B3mXfg</guid>
-            <pubDate>AUGUST 27, 2021 AT 08:00AM</pubDate>
-            <description>COSA CHIEDETE A GOOGLE... SU DI ME!</description>
+            <title>Rudy Bandiera - Amazon si prende lo sport: dopo la Champions il basket, trasmetterà i giochi WNBA</title>
+            <link>https://www.youtube.com/watch?v=ivZIu3EYprc</link>
+            <guid>https://www.youtube.com/watch?v=ivZIu3EYprc</guid>
+            <pubDate>MAY 19, 2021 AT 08:45AM</pubDate>
+            <description>Amazon si prende lo sport: dopo la Champions il basket, trasmetterà i giochi WNBA</description>
         </item>
         <item>
             <title>Marco Montemagno - 4 chiacchiere con Diodato</title>
@@ -119,32 +28,123 @@
             <description>4 chiacchiere con Diodato</description>
         </item>
         <item>
-            <title>Matteo Flora - Alexa, parla con mio figlio!</title>
-            <link>https://www.youtube.com/watch?v=_3a2-YsIjjE</link>
-            <guid>https://www.youtube.com/watch?v=_3a2-YsIjjE</guid>
-            <pubDate>JULY 5, 2021 AT 12:00PM</pubDate>
-            <description>Alexa, parla con mio figlio!</description>
+            <title>Matteo Flora - Tutte le marchette di DiMaio e del suo libro...</title>
+            <link>https://www.youtube.com/watch?v=BNzn-vfHaQ4</link>
+            <guid>https://www.youtube.com/watch?v=BNzn-vfHaQ4</guid>
+            <pubDate>OCTOBER 26, 2021 AT 07:45AM</pubDate>
+            <description>Tutte le marchette di DiMaio e del suo libro...</description>
         </item>
         <item>
-            <title>Marco Montemagno - NFT dalla A alla Z</title>
-            <link>https://www.youtube.com/watch?v=vlCnyDSNC7g</link>
-            <guid>https://www.youtube.com/watch?v=vlCnyDSNC7g</guid>
-            <pubDate>DECEMBER 4, 2021 AT 09:00AM</pubDate>
-            <description>NFT dalla A alla Z</description>
+            <title>Marco Montemagno - Blockchain, realtà aumentata, metaverso con Davide Cuttini - CEO di OVR</title>
+            <link>https://www.youtube.com/watch?v=MzpExairFFA</link>
+            <guid>https://www.youtube.com/watch?v=MzpExairFFA</guid>
+            <pubDate>NOVEMBER 27, 2021 AT 01:00PM</pubDate>
+            <description>Blockchain, realtà aumentata, metaverso con Davide Cuttini - CEO di OVR</description>
         </item>
         <item>
-            <title>Matteo Flora - Ciao Intenter! La LIVE Serale!</title>
-            <link>https://www.youtube.com/watch?v=JdSn_llbFx8</link>
-            <guid>https://www.youtube.com/watch?v=JdSn_llbFx8</guid>
-            <pubDate>NOVEMBER 1, 2021 AT 03:15PM</pubDate>
-            <description>Ciao Intenter! La LIVE Serale!</description>
+            <title>Marco Montemagno - Food Talks 4 chiacchiere con Davide Rampello direttore creativo di Rampello &amp; Partners</title>
+            <link>https://www.youtube.com/watch?v=KvHC-ZH25FE</link>
+            <guid>https://www.youtube.com/watch?v=KvHC-ZH25FE</guid>
+            <pubDate>MAY 17, 2021 AT 11:39AM</pubDate>
+            <description>Food Talks 4 chiacchiere con Davide Rampello direttore creativo di Rampello &amp; Partners</description>
         </item>
         <item>
-            <title>Marco Montemagno - Perché manca la Benzina nel Regno Unito</title>
-            <link>https://www.youtube.com/watch?v=_ZZfneSmVkQ</link>
-            <guid>https://www.youtube.com/watch?v=_ZZfneSmVkQ</guid>
-            <pubDate>SEPTEMBER 29, 2021 AT 07:31PM</pubDate>
-            <description>Perché manca la Benzina nel Regno Unito</description>
+            <title>Marco Montemagno - Da dove si parte per doppiare qualcuno? Ne avevamo parlato con Maurizio Merluzzo</title>
+            <link>https://www.youtube.com/watch?v=peIvWgg1PYY</link>
+            <guid>https://www.youtube.com/watch?v=peIvWgg1PYY</guid>
+            <pubDate>AUGUST 18, 2021 AT 06:30PM</pubDate>
+            <description>Da dove si parte per doppiare qualcuno? Ne avevamo parlato con Maurizio Merluzzo</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Tutto sul Google Page Experience con Andrea Pernici</title>
+            <link>https://www.youtube.com/watch?v=v4kl9R4zM7o</link>
+            <guid>https://www.youtube.com/watch?v=v4kl9R4zM7o</guid>
+            <pubDate>JUNE 29, 2021 AT 09:17AM</pubDate>
+            <description>Tutto sul Google Page Experience con Andrea Pernici</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Francesco Vena (Amaro Lucano)</title>
+            <link>https://www.youtube.com/watch?v=14sNwIMDd8M</link>
+            <guid>https://www.youtube.com/watch?v=14sNwIMDd8M</guid>
+            <pubDate>JUNE 16, 2021 AT 12:09PM</pubDate>
+            <description>4 chiacchiere con Francesco Vena (Amaro Lucano)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - UK vs ITALIA: Pro e Contro</title>
+            <link>https://www.youtube.com/watch?v=dpPGSc_m4Xw</link>
+            <guid>https://www.youtube.com/watch?v=dpPGSc_m4Xw</guid>
+            <pubDate>NOVEMBER 2, 2021 AT 01:28PM</pubDate>
+            <description>UK vs ITALIA: Pro e Contro</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Le mie Newsletter e le mie Fonti: come mi organizzo</title>
+            <link>https://www.youtube.com/watch?v=SJWIku6zztk</link>
+            <guid>https://www.youtube.com/watch?v=SJWIku6zztk</guid>
+            <pubDate>JUNE 9, 2021 AT 07:30AM</pubDate>
+            <description>Le mie Newsletter e le mie Fonti: come mi organizzo</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Monica Cirinnà, la cameriera e la Reputazione perduta...</title>
+            <link>https://www.youtube.com/watch?v=YgrjSCp6kCk</link>
+            <guid>https://www.youtube.com/watch?v=YgrjSCp6kCk</guid>
+            <pubDate>SEPTEMBER 1, 2021 AT 07:45AM</pubDate>
+            <description>Monica Cirinnà, la cameriera e la Reputazione perduta...</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Arturo Brachetti in arrivo su Competenze con il corso &quot;Come diventare stage performer&quot;</title>
+            <link>https://www.youtube.com/watch?v=pnwdh2dTuc4</link>
+            <guid>https://www.youtube.com/watch?v=pnwdh2dTuc4</guid>
+            <pubDate>JUNE 6, 2021 AT 06:30PM</pubDate>
+            <description>Arturo Brachetti in arrivo su Competenze con il corso &quot;Come diventare stage performer&quot;</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Hai un cane, un gatto...Monica Pais su Competenze.it</title>
+            <link>https://www.youtube.com/watch?v=bmb7cm81r3Q</link>
+            <guid>https://www.youtube.com/watch?v=bmb7cm81r3Q</guid>
+            <pubDate>JULY 12, 2021 AT 12:32PM</pubDate>
+            <description>Hai un cane, un gatto...Monica Pais su Competenze.it</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Voto Elettronico: perché è (ancora) una pessima idea</title>
+            <link>https://www.youtube.com/watch?v=GvPZe41S_as</link>
+            <guid>https://www.youtube.com/watch?v=GvPZe41S_as</guid>
+            <pubDate>JUNE 8, 2021 AT 07:34AM</pubDate>
+            <description>Voto Elettronico: perché è (ancora) una pessima idea</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - Sapete chi è l’italiano più seguito sui social?</title>
+            <link>https://www.youtube.com/watch?v=3NIMJ9mu20k</link>
+            <guid>https://www.youtube.com/watch?v=3NIMJ9mu20k</guid>
+            <pubDate>MAY 25, 2021 AT 09:09AM</pubDate>
+            <description>Sapete chi è l’italiano più seguito sui social?</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Chat Truffa: la Privacy dei &quot;cuori solitari&quot;</title>
+            <link>https://www.youtube.com/watch?v=oO8li8IKLSs</link>
+            <guid>https://www.youtube.com/watch?v=oO8li8IKLSs</guid>
+            <pubDate>MAY 10, 2021 AT 08:00AM</pubDate>
+            <description>Chat Truffa: la Privacy dei &quot;cuori solitari&quot;</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - 9 cose che le persone socialmente funzionali non dicono MAI</title>
+            <link>https://www.youtube.com/watch?v=siZ-jCWTiqk</link>
+            <guid>https://www.youtube.com/watch?v=siZ-jCWTiqk</guid>
+            <pubDate>JULY 2, 2021 AT 08:52AM</pubDate>
+            <description>9 cose che le persone socialmente funzionali non dicono MAI</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - VIDEO SPONSORIZZATI: RIFLESSIONI E SUGGERIMENTI</title>
+            <link>https://www.youtube.com/watch?v=lEEtOpxhpGM</link>
+            <guid>https://www.youtube.com/watch?v=lEEtOpxhpGM</guid>
+            <pubDate>MAY 21, 2021 AT 08:00AM</pubDate>
+            <description>VIDEO SPONSORIZZATI: RIFLESSIONI E SUGGERIMENTI</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - Diamo un&#39;occhiata all&#39;interno del primo Google Store al mondo</title>
+            <link>https://www.youtube.com/watch?v=Ra3hfVs7RuM</link>
+            <guid>https://www.youtube.com/watch?v=Ra3hfVs7RuM</guid>
+            <pubDate>JUNE 18, 2021 AT 09:04AM</pubDate>
+            <description>Diamo un&#39;occhiata all&#39;interno del primo Google Store al mondo</description>
         </item>
     </channel>
 </rss>
