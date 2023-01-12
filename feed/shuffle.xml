@@ -5,62 +5,55 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Wed, 11 Jan 2023 13:25:26 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 13:30:27 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - Il business miliardario di James Bond</title>
-            <link>https://www.youtube.com/watch?v=0Kx-kVWcrkU</link>
-            <guid>https://www.youtube.com/watch?v=0Kx-kVWcrkU</guid>
-            <pubDate>OCTOBER 2, 2021 AT 02:29PM</pubDate>
-            <description>Il business miliardario di James Bond</description>
+            <title>Marco Montemagno - Questo è il mio Miglior Libro di sempre (...e il peggior Unboxing della storia)</title>
+            <link>https://www.youtube.com/watch?v=UzfBC3SU3DE</link>
+            <guid>https://www.youtube.com/watch?v=UzfBC3SU3DE</guid>
+            <pubDate>JUNE 5, 2021 AT 12:40PM</pubDate>
+            <description>Questo è il mio Miglior Libro di sempre (...e il peggior Unboxing della storia)</description>
         </item>
         <item>
-            <title>Marco Montemagno - Europei 2021: Congratulazioni Azzurri!</title>
-            <link>https://www.youtube.com/watch?v=B2dpKlbVv4k</link>
-            <guid>https://www.youtube.com/watch?v=B2dpKlbVv4k</guid>
-            <pubDate>JULY 12, 2021 AT 01:00PM</pubDate>
-            <description>Europei 2021: Congratulazioni Azzurri!</description>
+            <title>Marco Montemagno - Tutto quello che avresti sempre voluto sapere sull&#39;Idrogeno e sull&#39;Elettrificazione</title>
+            <link>https://www.youtube.com/watch?v=7h9FenptPBo</link>
+            <guid>https://www.youtube.com/watch?v=7h9FenptPBo</guid>
+            <pubDate>JULY 9, 2021 AT 10:00AM</pubDate>
+            <description>Tutto quello che avresti sempre voluto sapere sull&#39;Idrogeno e sull&#39;Elettrificazione</description>
         </item>
         <item>
-            <title>Marco Montemagno - Se dura più di 1 minuto non è un vocale...è un audiolibro!</title>
-            <link>https://www.youtube.com/watch?v=YvpeDG3bfio</link>
-            <guid>https://www.youtube.com/watch?v=YvpeDG3bfio</guid>
-            <pubDate>SEPTEMBER 29, 2021 AT 01:31PM</pubDate>
-            <description>Se dura più di 1 minuto non è un vocale...è un audiolibro!</description>
+            <title>Marco Montemagno - 3 errori ASSOLUTAMENTE da non fare  (...che ho fatto)</title>
+            <link>https://www.youtube.com/watch?v=3w5nbHVNuRg</link>
+            <guid>https://www.youtube.com/watch?v=3w5nbHVNuRg</guid>
+            <pubDate>AUGUST 31, 2021 AT 01:00PM</pubDate>
+            <description>3 errori ASSOLUTAMENTE da non fare  (...che ho fatto)</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Sabaku no Maiku</title>
-            <link>https://www.youtube.com/watch?v=AJN_zdTDwT8</link>
-            <guid>https://www.youtube.com/watch?v=AJN_zdTDwT8</guid>
-            <pubDate>OCTOBER 5, 2021 AT 08:31PM</pubDate>
-            <description>4 chiacchiere con Sabaku no Maiku</description>
+            <title>Marco Montemagno - Può una città diventare Blockchain &amp; Crypto-Friendly? Il caso Lugano</title>
+            <link>https://www.youtube.com/watch?v=p6hGdFXLmlc</link>
+            <guid>https://www.youtube.com/watch?v=p6hGdFXLmlc</guid>
+            <pubDate>DECEMBER 2, 2021 AT 03:00PM</pubDate>
+            <description>Può una città diventare Blockchain &amp; Crypto-Friendly? Il caso Lugano</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Come creare e vendere un NFT</title>
-            <link>https://www.youtube.com/watch?v=jzi6yQROUNs</link>
-            <guid>https://www.youtube.com/watch?v=jzi6yQROUNs</guid>
-            <pubDate>FEBRUARY 11, 2022 AT 09:12AM</pubDate>
-            <description>Come creare e vendere un NFT</description>
+            <title>Marco Montemagno - Perché Netflix (probabilmente) inserirà la pubblicità</title>
+            <link>https://www.youtube.com/watch?v=PzO0NhEbsjA</link>
+            <guid>https://www.youtube.com/watch?v=PzO0NhEbsjA</guid>
+            <pubDate>JUNE 26, 2021 AT 10:13AM</pubDate>
+            <description>Perché Netflix (probabilmente) inserirà la pubblicità</description>
         </item>
         <item>
-            <title>Marco Montemagno - Monty Lab: quanto costa e altre info importanti</title>
-            <link>https://www.youtube.com/watch?v=5gDMDET5ucY</link>
-            <guid>https://www.youtube.com/watch?v=5gDMDET5ucY</guid>
-            <pubDate>JANUARY 28, 2022 AT 07:09PM</pubDate>
-            <description>Monty Lab: quanto costa e altre info importanti</description>
+            <title>Marco Montemagno - Intelligenza artificiale, comprensione del linguaggio e dintorni</title>
+            <link>https://www.youtube.com/watch?v=sC0nAlfQUqU</link>
+            <guid>https://www.youtube.com/watch?v=sC0nAlfQUqU</guid>
+            <pubDate>JUNE 24, 2021 AT 10:54PM</pubDate>
+            <description>Intelligenza artificiale, comprensione del linguaggio e dintorni</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - La più Grande Rivoluzione SEO degli ultimi anni!</title>
-            <link>https://www.youtube.com/watch?v=_9mS8gdn3KY</link>
-            <guid>https://www.youtube.com/watch?v=_9mS8gdn3KY</guid>
-            <pubDate>MAY 28, 2021 AT 07:30AM</pubDate>
-            <description>La più Grande Rivoluzione SEO degli ultimi anni!</description>
-        </item>
-        <item>
-            <title>Matteo Flora - #GreenPass hackerato: ecco come hanno fatto (e cosa fare ora)</title>
-            <link>https://www.youtube.com/watch?v=2UI9YOh8uVE</link>
-            <guid>https://www.youtube.com/watch?v=2UI9YOh8uVE</guid>
-            <pubDate>OCTOBER 28, 2021 AT 11:17AM</pubDate>
-            <description>#GreenPass hackerato: ecco come hanno fatto (e cosa fare ora)</description>
+            <title>Marco Montemagno - A conversation with  Beniamin Mincu - CEO &amp; Co-Founder di Elrond</title>
+            <link>https://www.youtube.com/watch?v=Kn9ZdgkIEVs</link>
+            <guid>https://www.youtube.com/watch?v=Kn9ZdgkIEVs</guid>
+            <pubDate>NOVEMBER 23, 2021 AT 01:00PM</pubDate>
+            <description>A conversation with  Beniamin Mincu - CEO &amp; Co-Founder di Elrond</description>
         </item>
         <item>
             <title>Matteo Flora - Cos&#39;è HUDI (Human Data Income), la crypto che permette agli utenti di monetizzare i propri dati!</title>
@@ -70,81 +63,88 @@
             <description>Cos&#39;è HUDI (Human Data Income), la crypto che permette agli utenti di monetizzare i propri dati!</description>
         </item>
         <item>
-            <title>Matteo Flora - [LIVE] - Ciao Internet SERALE in DIRETTA</title>
-            <link>https://www.youtube.com/watch?v=yc8KxlMb1s8</link>
-            <guid>https://www.youtube.com/watch?v=yc8KxlMb1s8</guid>
-            <pubDate>AUGUST 24, 2021 AT 12:43PM</pubDate>
-            <description>[LIVE] - Ciao Internet SERALE in DIRETTA</description>
+            <title>Matteo Flora - Squid Game: cosa sta facendo ai bambini?</title>
+            <link>https://www.youtube.com/watch?v=1dbNYeaJkXo</link>
+            <guid>https://www.youtube.com/watch?v=1dbNYeaJkXo</guid>
+            <pubDate>OCTOBER 27, 2021 AT 07:45AM</pubDate>
+            <description>Squid Game: cosa sta facendo ai bambini?</description>
         </item>
         <item>
-            <title>Rudy Bandiera - I giganti social distribuiscono soldi a chi crea contenuto</title>
-            <link>https://www.youtube.com/watch?v=Mf0Caukt0kQ</link>
-            <guid>https://www.youtube.com/watch?v=Mf0Caukt0kQ</guid>
-            <pubDate>MAY 28, 2021 AT 08:51AM</pubDate>
-            <description>I giganti social distribuiscono soldi a chi crea contenuto</description>
+            <title>Marco Montemagno - 4 chiacchiere con Joe BASTIANICH</title>
+            <link>https://www.youtube.com/watch?v=468vHWl7IPY</link>
+            <guid>https://www.youtube.com/watch?v=468vHWl7IPY</guid>
+            <pubDate>MAY 19, 2021 AT 12:18PM</pubDate>
+            <description>4 chiacchiere con Joe BASTIANICH</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come realizzare una scultura con Matteo Pugliese</title>
-            <link>https://www.youtube.com/watch?v=rSBLnGYhe_8</link>
-            <guid>https://www.youtube.com/watch?v=rSBLnGYhe_8</guid>
-            <pubDate>JANUARY 20, 2022 AT 09:30AM</pubDate>
-            <description>Come realizzare una scultura con Matteo Pugliese</description>
+            <title>Marco Montemagno - Come trovo clienti interessati al mio e-commerce?</title>
+            <link>https://www.youtube.com/watch?v=P90J0MZbr-o</link>
+            <guid>https://www.youtube.com/watch?v=P90J0MZbr-o</guid>
+            <pubDate>DECEMBER 1, 2021 AT 11:00AM</pubDate>
+            <description>Come trovo clienti interessati al mio e-commerce?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Questo è il mio Miglior Libro di sempre (...e il peggior Unboxing della storia)</title>
-            <link>https://www.youtube.com/watch?v=UzfBC3SU3DE</link>
-            <guid>https://www.youtube.com/watch?v=UzfBC3SU3DE</guid>
-            <pubDate>JUNE 5, 2021 AT 12:40PM</pubDate>
-            <description>Questo è il mio Miglior Libro di sempre (...e il peggior Unboxing della storia)</description>
+            <title>Rudy Bandiera - Meglio essere governati dai politici o dall&#39;intelligenza artificiale?</title>
+            <link>https://www.youtube.com/watch?v=8AEZLzOq0j0</link>
+            <guid>https://www.youtube.com/watch?v=8AEZLzOq0j0</guid>
+            <pubDate>JUNE 11, 2021 AT 08:45AM</pubDate>
+            <description>Meglio essere governati dai politici o dall&#39;intelligenza artificiale?</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Giovanni Truppi</title>
-            <link>https://www.youtube.com/watch?v=Nr88tAgdR0M</link>
-            <guid>https://www.youtube.com/watch?v=Nr88tAgdR0M</guid>
-            <pubDate>FEBRUARY 12, 2022 AT 01:00PM</pubDate>
-            <description>4 chiacchiere con Giovanni Truppi</description>
+            <title>Matteo Flora - PRIVACY: Tutti i Trend del 2022 da conoscere!</title>
+            <link>https://www.youtube.com/watch?v=f7ukvFQZhlM</link>
+            <guid>https://www.youtube.com/watch?v=f7ukvFQZhlM</guid>
+            <pubDate>JANUARY 10, 2022 AT 07:45AM</pubDate>
+            <description>PRIVACY: Tutti i Trend del 2022 da conoscere!</description>
         </item>
         <item>
-            <title>Marco Montemagno - Indovina quanto ha incassato Tim (il CEO di Apple)?</title>
-            <link>https://www.youtube.com/watch?v=H6n0ZQRvgJQ</link>
-            <guid>https://www.youtube.com/watch?v=H6n0ZQRvgJQ</guid>
-            <pubDate>AUGUST 28, 2021 AT 11:48PM</pubDate>
-            <description>Indovina quanto ha incassato Tim (il CEO di Apple)?</description>
+            <title>Marco Montemagno - Bitcoin che succede? Previsioni per il 2022</title>
+            <link>https://www.youtube.com/watch?v=3NDZDR_aIxM</link>
+            <guid>https://www.youtube.com/watch?v=3NDZDR_aIxM</guid>
+            <pubDate>JANUARY 5, 2022 AT 11:55PM</pubDate>
+            <description>Bitcoin che succede? Previsioni per il 2022</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come reagisce e ti critica la gente quando ti metti in gioco</title>
-            <link>https://www.youtube.com/watch?v=tjCvsHYkAAk</link>
-            <guid>https://www.youtube.com/watch?v=tjCvsHYkAAk</guid>
-            <pubDate>JANUARY 27, 2022 AT 02:00PM</pubDate>
-            <description>Come reagisce e ti critica la gente quando ti metti in gioco</description>
+            <title>Marco Montemagno - Ecco i nuovi occhiali di Facebook (pro e contro...)</title>
+            <link>https://www.youtube.com/watch?v=oxEaA-eyijc</link>
+            <guid>https://www.youtube.com/watch?v=oxEaA-eyijc</guid>
+            <pubDate>SEPTEMBER 10, 2021 AT 06:49PM</pubDate>
+            <description>Ecco i nuovi occhiali di Facebook (pro e contro...)</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come fare una critica costruttiva in 4 passaggi</title>
-            <link>https://www.youtube.com/watch?v=YPyeigT3tUg</link>
-            <guid>https://www.youtube.com/watch?v=YPyeigT3tUg</guid>
-            <pubDate>AUGUST 19, 2021 AT 02:00PM</pubDate>
-            <description>Come fare una critica costruttiva in 4 passaggi</description>
+            <title>Marco Montemagno - David di Donatello 2021, Matilda De Angelis migliore attrice non protagonista. Grandissima!</title>
+            <link>https://www.youtube.com/watch?v=y5Sd4FuY-0M</link>
+            <guid>https://www.youtube.com/watch?v=y5Sd4FuY-0M</guid>
+            <pubDate>MAY 12, 2021 AT 04:15PM</pubDate>
+            <description>David di Donatello 2021, Matilda De Angelis migliore attrice non protagonista. Grandissima!</description>
         </item>
         <item>
-            <title>Marco Montemagno - Vuoi imparare a suonare il Pianoforte? Pietro Morello su Competenze.it</title>
-            <link>https://www.youtube.com/watch?v=yEdRva8QkYg</link>
-            <guid>https://www.youtube.com/watch?v=yEdRva8QkYg</guid>
-            <pubDate>JULY 23, 2021 AT 05:13PM</pubDate>
-            <description>Vuoi imparare a suonare il Pianoforte? Pietro Morello su Competenze.it</description>
+            <title>Marco Montemagno - Come fare innovazione nel settore legale di un&#39;azienda</title>
+            <link>https://www.youtube.com/watch?v=lVgILGmsHvU</link>
+            <guid>https://www.youtube.com/watch?v=lVgILGmsHvU</guid>
+            <pubDate>DECEMBER 14, 2021 AT 04:30PM</pubDate>
+            <description>Come fare innovazione nel settore legale di un&#39;azienda</description>
         </item>
         <item>
-            <title>Marco Montemagno - Non ho parole...(poi però non lamentiamoci del lavoro) #shorts</title>
-            <link>https://www.youtube.com/watch?v=LAI3ksteXOM</link>
-            <guid>https://www.youtube.com/watch?v=LAI3ksteXOM</guid>
-            <pubDate>JUNE 24, 2021 AT 07:30PM</pubDate>
-            <description>Non ho parole...(poi però non lamentiamoci del lavoro) #shorts</description>
+            <title>Giorgio Taverniti - Il Fallimento di Clubhouse: una meteora utile - W&amp;L Aprile 2021</title>
+            <link>https://www.youtube.com/watch?v=mWrc0lYq_ws</link>
+            <guid>https://www.youtube.com/watch?v=mWrc0lYq_ws</guid>
+            <pubDate>MAY 6, 2021 AT 07:30AM</pubDate>
+            <description>Il Fallimento di Clubhouse: una meteora utile - W&amp;L Aprile 2021</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come comprare Ethereum e spostarli sul tuo wallet</title>
-            <link>https://www.youtube.com/watch?v=Di5yeLmFYaw</link>
-            <guid>https://www.youtube.com/watch?v=Di5yeLmFYaw</guid>
-            <pubDate>JANUARY 26, 2022 AT 09:58AM</pubDate>
-            <description>Come comprare Ethereum e spostarli sul tuo wallet</description>
+            <title>Marco Montemagno - &quot;Non ascoltare quello che dicono, guarda quello che fanno&quot;</title>
+            <link>https://www.youtube.com/watch?v=FbQOxASUDKI</link>
+            <guid>https://www.youtube.com/watch?v=FbQOxASUDKI</guid>
+            <pubDate>MAY 13, 2021 AT 11:46AM</pubDate>
+            <description>&quot;Non ascoltare quello che dicono, guarda quello che fanno&quot;</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Quelli che non è mai colpa loro</title>
+            <link>https://www.youtube.com/watch?v=EuLJX66Kr_w</link>
+            <guid>https://www.youtube.com/watch?v=EuLJX66Kr_w</guid>
+            <pubDate>MAY 11, 2021 AT 03:39PM</pubDate>
+            <description>Quelli che non è mai colpa loro</description>
         </item>
     </channel>
 </rss>
