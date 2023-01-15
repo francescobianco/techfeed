@@ -5,132 +5,55 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Sat, 14 Jan 2023 13:17:57 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jan 2023 13:18:16 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - Dieta, Digiuno e dintorni - 4 chiacchiere con il Prof. Valter Longo</title>
-            <link>https://www.youtube.com/watch?v=I917itwjxMo</link>
-            <guid>https://www.youtube.com/watch?v=I917itwjxMo</guid>
-            <pubDate>SEPTEMBER 21, 2021 AT 11:00AM</pubDate>
-            <description>Dieta, Digiuno e dintorni - 4 chiacchiere con il Prof. Valter Longo</description>
+            <title>Marco Montemagno - Food Talks Mixology con Agostino Perrone e Giorgio Bargiani</title>
+            <link>https://www.youtube.com/watch?v=mT6FawwWqrw</link>
+            <guid>https://www.youtube.com/watch?v=mT6FawwWqrw</guid>
+            <pubDate>MAY 21, 2021 AT 11:04AM</pubDate>
+            <description>Food Talks Mixology con Agostino Perrone e Giorgio Bargiani</description>
         </item>
         <item>
-            <title>Marco Montemagno - Quelli che insultano e si sfogano sui social e spacciano i loro deliri per Critiche...</title>
-            <link>https://www.youtube.com/watch?v=Bt0is3i7_Dc</link>
-            <guid>https://www.youtube.com/watch?v=Bt0is3i7_Dc</guid>
-            <pubDate>MAY 29, 2021 AT 12:03PM</pubDate>
-            <description>Quelli che insultano e si sfogano sui social e spacciano i loro deliri per Critiche...</description>
+            <title>Marco Montemagno - Vuoi lavorare da casa o in ufficio?</title>
+            <link>https://www.youtube.com/watch?v=jwLVMiXvzTs</link>
+            <guid>https://www.youtube.com/watch?v=jwLVMiXvzTs</guid>
+            <pubDate>JULY 25, 2021 AT 01:30PM</pubDate>
+            <description>Vuoi lavorare da casa o in ufficio?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Cina e dintorni: falsi miti e opportunità</title>
-            <link>https://www.youtube.com/watch?v=2Lhej18tlek</link>
-            <guid>https://www.youtube.com/watch?v=2Lhej18tlek</guid>
-            <pubDate>JUNE 30, 2021 AT 12:09PM</pubDate>
-            <description>Cina e dintorni: falsi miti e opportunità</description>
+            <title>Marco Montemagno - 4 chiacchiere con l&#39;arma dei carabinieri (Luca de Marchis)</title>
+            <link>https://www.youtube.com/watch?v=7y2pbB3FZSY</link>
+            <guid>https://www.youtube.com/watch?v=7y2pbB3FZSY</guid>
+            <pubDate>NOVEMBER 9, 2021 AT 01:00PM</pubDate>
+            <description>4 chiacchiere con l&#39;arma dei carabinieri (Luca de Marchis)</description>
         </item>
         <item>
-            <title>Marco Montemagno - Su Competenze sta per arrivare Francesca Vecchioni con il corso Diversity &amp; Inclusion</title>
-            <link>https://www.youtube.com/watch?v=Rpptz2wz2no</link>
-            <guid>https://www.youtube.com/watch?v=Rpptz2wz2no</guid>
-            <pubDate>MAY 7, 2021 AT 12:29PM</pubDate>
-            <description>Su Competenze sta per arrivare Francesca Vecchioni con il corso Diversity &amp; Inclusion</description>
+            <title>Marco Montemagno - Chi sta investendo negli NFT? E gli aspetti fiscali?</title>
+            <link>https://www.youtube.com/watch?v=CTyFgkfZcss</link>
+            <guid>https://www.youtube.com/watch?v=CTyFgkfZcss</guid>
+            <pubDate>FEBRUARY 1, 2022 AT 11:51AM</pubDate>
+            <description>Chi sta investendo negli NFT? E gli aspetti fiscali?</description>
         </item>
         <item>
-            <title>Raffaele Gaito - IMPRESE ITALIANE E DIGITALIZZAZIONE, COME SIAMO MESSI?!</title>
-            <link>https://www.youtube.com/watch?v=SGs4LsPVkV8</link>
-            <guid>https://www.youtube.com/watch?v=SGs4LsPVkV8</guid>
-            <pubDate>JULY 30, 2021 AT 08:00AM</pubDate>
-            <description>IMPRESE ITALIANE E DIGITALIZZAZIONE, COME SIAMO MESSI?!</description>
+            <title>Giorgio Taverniti - Google Sheets: script, componenti, API. Idee d&#39;uso INTERESSANTI</title>
+            <link>https://www.youtube.com/watch?v=jmZF_VRT2fA</link>
+            <guid>https://www.youtube.com/watch?v=jmZF_VRT2fA</guid>
+            <pubDate>MAY 10, 2021 AT 10:41AM</pubDate>
+            <description>Google Sheets: script, componenti, API. Idee d&#39;uso INTERESSANTI</description>
         </item>
         <item>
-            <title>Marco Montemagno - È questo che ti frega</title>
-            <link>https://www.youtube.com/watch?v=z9w7EDuS_bw</link>
-            <guid>https://www.youtube.com/watch?v=z9w7EDuS_bw</guid>
-            <pubDate>MAY 10, 2021 AT 11:42AM</pubDate>
-            <description>È questo che ti frega</description>
+            <title>Marco Montemagno - Tutto quello che dovresti sapere sulla Finanza Islamica (che riguarda 1,5 miliardi di persone)</title>
+            <link>https://www.youtube.com/watch?v=SnMQM82AtsI</link>
+            <guid>https://www.youtube.com/watch?v=SnMQM82AtsI</guid>
+            <pubDate>FEBRUARY 5, 2022 AT 01:00PM</pubDate>
+            <description>Tutto quello che dovresti sapere sulla Finanza Islamica (che riguarda 1,5 miliardi di persone)</description>
         </item>
         <item>
-            <title>Marco Montemagno - Prodotti e marketing: quante volte ci caschiamo? Ne avevo parlato con Beatrice Mautino</title>
-            <link>https://www.youtube.com/watch?v=eVvZXmxUxNo</link>
-            <guid>https://www.youtube.com/watch?v=eVvZXmxUxNo</guid>
-            <pubDate>SEPTEMBER 19, 2021 AT 02:00PM</pubDate>
-            <description>Prodotti e marketing: quante volte ci caschiamo? Ne avevo parlato con Beatrice Mautino</description>
-        </item>
-        <item>
-            <title>Matteo Flora - [DIRETTA] - Ciao Internet Live!</title>
-            <link>https://www.youtube.com/watch?v=9xzyg8gBDB8</link>
-            <guid>https://www.youtube.com/watch?v=9xzyg8gBDB8</guid>
-            <pubDate>FEBRUARY 4, 2022 AT 08:34PM</pubDate>
-            <description>[DIRETTA] - Ciao Internet Live!</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - QUAL È IL TUO PERCHÉ? #shorts</title>
-            <link>https://www.youtube.com/watch?v=Fjb0X8Pn5DY</link>
-            <guid>https://www.youtube.com/watch?v=Fjb0X8Pn5DY</guid>
-            <pubDate>JULY 23, 2021 AT 08:00AM</pubDate>
-            <description>QUAL È IL TUO PERCHÉ? #shorts</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Lo Sforzo cognitivo e le Abitudini con Rick Dufer</title>
-            <link>https://www.youtube.com/watch?v=qNOcAo7ai1Y</link>
-            <guid>https://www.youtube.com/watch?v=qNOcAo7ai1Y</guid>
-            <pubDate>MAY 25, 2021 AT 09:14AM</pubDate>
-            <description>Lo Sforzo cognitivo e le Abitudini con Rick Dufer</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - Atassia spinocerebellare. Cos’è, chi è a rischio, come curarla</title>
-            <link>https://www.youtube.com/watch?v=5cVBb2QpZsU</link>
-            <guid>https://www.youtube.com/watch?v=5cVBb2QpZsU</guid>
-            <pubDate>DECEMBER 13, 2021 AT 09:47AM</pubDate>
-            <description>Atassia spinocerebellare. Cos’è, chi è a rischio, come curarla</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Questa è la mentalità di chi ha davvero successo</title>
-            <link>https://www.youtube.com/watch?v=KOAKmxlg2TE</link>
-            <guid>https://www.youtube.com/watch?v=KOAKmxlg2TE</guid>
-            <pubDate>SEPTEMBER 17, 2021 AT 02:00PM</pubDate>
-            <description>Questa è la mentalità di chi ha davvero successo</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Perché il DDL Autolesionismo è un pericolo per te e per la rete…</title>
-            <link>https://www.youtube.com/watch?v=V7DJqP_uTHg</link>
-            <guid>https://www.youtube.com/watch?v=V7DJqP_uTHg</guid>
-            <pubDate>AUGUST 1, 2021 AT 01:20PM</pubDate>
-            <description>Perché il DDL Autolesionismo è un pericolo per te e per la rete…</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Alberto Forchielli su Competenze.it (live)</title>
-            <link>https://www.youtube.com/watch?v=wzOizPfkU_4</link>
-            <guid>https://www.youtube.com/watch?v=wzOizPfkU_4</guid>
-            <pubDate>JULY 5, 2021 AT 08:48AM</pubDate>
-            <description>Alberto Forchielli su Competenze.it (live)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con lo Chef Mauro Colagreco (&quot;miglior ristorante al mondo&quot;)</title>
-            <link>https://www.youtube.com/watch?v=AWzt4FPoLqQ</link>
-            <guid>https://www.youtube.com/watch?v=AWzt4FPoLqQ</guid>
-            <pubDate>JULY 5, 2021 AT 11:11AM</pubDate>
-            <description>4 chiacchiere con lo Chef Mauro Colagreco (&quot;miglior ristorante al mondo&quot;)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Monty Live! Come stai?</title>
-            <link>https://www.youtube.com/watch?v=cLYM36Z8MkE</link>
-            <guid>https://www.youtube.com/watch?v=cLYM36Z8MkE</guid>
-            <pubDate>SEPTEMBER 24, 2021 AT 04:44PM</pubDate>
-            <description>Monty Live! Come stai?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Food Talks with Trudie Styler, Tony Sasa, Riccardo Cotarella</title>
-            <link>https://www.youtube.com/watch?v=gKmm6a2HP_I</link>
-            <guid>https://www.youtube.com/watch?v=gKmm6a2HP_I</guid>
-            <pubDate>MAY 21, 2021 AT 11:06AM</pubDate>
-            <description>Food Talks with Trudie Styler, Tony Sasa, Riccardo Cotarella</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - È SUCCESSA UNA COSA BELLISSIMA (CON LA MIA COMMUNITY)</title>
-            <link>https://www.youtube.com/watch?v=uwuYsNWX-TQ</link>
-            <guid>https://www.youtube.com/watch?v=uwuYsNWX-TQ</guid>
-            <pubDate>APRIL 13, 2021 AT 08:00AM</pubDate>
-            <description>È SUCCESSA UNA COSA BELLISSIMA (CON LA MIA COMMUNITY)</description>
+            <title>Giorgio Taverniti - Come funziona Google? 2021 Edition</title>
+            <link>https://www.youtube.com/watch?v=YmpPL4zRRpk</link>
+            <guid>https://www.youtube.com/watch?v=YmpPL4zRRpk</guid>
+            <pubDate>JULY 9, 2021 AT 07:30AM</pubDate>
+            <description>Come funziona Google? 2021 Edition</description>
         </item>
         <item>
             <title>Matteo Flora - Marco Montemagno: il video sessista e il video di scuse (che non convincono)</title>
@@ -140,11 +63,88 @@
             <description>Marco Montemagno: il video sessista e il video di scuse (che non convincono)</description>
         </item>
         <item>
-            <title>Marco Montemagno - Crypto Art e dintorni con Giuseppe Veneziano</title>
-            <link>https://www.youtube.com/watch?v=-7SyK95oVtk</link>
-            <guid>https://www.youtube.com/watch?v=-7SyK95oVtk</guid>
-            <pubDate>DECEMBER 18, 2021 AT 01:00PM</pubDate>
-            <description>Crypto Art e dintorni con Giuseppe Veneziano</description>
+            <title>Rudy Bandiera - 6 dati di fatto che è bene accettare il prima possibile per vivere e lavorare meglio</title>
+            <link>https://www.youtube.com/watch?v=7mVCpLySEUg</link>
+            <guid>https://www.youtube.com/watch?v=7mVCpLySEUg</guid>
+            <pubDate>JULY 16, 2021 AT 08:37AM</pubDate>
+            <description>6 dati di fatto che è bene accettare il prima possibile per vivere e lavorare meglio</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Fan Tokens with Alexander Dreyfus (Socios.com)</title>
+            <link>https://www.youtube.com/watch?v=cKAMg4okF44</link>
+            <guid>https://www.youtube.com/watch?v=cKAMg4okF44</guid>
+            <pubDate>DECEMBER 5, 2021 AT 03:00PM</pubDate>
+            <description>Fan Tokens with Alexander Dreyfus (Socios.com)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Arturo Brachetti in arrivo su Competenze con il corso &quot;Come diventare stage performer&quot;</title>
+            <link>https://www.youtube.com/watch?v=pnwdh2dTuc4</link>
+            <guid>https://www.youtube.com/watch?v=pnwdh2dTuc4</guid>
+            <pubDate>JUNE 6, 2021 AT 06:30PM</pubDate>
+            <description>Arturo Brachetti in arrivo su Competenze con il corso &quot;Come diventare stage performer&quot;</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Stablecoin, adozione di massa delle crypto e dintorni</title>
+            <link>https://www.youtube.com/watch?v=V3NI9H_ho2I</link>
+            <guid>https://www.youtube.com/watch?v=V3NI9H_ho2I</guid>
+            <pubDate>NOVEMBER 23, 2021 AT 09:00AM</pubDate>
+            <description>Stablecoin, adozione di massa delle crypto e dintorni</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Notte prima degli esami...Monty Live!</title>
+            <link>https://www.youtube.com/watch?v=rlaBI3ObSok</link>
+            <guid>https://www.youtube.com/watch?v=rlaBI3ObSok</guid>
+            <pubDate>JANUARY 31, 2022 AT 07:50PM</pubDate>
+            <description>Notte prima degli esami...Monty Live!</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Dieta, Digiuno e dintorni - 4 chiacchiere con il Prof. Valter Longo</title>
+            <link>https://www.youtube.com/watch?v=I917itwjxMo</link>
+            <guid>https://www.youtube.com/watch?v=I917itwjxMo</guid>
+            <pubDate>SEPTEMBER 21, 2021 AT 11:00AM</pubDate>
+            <description>Dieta, Digiuno e dintorni - 4 chiacchiere con il Prof. Valter Longo</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Il Riconoscimento Facciale, da Meta alle Città Italiane</title>
+            <link>https://www.youtube.com/watch?v=D5Wq7ZhmiEM</link>
+            <guid>https://www.youtube.com/watch?v=D5Wq7ZhmiEM</guid>
+            <pubDate>NOVEMBER 9, 2021 AT 10:56AM</pubDate>
+            <description>Il Riconoscimento Facciale, da Meta alle Città Italiane</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Monty Live</title>
+            <link>https://www.youtube.com/watch?v=QvcWipXeFRE</link>
+            <guid>https://www.youtube.com/watch?v=QvcWipXeFRE</guid>
+            <pubDate>SEPTEMBER 3, 2021 AT 03:46PM</pubDate>
+            <description>Monty Live</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 7 cose che ha detto Elon Musk che fanno riflettere</title>
+            <link>https://www.youtube.com/watch?v=1hPUXev58IM</link>
+            <guid>https://www.youtube.com/watch?v=1hPUXev58IM</guid>
+            <pubDate>DECEMBER 11, 2021 AT 01:00PM</pubDate>
+            <description>7 cose che ha detto Elon Musk che fanno riflettere</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Bitcoin banche tradizionali e nuove banche</title>
+            <link>https://www.youtube.com/watch?v=H7H91XUwi0w</link>
+            <guid>https://www.youtube.com/watch?v=H7H91XUwi0w</guid>
+            <pubDate>NOVEMBER 29, 2021 AT 01:00PM</pubDate>
+            <description>Bitcoin banche tradizionali e nuove banche</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - IL SEGRETO PER VENDERE #shorts</title>
+            <link>https://www.youtube.com/watch?v=bxc1ZaYpPYc</link>
+            <guid>https://www.youtube.com/watch?v=bxc1ZaYpPYc</guid>
+            <pubDate>JULY 9, 2021 AT 08:00AM</pubDate>
+            <description>IL SEGRETO PER VENDERE #shorts</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Le big tech si stanno mangiando il mondo (e questa è la prossima mossa)</title>
+            <link>https://www.youtube.com/watch?v=-N4E50CKN2E</link>
+            <guid>https://www.youtube.com/watch?v=-N4E50CKN2E</guid>
+            <pubDate>JULY 31, 2021 AT 02:14PM</pubDate>
+            <description>Le big tech si stanno mangiando il mondo (e questa è la prossima mossa)</description>
         </item>
     </channel>
 </rss>
