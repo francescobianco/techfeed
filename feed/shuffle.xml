@@ -5,111 +5,27 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Thu, 19 Jan 2023 13:23:47 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 13:22:36 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - Ha senso Lavorare GRATIS?</title>
-            <link>https://www.youtube.com/watch?v=DTvuI-cDgqE</link>
-            <guid>https://www.youtube.com/watch?v=DTvuI-cDgqE</guid>
-            <pubDate>JUNE 11, 2021 AT 02:58PM</pubDate>
-            <description>Ha senso Lavorare GRATIS?</description>
+            <title>Marco Montemagno - Alberto Forchielli su Competenze.it (live)</title>
+            <link>https://www.youtube.com/watch?v=wzOizPfkU_4</link>
+            <guid>https://www.youtube.com/watch?v=wzOizPfkU_4</guid>
+            <pubDate>JULY 5, 2021 AT 08:48AM</pubDate>
+            <description>Alberto Forchielli su Competenze.it (live)</description>
         </item>
         <item>
-            <title>Marco Montemagno - L&#39;Italia può sfidare le big tech? 4 chiacchiere con Alec Ross</title>
-            <link>https://www.youtube.com/watch?v=lBtjnVm9pyA</link>
-            <guid>https://www.youtube.com/watch?v=lBtjnVm9pyA</guid>
-            <pubDate>OCTOBER 13, 2021 AT 03:27PM</pubDate>
-            <description>L&#39;Italia può sfidare le big tech? 4 chiacchiere con Alec Ross</description>
+            <title>Marco Montemagno - Bitcoin, Crypto, NFT...che succede?</title>
+            <link>https://www.youtube.com/watch?v=iwQL8AdTEXk</link>
+            <guid>https://www.youtube.com/watch?v=iwQL8AdTEXk</guid>
+            <pubDate>MAY 31, 2021 AT 09:17AM</pubDate>
+            <description>Bitcoin, Crypto, NFT...che succede?</description>
         </item>
         <item>
-            <title>Matteo Flora - Migranti e riconoscimento facciale: lo studio di HermesCenter</title>
-            <link>https://www.youtube.com/watch?v=dZsgQWhMJn4</link>
-            <guid>https://www.youtube.com/watch?v=dZsgQWhMJn4</guid>
-            <pubDate>DECEMBER 6, 2021 AT 10:10AM</pubDate>
-            <description>Migranti e riconoscimento facciale: lo studio di HermesCenter</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - CLUBHOUSE STA MORENDO! E STICAZZI?!</title>
-            <link>https://www.youtube.com/watch?v=bw69Mw8S28c</link>
-            <guid>https://www.youtube.com/watch?v=bw69Mw8S28c</guid>
-            <pubDate>JUNE 15, 2021 AT 08:00AM</pubDate>
-            <description>CLUBHOUSE STA MORENDO! E STICAZZI?!</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Indovina quanto ha incassato Tim (il CEO di Apple)?</title>
-            <link>https://www.youtube.com/watch?v=H6n0ZQRvgJQ</link>
-            <guid>https://www.youtube.com/watch?v=H6n0ZQRvgJQ</guid>
-            <pubDate>AUGUST 28, 2021 AT 11:48PM</pubDate>
-            <description>Indovina quanto ha incassato Tim (il CEO di Apple)?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Su Competenze.com arriva Arturo Brachetti</title>
-            <link>https://www.youtube.com/watch?v=NdLL2nBJ24o</link>
-            <guid>https://www.youtube.com/watch?v=NdLL2nBJ24o</guid>
-            <pubDate>JUNE 7, 2021 AT 05:44PM</pubDate>
-            <description>Su Competenze.com arriva Arturo Brachetti</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Può una città diventare Blockchain &amp; Crypto-Friendly? Il caso Lugano</title>
-            <link>https://www.youtube.com/watch?v=p6hGdFXLmlc</link>
-            <guid>https://www.youtube.com/watch?v=p6hGdFXLmlc</guid>
-            <pubDate>DECEMBER 2, 2021 AT 03:00PM</pubDate>
-            <description>Può una città diventare Blockchain &amp; Crypto-Friendly? Il caso Lugano</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Il potere silenzioso dell&#39;incoraggiamento</title>
-            <link>https://www.youtube.com/watch?v=t7fgqz4CyEA</link>
-            <guid>https://www.youtube.com/watch?v=t7fgqz4CyEA</guid>
-            <pubDate>NOVEMBER 3, 2021 AT 10:17AM</pubDate>
-            <description>Il potere silenzioso dell&#39;incoraggiamento</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - I poveri hanno grandi televisori, i ricchi hanno grandi librerie</title>
-            <link>https://www.youtube.com/watch?v=QiOzbrEWnTs</link>
-            <guid>https://www.youtube.com/watch?v=QiOzbrEWnTs</guid>
-            <pubDate>OCTOBER 29, 2021 AT 01:30PM</pubDate>
-            <description>I poveri hanno grandi televisori, i ricchi hanno grandi librerie</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come integrare l&#39;Intelligenza artificiale e quella Umana?</title>
-            <link>https://www.youtube.com/watch?v=NYEKYvBJAg8</link>
-            <guid>https://www.youtube.com/watch?v=NYEKYvBJAg8</guid>
-            <pubDate>JUNE 24, 2021 AT 10:52PM</pubDate>
-            <description>Come integrare l&#39;Intelligenza artificiale e quella Umana?</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Cosa c&#39;è davvero dentro al QR code del Green Pass?</title>
-            <link>https://www.youtube.com/watch?v=4EW4WHiAv2A</link>
-            <guid>https://www.youtube.com/watch?v=4EW4WHiAv2A</guid>
-            <pubDate>JUNE 28, 2021 AT 11:01AM</pubDate>
-            <description>Cosa c&#39;è davvero dentro al QR code del Green Pass?</description>
-        </item>
-        <item>
-            <title>Matteo Flora - DAZN, il tradimento, la condivisione e #disdettaleotta</title>
-            <link>https://www.youtube.com/watch?v=2XRuazBEOrs</link>
-            <guid>https://www.youtube.com/watch?v=2XRuazBEOrs</guid>
-            <pubDate>NOVEMBER 10, 2021 AT 09:47AM</pubDate>
-            <description>DAZN, il tradimento, la condivisione e #disdettaleotta</description>
-        </item>
-        <item>
-            <title>Matteo Flora - I Social sono davvero gratis?</title>
-            <link>https://www.youtube.com/watch?v=oHomWnIXE4k</link>
-            <guid>https://www.youtube.com/watch?v=oHomWnIXE4k</guid>
-            <pubDate>JUNE 7, 2021 AT 08:30AM</pubDate>
-            <description>I Social sono davvero gratis?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Non ho parole...(poi però non lamentiamoci del lavoro) #shorts</title>
-            <link>https://www.youtube.com/watch?v=LAI3ksteXOM</link>
-            <guid>https://www.youtube.com/watch?v=LAI3ksteXOM</guid>
-            <pubDate>JUNE 24, 2021 AT 07:30PM</pubDate>
-            <description>Non ho parole...(poi però non lamentiamoci del lavoro) #shorts</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Perché l&#39;inclusione parte dal linguaggio?</title>
-            <link>https://www.youtube.com/watch?v=T63BFx9UUDI</link>
-            <guid>https://www.youtube.com/watch?v=T63BFx9UUDI</guid>
-            <pubDate>NOVEMBER 27, 2021 AT 03:00PM</pubDate>
-            <description>Perché l&#39;inclusione parte dal linguaggio?</description>
+            <title>Marco Montemagno - L&#39;intelligenza Artificiale sta aumentando la competitività aziendale</title>
+            <link>https://www.youtube.com/watch?v=qRpl-Q6a9x4</link>
+            <guid>https://www.youtube.com/watch?v=qRpl-Q6a9x4</guid>
+            <pubDate>JUNE 22, 2021 AT 10:36PM</pubDate>
+            <description>L&#39;intelligenza Artificiale sta aumentando la competitività aziendale</description>
         </item>
         <item>
             <title>Marco Montemagno - Crypto e arte con Clapis, Quaroni e Motta</title>
@@ -119,32 +35,116 @@
             <description>Crypto e arte con Clapis, Quaroni e Motta</description>
         </item>
         <item>
-            <title>Marco Montemagno - 11 principi FONDAMENTALI che dovresti tenere a mente ogni giorno...</title>
-            <link>https://www.youtube.com/watch?v=DQ15u56f-8k</link>
-            <guid>https://www.youtube.com/watch?v=DQ15u56f-8k</guid>
-            <pubDate>JULY 26, 2021 AT 04:39PM</pubDate>
-            <description>11 principi FONDAMENTALI che dovresti tenere a mente ogni giorno...</description>
+            <title>Marco Montemagno - Come fare una critica costruttiva in 4 passaggi</title>
+            <link>https://www.youtube.com/watch?v=YPyeigT3tUg</link>
+            <guid>https://www.youtube.com/watch?v=YPyeigT3tUg</guid>
+            <pubDate>AUGUST 19, 2021 AT 02:00PM</pubDate>
+            <description>Come fare una critica costruttiva in 4 passaggi</description>
         </item>
         <item>
-            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Alberto De Paoli, Enel</title>
-            <link>https://www.youtube.com/watch?v=MpxMDkbPCHE</link>
-            <guid>https://www.youtube.com/watch?v=MpxMDkbPCHE</guid>
-            <pubDate>SEPTEMBER 10, 2021 AT 12:41PM</pubDate>
-            <description>Cambiamento climatico, elettrificazione e dintorni con Alberto De Paoli, Enel</description>
+            <title>Giorgio Taverniti - L&#39;importanza fondamentale del Search Intent per la SEO - con Gianluca Fiorelli</title>
+            <link>https://www.youtube.com/watch?v=6u04ojYeXIw</link>
+            <guid>https://www.youtube.com/watch?v=6u04ojYeXIw</guid>
+            <pubDate>MAY 19, 2021 AT 07:30AM</pubDate>
+            <description>L&#39;importanza fondamentale del Search Intent per la SEO - con Gianluca Fiorelli</description>
         </item>
         <item>
-            <title>Raffaele Gaito - ANSIA DA PRESTAZIONE: COME SUPERARLA</title>
-            <link>https://www.youtube.com/watch?v=0tNBIvO5mX8</link>
-            <guid>https://www.youtube.com/watch?v=0tNBIvO5mX8</guid>
-            <pubDate>JUNE 29, 2021 AT 08:00AM</pubDate>
-            <description>ANSIA DA PRESTAZIONE: COME SUPERARLA</description>
+            <title>Matteo Flora - Il Suicidio dei 5 Stelle: l’incompetenza di #Crimi, il #Regolamento, #Rousseau e #Casaleggio rischia</title>
+            <link>https://www.youtube.com/watch?v=7KqQIHrBHgk</link>
+            <guid>https://www.youtube.com/watch?v=7KqQIHrBHgk</guid>
+            <pubDate>MAY 6, 2021 AT 09:22AM</pubDate>
+            <description>Il Suicidio dei 5 Stelle: l’incompetenza di #Crimi, il #Regolamento, #Rousseau e #Casaleggio rischia</description>
         </item>
         <item>
-            <title>Rudy Bandiera - È innovazione o una stupidaggine incomprensibile?</title>
-            <link>https://www.youtube.com/watch?v=UcH5m0_EdYA</link>
-            <guid>https://www.youtube.com/watch?v=UcH5m0_EdYA</guid>
-            <pubDate>JANUARY 31, 2022 AT 09:59AM</pubDate>
-            <description>È innovazione o una stupidaggine incomprensibile?</description>
+            <title>Matteo Flora - Perché non ci sono le foto dei link su Facebook? La Direttiva Europea Copyright EUCD con Lucia Maggi</title>
+            <link>https://www.youtube.com/watch?v=OhQPE0oV9Rk</link>
+            <guid>https://www.youtube.com/watch?v=OhQPE0oV9Rk</guid>
+            <pubDate>DECEMBER 15, 2021 AT 08:30AM</pubDate>
+            <description>Perché non ci sono le foto dei link su Facebook? La Direttiva Europea Copyright EUCD con Lucia Maggi</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - Riusciresti a videogiocare solo tre ore a settimana?</title>
+            <link>https://www.youtube.com/watch?v=fiU3R1Eav5U</link>
+            <guid>https://www.youtube.com/watch?v=fiU3R1Eav5U</guid>
+            <pubDate>DECEMBER 1, 2021 AT 09:07AM</pubDate>
+            <description>Riusciresti a videogiocare solo tre ore a settimana?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Cambi opinione se cambiano i fatti?</title>
+            <link>https://www.youtube.com/watch?v=3SeyKwgCqwY</link>
+            <guid>https://www.youtube.com/watch?v=3SeyKwgCqwY</guid>
+            <pubDate>JUNE 6, 2021 AT 03:52PM</pubDate>
+            <description>Cambi opinione se cambiano i fatti?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Se tornassi indietro, mi darei 4 suggerimenti ...</title>
+            <link>https://www.youtube.com/watch?v=jiXxdciVWTE</link>
+            <guid>https://www.youtube.com/watch?v=jiXxdciVWTE</guid>
+            <pubDate>AUGUST 21, 2021 AT 01:00PM</pubDate>
+            <description>Se tornassi indietro, mi darei 4 suggerimenti ...</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Come faccio a tutelare legalmente il mio e-commerce?</title>
+            <link>https://www.youtube.com/watch?v=Uwdp3sZpQVc</link>
+            <guid>https://www.youtube.com/watch?v=Uwdp3sZpQVc</guid>
+            <pubDate>NOVEMBER 24, 2021 AT 10:55AM</pubDate>
+            <description>Come faccio a tutelare legalmente il mio e-commerce?</description>
+        </item>
+        <item>
+            <title>Matteo Flora - DAZN per gli abbonamenti torna sui suoi passi... Con la coda tra le gambe...</title>
+            <link>https://www.youtube.com/watch?v=-3JWL3_CFHQ</link>
+            <guid>https://www.youtube.com/watch?v=-3JWL3_CFHQ</guid>
+            <pubDate>NOVEMBER 16, 2021 AT 07:45AM</pubDate>
+            <description>DAZN per gli abbonamenti torna sui suoi passi... Con la coda tra le gambe...</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Food Talks dal 17 al 21 maggio in collaborazione con San Pellegrino</title>
+            <link>https://www.youtube.com/watch?v=3qSaCLTZLTk</link>
+            <guid>https://www.youtube.com/watch?v=3qSaCLTZLTk</guid>
+            <pubDate>MAY 15, 2021 AT 09:29PM</pubDate>
+            <description>Food Talks dal 17 al 21 maggio in collaborazione con San Pellegrino</description>
+        </item>
+        <item>
+            <title>Matteo Flora - AMAZON: multa da UN MILIARDO per posizione dominante. Ne parliamo con @quinta!</title>
+            <link>https://www.youtube.com/watch?v=3iXcHypkMR4</link>
+            <guid>https://www.youtube.com/watch?v=3iXcHypkMR4</guid>
+            <pubDate>DECEMBER 10, 2021 AT 08:30AM</pubDate>
+            <description>AMAZON: multa da UN MILIARDO per posizione dominante. Ne parliamo con @quinta!</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - I Social ... GRAVEMENTE alla ...?</title>
+            <link>https://www.youtube.com/watch?v=e2UiZNgdA9A</link>
+            <guid>https://www.youtube.com/watch?v=e2UiZNgdA9A</guid>
+            <pubDate>SEPTEMBER 16, 2021 AT 04:39PM</pubDate>
+            <description>I Social ... GRAVEMENTE alla ...?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Acquistare terreni nel metaverso è un buon investimento?</title>
+            <link>https://www.youtube.com/watch?v=_2LL95XD5vQ</link>
+            <guid>https://www.youtube.com/watch?v=_2LL95XD5vQ</guid>
+            <pubDate>DECEMBER 15, 2021 AT 12:30PM</pubDate>
+            <description>Acquistare terreni nel metaverso è un buon investimento?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Come imparare qualsiasi cosa più velocemente?</title>
+            <link>https://www.youtube.com/watch?v=ty8QuKwTivM</link>
+            <guid>https://www.youtube.com/watch?v=ty8QuKwTivM</guid>
+            <pubDate>OCTOBER 25, 2021 AT 01:30PM</pubDate>
+            <description>Come imparare qualsiasi cosa più velocemente?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Chi è causa del suo mal...</title>
+            <link>https://www.youtube.com/watch?v=xdobxcYfwd8</link>
+            <guid>https://www.youtube.com/watch?v=xdobxcYfwd8</guid>
+            <pubDate>NOVEMBER 22, 2021 AT 01:00PM</pubDate>
+            <description>Chi è causa del suo mal...</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Perché Facebook cambia nome?</title>
+            <link>https://www.youtube.com/watch?v=lD92uGvMV4g</link>
+            <guid>https://www.youtube.com/watch?v=lD92uGvMV4g</guid>
+            <pubDate>OCTOBER 22, 2021 AT 12:00PM</pubDate>
+            <description>Perché Facebook cambia nome?</description>
         </item>
     </channel>
 </rss>
