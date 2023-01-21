@@ -5,118 +5,27 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Fri, 20 Jan 2023 13:22:36 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jan 2023 13:18:12 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - Alberto Forchielli su Competenze.it (live)</title>
-            <link>https://www.youtube.com/watch?v=wzOizPfkU_4</link>
-            <guid>https://www.youtube.com/watch?v=wzOizPfkU_4</guid>
-            <pubDate>JULY 5, 2021 AT 08:48AM</pubDate>
-            <description>Alberto Forchielli su Competenze.it (live)</description>
+            <title>Marco Montemagno - Perché all&#39;uomo più ricco del mondo non frega niente dei soldi</title>
+            <link>https://www.youtube.com/watch?v=0kQeNmd8In0</link>
+            <guid>https://www.youtube.com/watch?v=0kQeNmd8In0</guid>
+            <pubDate>NOVEMBER 4, 2021 AT 02:02PM</pubDate>
+            <description>Perché all&#39;uomo più ricco del mondo non frega niente dei soldi</description>
         </item>
         <item>
-            <title>Marco Montemagno - Bitcoin, Crypto, NFT...che succede?</title>
-            <link>https://www.youtube.com/watch?v=iwQL8AdTEXk</link>
-            <guid>https://www.youtube.com/watch?v=iwQL8AdTEXk</guid>
-            <pubDate>MAY 31, 2021 AT 09:17AM</pubDate>
-            <description>Bitcoin, Crypto, NFT...che succede?</description>
+            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Emanuele Bompan</title>
+            <link>https://www.youtube.com/watch?v=iGMl-9DQLCo</link>
+            <guid>https://www.youtube.com/watch?v=iGMl-9DQLCo</guid>
+            <pubDate>SEPTEMBER 9, 2021 AT 07:07PM</pubDate>
+            <description>Cambiamento climatico, elettrificazione e dintorni con Emanuele Bompan</description>
         </item>
         <item>
-            <title>Marco Montemagno - L&#39;intelligenza Artificiale sta aumentando la competitività aziendale</title>
-            <link>https://www.youtube.com/watch?v=qRpl-Q6a9x4</link>
-            <guid>https://www.youtube.com/watch?v=qRpl-Q6a9x4</guid>
-            <pubDate>JUNE 22, 2021 AT 10:36PM</pubDate>
-            <description>L&#39;intelligenza Artificiale sta aumentando la competitività aziendale</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Crypto e arte con Clapis, Quaroni e Motta</title>
-            <link>https://www.youtube.com/watch?v=U0bKiKzEHjA</link>
-            <guid>https://www.youtube.com/watch?v=U0bKiKzEHjA</guid>
-            <pubDate>NOVEMBER 29, 2021 AT 03:00PM</pubDate>
-            <description>Crypto e arte con Clapis, Quaroni e Motta</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come fare una critica costruttiva in 4 passaggi</title>
-            <link>https://www.youtube.com/watch?v=YPyeigT3tUg</link>
-            <guid>https://www.youtube.com/watch?v=YPyeigT3tUg</guid>
-            <pubDate>AUGUST 19, 2021 AT 02:00PM</pubDate>
-            <description>Come fare una critica costruttiva in 4 passaggi</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - L&#39;importanza fondamentale del Search Intent per la SEO - con Gianluca Fiorelli</title>
-            <link>https://www.youtube.com/watch?v=6u04ojYeXIw</link>
-            <guid>https://www.youtube.com/watch?v=6u04ojYeXIw</guid>
-            <pubDate>MAY 19, 2021 AT 07:30AM</pubDate>
-            <description>L&#39;importanza fondamentale del Search Intent per la SEO - con Gianluca Fiorelli</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Il Suicidio dei 5 Stelle: l’incompetenza di #Crimi, il #Regolamento, #Rousseau e #Casaleggio rischia</title>
-            <link>https://www.youtube.com/watch?v=7KqQIHrBHgk</link>
-            <guid>https://www.youtube.com/watch?v=7KqQIHrBHgk</guid>
-            <pubDate>MAY 6, 2021 AT 09:22AM</pubDate>
-            <description>Il Suicidio dei 5 Stelle: l’incompetenza di #Crimi, il #Regolamento, #Rousseau e #Casaleggio rischia</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Perché non ci sono le foto dei link su Facebook? La Direttiva Europea Copyright EUCD con Lucia Maggi</title>
-            <link>https://www.youtube.com/watch?v=OhQPE0oV9Rk</link>
-            <guid>https://www.youtube.com/watch?v=OhQPE0oV9Rk</guid>
-            <pubDate>DECEMBER 15, 2021 AT 08:30AM</pubDate>
-            <description>Perché non ci sono le foto dei link su Facebook? La Direttiva Europea Copyright EUCD con Lucia Maggi</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - Riusciresti a videogiocare solo tre ore a settimana?</title>
-            <link>https://www.youtube.com/watch?v=fiU3R1Eav5U</link>
-            <guid>https://www.youtube.com/watch?v=fiU3R1Eav5U</guid>
-            <pubDate>DECEMBER 1, 2021 AT 09:07AM</pubDate>
-            <description>Riusciresti a videogiocare solo tre ore a settimana?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Cambi opinione se cambiano i fatti?</title>
-            <link>https://www.youtube.com/watch?v=3SeyKwgCqwY</link>
-            <guid>https://www.youtube.com/watch?v=3SeyKwgCqwY</guid>
-            <pubDate>JUNE 6, 2021 AT 03:52PM</pubDate>
-            <description>Cambi opinione se cambiano i fatti?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Se tornassi indietro, mi darei 4 suggerimenti ...</title>
-            <link>https://www.youtube.com/watch?v=jiXxdciVWTE</link>
-            <guid>https://www.youtube.com/watch?v=jiXxdciVWTE</guid>
-            <pubDate>AUGUST 21, 2021 AT 01:00PM</pubDate>
-            <description>Se tornassi indietro, mi darei 4 suggerimenti ...</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come faccio a tutelare legalmente il mio e-commerce?</title>
-            <link>https://www.youtube.com/watch?v=Uwdp3sZpQVc</link>
-            <guid>https://www.youtube.com/watch?v=Uwdp3sZpQVc</guid>
-            <pubDate>NOVEMBER 24, 2021 AT 10:55AM</pubDate>
-            <description>Come faccio a tutelare legalmente il mio e-commerce?</description>
-        </item>
-        <item>
-            <title>Matteo Flora - DAZN per gli abbonamenti torna sui suoi passi... Con la coda tra le gambe...</title>
-            <link>https://www.youtube.com/watch?v=-3JWL3_CFHQ</link>
-            <guid>https://www.youtube.com/watch?v=-3JWL3_CFHQ</guid>
-            <pubDate>NOVEMBER 16, 2021 AT 07:45AM</pubDate>
-            <description>DAZN per gli abbonamenti torna sui suoi passi... Con la coda tra le gambe...</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Food Talks dal 17 al 21 maggio in collaborazione con San Pellegrino</title>
-            <link>https://www.youtube.com/watch?v=3qSaCLTZLTk</link>
-            <guid>https://www.youtube.com/watch?v=3qSaCLTZLTk</guid>
-            <pubDate>MAY 15, 2021 AT 09:29PM</pubDate>
-            <description>Food Talks dal 17 al 21 maggio in collaborazione con San Pellegrino</description>
-        </item>
-        <item>
-            <title>Matteo Flora - AMAZON: multa da UN MILIARDO per posizione dominante. Ne parliamo con @quinta!</title>
-            <link>https://www.youtube.com/watch?v=3iXcHypkMR4</link>
-            <guid>https://www.youtube.com/watch?v=3iXcHypkMR4</guid>
-            <pubDate>DECEMBER 10, 2021 AT 08:30AM</pubDate>
-            <description>AMAZON: multa da UN MILIARDO per posizione dominante. Ne parliamo con @quinta!</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - I Social ... GRAVEMENTE alla ...?</title>
-            <link>https://www.youtube.com/watch?v=e2UiZNgdA9A</link>
-            <guid>https://www.youtube.com/watch?v=e2UiZNgdA9A</guid>
-            <pubDate>SEPTEMBER 16, 2021 AT 04:39PM</pubDate>
-            <description>I Social ... GRAVEMENTE alla ...?</description>
+            <title>Marco Montemagno - 5 curiosità che forse non sapevi sulle Olimpiadi 2021</title>
+            <link>https://www.youtube.com/watch?v=_88OlO2xCfs</link>
+            <guid>https://www.youtube.com/watch?v=_88OlO2xCfs</guid>
+            <pubDate>JULY 24, 2021 AT 04:04PM</pubDate>
+            <description>5 curiosità che forse non sapevi sulle Olimpiadi 2021</description>
         </item>
         <item>
             <title>Marco Montemagno - Acquistare terreni nel metaverso è un buon investimento?</title>
@@ -126,25 +35,116 @@
             <description>Acquistare terreni nel metaverso è un buon investimento?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come imparare qualsiasi cosa più velocemente?</title>
-            <link>https://www.youtube.com/watch?v=ty8QuKwTivM</link>
-            <guid>https://www.youtube.com/watch?v=ty8QuKwTivM</guid>
-            <pubDate>OCTOBER 25, 2021 AT 01:30PM</pubDate>
-            <description>Come imparare qualsiasi cosa più velocemente?</description>
+            <title>Marco Montemagno - Monty: il meglio del 2021</title>
+            <link>https://www.youtube.com/watch?v=LdRuTSAC14g</link>
+            <guid>https://www.youtube.com/watch?v=LdRuTSAC14g</guid>
+            <pubDate>DECEMBER 30, 2021 AT 01:30PM</pubDate>
+            <description>Monty: il meglio del 2021</description>
         </item>
         <item>
-            <title>Marco Montemagno - Chi è causa del suo mal...</title>
-            <link>https://www.youtube.com/watch?v=xdobxcYfwd8</link>
-            <guid>https://www.youtube.com/watch?v=xdobxcYfwd8</guid>
-            <pubDate>NOVEMBER 22, 2021 AT 01:00PM</pubDate>
-            <description>Chi è causa del suo mal...</description>
+            <title>Marco Montemagno - &quot;Se sei un cavernicolo nulla è una risorsa&quot;, Naval</title>
+            <link>https://www.youtube.com/watch?v=-0Q98Xk-r6Y</link>
+            <guid>https://www.youtube.com/watch?v=-0Q98Xk-r6Y</guid>
+            <pubDate>DECEMBER 28, 2021 AT 02:00PM</pubDate>
+            <description>&quot;Se sei un cavernicolo nulla è una risorsa&quot;, Naval</description>
         </item>
         <item>
-            <title>Marco Montemagno - Perché Facebook cambia nome?</title>
-            <link>https://www.youtube.com/watch?v=lD92uGvMV4g</link>
-            <guid>https://www.youtube.com/watch?v=lD92uGvMV4g</guid>
-            <pubDate>OCTOBER 22, 2021 AT 12:00PM</pubDate>
-            <description>Perché Facebook cambia nome?</description>
+            <title>Marco Montemagno - 4 chiacchiere con Francesco Vena (Amaro Lucano)</title>
+            <link>https://www.youtube.com/watch?v=14sNwIMDd8M</link>
+            <guid>https://www.youtube.com/watch?v=14sNwIMDd8M</guid>
+            <pubDate>JUNE 16, 2021 AT 12:09PM</pubDate>
+            <description>4 chiacchiere con Francesco Vena (Amaro Lucano)</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Quali sfide per la Privacy nel 2022? Ne parliamo con Guido Scorza!</title>
+            <link>https://www.youtube.com/watch?v=HTzBi89B41I</link>
+            <guid>https://www.youtube.com/watch?v=HTzBi89B41I</guid>
+            <pubDate>SEPTEMBER 6, 2021 AT 03:30PM</pubDate>
+            <description>Quali sfide per la Privacy nel 2022? Ne parliamo con Guido Scorza!</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Regno Unito, che succede? Tra pandemia, Europei, Wimbledon e mamma di Goldrake</title>
+            <link>https://www.youtube.com/watch?v=p8T9APORrsw</link>
+            <guid>https://www.youtube.com/watch?v=p8T9APORrsw</guid>
+            <pubDate>JULY 8, 2021 AT 07:27PM</pubDate>
+            <description>Regno Unito, che succede? Tra pandemia, Europei, Wimbledon e mamma di Goldrake</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Come posizionarti BENE sui motori di ricerca anche se non sei un esperto</title>
+            <link>https://www.youtube.com/watch?v=OHMTJbysKyg</link>
+            <guid>https://www.youtube.com/watch?v=OHMTJbysKyg</guid>
+            <pubDate>DECEMBER 14, 2021 AT 12:00PM</pubDate>
+            <description>Come posizionarti BENE sui motori di ricerca anche se non sei un esperto</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Come hanno fatto a convincerti?</title>
+            <link>https://www.youtube.com/watch?v=4gzdjg-CSOU</link>
+            <guid>https://www.youtube.com/watch?v=4gzdjg-CSOU</guid>
+            <pubDate>DECEMBER 9, 2021 AT 06:49PM</pubDate>
+            <description>Come hanno fatto a convincerti?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Videoconferenze/Videochiamate a tutta follia!</title>
+            <link>https://www.youtube.com/watch?v=rYu7qZBPT6Q</link>
+            <guid>https://www.youtube.com/watch?v=rYu7qZBPT6Q</guid>
+            <pubDate>MAY 5, 2021 AT 05:29PM</pubDate>
+            <description>Videoconferenze/Videochiamate a tutta follia!</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Print on demand: cos&#39;è e perché rivoluzionerà il modo di vendere</title>
+            <link>https://www.youtube.com/watch?v=D4Py1HjmNTw</link>
+            <guid>https://www.youtube.com/watch?v=D4Py1HjmNTw</guid>
+            <pubDate>SEPTEMBER 24, 2021 AT 02:41PM</pubDate>
+            <description>Print on demand: cos&#39;è e perché rivoluzionerà il modo di vendere</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Tutto sul Google Page Experience con Andrea Pernici</title>
+            <link>https://www.youtube.com/watch?v=v4kl9R4zM7o</link>
+            <guid>https://www.youtube.com/watch?v=v4kl9R4zM7o</guid>
+            <pubDate>JUNE 29, 2021 AT 09:17AM</pubDate>
+            <description>Tutto sul Google Page Experience con Andrea Pernici</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Facebook spegne, come IBM, il riconoscimento facciale. Perché?</title>
+            <link>https://www.youtube.com/watch?v=laZVDIEt6CA</link>
+            <guid>https://www.youtube.com/watch?v=laZVDIEt6CA</guid>
+            <pubDate>NOVEMBER 3, 2021 AT 09:18AM</pubDate>
+            <description>Facebook spegne, come IBM, il riconoscimento facciale. Perché?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Vincenzo Tiana, Legambiente</title>
+            <link>https://www.youtube.com/watch?v=jV0bDd36R5I</link>
+            <guid>https://www.youtube.com/watch?v=jV0bDd36R5I</guid>
+            <pubDate>SEPTEMBER 8, 2021 AT 08:18PM</pubDate>
+            <description>Cambiamento climatico, elettrificazione e dintorni con Vincenzo Tiana, Legambiente</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Tutto quello che avresti sempre voluto sapere sull&#39;Idrogeno e sull&#39;Elettrificazione</title>
+            <link>https://www.youtube.com/watch?v=7h9FenptPBo</link>
+            <guid>https://www.youtube.com/watch?v=7h9FenptPBo</guid>
+            <pubDate>JULY 9, 2021 AT 10:00AM</pubDate>
+            <description>Tutto quello che avresti sempre voluto sapere sull&#39;Idrogeno e sull&#39;Elettrificazione</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - UN'ESPERIENZA UNICA DI FORMAZIONE: GROWTH PROGRAM</title>
+            <link>https://www.youtube.com/watch?v=sgy6Zqylna8</link>
+            <guid>https://www.youtube.com/watch?v=sgy6Zqylna8</guid>
+            <pubDate>FEBRUARY 17, 2021 AT 08:00AM</pubDate>
+            <description>UN'ESPERIENZA UNICA DI FORMAZIONE: GROWTH PROGRAM</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Lo sapevi che in realtà è possibile dire: &quot;non ne so abbastanza per avere una opinione&quot;- Feynman</title>
+            <link>https://www.youtube.com/watch?v=bSH180tfyLU</link>
+            <guid>https://www.youtube.com/watch?v=bSH180tfyLU</guid>
+            <pubDate>AUGUST 14, 2021 AT 01:00PM</pubDate>
+            <description>Lo sapevi che in realtà è possibile dire: &quot;non ne so abbastanza per avere una opinione&quot;- Feynman</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Nasce Monty Lab (NFT) - 10.000 Furie Straordinarie!</title>
+            <link>https://www.youtube.com/watch?v=vjLuPuOxyvA</link>
+            <guid>https://www.youtube.com/watch?v=vjLuPuOxyvA</guid>
+            <pubDate>JANUARY 20, 2022 AT 12:40PM</pubDate>
+            <description>Nasce Monty Lab (NFT) - 10.000 Furie Straordinarie!</description>
         </item>
     </channel>
 </rss>
