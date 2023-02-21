@@ -5,83 +5,20 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Mon, 20 Feb 2023 13:24:02 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 13:23:54 +0000</lastBuildDate>
         <item>
-            <title>Rudy Bandiera - Destiny 2 - tutorial neofita 1</title>
-            <link>https://www.youtube.com/watch?v=DCnlBqtqwc4</link>
-            <guid>https://www.youtube.com/watch?v=DCnlBqtqwc4</guid>
-            <pubDate>JANUARY 3, 2022 AT 05:40PM</pubDate>
-            <description>Destiny 2 - tutorial neofita 1</description>
+            <title>Matteo Flora - Log4j e Log4Shell: tutto quello da sapere sulla vulnerabilità 0-day con Stefano @raistolo Zanero</title>
+            <link>https://www.youtube.com/watch?v=vOo982VdHM0</link>
+            <guid>https://www.youtube.com/watch?v=vOo982VdHM0</guid>
+            <pubDate>DECEMBER 12, 2021 AT 06:32PM</pubDate>
+            <description>Log4j e Log4Shell: tutto quello da sapere sulla vulnerabilità 0-day con Stefano @raistolo Zanero</description>
         </item>
         <item>
-            <title>Matteo Flora - Robert Kennedy jr, Anna Frank, i no-vax e l&#39;olocausto: perché non accettare le scuse</title>
-            <link>https://www.youtube.com/watch?v=Spb9UN1es44</link>
-            <guid>https://www.youtube.com/watch?v=Spb9UN1es44</guid>
-            <pubDate>JANUARY 26, 2022 AT 07:42PM</pubDate>
-            <description>Robert Kennedy jr, Anna Frank, i no-vax e l&#39;olocausto: perché non accettare le scuse</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - QUAL È IL TUO PERCHÉ?!</title>
-            <link>https://www.youtube.com/watch?v=ZO20C81PxjM</link>
-            <guid>https://www.youtube.com/watch?v=ZO20C81PxjM</guid>
-            <pubDate>JUNE 2, 2021 AT 08:00AM</pubDate>
-            <description>QUAL È IL TUO PERCHÉ?!</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Può una città diventare Blockchain &amp; Crypto-Friendly? Il caso Lugano</title>
-            <link>https://www.youtube.com/watch?v=p6hGdFXLmlc</link>
-            <guid>https://www.youtube.com/watch?v=p6hGdFXLmlc</guid>
-            <pubDate>DECEMBER 2, 2021 AT 03:00PM</pubDate>
-            <description>Può una città diventare Blockchain &amp; Crypto-Friendly? Il caso Lugano</description>
-        </item>
-        <item>
-            <title>Matteo Flora - [LIVE] - &quot;Il Diritto di Non-Opinione&quot;, Ciao Internet in DIRETTA 🔥</title>
-            <link>https://www.youtube.com/watch?v=TeJbW9ud8K4</link>
-            <guid>https://www.youtube.com/watch?v=TeJbW9ud8K4</guid>
-            <pubDate>MAY 7, 2021 AT 11:36AM</pubDate>
-            <description>[LIVE] - &quot;Il Diritto di Non-Opinione&quot;, Ciao Internet in DIRETTA 🔥</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - All&#39;inizio fai schifo (e va bene così)</title>
-            <link>https://www.youtube.com/watch?v=ynyNuLKJzHk</link>
-            <guid>https://www.youtube.com/watch?v=ynyNuLKJzHk</guid>
-            <pubDate>OCTOBER 18, 2021 AT 01:00PM</pubDate>
-            <description>All&#39;inizio fai schifo (e va bene così)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Tennis! Riccardo Piatti su Competenze.it (live)</title>
-            <link>https://www.youtube.com/watch?v=B5JblZBlS-A</link>
-            <guid>https://www.youtube.com/watch?v=B5JblZBlS-A</guid>
-            <pubDate>JUNE 21, 2021 AT 12:22PM</pubDate>
-            <description>Tennis! Riccardo Piatti su Competenze.it (live)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - La Cina contro i social: non più di 40 minuti al giorno</title>
-            <link>https://www.youtube.com/watch?v=m311XQavGqE</link>
-            <guid>https://www.youtube.com/watch?v=m311XQavGqE</guid>
-            <pubDate>SEPTEMBER 21, 2021 AT 04:53PM</pubDate>
-            <description>La Cina contro i social: non più di 40 minuti al giorno</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Il Chief Innovation Officer (CINO): chi è e cosa fa in azienda con Stefano Denicolai</title>
-            <link>https://www.youtube.com/watch?v=cR0_IyWoWqY</link>
-            <guid>https://www.youtube.com/watch?v=cR0_IyWoWqY</guid>
-            <pubDate>DECEMBER 29, 2021 AT 12:32PM</pubDate>
-            <description>Il Chief Innovation Officer (CINO): chi è e cosa fa in azienda con Stefano Denicolai</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Nicola Armaroli, CNR</title>
-            <link>https://www.youtube.com/watch?v=d6VURF9jGQk</link>
-            <guid>https://www.youtube.com/watch?v=d6VURF9jGQk</guid>
-            <pubDate>SEPTEMBER 6, 2021 AT 05:59PM</pubDate>
-            <description>Cambiamento climatico, elettrificazione e dintorni con Nicola Armaroli, CNR</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Il Regno Unito riapre tutto (nonostante i contagi in crescita): via mascherine e restrizioni</title>
-            <link>https://www.youtube.com/watch?v=PcTg406tjqk</link>
-            <guid>https://www.youtube.com/watch?v=PcTg406tjqk</guid>
-            <pubDate>JULY 19, 2021 AT 01:40PM</pubDate>
-            <description>Il Regno Unito riapre tutto (nonostante i contagi in crescita): via mascherine e restrizioni</description>
+            <title>Matteo Flora - Facebook e Instagram a pagamento per colpa di Apple?</title>
+            <link>https://www.youtube.com/watch?v=JngaCH8MmGM</link>
+            <guid>https://www.youtube.com/watch?v=JngaCH8MmGM</guid>
+            <pubDate>MAY 4, 2021 AT 08:00AM</pubDate>
+            <description>Facebook e Instagram a pagamento per colpa di Apple?</description>
         </item>
         <item>
             <title>Marco Montemagno - Marco Montemagno...ma chi è? Che mestiere fa? Da dove arriva?</title>
@@ -91,60 +28,123 @@
             <description>Marco Montemagno...ma chi è? Che mestiere fa? Da dove arriva?</description>
         </item>
         <item>
-            <title>Marco Montemagno - I colossi Crypto alla conquista del mondo</title>
-            <link>https://www.youtube.com/watch?v=3qYCDik9kgc</link>
-            <guid>https://www.youtube.com/watch?v=3qYCDik9kgc</guid>
-            <pubDate>NOVEMBER 17, 2021 AT 03:30PM</pubDate>
-            <description>I colossi Crypto alla conquista del mondo</description>
+            <title>Marco Montemagno - Competenze.it e dintorni - 4 chiacchiere con Enrico Bertolino</title>
+            <link>https://www.youtube.com/watch?v=GHB0-bpEJnU</link>
+            <guid>https://www.youtube.com/watch?v=GHB0-bpEJnU</guid>
+            <pubDate>MAY 19, 2021 AT 12:15PM</pubDate>
+            <description>Competenze.it e dintorni - 4 chiacchiere con Enrico Bertolino</description>
         </item>
         <item>
-            <title>Marco Montemagno - È Finita?</title>
-            <link>https://www.youtube.com/watch?v=LzcM-nLZXWc</link>
-            <guid>https://www.youtube.com/watch?v=LzcM-nLZXWc</guid>
-            <pubDate>JUNE 13, 2021 AT 05:17PM</pubDate>
-            <description>È Finita?</description>
+            <title>Marco Montemagno - TUTTO quello che devi sapere per comprare un NFT (Guida completa con Marco Crotta) #NFTDAY</title>
+            <link>https://www.youtube.com/watch?v=CL_nHn9P3Qw</link>
+            <guid>https://www.youtube.com/watch?v=CL_nHn9P3Qw</guid>
+            <pubDate>FEBRUARY 1, 2022 AT 09:48AM</pubDate>
+            <description>TUTTO quello che devi sapere per comprare un NFT (Guida completa con Marco Crotta) #NFTDAY</description>
         </item>
         <item>
-            <title>Marco Montemagno - Indovina quanto ha incassato Tim (il CEO di Apple)?</title>
-            <link>https://www.youtube.com/watch?v=H6n0ZQRvgJQ</link>
-            <guid>https://www.youtube.com/watch?v=H6n0ZQRvgJQ</guid>
-            <pubDate>AUGUST 28, 2021 AT 11:48PM</pubDate>
-            <description>Indovina quanto ha incassato Tim (il CEO di Apple)?</description>
+            <title>Marco Montemagno - Cosa pensi che sia INEVITABILE?</title>
+            <link>https://www.youtube.com/watch?v=rCutCCKVYy4</link>
+            <guid>https://www.youtube.com/watch?v=rCutCCKVYy4</guid>
+            <pubDate>DECEMBER 16, 2021 AT 09:00AM</pubDate>
+            <description>Cosa pensi che sia INEVITABILE?</description>
         </item>
         <item>
-            <title>Marco Montemagno - 5 curiosità che forse non sapevi sulle Olimpiadi 2021</title>
-            <link>https://www.youtube.com/watch?v=_88OlO2xCfs</link>
-            <guid>https://www.youtube.com/watch?v=_88OlO2xCfs</guid>
-            <pubDate>JULY 24, 2021 AT 04:04PM</pubDate>
-            <description>5 curiosità che forse non sapevi sulle Olimpiadi 2021</description>
+            <title>Marco Montemagno - Ristorazione: come uscire dalla crisi? Con Martino de Rosa (Carmen)</title>
+            <link>https://www.youtube.com/watch?v=8FGM1Rt6A-A</link>
+            <guid>https://www.youtube.com/watch?v=8FGM1Rt6A-A</guid>
+            <pubDate>MAY 18, 2021 AT 10:41PM</pubDate>
+            <description>Ristorazione: come uscire dalla crisi? Con Martino de Rosa (Carmen)</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Amazon si prende lo sport: dopo la Champions il basket, trasmetterà i giochi WNBA</title>
-            <link>https://www.youtube.com/watch?v=ivZIu3EYprc</link>
-            <guid>https://www.youtube.com/watch?v=ivZIu3EYprc</guid>
-            <pubDate>MAY 19, 2021 AT 08:45AM</pubDate>
-            <description>Amazon si prende lo sport: dopo la Champions il basket, trasmetterà i giochi WNBA</description>
+            <title>Marco Montemagno - Faccio del mio meglio</title>
+            <link>https://www.youtube.com/watch?v=spTgt4VkeHo</link>
+            <guid>https://www.youtube.com/watch?v=spTgt4VkeHo</guid>
+            <pubDate>MAY 28, 2021 AT 06:55PM</pubDate>
+            <description>Faccio del mio meglio</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Parlando del futuro dei videogame e di PS5</title>
-            <link>https://www.youtube.com/watch?v=a9PyCx8iYaM</link>
-            <guid>https://www.youtube.com/watch?v=a9PyCx8iYaM</guid>
-            <pubDate>FEBRUARY 7, 2022 AT 10:22AM</pubDate>
-            <description>Parlando del futuro dei videogame e di PS5</description>
+            <title>Marco Montemagno - Come trovare investitori</title>
+            <link>https://www.youtube.com/watch?v=pthoU5mxG3U</link>
+            <guid>https://www.youtube.com/watch?v=pthoU5mxG3U</guid>
+            <pubDate>DECEMBER 13, 2021 AT 12:00PM</pubDate>
+            <description>Come trovare investitori</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Instagram: come funzionano gli algoritmi dei Reel, Esplora, Feed e Stories!</title>
-            <link>https://www.youtube.com/watch?v=3trkEyOpeZ4</link>
-            <guid>https://www.youtube.com/watch?v=3trkEyOpeZ4</guid>
-            <pubDate>JUNE 14, 2021 AT 07:30AM</pubDate>
-            <description>Instagram: come funzionano gli algoritmi dei Reel, Esplora, Feed e Stories!</description>
+            <title>Marco Montemagno - Cos&#39;è un Wallet e come aprirne uno (se vuoi avere i miei NFT)</title>
+            <link>https://www.youtube.com/watch?v=3UFq1YVT-ko</link>
+            <guid>https://www.youtube.com/watch?v=3UFq1YVT-ko</guid>
+            <pubDate>JANUARY 25, 2022 AT 01:00PM</pubDate>
+            <description>Cos&#39;è un Wallet e come aprirne uno (se vuoi avere i miei NFT)</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Che news dalle Web Stories: sondaggi, quiz e stories a 360°!</title>
-            <link>https://www.youtube.com/watch?v=u6FhVqkDF1o</link>
-            <guid>https://www.youtube.com/watch?v=u6FhVqkDF1o</guid>
-            <pubDate>MAY 27, 2021 AT 07:30AM</pubDate>
-            <description>Che news dalle Web Stories: sondaggi, quiz e stories a 360°!</description>
+            <title>Marco Montemagno - Radiografica di un e-commerce: dalla strategia alla tecnologia</title>
+            <link>https://www.youtube.com/watch?v=YYstLN0ahjo</link>
+            <guid>https://www.youtube.com/watch?v=YYstLN0ahjo</guid>
+            <pubDate>FEBRUARY 8, 2022 AT 06:49PM</pubDate>
+            <description>Radiografica di un e-commerce: dalla strategia alla tecnologia</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Come usare Instagram Analytics con Yari Brugnoni</title>
+            <link>https://www.youtube.com/watch?v=u5zyUXJRizE</link>
+            <guid>https://www.youtube.com/watch?v=u5zyUXJRizE</guid>
+            <pubDate>FEBRUARY 11, 2022 AT 10:07AM</pubDate>
+            <description>Come usare Instagram Analytics con Yari Brugnoni</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - Diamo un&#39;occhiata all&#39;interno del primo Google Store al mondo</title>
+            <link>https://www.youtube.com/watch?v=Ra3hfVs7RuM</link>
+            <guid>https://www.youtube.com/watch?v=Ra3hfVs7RuM</guid>
+            <pubDate>JUNE 18, 2021 AT 09:04AM</pubDate>
+            <description>Diamo un&#39;occhiata all&#39;interno del primo Google Store al mondo</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Il #disastro #Reputazionale della Nazionale Cantanti, tra Aurora Leone e Gian Luca Pecchini</title>
+            <link>https://www.youtube.com/watch?v=zhcYfux2Fco</link>
+            <guid>https://www.youtube.com/watch?v=zhcYfux2Fco</guid>
+            <pubDate>MAY 25, 2021 AT 09:54PM</pubDate>
+            <description>Il #disastro #Reputazionale della Nazionale Cantanti, tra Aurora Leone e Gian Luca Pecchini</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Consegne sempre più veloci: costi, problemi e sostenibilità</title>
+            <link>https://www.youtube.com/watch?v=aIXxuyc41sw</link>
+            <guid>https://www.youtube.com/watch?v=aIXxuyc41sw</guid>
+            <pubDate>DECEMBER 22, 2021 AT 12:50PM</pubDate>
+            <description>Consegne sempre più veloci: costi, problemi e sostenibilità</description>
+        </item>
+        <item>
+            <title>Matteo Flora - [LIVE] - Ciao Internet SERALE in DIRETTA</title>
+            <link>https://www.youtube.com/watch?v=yc8KxlMb1s8</link>
+            <guid>https://www.youtube.com/watch?v=yc8KxlMb1s8</guid>
+            <pubDate>AUGUST 24, 2021 AT 12:43PM</pubDate>
+            <description>[LIVE] - Ciao Internet SERALE in DIRETTA</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Perché il DDL Autolesionismo è un pericolo per te e per la rete…</title>
+            <link>https://www.youtube.com/watch?v=V7DJqP_uTHg</link>
+            <guid>https://www.youtube.com/watch?v=V7DJqP_uTHg</guid>
+            <pubDate>AUGUST 1, 2021 AT 01:20PM</pubDate>
+            <description>Perché il DDL Autolesionismo è un pericolo per te e per la rete…</description>
+        </item>
+        <item>
+            <title>Matteo Flora - 1000 GreenPass rubati: ed ora?</title>
+            <link>https://www.youtube.com/watch?v=msci1tUxXnY</link>
+            <guid>https://www.youtube.com/watch?v=msci1tUxXnY</guid>
+            <pubDate>NOVEMBER 22, 2021 AT 07:45AM</pubDate>
+            <description>1000 GreenPass rubati: ed ora?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Perché il futuro della sostenibilità passa dall&#39;elettricità</title>
+            <link>https://www.youtube.com/watch?v=ueiCR_OY8KU</link>
+            <guid>https://www.youtube.com/watch?v=ueiCR_OY8KU</guid>
+            <pubDate>JULY 2, 2021 AT 03:00PM</pubDate>
+            <description>Perché il futuro della sostenibilità passa dall&#39;elettricità</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Facebook contro tutti: che fine farà?</title>
+            <link>https://www.youtube.com/watch?v=lctXH39zZCI</link>
+            <guid>https://www.youtube.com/watch?v=lctXH39zZCI</guid>
+            <pubDate>OCTOBER 5, 2021 AT 03:26PM</pubDate>
+            <description>Facebook contro tutti: che fine farà?</description>
         </item>
     </channel>
 </rss>
