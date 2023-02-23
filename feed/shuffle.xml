@@ -5,48 +5,34 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Wed, 22 Feb 2023 13:24:48 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 13:30:13 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - I poveri hanno grandi televisori, i ricchi hanno grandi librerie</title>
-            <link>https://www.youtube.com/watch?v=QiOzbrEWnTs</link>
-            <guid>https://www.youtube.com/watch?v=QiOzbrEWnTs</guid>
-            <pubDate>OCTOBER 29, 2021 AT 01:30PM</pubDate>
-            <description>I poveri hanno grandi televisori, i ricchi hanno grandi librerie</description>
+            <title>Marco Montemagno - È Finita?</title>
+            <link>https://www.youtube.com/watch?v=LzcM-nLZXWc</link>
+            <guid>https://www.youtube.com/watch?v=LzcM-nLZXWc</guid>
+            <pubDate>JUNE 13, 2021 AT 05:17PM</pubDate>
+            <description>È Finita?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Bitcoin vincerà</title>
-            <link>https://www.youtube.com/watch?v=pW2J0ygGj7g</link>
-            <guid>https://www.youtube.com/watch?v=pW2J0ygGj7g</guid>
-            <pubDate>JANUARY 11, 2022 AT 01:00PM</pubDate>
-            <description>Bitcoin vincerà</description>
+            <title>Marco Montemagno - Intelligenza artificiale e mondo del lavoro</title>
+            <link>https://www.youtube.com/watch?v=Sa52naKlw_g</link>
+            <guid>https://www.youtube.com/watch?v=Sa52naKlw_g</guid>
+            <pubDate>JUNE 29, 2021 AT 08:25AM</pubDate>
+            <description>Intelligenza artificiale e mondo del lavoro</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come comprare Ethereum e spostarli sul tuo wallet</title>
-            <link>https://www.youtube.com/watch?v=Di5yeLmFYaw</link>
-            <guid>https://www.youtube.com/watch?v=Di5yeLmFYaw</guid>
-            <pubDate>JANUARY 26, 2022 AT 09:58AM</pubDate>
-            <description>Come comprare Ethereum e spostarli sul tuo wallet</description>
+            <title>Marco Montemagno - Non ho parole...(poi però non lamentiamoci del lavoro) #shorts</title>
+            <link>https://www.youtube.com/watch?v=LAI3ksteXOM</link>
+            <guid>https://www.youtube.com/watch?v=LAI3ksteXOM</guid>
+            <pubDate>JUNE 24, 2021 AT 07:30PM</pubDate>
+            <description>Non ho parole...(poi però non lamentiamoci del lavoro) #shorts</description>
         </item>
         <item>
-            <title>Marco Montemagno - Inventati una soluzione</title>
-            <link>https://www.youtube.com/watch?v=pjl4owUGR8Y</link>
-            <guid>https://www.youtube.com/watch?v=pjl4owUGR8Y</guid>
-            <pubDate>MAY 6, 2021 AT 04:05PM</pubDate>
-            <description>Inventati una soluzione</description>
-        </item>
-        <item>
-            <title>Matteo Flora - I #GreenPass ora si possono revocare: quali sono i problemi?</title>
-            <link>https://www.youtube.com/watch?v=l5H5hJH61AU</link>
-            <guid>https://www.youtube.com/watch?v=l5H5hJH61AU</guid>
-            <pubDate>DECEMBER 20, 2021 AT 10:45AM</pubDate>
-            <description>I #GreenPass ora si possono revocare: quali sono i problemi?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Vincenzo Tiana, Legambiente</title>
-            <link>https://www.youtube.com/watch?v=jV0bDd36R5I</link>
-            <guid>https://www.youtube.com/watch?v=jV0bDd36R5I</guid>
-            <pubDate>SEPTEMBER 8, 2021 AT 08:18PM</pubDate>
-            <description>Cambiamento climatico, elettrificazione e dintorni con Vincenzo Tiana, Legambiente</description>
+            <title>Matteo Flora - Come fare un Reclamo al Garante sulla Privacy (e per quali ragioni): una guida per tutti</title>
+            <link>https://www.youtube.com/watch?v=RMZb73hN5fA</link>
+            <guid>https://www.youtube.com/watch?v=RMZb73hN5fA</guid>
+            <pubDate>MAY 24, 2021 AT 09:23AM</pubDate>
+            <description>Come fare un Reclamo al Garante sulla Privacy (e per quali ragioni): una guida per tutti</description>
         </item>
         <item>
             <title>Marco Montemagno - Crypto e sport con The Coin of Champions</title>
@@ -56,74 +42,11 @@
             <description>Crypto e sport con The Coin of Champions</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come realizzare una scultura con Matteo Pugliese</title>
-            <link>https://www.youtube.com/watch?v=rSBLnGYhe_8</link>
-            <guid>https://www.youtube.com/watch?v=rSBLnGYhe_8</guid>
-            <pubDate>JANUARY 20, 2022 AT 09:30AM</pubDate>
-            <description>Come realizzare una scultura con Matteo Pugliese</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - NFT MontyLab - Crazy Fury:  Domande e Risposte Live!</title>
-            <link>https://www.youtube.com/watch?v=A8IwAy6ZyME</link>
-            <guid>https://www.youtube.com/watch?v=A8IwAy6ZyME</guid>
-            <pubDate>JANUARY 24, 2022 AT 04:53PM</pubDate>
-            <description>NFT MontyLab - Crazy Fury:  Domande e Risposte Live!</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - 3 mosse per risolvere problemi impossibili</title>
-            <link>https://www.youtube.com/watch?v=cqRbOjkHj_Q</link>
-            <guid>https://www.youtube.com/watch?v=cqRbOjkHj_Q</guid>
-            <pubDate>SEPTEMBER 15, 2021 AT 09:01AM</pubDate>
-            <description>3 mosse per risolvere problemi impossibili</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Monty Lab: quanto costa e altre info importanti</title>
-            <link>https://www.youtube.com/watch?v=5gDMDET5ucY</link>
-            <guid>https://www.youtube.com/watch?v=5gDMDET5ucY</guid>
-            <pubDate>JANUARY 28, 2022 AT 07:09PM</pubDate>
-            <description>Monty Lab: quanto costa e altre info importanti</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Food Talks with Trudie Styler, Tony Sasa, Riccardo Cotarella</title>
-            <link>https://www.youtube.com/watch?v=gKmm6a2HP_I</link>
-            <guid>https://www.youtube.com/watch?v=gKmm6a2HP_I</guid>
-            <pubDate>MAY 21, 2021 AT 11:06AM</pubDate>
-            <description>Food Talks with Trudie Styler, Tony Sasa, Riccardo Cotarella</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - È la scelta giusta? È il metodo giusto per te?</title>
-            <link>https://www.youtube.com/watch?v=VnsQr0WhjS8</link>
-            <guid>https://www.youtube.com/watch?v=VnsQr0WhjS8</guid>
-            <pubDate>JANUARY 17, 2022 AT 01:00PM</pubDate>
-            <description>È la scelta giusta? È il metodo giusto per te?</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - QUAL È IL TUO PERCHÉ?!</title>
-            <link>https://www.youtube.com/watch?v=ZO20C81PxjM</link>
-            <guid>https://www.youtube.com/watch?v=ZO20C81PxjM</guid>
-            <pubDate>JUNE 2, 2021 AT 08:00AM</pubDate>
-            <description>QUAL È IL TUO PERCHÉ?!</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Food Talks con Almir Ambeskovich (CEO The Fork)</title>
-            <link>https://www.youtube.com/watch?v=_mZ3BjqN8Zo</link>
-            <guid>https://www.youtube.com/watch?v=_mZ3BjqN8Zo</guid>
-            <pubDate>MAY 20, 2021 AT 08:47AM</pubDate>
-            <description>Food Talks con Almir Ambeskovich (CEO The Fork)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Bufera sui Social! Sui social sono tutti contro tutti...</title>
-            <link>https://www.youtube.com/watch?v=pNJL82Ayg24</link>
-            <guid>https://www.youtube.com/watch?v=pNJL82Ayg24</guid>
-            <pubDate>JUNE 23, 2021 AT 06:42PM</pubDate>
-            <description>Bufera sui Social! Sui social sono tutti contro tutti...</description>
-        </item>
-        <item>
-            <title>Matteo Flora - [LIVE] L&#39;aperitivo di Ciao Internet1</title>
-            <link>https://www.youtube.com/watch?v=yZ3AFIlrUWo</link>
-            <guid>https://www.youtube.com/watch?v=yZ3AFIlrUWo</guid>
-            <pubDate>JULY 13, 2021 AT 10:05PM</pubDate>
-            <description>[LIVE] L&#39;aperitivo di Ciao Internet1</description>
+            <title>Rudy Bandiera - Real Time Bergamo settembre 2021</title>
+            <link>https://www.youtube.com/watch?v=7Fs9pISi3X8</link>
+            <guid>https://www.youtube.com/watch?v=7Fs9pISi3X8</guid>
+            <pubDate>OCTOBER 6, 2021 AT 09:22AM</pubDate>
+            <description>Real Time Bergamo settembre 2021</description>
         </item>
         <item>
             <title>Marco Montemagno - &quot;Copia&quot; questa strategia: 5 tecniche per migliorare i tuoi contenuti</title>
@@ -133,18 +56,95 @@
             <description>&quot;Copia&quot; questa strategia: 5 tecniche per migliorare i tuoi contenuti</description>
         </item>
         <item>
-            <title>Matteo Flora - CROWDFUNDING: cosa è, come funziona e cosa devi sapere per iniziare!</title>
-            <link>https://www.youtube.com/watch?v=V3DgJ6mRXEM</link>
-            <guid>https://www.youtube.com/watch?v=V3DgJ6mRXEM</guid>
-            <pubDate>OCTOBER 7, 2021 AT 06:15PM</pubDate>
-            <description>CROWDFUNDING: cosa è, come funziona e cosa devi sapere per iniziare!</description>
+            <title>Rudy Bandiera - Cosa succederà al lavoro DOPO la pandemia? #in2minuti</title>
+            <link>https://www.youtube.com/watch?v=Qo2IiixUsBw</link>
+            <guid>https://www.youtube.com/watch?v=Qo2IiixUsBw</guid>
+            <pubDate>MAY 12, 2021 AT 04:18PM</pubDate>
+            <description>Cosa succederà al lavoro DOPO la pandemia? #in2minuti</description>
         </item>
         <item>
-            <title>Marco Montemagno - &quot;Quando sei diventato Monty&quot; ... dopo un anno e mezzo di video con zero views è successo questo...</title>
-            <link>https://www.youtube.com/watch?v=TXY4f5a-VFk</link>
-            <guid>https://www.youtube.com/watch?v=TXY4f5a-VFk</guid>
-            <pubDate>AUGUST 1, 2021 AT 02:27PM</pubDate>
-            <description>&quot;Quando sei diventato Monty&quot; ... dopo un anno e mezzo di video con zero views è successo questo...</description>
+            <title>Rudy Bandiera - 5 tecniche per scrivere come i copywriter di Apple</title>
+            <link>https://www.youtube.com/watch?v=ypHCFoUPWqA</link>
+            <guid>https://www.youtube.com/watch?v=ypHCFoUPWqA</guid>
+            <pubDate>SEPTEMBER 24, 2021 AT 08:53AM</pubDate>
+            <description>5 tecniche per scrivere come i copywriter di Apple</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - On Running si quoterà in borsa negli Stati Uniti ...Vi ricordate le loro scarpe in abbonamento?</title>
+            <link>https://www.youtube.com/watch?v=MgcfLx3OmHQ</link>
+            <guid>https://www.youtube.com/watch?v=MgcfLx3OmHQ</guid>
+            <pubDate>AUGUST 26, 2021 AT 09:00AM</pubDate>
+            <description>On Running si quoterà in borsa negli Stati Uniti ...Vi ricordate le loro scarpe in abbonamento?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Fan Tokens with Alexander Dreyfus (Socios.com)</title>
+            <link>https://www.youtube.com/watch?v=cKAMg4okF44</link>
+            <guid>https://www.youtube.com/watch?v=cKAMg4okF44</guid>
+            <pubDate>DECEMBER 5, 2021 AT 03:00PM</pubDate>
+            <description>Fan Tokens with Alexander Dreyfus (Socios.com)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - A conversation with M. Night Shyamalan (Sixth Sense/Old/Unbreakable, Split...)</title>
+            <link>https://www.youtube.com/watch?v=j2zw6qsVBxY</link>
+            <guid>https://www.youtube.com/watch?v=j2zw6qsVBxY</guid>
+            <pubDate>JULY 21, 2021 AT 05:42PM</pubDate>
+            <description>A conversation with M. Night Shyamalan (Sixth Sense/Old/Unbreakable, Split...)</description>
+        </item>
+        <item>
+            <title>Matteo Flora - AMAZON: multa da UN MILIARDO per posizione dominante. Ne parliamo con @quinta!</title>
+            <link>https://www.youtube.com/watch?v=3iXcHypkMR4</link>
+            <guid>https://www.youtube.com/watch?v=3iXcHypkMR4</guid>
+            <pubDate>DECEMBER 10, 2021 AT 08:30AM</pubDate>
+            <description>AMAZON: multa da UN MILIARDO per posizione dominante. Ne parliamo con @quinta!</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Facebook diventa META: tutti i perché del rebranding e cosa è il Metaverso spiegati bene</title>
+            <link>https://www.youtube.com/watch?v=TT83sj01qgU</link>
+            <guid>https://www.youtube.com/watch?v=TT83sj01qgU</guid>
+            <pubDate>NOVEMBER 2, 2021 AT 09:15AM</pubDate>
+            <description>Facebook diventa META: tutti i perché del rebranding e cosa è il Metaverso spiegati bene</description>
+        </item>
+        <item>
+            <title>Matteo Flora - [DIRETTA] - Ciao Internet Live!</title>
+            <link>https://www.youtube.com/watch?v=9xzyg8gBDB8</link>
+            <guid>https://www.youtube.com/watch?v=9xzyg8gBDB8</guid>
+            <pubDate>FEBRUARY 4, 2022 AT 08:34PM</pubDate>
+            <description>[DIRETTA] - Ciao Internet Live!</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - &quot;Luoghi comuni&quot; sul business: sfatiamoli insieme</title>
+            <link>https://www.youtube.com/watch?v=95fv2XNMtFY</link>
+            <guid>https://www.youtube.com/watch?v=95fv2XNMtFY</guid>
+            <pubDate>OCTOBER 26, 2021 AT 01:30PM</pubDate>
+            <description>&quot;Luoghi comuni&quot; sul business: sfatiamoli insieme</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Blockchain, realtà aumentata, metaverso con Davide Cuttini - CEO di OVR</title>
+            <link>https://www.youtube.com/watch?v=MzpExairFFA</link>
+            <guid>https://www.youtube.com/watch?v=MzpExairFFA</guid>
+            <pubDate>NOVEMBER 27, 2021 AT 01:00PM</pubDate>
+            <description>Blockchain, realtà aumentata, metaverso con Davide Cuttini - CEO di OVR</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Sabaku no Maiku (6/10/2021)</title>
+            <link>https://www.youtube.com/watch?v=MUcKtC6TllA</link>
+            <guid>https://www.youtube.com/watch?v=MUcKtC6TllA</guid>
+            <pubDate>JANUARY 4, 2022 AT 01:00PM</pubDate>
+            <description>4 chiacchiere con Sabaku no Maiku (6/10/2021)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - A conversation with The Sandbox Founder</title>
+            <link>https://www.youtube.com/watch?v=81-ieelCVPc</link>
+            <guid>https://www.youtube.com/watch?v=81-ieelCVPc</guid>
+            <pubDate>DECEMBER 21, 2021 AT 01:00PM</pubDate>
+            <description>A conversation with The Sandbox Founder</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Come trovo clienti interessati al mio e-commerce?</title>
+            <link>https://www.youtube.com/watch?v=P90J0MZbr-o</link>
+            <guid>https://www.youtube.com/watch?v=P90J0MZbr-o</guid>
+            <pubDate>DECEMBER 1, 2021 AT 11:00AM</pubDate>
+            <description>Come trovo clienti interessati al mio e-commerce?</description>
         </item>
     </channel>
 </rss>
