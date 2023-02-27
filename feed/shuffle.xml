@@ -5,69 +5,132 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Sun, 26 Feb 2023 13:20:56 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 13:26:08 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - Marco Montemagno...ma chi è? Che mestiere fa? Da dove arriva?</title>
-            <link>https://www.youtube.com/watch?v=ume43VQUbo8</link>
-            <guid>https://www.youtube.com/watch?v=ume43VQUbo8</guid>
-            <pubDate>JUNE 18, 2021 AT 07:27PM</pubDate>
-            <description>Marco Montemagno...ma chi è? Che mestiere fa? Da dove arriva?</description>
+            <title>Marco Montemagno - 4 chiacchiere con lo Chef Mauro Colagreco (&quot;miglior ristorante al mondo&quot;)</title>
+            <link>https://www.youtube.com/watch?v=gMB3ofzVufo</link>
+            <guid>https://www.youtube.com/watch?v=gMB3ofzVufo</guid>
+            <pubDate>JULY 1, 2021 AT 05:13PM</pubDate>
+            <description>4 chiacchiere con lo Chef Mauro Colagreco (&quot;miglior ristorante al mondo&quot;)</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come il print on demand può aiutare davvero la tua azienda</title>
-            <link>https://www.youtube.com/watch?v=u9z4e2scSOk</link>
-            <guid>https://www.youtube.com/watch?v=u9z4e2scSOk</guid>
-            <pubDate>DECEMBER 16, 2021 AT 12:57PM</pubDate>
-            <description>Come il print on demand può aiutare davvero la tua azienda</description>
+            <title>Matteo Flora - Il Suicidio dei 5 Stelle: l’incompetenza di #Crimi, il #Regolamento, #Rousseau e #Casaleggio rischia</title>
+            <link>https://www.youtube.com/watch?v=7KqQIHrBHgk</link>
+            <guid>https://www.youtube.com/watch?v=7KqQIHrBHgk</guid>
+            <pubDate>MAY 6, 2021 AT 09:22AM</pubDate>
+            <description>Il Suicidio dei 5 Stelle: l’incompetenza di #Crimi, il #Regolamento, #Rousseau e #Casaleggio rischia</description>
         </item>
         <item>
-            <title>Matteo Flora - Bricofer contro Rapetto: il ransomware e gli errori di comunicazione</title>
-            <link>https://www.youtube.com/watch?v=6GA6KbD8iQg</link>
-            <guid>https://www.youtube.com/watch?v=6GA6KbD8iQg</guid>
-            <pubDate>JANUARY 19, 2022 AT 07:17PM</pubDate>
-            <description>Bricofer contro Rapetto: il ransomware e gli errori di comunicazione</description>
+            <title>Marco Montemagno - Bufera sui Social! Sui social sono tutti contro tutti...</title>
+            <link>https://www.youtube.com/watch?v=pNJL82Ayg24</link>
+            <guid>https://www.youtube.com/watch?v=pNJL82Ayg24</guid>
+            <pubDate>JUNE 23, 2021 AT 06:42PM</pubDate>
+            <description>Bufera sui Social! Sui social sono tutti contro tutti...</description>
         </item>
         <item>
-            <title>Marco Montemagno - On Running si quoterà in borsa negli Stati Uniti ...Vi ricordate le loro scarpe in abbonamento?</title>
-            <link>https://www.youtube.com/watch?v=MgcfLx3OmHQ</link>
-            <guid>https://www.youtube.com/watch?v=MgcfLx3OmHQ</guid>
-            <pubDate>AUGUST 26, 2021 AT 09:00AM</pubDate>
-            <description>On Running si quoterà in borsa negli Stati Uniti ...Vi ricordate le loro scarpe in abbonamento?</description>
+            <title>Marco Montemagno - &quot;Sii impaziente con le azioni, ma paziente con i risultati&quot; (Naval)</title>
+            <link>https://www.youtube.com/watch?v=xMHPznF_qs0</link>
+            <guid>https://www.youtube.com/watch?v=xMHPznF_qs0</guid>
+            <pubDate>DECEMBER 4, 2021 AT 04:00PM</pubDate>
+            <description>&quot;Sii impaziente con le azioni, ma paziente con i risultati&quot; (Naval)</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Cosa non toccare quando il sito è PRIMO su Google e deve fare un Restyle</title>
-            <link>https://www.youtube.com/watch?v=1n7NiUqIk4Q</link>
-            <guid>https://www.youtube.com/watch?v=1n7NiUqIk4Q</guid>
-            <pubDate>MAY 31, 2021 AT 07:30AM</pubDate>
-            <description>Cosa non toccare quando il sito è PRIMO su Google e deve fare un Restyle</description>
+            <title>Matteo Flora - [LIVE] L&#39;aperitivo di Ciao Internet1</title>
+            <link>https://www.youtube.com/watch?v=mRNfAidC3R8</link>
+            <guid>https://www.youtube.com/watch?v=mRNfAidC3R8</guid>
+            <pubDate>JULY 13, 2021 AT 08:39PM</pubDate>
+            <description>[LIVE] L&#39;aperitivo di Ciao Internet1</description>
         </item>
         <item>
-            <title>Marco Montemagno - Cos&#39;è un Wallet e come aprirne uno (se vuoi avere i miei NFT)</title>
-            <link>https://www.youtube.com/watch?v=3UFq1YVT-ko</link>
-            <guid>https://www.youtube.com/watch?v=3UFq1YVT-ko</guid>
-            <pubDate>JANUARY 25, 2022 AT 01:00PM</pubDate>
-            <description>Cos&#39;è un Wallet e come aprirne uno (se vuoi avere i miei NFT)</description>
+            <title>Rudy Bandiera - I tuoi contenuti sono noiosi?</title>
+            <link>https://www.youtube.com/watch?v=n0ZCv0HTAK0</link>
+            <guid>https://www.youtube.com/watch?v=n0ZCv0HTAK0</guid>
+            <pubDate>NOVEMBER 26, 2021 AT 09:06AM</pubDate>
+            <description>I tuoi contenuti sono noiosi?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Monty NTF: hai visto cosa è successo? Hai tempo fino al 22/2/22</title>
-            <link>https://www.youtube.com/watch?v=LMOPVD869XY</link>
-            <guid>https://www.youtube.com/watch?v=LMOPVD869XY</guid>
-            <pubDate>FEBRUARY 10, 2022 AT 11:23AM</pubDate>
-            <description>Monty NTF: hai visto cosa è successo? Hai tempo fino al 22/2/22</description>
+            <title>Matteo Flora - CROWDFUNDING: cosa è, come funziona e cosa devi sapere per iniziare!</title>
+            <link>https://www.youtube.com/watch?v=V3DgJ6mRXEM</link>
+            <guid>https://www.youtube.com/watch?v=V3DgJ6mRXEM</guid>
+            <pubDate>OCTOBER 7, 2021 AT 06:15PM</pubDate>
+            <description>CROWDFUNDING: cosa è, come funziona e cosa devi sapere per iniziare!</description>
         </item>
         <item>
-            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Mario Tozzi, CNR</title>
-            <link>https://www.youtube.com/watch?v=qr9fXnuAvN4</link>
-            <guid>https://www.youtube.com/watch?v=qr9fXnuAvN4</guid>
-            <pubDate>SEPTEMBER 6, 2021 AT 05:58PM</pubDate>
-            <description>Cambiamento climatico, elettrificazione e dintorni con Mario Tozzi, CNR</description>
+            <title>Matteo Flora - Perché il DDL Autolesionismo è un pericolo per te e per la rete…</title>
+            <link>https://www.youtube.com/watch?v=V7DJqP_uTHg</link>
+            <guid>https://www.youtube.com/watch?v=V7DJqP_uTHg</guid>
+            <pubDate>AUGUST 1, 2021 AT 01:20PM</pubDate>
+            <description>Perché il DDL Autolesionismo è un pericolo per te e per la rete…</description>
         </item>
         <item>
-            <title>Marco Montemagno - Mentalità olimpica con Valentina Marchei</title>
-            <link>https://www.youtube.com/watch?v=H_ap3AIgU9E</link>
-            <guid>https://www.youtube.com/watch?v=H_ap3AIgU9E</guid>
-            <pubDate>SEPTEMBER 13, 2021 AT 12:42PM</pubDate>
-            <description>Mentalità olimpica con Valentina Marchei</description>
+            <title>Marco Montemagno - Leadership e dintorni con Claudia Parzani</title>
+            <link>https://www.youtube.com/watch?v=ZoU6cQR0jIE</link>
+            <guid>https://www.youtube.com/watch?v=ZoU6cQR0jIE</guid>
+            <pubDate>NOVEMBER 18, 2021 AT 10:59AM</pubDate>
+            <description>Leadership e dintorni con Claudia Parzani</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Facebook e Instagram a pagamento per colpa di Apple?</title>
+            <link>https://www.youtube.com/watch?v=JngaCH8MmGM</link>
+            <guid>https://www.youtube.com/watch?v=JngaCH8MmGM</guid>
+            <pubDate>MAY 4, 2021 AT 08:00AM</pubDate>
+            <description>Facebook e Instagram a pagamento per colpa di Apple?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Questa è la mentalità di chi ha davvero successo</title>
+            <link>https://www.youtube.com/watch?v=KOAKmxlg2TE</link>
+            <guid>https://www.youtube.com/watch?v=KOAKmxlg2TE</guid>
+            <pubDate>SEPTEMBER 17, 2021 AT 02:00PM</pubDate>
+            <description>Questa è la mentalità di chi ha davvero successo</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Francesco Venturini, Enel X</title>
+            <link>https://www.youtube.com/watch?v=uytDTpsILFw</link>
+            <guid>https://www.youtube.com/watch?v=uytDTpsILFw</guid>
+            <pubDate>SEPTEMBER 7, 2021 AT 08:11PM</pubDate>
+            <description>Cambiamento climatico, elettrificazione e dintorni con Francesco Venturini, Enel X</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Blockchain, realtà aumentata, metaverso con Davide Cuttini - CEO di OVR</title>
+            <link>https://www.youtube.com/watch?v=MzpExairFFA</link>
+            <guid>https://www.youtube.com/watch?v=MzpExairFFA</guid>
+            <pubDate>NOVEMBER 27, 2021 AT 01:00PM</pubDate>
+            <description>Blockchain, realtà aumentata, metaverso con Davide Cuttini - CEO di OVR</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Draghi nel mirino dei No Vax, nelle chat minacce al premiere gli indirizzi di casa...</title>
+            <link>https://www.youtube.com/watch?v=GYE45aC7seU</link>
+            <guid>https://www.youtube.com/watch?v=GYE45aC7seU</guid>
+            <pubDate>DECEMBER 13, 2021 AT 08:30AM</pubDate>
+            <description>Draghi nel mirino dei No Vax, nelle chat minacce al premiere gli indirizzi di casa...</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Google per l&#39;e-commerce con Grow My Store: ma è valido?</title>
+            <link>https://www.youtube.com/watch?v=Hq_s5J2gSSY</link>
+            <guid>https://www.youtube.com/watch?v=Hq_s5J2gSSY</guid>
+            <pubDate>JUNE 3, 2021 AT 07:30AM</pubDate>
+            <description>Google per l&#39;e-commerce con Grow My Store: ma è valido?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 10 Frasi per convincere qualsiasi persona</title>
+            <link>https://www.youtube.com/watch?v=G6Xfj_4yqZM</link>
+            <guid>https://www.youtube.com/watch?v=G6Xfj_4yqZM</guid>
+            <pubDate>JUNE 4, 2021 AT 05:00PM</pubDate>
+            <description>10 Frasi per convincere qualsiasi persona</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Marco Bizzarri (CEO di Gucci)</title>
+            <link>https://www.youtube.com/watch?v=cO2YXvr-rqw</link>
+            <guid>https://www.youtube.com/watch?v=cO2YXvr-rqw</guid>
+            <pubDate>JULY 22, 2021 AT 02:30PM</pubDate>
+            <description>4 chiacchiere con Marco Bizzarri (CEO di Gucci)</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - La Trasparenza è un Fattore SEO per Google</title>
+            <link>https://www.youtube.com/watch?v=IuQkUDeNwMk</link>
+            <guid>https://www.youtube.com/watch?v=IuQkUDeNwMk</guid>
+            <pubDate>JUNE 8, 2021 AT 07:30AM</pubDate>
+            <description>La Trasparenza è un Fattore SEO per Google</description>
         </item>
         <item>
             <title>Marco Montemagno - Ooopss YouTube (NON) è Morto</title>
@@ -77,74 +140,11 @@
             <description>Ooopss YouTube (NON) è Morto</description>
         </item>
         <item>
-            <title>Matteo Flora - Tommaso Montesano e le scuse fatte molto male che distruggono la sua reputazione</title>
-            <link>https://www.youtube.com/watch?v=j-7STbqKbQk</link>
-            <guid>https://www.youtube.com/watch?v=j-7STbqKbQk</guid>
-            <pubDate>FEBRUARY 11, 2022 AT 01:00PM</pubDate>
-            <description>Tommaso Montesano e le scuse fatte molto male che distruggono la sua reputazione</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Tette, piscine e soldi. No clickbait, davvero parliamo di tette e #demonetizzazione</title>
-            <link>https://www.youtube.com/watch?v=dVKjE4CJmew</link>
-            <guid>https://www.youtube.com/watch?v=dVKjE4CJmew</guid>
-            <pubDate>MAY 21, 2021 AT 08:00AM</pubDate>
-            <description>Tette, piscine e soldi. No clickbait, davvero parliamo di tette e #demonetizzazione</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Il tweet storm di #DiMaioOut e la fotografia di #Salvini &quot;photoshoppata&quot;</title>
-            <link>https://www.youtube.com/watch?v=lgUVNJIFXus</link>
-            <guid>https://www.youtube.com/watch?v=lgUVNJIFXus</guid>
-            <pubDate>FEBRUARY 2, 2022 AT 05:26PM</pubDate>
-            <description>Il tweet storm di #DiMaioOut e la fotografia di #Salvini &quot;photoshoppata&quot;</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Migranti e riconoscimento facciale: lo studio di HermesCenter</title>
-            <link>https://www.youtube.com/watch?v=dZsgQWhMJn4</link>
-            <guid>https://www.youtube.com/watch?v=dZsgQWhMJn4</guid>
-            <pubDate>DECEMBER 6, 2021 AT 10:10AM</pubDate>
-            <description>Migranti e riconoscimento facciale: lo studio di HermesCenter</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Tutto quello che avresti sempre voluto sapere sull&#39;Idrogeno e sull&#39;Elettrificazione</title>
-            <link>https://www.youtube.com/watch?v=7h9FenptPBo</link>
-            <guid>https://www.youtube.com/watch?v=7h9FenptPBo</guid>
-            <pubDate>JULY 9, 2021 AT 10:00AM</pubDate>
-            <description>Tutto quello che avresti sempre voluto sapere sull&#39;Idrogeno e sull&#39;Elettrificazione</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Food Talks 4 chiacchere con Stefano Marini (CEO Gruppo Sanpellegrino)</title>
-            <link>https://www.youtube.com/watch?v=Y3fWZ03vtyE</link>
-            <guid>https://www.youtube.com/watch?v=Y3fWZ03vtyE</guid>
-            <pubDate>MAY 17, 2021 AT 08:33AM</pubDate>
-            <description>Food Talks 4 chiacchere con Stefano Marini (CEO Gruppo Sanpellegrino)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - La vedova nera fa causa a Disney: per quanti $$$ e perchè è importante</title>
-            <link>https://www.youtube.com/watch?v=TzyE-hLp4nE</link>
-            <guid>https://www.youtube.com/watch?v=TzyE-hLp4nE</guid>
-            <pubDate>AUGUST 5, 2021 AT 03:37PM</pubDate>
-            <description>La vedova nera fa causa a Disney: per quanti $$$ e perchè è importante</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Davvero Meta / Facebook chiude in Europa? Lo SPECIALE</title>
-            <link>https://www.youtube.com/watch?v=5AisbRlQw4Q</link>
-            <guid>https://www.youtube.com/watch?v=5AisbRlQw4Q</guid>
-            <pubDate>FEBRUARY 8, 2022 AT 09:40AM</pubDate>
-            <description>Davvero Meta / Facebook chiude in Europa? Lo SPECIALE</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Facebook ed Instagram chiudono in Europa?</title>
-            <link>https://www.youtube.com/watch?v=6HSKwm6zG5Y</link>
-            <guid>https://www.youtube.com/watch?v=6HSKwm6zG5Y</guid>
-            <pubDate>FEBRUARY 9, 2022 AT 01:18PM</pubDate>
-            <description>Facebook ed Instagram chiudono in Europa?</description>
-        </item>
-        <item>
-            <title>Matteo Flora - #Report e &quot;le fonti&quot;: cosa è successo davvero e perché non è un attacco alla democrazia</title>
-            <link>https://www.youtube.com/watch?v=HXTvPnUKKsE</link>
-            <guid>https://www.youtube.com/watch?v=HXTvPnUKKsE</guid>
-            <pubDate>JUNE 20, 2021 AT 09:15PM</pubDate>
-            <description>#Report e &quot;le fonti&quot;: cosa è successo davvero e perché non è un attacco alla democrazia</description>
+            <title>Marco Montemagno - Come si applica la blockchain al settore del lusso (e non solo)</title>
+            <link>https://www.youtube.com/watch?v=IzgT51XXepE</link>
+            <guid>https://www.youtube.com/watch?v=IzgT51XXepE</guid>
+            <pubDate>NOVEMBER 28, 2021 AT 01:00PM</pubDate>
+            <description>Come si applica la blockchain al settore del lusso (e non solo)</description>
         </item>
     </channel>
 </rss>
