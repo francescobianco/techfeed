@@ -5,7 +5,56 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Tue, 28 Feb 2023 13:25:29 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 13:25:37 +0000</lastBuildDate>
+        <item>
+            <title>Matteo Flora - Tutte le marchette di DiMaio e del suo libro...</title>
+            <link>https://www.youtube.com/watch?v=BNzn-vfHaQ4</link>
+            <guid>https://www.youtube.com/watch?v=BNzn-vfHaQ4</guid>
+            <pubDate>OCTOBER 26, 2021 AT 07:45AM</pubDate>
+            <description>Tutte le marchette di DiMaio e del suo libro...</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Cos&#39;è un Wallet e come aprirne uno (se vuoi avere i miei NFT)</title>
+            <link>https://www.youtube.com/watch?v=3UFq1YVT-ko</link>
+            <guid>https://www.youtube.com/watch?v=3UFq1YVT-ko</guid>
+            <pubDate>JANUARY 25, 2022 AT 01:00PM</pubDate>
+            <description>Cos&#39;è un Wallet e come aprirne uno (se vuoi avere i miei NFT)</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Tette, piscine e soldi. No clickbait, davvero parliamo di tette e #demonetizzazione</title>
+            <link>https://www.youtube.com/watch?v=dVKjE4CJmew</link>
+            <guid>https://www.youtube.com/watch?v=dVKjE4CJmew</guid>
+            <pubDate>MAY 21, 2021 AT 08:00AM</pubDate>
+            <description>Tette, piscine e soldi. No clickbait, davvero parliamo di tette e #demonetizzazione</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Contenuti cospirazionisti, Twitter e le grandi incognite</title>
+            <link>https://www.youtube.com/watch?v=OkHWhVBVoUo</link>
+            <guid>https://www.youtube.com/watch?v=OkHWhVBVoUo</guid>
+            <pubDate>OCTOBER 25, 2021 AT 10:22AM</pubDate>
+            <description>Contenuti cospirazionisti, Twitter e le grandi incognite</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - StartupItalia cresce: ecco tutte le novità</title>
+            <link>https://www.youtube.com/watch?v=a-1VrIF8Zoc</link>
+            <guid>https://www.youtube.com/watch?v=a-1VrIF8Zoc</guid>
+            <pubDate>SEPTEMBER 22, 2021 AT 09:00AM</pubDate>
+            <description>StartupItalia cresce: ecco tutte le novità</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - Meglio essere governati dai politici o dall&#39;intelligenza artificiale?</title>
+            <link>https://www.youtube.com/watch?v=8AEZLzOq0j0</link>
+            <guid>https://www.youtube.com/watch?v=8AEZLzOq0j0</guid>
+            <pubDate>JUNE 11, 2021 AT 08:45AM</pubDate>
+            <description>Meglio essere governati dai politici o dall&#39;intelligenza artificiale?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Tennis! Riccardo Piatti su Competenze.it (live)</title>
+            <link>https://www.youtube.com/watch?v=B5JblZBlS-A</link>
+            <guid>https://www.youtube.com/watch?v=B5JblZBlS-A</guid>
+            <pubDate>JUNE 21, 2021 AT 12:22PM</pubDate>
+            <description>Tennis! Riccardo Piatti su Competenze.it (live)</description>
+        </item>
         <item>
             <title>Marco Montemagno - Ho fatto un gioco da tavolo!</title>
             <link>https://www.youtube.com/watch?v=kuwAJFSv2tg</link>
@@ -14,137 +63,88 @@
             <description>Ho fatto un gioco da tavolo!</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Gino D&#39;Acampo</title>
-            <link>https://www.youtube.com/watch?v=Sfl-pl_GTMU</link>
-            <guid>https://www.youtube.com/watch?v=Sfl-pl_GTMU</guid>
-            <pubDate>JULY 27, 2021 AT 04:46PM</pubDate>
-            <description>4 chiacchiere con Gino D&#39;Acampo</description>
+            <title>Marco Montemagno - Perché il futuro della sostenibilità passa dall&#39;elettricità</title>
+            <link>https://www.youtube.com/watch?v=ueiCR_OY8KU</link>
+            <guid>https://www.youtube.com/watch?v=ueiCR_OY8KU</guid>
+            <pubDate>JULY 2, 2021 AT 03:00PM</pubDate>
+            <description>Perché il futuro della sostenibilità passa dall&#39;elettricità</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Stiamo entrando nell&#39;era del &quot;nazionalismo digitale&quot;</title>
-            <link>https://www.youtube.com/watch?v=99lHrko8gq0</link>
-            <guid>https://www.youtube.com/watch?v=99lHrko8gq0</guid>
-            <pubDate>JUNE 1, 2021 AT 09:36AM</pubDate>
-            <description>Stiamo entrando nell&#39;era del &quot;nazionalismo digitale&quot;</description>
+            <title>Giorgio Taverniti - Cosa non toccare quando il sito è PRIMO su Google e deve fare un Restyle</title>
+            <link>https://www.youtube.com/watch?v=1n7NiUqIk4Q</link>
+            <guid>https://www.youtube.com/watch?v=1n7NiUqIk4Q</guid>
+            <pubDate>MAY 31, 2021 AT 07:30AM</pubDate>
+            <description>Cosa non toccare quando il sito è PRIMO su Google e deve fare un Restyle</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Sui social bisogna dire quello che si pensa?</title>
-            <link>https://www.youtube.com/watch?v=z5hSUktcuMc</link>
-            <guid>https://www.youtube.com/watch?v=z5hSUktcuMc</guid>
-            <pubDate>SEPTEMBER 28, 2021 AT 03:41PM</pubDate>
-            <description>Sui social bisogna dire quello che si pensa?</description>
+            <title>Marco Montemagno - Tutto quello che dovresti sapere sulle DAO con Thomas Bertani</title>
+            <link>https://www.youtube.com/watch?v=IIAi0TZHsKA</link>
+            <guid>https://www.youtube.com/watch?v=IIAi0TZHsKA</guid>
+            <pubDate>DECEMBER 4, 2021 AT 01:00PM</pubDate>
+            <description>Tutto quello che dovresti sapere sulle DAO con Thomas Bertani</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come si crea un prodotto finanziario?</title>
-            <link>https://www.youtube.com/watch?v=uXO5ba2vgrA</link>
-            <guid>https://www.youtube.com/watch?v=uXO5ba2vgrA</guid>
-            <pubDate>NOVEMBER 21, 2021 AT 09:40PM</pubDate>
-            <description>Come si crea un prodotto finanziario?</description>
+            <title>Matteo Flora - #GreenPass hackerato: ecco come hanno fatto (e cosa fare ora)</title>
+            <link>https://www.youtube.com/watch?v=2UI9YOh8uVE</link>
+            <guid>https://www.youtube.com/watch?v=2UI9YOh8uVE</guid>
+            <pubDate>OCTOBER 28, 2021 AT 11:17AM</pubDate>
+            <description>#GreenPass hackerato: ecco come hanno fatto (e cosa fare ora)</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con l&#39;arma dei carabinieri (Luca de Marchis)</title>
-            <link>https://www.youtube.com/watch?v=7y2pbB3FZSY</link>
-            <guid>https://www.youtube.com/watch?v=7y2pbB3FZSY</guid>
-            <pubDate>NOVEMBER 9, 2021 AT 01:00PM</pubDate>
-            <description>4 chiacchiere con l&#39;arma dei carabinieri (Luca de Marchis)</description>
+            <title>Raffaele Gaito - 7 LIBRI CHE MI HANNO CAMBIATO LA VITA</title>
+            <link>https://www.youtube.com/watch?v=oDeYD6EZ2Qs</link>
+            <guid>https://www.youtube.com/watch?v=oDeYD6EZ2Qs</guid>
+            <pubDate>MAY 18, 2021 AT 08:00AM</pubDate>
+            <description>7 LIBRI CHE MI HANNO CAMBIATO LA VITA</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Gino Strada</title>
-            <link>https://www.youtube.com/watch?v=4weR9T3v3XA</link>
-            <guid>https://www.youtube.com/watch?v=4weR9T3v3XA</guid>
-            <pubDate>MAY 20, 2021 AT 08:49AM</pubDate>
-            <description>4 chiacchiere con Gino Strada</description>
+            <title>Marco Montemagno - Perché Netflix (probabilmente) inserirà la pubblicità</title>
+            <link>https://www.youtube.com/watch?v=PzO0NhEbsjA</link>
+            <guid>https://www.youtube.com/watch?v=PzO0NhEbsjA</guid>
+            <pubDate>JUNE 26, 2021 AT 10:13AM</pubDate>
+            <description>Perché Netflix (probabilmente) inserirà la pubblicità</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Come rendere il tuo business e il tuo e-commerce più profittevole</title>
-            <link>https://www.youtube.com/watch?v=9jjnmawpsTo</link>
-            <guid>https://www.youtube.com/watch?v=9jjnmawpsTo</guid>
-            <pubDate>MAY 4, 2021 AT 09:44AM</pubDate>
-            <description>Come rendere il tuo business e il tuo e-commerce più profittevole</description>
+            <title>Marco Montemagno - 4 chiacchiere con Giacomo Poretti (Aldo, Giovanni e Giacomo)</title>
+            <link>https://www.youtube.com/watch?v=sSfI6l0w9MA</link>
+            <guid>https://www.youtube.com/watch?v=sSfI6l0w9MA</guid>
+            <pubDate>OCTOBER 2, 2021 AT 01:55PM</pubDate>
+            <description>4 chiacchiere con Giacomo Poretti (Aldo, Giovanni e Giacomo)</description>
         </item>
         <item>
-            <title>Matteo Flora - Tommaso Montesano e le scuse fatte molto male che distruggono la sua reputazione</title>
-            <link>https://www.youtube.com/watch?v=j-7STbqKbQk</link>
-            <guid>https://www.youtube.com/watch?v=j-7STbqKbQk</guid>
-            <pubDate>FEBRUARY 11, 2022 AT 01:00PM</pubDate>
-            <description>Tommaso Montesano e le scuse fatte molto male che distruggono la sua reputazione</description>
+            <title>Marco Montemagno - How to make crypto accessible to all with Cyrus Fazel - CEO di SwissBorg</title>
+            <link>https://www.youtube.com/watch?v=vGPhQsjyV_8</link>
+            <guid>https://www.youtube.com/watch?v=vGPhQsjyV_8</guid>
+            <pubDate>NOVEMBER 27, 2021 AT 09:00AM</pubDate>
+            <description>How to make crypto accessible to all with Cyrus Fazel - CEO di SwissBorg</description>
         </item>
         <item>
-            <title>Raffaele Gaito - LA MALEDIZIONE DELLA CONOSCENZA (COS&#39;È E COME USCIRNE)</title>
-            <link>https://www.youtube.com/watch?v=hcJwTlEFPXI</link>
-            <guid>https://www.youtube.com/watch?v=hcJwTlEFPXI</guid>
-            <pubDate>JULY 20, 2021 AT 08:00AM</pubDate>
-            <description>LA MALEDIZIONE DELLA CONOSCENZA (COS&#39;È E COME USCIRNE)</description>
+            <title>Marco Montemagno - 12 errori assolutamente da non fare, quando scrivi per un lavoro</title>
+            <link>https://www.youtube.com/watch?v=mguXOSdqbpE</link>
+            <guid>https://www.youtube.com/watch?v=mguXOSdqbpE</guid>
+            <pubDate>JULY 1, 2021 AT 03:49PM</pubDate>
+            <description>12 errori assolutamente da non fare, quando scrivi per un lavoro</description>
         </item>
         <item>
-            <title>Marco Montemagno - A conversation with M. Night Shyamalan (Sixth Sense/Old/Unbreakable, Split...)</title>
-            <link>https://www.youtube.com/watch?v=j2zw6qsVBxY</link>
-            <guid>https://www.youtube.com/watch?v=j2zw6qsVBxY</guid>
-            <pubDate>JULY 21, 2021 AT 05:42PM</pubDate>
-            <description>A conversation with M. Night Shyamalan (Sixth Sense/Old/Unbreakable, Split...)</description>
+            <title>Matteo Flora - DataBreach: quando serve la notifica al Garante e quando la comunicazione agli interessati?</title>
+            <link>https://www.youtube.com/watch?v=jwHQUarUcU8</link>
+            <guid>https://www.youtube.com/watch?v=jwHQUarUcU8</guid>
+            <pubDate>JANUARY 24, 2022 AT 04:56PM</pubDate>
+            <description>DataBreach: quando serve la notifica al Garante e quando la comunicazione agli interessati?</description>
         </item>
         <item>
-            <title>Marco Montemagno - R101 a casa di Monty..</title>
-            <link>https://www.youtube.com/watch?v=AKxraPUIlgc</link>
-            <guid>https://www.youtube.com/watch?v=AKxraPUIlgc</guid>
-            <pubDate>JUNE 15, 2021 AT 01:41PM</pubDate>
-            <description>R101 a casa di Monty..</description>
+            <title>Marco Montemagno - Come si intrattiene un pubblico? - Alessandro Cattelan</title>
+            <link>https://www.youtube.com/watch?v=7x7YHVaNpog</link>
+            <guid>https://www.youtube.com/watch?v=7x7YHVaNpog</guid>
+            <pubDate>AUGUST 25, 2021 AT 01:00PM</pubDate>
+            <description>Come si intrattiene un pubblico? - Alessandro Cattelan</description>
         </item>
         <item>
-            <title>Marco Montemagno - È arrivato il Black Friday ...</title>
-            <link>https://www.youtube.com/watch?v=PLA-Bq8YSyE</link>
-            <guid>https://www.youtube.com/watch?v=PLA-Bq8YSyE</guid>
-            <pubDate>NOVEMBER 24, 2021 AT 04:30PM</pubDate>
-            <description>È arrivato il Black Friday ...</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - MMA sarà presto lo sport più visto al mondo?</title>
-            <link>https://www.youtube.com/watch?v=at8wL5FhOdk</link>
-            <guid>https://www.youtube.com/watch?v=at8wL5FhOdk</guid>
-            <pubDate>NOVEMBER 6, 2021 AT 01:00PM</pubDate>
-            <description>MMA sarà presto lo sport più visto al mondo?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Perché i miliardari chiedono un sacco di prestiti (anche se non  hanno bisogno di soldi)...</title>
-            <link>https://www.youtube.com/watch?v=ixy7_7uw57M</link>
-            <guid>https://www.youtube.com/watch?v=ixy7_7uw57M</guid>
-            <pubDate>AUGUST 10, 2021 AT 01:00PM</pubDate>
-            <description>Perché i miliardari chiedono un sacco di prestiti (anche se non  hanno bisogno di soldi)...</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Draghi nel mirino dei No Vax, nelle chat minacce al premiere gli indirizzi di casa...</title>
-            <link>https://www.youtube.com/watch?v=GYE45aC7seU</link>
-            <guid>https://www.youtube.com/watch?v=GYE45aC7seU</guid>
-            <pubDate>DECEMBER 13, 2021 AT 08:30AM</pubDate>
-            <description>Draghi nel mirino dei No Vax, nelle chat minacce al premiere gli indirizzi di casa...</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come stabilire il prezzo di un prodotto con Enrico Santarelli (Chief Marketing Officer Clementoni)</title>
-            <link>https://www.youtube.com/watch?v=z-VwELUcA7s</link>
-            <guid>https://www.youtube.com/watch?v=z-VwELUcA7s</guid>
-            <pubDate>FEBRUARY 3, 2022 AT 09:50AM</pubDate>
-            <description>Come stabilire il prezzo di un prodotto con Enrico Santarelli (Chief Marketing Officer Clementoni)</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - MENO PIPPE MENTALI SUI LIBRI #shorts</title>
-            <link>https://www.youtube.com/watch?v=_qR6d_DAaPQ</link>
-            <guid>https://www.youtube.com/watch?v=_qR6d_DAaPQ</guid>
-            <pubDate>JULY 27, 2021 AT 08:00AM</pubDate>
-            <description>MENO PIPPE MENTALI SUI LIBRI #shorts</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - COME NON SBAGLIATE MAI UN REGALO #shorts</title>
-            <link>https://www.youtube.com/watch?v=nNeuIFxw860</link>
-            <guid>https://www.youtube.com/watch?v=nNeuIFxw860</guid>
-            <pubDate>AUGUST 28, 2021 AT 11:33AM</pubDate>
-            <description>COME NON SBAGLIATE MAI UN REGALO #shorts</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 300Mln$?!? Ma Apple e Google sono davvero concorrenti? #shorts</title>
-            <link>https://www.youtube.com/watch?v=Y-4yci_uu2M</link>
-            <guid>https://www.youtube.com/watch?v=Y-4yci_uu2M</guid>
-            <pubDate>JULY 5, 2021 AT 03:36PM</pubDate>
-            <description>300Mln$?!? Ma Apple e Google sono davvero concorrenti? #shorts</description>
+            <title>Marco Montemagno - 4 chiacchiere con Dario Costa il primo a far volare un aereo in due gallerie</title>
+            <link>https://www.youtube.com/watch?v=m6HTSXBF-kA</link>
+            <guid>https://www.youtube.com/watch?v=m6HTSXBF-kA</guid>
+            <pubDate>NOVEMBER 14, 2021 AT 01:30PM</pubDate>
+            <description>4 chiacchiere con Dario Costa il primo a far volare un aereo in due gallerie</description>
         </item>
     </channel>
 </rss>
