@@ -5,90 +5,76 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Sat, 04 Mar 2023 13:19:38 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 13:19:44 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - Ecco i nuovi occhiali di Facebook (pro e contro...)</title>
-            <link>https://www.youtube.com/watch?v=oxEaA-eyijc</link>
-            <guid>https://www.youtube.com/watch?v=oxEaA-eyijc</guid>
-            <pubDate>SEPTEMBER 10, 2021 AT 06:49PM</pubDate>
-            <description>Ecco i nuovi occhiali di Facebook (pro e contro...)</description>
+            <title>Rudy Bandiera - Destiny 2 - tutorial neofita 1</title>
+            <link>https://www.youtube.com/watch?v=DCnlBqtqwc4</link>
+            <guid>https://www.youtube.com/watch?v=DCnlBqtqwc4</guid>
+            <pubDate>JANUARY 3, 2022 AT 05:40PM</pubDate>
+            <description>Destiny 2 - tutorial neofita 1</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Elisabetta Sgarbi</title>
-            <link>https://www.youtube.com/watch?v=zuC5MTlCB4M</link>
-            <guid>https://www.youtube.com/watch?v=zuC5MTlCB4M</guid>
-            <pubDate>JUNE 1, 2021 AT 11:55AM</pubDate>
-            <description>4 chiacchiere con Elisabetta Sgarbi</description>
+            <title>Matteo Flora - Ciao Intenter! La LIVE Serale!</title>
+            <link>https://www.youtube.com/watch?v=JdSn_llbFx8</link>
+            <guid>https://www.youtube.com/watch?v=JdSn_llbFx8</guid>
+            <pubDate>NOVEMBER 1, 2021 AT 03:15PM</pubDate>
+            <description>Ciao Intenter! La LIVE Serale!</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere su linguaggio e dintorni con Vera Gheno (Dicembre 2020)</title>
-            <link>https://www.youtube.com/watch?v=SoE6UU8twIA</link>
-            <guid>https://www.youtube.com/watch?v=SoE6UU8twIA</guid>
-            <pubDate>OCTOBER 21, 2021 AT 02:00PM</pubDate>
-            <description>4 chiacchiere su linguaggio e dintorni con Vera Gheno (Dicembre 2020)</description>
+            <title>Marco Montemagno - Fan Tokens with Alexander Dreyfus (Socios.com)</title>
+            <link>https://www.youtube.com/watch?v=cKAMg4okF44</link>
+            <guid>https://www.youtube.com/watch?v=cKAMg4okF44</guid>
+            <pubDate>DECEMBER 5, 2021 AT 03:00PM</pubDate>
+            <description>Fan Tokens with Alexander Dreyfus (Socios.com)</description>
         </item>
         <item>
-            <title>Marco Montemagno - Tutto quello che dovresti sapere sulle DAO con Thomas Bertani</title>
-            <link>https://www.youtube.com/watch?v=IIAi0TZHsKA</link>
-            <guid>https://www.youtube.com/watch?v=IIAi0TZHsKA</guid>
-            <pubDate>DECEMBER 4, 2021 AT 01:00PM</pubDate>
-            <description>Tutto quello che dovresti sapere sulle DAO con Thomas Bertani</description>
+            <title>Marco Montemagno - Perché il futuro della sostenibilità passa dall&#39;elettricità</title>
+            <link>https://www.youtube.com/watch?v=ueiCR_OY8KU</link>
+            <guid>https://www.youtube.com/watch?v=ueiCR_OY8KU</guid>
+            <pubDate>JULY 2, 2021 AT 03:00PM</pubDate>
+            <description>Perché il futuro della sostenibilità passa dall&#39;elettricità</description>
         </item>
         <item>
-            <title>Marco Montemagno - Bufera sui Social! Sui social sono tutti contro tutti...</title>
-            <link>https://www.youtube.com/watch?v=pNJL82Ayg24</link>
-            <guid>https://www.youtube.com/watch?v=pNJL82Ayg24</guid>
-            <pubDate>JUNE 23, 2021 AT 06:42PM</pubDate>
-            <description>Bufera sui Social! Sui social sono tutti contro tutti...</description>
+            <title>Marco Montemagno - Gino non le manda a dire ;)</title>
+            <link>https://www.youtube.com/watch?v=Xlyrx1wUGIs</link>
+            <guid>https://www.youtube.com/watch?v=Xlyrx1wUGIs</guid>
+            <pubDate>JULY 30, 2021 AT 11:28AM</pubDate>
+            <description>Gino non le manda a dire ;)</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come costruire, fidelizzare e gestire una squadra di valore con Francesca Polti</title>
-            <link>https://www.youtube.com/watch?v=D1bS6bUY6xM</link>
-            <guid>https://www.youtube.com/watch?v=D1bS6bUY6xM</guid>
-            <pubDate>NOVEMBER 10, 2021 AT 11:25AM</pubDate>
-            <description>Come costruire, fidelizzare e gestire una squadra di valore con Francesca Polti</description>
+            <title>Marco Montemagno - Competenze.it e dintorni - 4 chiacchiere con Enrico Bertolino</title>
+            <link>https://www.youtube.com/watch?v=GHB0-bpEJnU</link>
+            <guid>https://www.youtube.com/watch?v=GHB0-bpEJnU</guid>
+            <pubDate>MAY 19, 2021 AT 12:15PM</pubDate>
+            <description>Competenze.it e dintorni - 4 chiacchiere con Enrico Bertolino</description>
         </item>
         <item>
-            <title>Marco Montemagno - Sentire gli odori su Internet: arrivano i &quot;nasi digitali&quot;</title>
-            <link>https://www.youtube.com/watch?v=GVGnUK6WCMw</link>
-            <guid>https://www.youtube.com/watch?v=GVGnUK6WCMw</guid>
-            <pubDate>DECEMBER 19, 2021 AT 12:30PM</pubDate>
-            <description>Sentire gli odori su Internet: arrivano i &quot;nasi digitali&quot;</description>
+            <title>Marco Montemagno - Come trasformare i tuoi limiti in punti di forza? Ne avevamo parlato con Jovanotti</title>
+            <link>https://www.youtube.com/watch?v=Y2LWSgxbyH4</link>
+            <guid>https://www.youtube.com/watch?v=Y2LWSgxbyH4</guid>
+            <pubDate>AUGUST 23, 2021 AT 06:01PM</pubDate>
+            <description>Come trasformare i tuoi limiti in punti di forza? Ne avevamo parlato con Jovanotti</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Analisi di due siti: Wedding Planner e Personal Branding tra Affiliazione Amazon e altro</title>
-            <link>https://www.youtube.com/watch?v=1yueBGh9fa0</link>
-            <guid>https://www.youtube.com/watch?v=1yueBGh9fa0</guid>
-            <pubDate>MAY 21, 2021 AT 07:30AM</pubDate>
-            <description>Analisi di due siti: Wedding Planner e Personal Branding tra Affiliazione Amazon e altro</description>
+            <title>Marco Montemagno - Intelligenza artificiale e mondo del lavoro</title>
+            <link>https://www.youtube.com/watch?v=Sa52naKlw_g</link>
+            <guid>https://www.youtube.com/watch?v=Sa52naKlw_g</guid>
+            <pubDate>JUNE 29, 2021 AT 08:25AM</pubDate>
+            <description>Intelligenza artificiale e mondo del lavoro</description>
         </item>
         <item>
-            <title>Marco Montemagno - Blockchain, realtà aumentata, metaverso con Davide Cuttini - CEO di OVR</title>
-            <link>https://www.youtube.com/watch?v=MzpExairFFA</link>
-            <guid>https://www.youtube.com/watch?v=MzpExairFFA</guid>
-            <pubDate>NOVEMBER 27, 2021 AT 01:00PM</pubDate>
-            <description>Blockchain, realtà aumentata, metaverso con Davide Cuttini - CEO di OVR</description>
+            <title>Marco Montemagno - C&#39;è sempre qualcuno che ...</title>
+            <link>https://www.youtube.com/watch?v=mQCXMuJgPlw</link>
+            <guid>https://www.youtube.com/watch?v=mQCXMuJgPlw</guid>
+            <pubDate>DECEMBER 8, 2021 AT 01:00PM</pubDate>
+            <description>C&#39;è sempre qualcuno che ...</description>
         </item>
         <item>
-            <title>Marco Montemagno - Il mondo nel 2022: 5 trend da tenere d&#39;occhio</title>
-            <link>https://www.youtube.com/watch?v=hiBtdBHfCo0</link>
-            <guid>https://www.youtube.com/watch?v=hiBtdBHfCo0</guid>
-            <pubDate>DECEMBER 26, 2021 AT 12:45PM</pubDate>
-            <description>Il mondo nel 2022: 5 trend da tenere d&#39;occhio</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come si affronta DAVVERO la trasformazione digitale in azienda?</title>
-            <link>https://www.youtube.com/watch?v=ne9moTOOnDM</link>
-            <guid>https://www.youtube.com/watch?v=ne9moTOOnDM</guid>
-            <pubDate>DECEMBER 2, 2021 AT 01:00PM</pubDate>
-            <description>Come si affronta DAVVERO la trasformazione digitale in azienda?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Monty Lab: quanto costa e altre info importanti</title>
-            <link>https://www.youtube.com/watch?v=5gDMDET5ucY</link>
-            <guid>https://www.youtube.com/watch?v=5gDMDET5ucY</guid>
-            <pubDate>JANUARY 28, 2022 AT 07:09PM</pubDate>
-            <description>Monty Lab: quanto costa e altre info importanti</description>
+            <title>Rudy Bandiera - Amazon si prende lo sport: dopo la Champions il basket, trasmetterà i giochi WNBA</title>
+            <link>https://www.youtube.com/watch?v=ivZIu3EYprc</link>
+            <guid>https://www.youtube.com/watch?v=ivZIu3EYprc</guid>
+            <pubDate>MAY 19, 2021 AT 08:45AM</pubDate>
+            <description>Amazon si prende lo sport: dopo la Champions il basket, trasmetterà i giochi WNBA</description>
         </item>
         <item>
             <title>Marco Montemagno - Perché Facebook cambia nome?</title>
@@ -98,53 +84,67 @@
             <description>Perché Facebook cambia nome?</description>
         </item>
         <item>
-            <title>Marco Montemagno - La Cina (Ri)BANNA Bitcoin &amp;co...e ora che succede?</title>
-            <link>https://www.youtube.com/watch?v=OHJHU79PNbw</link>
-            <guid>https://www.youtube.com/watch?v=OHJHU79PNbw</guid>
-            <pubDate>SEPTEMBER 25, 2021 AT 12:17PM</pubDate>
-            <description>La Cina (Ri)BANNA Bitcoin &amp;co...e ora che succede?</description>
+            <title>Marco Montemagno - Vuoi imparare a suonare il Pianoforte? Pietro Morello su Competenze.it</title>
+            <link>https://www.youtube.com/watch?v=yEdRva8QkYg</link>
+            <guid>https://www.youtube.com/watch?v=yEdRva8QkYg</guid>
+            <pubDate>JULY 23, 2021 AT 05:13PM</pubDate>
+            <description>Vuoi imparare a suonare il Pianoforte? Pietro Morello su Competenze.it</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Sabaku no Maiku</title>
-            <link>https://www.youtube.com/watch?v=AJN_zdTDwT8</link>
-            <guid>https://www.youtube.com/watch?v=AJN_zdTDwT8</guid>
-            <pubDate>OCTOBER 5, 2021 AT 08:31PM</pubDate>
-            <description>4 chiacchiere con Sabaku no Maiku</description>
+            <title>Marco Montemagno - Questo cambia tutto...Sei con me?</title>
+            <link>https://www.youtube.com/watch?v=jIXbBSqTnuw</link>
+            <guid>https://www.youtube.com/watch?v=jIXbBSqTnuw</guid>
+            <pubDate>FEBRUARY 2, 2022 AT 02:10PM</pubDate>
+            <description>Questo cambia tutto...Sei con me?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Don&#39;t look up: ma come abbiamo fatto a ridurci così?</title>
-            <link>https://www.youtube.com/watch?v=BC1yLebnHqU</link>
-            <guid>https://www.youtube.com/watch?v=BC1yLebnHqU</guid>
-            <pubDate>JANUARY 7, 2022 AT 12:57PM</pubDate>
-            <description>Don&#39;t look up: ma come abbiamo fatto a ridurci così?</description>
+            <title>Marco Montemagno - Un giorno su, un giorno giù...</title>
+            <link>https://www.youtube.com/watch?v=FHRg8Lzwyzc</link>
+            <guid>https://www.youtube.com/watch?v=FHRg8Lzwyzc</guid>
+            <pubDate>NOVEMBER 9, 2021 AT 03:06PM</pubDate>
+            <description>Un giorno su, un giorno giù...</description>
         </item>
         <item>
-            <title>Matteo Flora - Aruba, il data breach e le scuse fatte male...</title>
-            <link>https://www.youtube.com/watch?v=7e3erd0tnj8</link>
-            <guid>https://www.youtube.com/watch?v=7e3erd0tnj8</guid>
-            <pubDate>JULY 18, 2021 AT 06:21PM</pubDate>
-            <description>Aruba, il data breach e le scuse fatte male...</description>
+            <title>Giorgio Taverniti - Google per l&#39;e-commerce con Grow My Store: ma è valido?</title>
+            <link>https://www.youtube.com/watch?v=Hq_s5J2gSSY</link>
+            <guid>https://www.youtube.com/watch?v=Hq_s5J2gSSY</guid>
+            <pubDate>JUNE 3, 2021 AT 07:30AM</pubDate>
+            <description>Google per l&#39;e-commerce con Grow My Store: ma è valido?</description>
         </item>
         <item>
-            <title>Matteo Flora - Perché dico che in Italia la colpa del RevengePorn è dei giornalisti...</title>
-            <link>https://www.youtube.com/watch?v=tPqTBYt2la0</link>
-            <guid>https://www.youtube.com/watch?v=tPqTBYt2la0</guid>
-            <pubDate>NOVEMBER 12, 2021 AT 11:46AM</pubDate>
-            <description>Perché dico che in Italia la colpa del RevengePorn è dei giornalisti...</description>
+            <title>Giorgio Taverniti - La Trasparenza è un Fattore SEO per Google</title>
+            <link>https://www.youtube.com/watch?v=IuQkUDeNwMk</link>
+            <guid>https://www.youtube.com/watch?v=IuQkUDeNwMk</guid>
+            <pubDate>JUNE 8, 2021 AT 07:30AM</pubDate>
+            <description>La Trasparenza è un Fattore SEO per Google</description>
         </item>
         <item>
-            <title>Marco Montemagno - Quali lavori spopoleranno in futuro?</title>
-            <link>https://www.youtube.com/watch?v=Ag9y4YD27pk</link>
-            <guid>https://www.youtube.com/watch?v=Ag9y4YD27pk</guid>
-            <pubDate>OCTOBER 28, 2021 AT 12:30PM</pubDate>
-            <description>Quali lavori spopoleranno in futuro?</description>
+            <title>Giorgio Taverniti - Cosa non toccare quando il sito è PRIMO su Google e deve fare un Restyle</title>
+            <link>https://www.youtube.com/watch?v=1n7NiUqIk4Q</link>
+            <guid>https://www.youtube.com/watch?v=1n7NiUqIk4Q</guid>
+            <pubDate>MAY 31, 2021 AT 07:30AM</pubDate>
+            <description>Cosa non toccare quando il sito è PRIMO su Google e deve fare un Restyle</description>
         </item>
         <item>
-            <title>Marco Montemagno - Pregiudizio o realtà: qual è il confine?</title>
-            <link>https://www.youtube.com/watch?v=rf9ZP3rzQsY</link>
-            <guid>https://www.youtube.com/watch?v=rf9ZP3rzQsY</guid>
-            <pubDate>JANUARY 24, 2022 AT 10:00AM</pubDate>
-            <description>Pregiudizio o realtà: qual è il confine?</description>
+            <title>Marco Montemagno - 4 chiacchiere con gli Extraliscio</title>
+            <link>https://www.youtube.com/watch?v=8wDM9ot5o8g</link>
+            <guid>https://www.youtube.com/watch?v=8wDM9ot5o8g</guid>
+            <pubDate>JUNE 10, 2021 AT 11:57AM</pubDate>
+            <description>4 chiacchiere con gli Extraliscio</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Bitcoin vincerà</title>
+            <link>https://www.youtube.com/watch?v=pW2J0ygGj7g</link>
+            <guid>https://www.youtube.com/watch?v=pW2J0ygGj7g</guid>
+            <pubDate>JANUARY 11, 2022 AT 01:00PM</pubDate>
+            <description>Bitcoin vincerà</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Skygolpe</title>
+            <link>https://www.youtube.com/watch?v=YANbGmeN6to</link>
+            <guid>https://www.youtube.com/watch?v=YANbGmeN6to</guid>
+            <pubDate>JANUARY 16, 2022 AT 01:00PM</pubDate>
+            <description>4 chiacchiere con Skygolpe</description>
         </item>
     </channel>
 </rss>
