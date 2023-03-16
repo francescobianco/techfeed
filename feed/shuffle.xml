@@ -5,34 +5,104 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Wed, 15 Mar 2023 13:22:50 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 13:28:21 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - Ragioni da dipendente o da imprenditore?</title>
-            <link>https://www.youtube.com/watch?v=6Ot_GKFNP1I</link>
-            <guid>https://www.youtube.com/watch?v=6Ot_GKFNP1I</guid>
-            <pubDate>SEPTEMBER 26, 2021 AT 02:00PM</pubDate>
-            <description>Ragioni da dipendente o da imprenditore?</description>
+            <title>Marco Montemagno - Indovina quanto ha incassato Tim (il CEO di Apple)?</title>
+            <link>https://www.youtube.com/watch?v=H6n0ZQRvgJQ</link>
+            <guid>https://www.youtube.com/watch?v=H6n0ZQRvgJQ</guid>
+            <pubDate>AUGUST 28, 2021 AT 11:48PM</pubDate>
+            <description>Indovina quanto ha incassato Tim (il CEO di Apple)?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Intelligenza artificiale, blockchain, nft tutto quello che c’è da sapere</title>
-            <link>https://www.youtube.com/watch?v=-P5iRKBoLhw</link>
-            <guid>https://www.youtube.com/watch?v=-P5iRKBoLhw</guid>
-            <pubDate>NOVEMBER 24, 2021 AT 09:00AM</pubDate>
-            <description>Intelligenza artificiale, blockchain, nft tutto quello che c’è da sapere</description>
+            <title>Marco Montemagno - L&#39;Italia s&#39;è desta! Come sta cambiando la percezione dell&#39;Italia nel mondo (e cosa si potrebbe fare)</title>
+            <link>https://www.youtube.com/watch?v=awJcWyt3pHA</link>
+            <guid>https://www.youtube.com/watch?v=awJcWyt3pHA</guid>
+            <pubDate>JULY 12, 2021 AT 06:24PM</pubDate>
+            <description>L&#39;Italia s&#39;è desta! Come sta cambiando la percezione dell&#39;Italia nel mondo (e cosa si potrebbe fare)</description>
         </item>
         <item>
-            <title>Matteo Flora - Barbara Palombelli ed il DISASTRO delle (non) scuse...</title>
-            <link>https://www.youtube.com/watch?v=Mg57Uj58LrY</link>
-            <guid>https://www.youtube.com/watch?v=Mg57Uj58LrY</guid>
-            <pubDate>SEPTEMBER 22, 2021 AT 11:28AM</pubDate>
-            <description>Barbara Palombelli ed il DISASTRO delle (non) scuse...</description>
+            <title>Marco Montemagno - Monty Live! Come stai?</title>
+            <link>https://www.youtube.com/watch?v=cLYM36Z8MkE</link>
+            <guid>https://www.youtube.com/watch?v=cLYM36Z8MkE</guid>
+            <pubDate>SEPTEMBER 24, 2021 AT 04:44PM</pubDate>
+            <description>Monty Live! Come stai?</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 storie di leadership al femminile</title>
-            <link>https://www.youtube.com/watch?v=UVz_rXdWXR0</link>
-            <guid>https://www.youtube.com/watch?v=UVz_rXdWXR0</guid>
-            <pubDate>AUGUST 13, 2021 AT 01:00PM</pubDate>
-            <description>4 storie di leadership al femminile</description>
+            <title>Marco Montemagno - C&#39;è sempre qualcuno che ...</title>
+            <link>https://www.youtube.com/watch?v=mQCXMuJgPlw</link>
+            <guid>https://www.youtube.com/watch?v=mQCXMuJgPlw</guid>
+            <pubDate>DECEMBER 8, 2021 AT 01:00PM</pubDate>
+            <description>C&#39;è sempre qualcuno che ...</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Chi controlla il Web?</title>
+            <link>https://www.youtube.com/watch?v=1FjN8FSRGEI</link>
+            <guid>https://www.youtube.com/watch?v=1FjN8FSRGEI</guid>
+            <pubDate>JANUARY 5, 2022 AT 10:00AM</pubDate>
+            <description>Chi controlla il Web?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Da &quot;bluff&quot; a 1.000 miliardi: come Elon Musk ha zittito tutti con Tesla</title>
+            <link>https://www.youtube.com/watch?v=KjFpO7ZkbNg</link>
+            <guid>https://www.youtube.com/watch?v=KjFpO7ZkbNg</guid>
+            <pubDate>OCTOBER 27, 2021 AT 12:30PM</pubDate>
+            <description>Da &quot;bluff&quot; a 1.000 miliardi: come Elon Musk ha zittito tutti con Tesla</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - I poveri hanno grandi televisori, i ricchi hanno grandi librerie</title>
+            <link>https://www.youtube.com/watch?v=QiOzbrEWnTs</link>
+            <guid>https://www.youtube.com/watch?v=QiOzbrEWnTs</guid>
+            <pubDate>OCTOBER 29, 2021 AT 01:30PM</pubDate>
+            <description>I poveri hanno grandi televisori, i ricchi hanno grandi librerie</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Il principio di Pareto sul lavoro: qual è il tuo 20% che conta?</title>
+            <link>https://www.youtube.com/watch?v=OpaLsqvA4lI</link>
+            <guid>https://www.youtube.com/watch?v=OpaLsqvA4lI</guid>
+            <pubDate>OCTOBER 15, 2021 AT 02:30PM</pubDate>
+            <description>Il principio di Pareto sul lavoro: qual è il tuo 20% che conta?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - È arrivato il Black Friday ...</title>
+            <link>https://www.youtube.com/watch?v=PLA-Bq8YSyE</link>
+            <guid>https://www.youtube.com/watch?v=PLA-Bq8YSyE</guid>
+            <pubDate>NOVEMBER 24, 2021 AT 04:30PM</pubDate>
+            <description>È arrivato il Black Friday ...</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Sui social possono farti sparire da un secondo all&#39;altro</title>
+            <link>https://www.youtube.com/watch?v=hJJqBRZ68sc</link>
+            <guid>https://www.youtube.com/watch?v=hJJqBRZ68sc</guid>
+            <pubDate>OCTOBER 14, 2021 AT 10:22AM</pubDate>
+            <description>Sui social possono farti sparire da un secondo all&#39;altro</description>
+        </item>
+        <item>
+            <title>Matteo Flora - DAZN per gli abbonamenti torna sui suoi passi... Con la coda tra le gambe...</title>
+            <link>https://www.youtube.com/watch?v=-3JWL3_CFHQ</link>
+            <guid>https://www.youtube.com/watch?v=-3JWL3_CFHQ</guid>
+            <pubDate>NOVEMBER 16, 2021 AT 07:45AM</pubDate>
+            <description>DAZN per gli abbonamenti torna sui suoi passi... Con la coda tra le gambe...</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Djokovich: eroe o canaglia? L&#39;analisi della sua Reputazione</title>
+            <link>https://www.youtube.com/watch?v=VKVPs-w2w9Y</link>
+            <guid>https://www.youtube.com/watch?v=VKVPs-w2w9Y</guid>
+            <pubDate>JANUARY 12, 2022 AT 07:45AM</pubDate>
+            <description>Djokovich: eroe o canaglia? L&#39;analisi della sua Reputazione</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Aruba, il data breach e le scuse fatte male...</title>
+            <link>https://www.youtube.com/watch?v=7e3erd0tnj8</link>
+            <guid>https://www.youtube.com/watch?v=7e3erd0tnj8</guid>
+            <pubDate>JULY 18, 2021 AT 06:21PM</pubDate>
+            <description>Aruba, il data breach e le scuse fatte male...</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Il Volo</title>
+            <link>https://www.youtube.com/watch?v=OreLkvM48H4</link>
+            <guid>https://www.youtube.com/watch?v=OreLkvM48H4</guid>
+            <pubDate>NOVEMBER 21, 2021 AT 02:00PM</pubDate>
+            <description>4 chiacchiere con Il Volo</description>
         </item>
         <item>
             <title>Raffaele Gaito - 7 LIBRI CHE MI HANNO CAMBIATO LA VITA</title>
@@ -42,109 +112,39 @@
             <description>7 LIBRI CHE MI HANNO CAMBIATO LA VITA</description>
         </item>
         <item>
-            <title>Rudy Bandiera - 4 verità che non ti raccontano sull’avviare un business da zero</title>
-            <link>https://www.youtube.com/watch?v=L7-f73tPcC4</link>
-            <guid>https://www.youtube.com/watch?v=L7-f73tPcC4</guid>
-            <pubDate>NOVEMBER 5, 2021 AT 09:24AM</pubDate>
-            <description>4 verità che non ti raccontano sull’avviare un business da zero</description>
+            <title>Marco Montemagno - Marco Montemagno...ma chi è? Che mestiere fa? Da dove arriva?</title>
+            <link>https://www.youtube.com/watch?v=ume43VQUbo8</link>
+            <guid>https://www.youtube.com/watch?v=ume43VQUbo8</guid>
+            <pubDate>JUNE 18, 2021 AT 07:27PM</pubDate>
+            <description>Marco Montemagno...ma chi è? Che mestiere fa? Da dove arriva?</description>
         </item>
         <item>
-            <title>Marco Montemagno - &quot;Copia&quot; questa strategia: 5 tecniche per migliorare i tuoi contenuti</title>
-            <link>https://www.youtube.com/watch?v=CfZ1FKzQjFE</link>
-            <guid>https://www.youtube.com/watch?v=CfZ1FKzQjFE</guid>
-            <pubDate>AUGUST 9, 2021 AT 03:29PM</pubDate>
-            <description>&quot;Copia&quot; questa strategia: 5 tecniche per migliorare i tuoi contenuti</description>
+            <title>Raffaele Gaito - CLUBHOUSE STA MORENDO! E STICAZZI?!</title>
+            <link>https://www.youtube.com/watch?v=bw69Mw8S28c</link>
+            <guid>https://www.youtube.com/watch?v=bw69Mw8S28c</guid>
+            <pubDate>JUNE 15, 2021 AT 08:00AM</pubDate>
+            <description>CLUBHOUSE STA MORENDO! E STICAZZI?!</description>
         </item>
         <item>
-            <title>Marco Montemagno - Food Talks con Cristina Bowerman e Paolo Marchi</title>
-            <link>https://www.youtube.com/watch?v=S2lz_QQXCVQ</link>
-            <guid>https://www.youtube.com/watch?v=S2lz_QQXCVQ</guid>
-            <pubDate>MAY 20, 2021 AT 09:34AM</pubDate>
-            <description>Food Talks con Cristina Bowerman e Paolo Marchi</description>
+            <title>Matteo Flora - Lo Sforzo cognitivo e le Abitudini con Rick Dufer</title>
+            <link>https://www.youtube.com/watch?v=qNOcAo7ai1Y</link>
+            <guid>https://www.youtube.com/watch?v=qNOcAo7ai1Y</guid>
+            <pubDate>MAY 25, 2021 AT 09:14AM</pubDate>
+            <description>Lo Sforzo cognitivo e le Abitudini con Rick Dufer</description>
         </item>
         <item>
-            <title>Marco Montemagno - A conversation with M. Night Shyamalan (Sixth Sense/Old/Unbreakable, Split...)</title>
-            <link>https://www.youtube.com/watch?v=j2zw6qsVBxY</link>
-            <guid>https://www.youtube.com/watch?v=j2zw6qsVBxY</guid>
-            <pubDate>JULY 21, 2021 AT 05:42PM</pubDate>
-            <description>A conversation with M. Night Shyamalan (Sixth Sense/Old/Unbreakable, Split...)</description>
+            <title>Marco Montemagno - 300Mln$?!? Ma Apple e Google sono davvero concorrenti? #shorts</title>
+            <link>https://www.youtube.com/watch?v=Y-4yci_uu2M</link>
+            <guid>https://www.youtube.com/watch?v=Y-4yci_uu2M</guid>
+            <pubDate>JULY 5, 2021 AT 03:36PM</pubDate>
+            <description>300Mln$?!? Ma Apple e Google sono davvero concorrenti? #shorts</description>
         </item>
         <item>
-            <title>Matteo Flora - Facebook e Instagram a pagamento per colpa di Apple?</title>
-            <link>https://www.youtube.com/watch?v=JngaCH8MmGM</link>
-            <guid>https://www.youtube.com/watch?v=JngaCH8MmGM</guid>
-            <pubDate>MAY 4, 2021 AT 08:00AM</pubDate>
-            <description>Facebook e Instagram a pagamento per colpa di Apple?</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Il Garante della Privacy è davvero un &quot;ostacolo&quot;?</title>
-            <link>https://www.youtube.com/watch?v=ax8NVfiaSHU</link>
-            <guid>https://www.youtube.com/watch?v=ax8NVfiaSHU</guid>
-            <pubDate>JUNE 14, 2021 AT 11:50AM</pubDate>
-            <description>Il Garante della Privacy è davvero un &quot;ostacolo&quot;?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Quali lavori spopoleranno in futuro?</title>
-            <link>https://www.youtube.com/watch?v=Ag9y4YD27pk</link>
-            <guid>https://www.youtube.com/watch?v=Ag9y4YD27pk</guid>
-            <pubDate>OCTOBER 28, 2021 AT 12:30PM</pubDate>
-            <description>Quali lavori spopoleranno in futuro?</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - STAGING PER WORDPRESS (E NON SOLO) SENZA PLUGIN</title>
-            <link>https://www.youtube.com/watch?v=6Up3Vu2vslk</link>
-            <guid>https://www.youtube.com/watch?v=6Up3Vu2vslk</guid>
-            <pubDate>MAY 7, 2021 AT 08:00AM</pubDate>
-            <description>STAGING PER WORDPRESS (E NON SOLO) SENZA PLUGIN</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Multe del Garante a Roma e Lombardia: chi paga e dove vanno i soldi?</title>
-            <link>https://www.youtube.com/watch?v=rGzwN8UbJp4</link>
-            <guid>https://www.youtube.com/watch?v=rGzwN8UbJp4</guid>
-            <pubDate>SEPTEMBER 13, 2021 AT 11:15AM</pubDate>
-            <description>Multe del Garante a Roma e Lombardia: chi paga e dove vanno i soldi?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Blockchain, realtà aumentata, metaverso con Davide Cuttini - CEO di OVR</title>
-            <link>https://www.youtube.com/watch?v=MzpExairFFA</link>
-            <guid>https://www.youtube.com/watch?v=MzpExairFFA</guid>
-            <pubDate>NOVEMBER 27, 2021 AT 01:00PM</pubDate>
-            <description>Blockchain, realtà aumentata, metaverso con Davide Cuttini - CEO di OVR</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - È la scelta giusta? È il metodo giusto per te?</title>
-            <link>https://www.youtube.com/watch?v=VnsQr0WhjS8</link>
-            <guid>https://www.youtube.com/watch?v=VnsQr0WhjS8</guid>
-            <pubDate>JANUARY 17, 2022 AT 01:00PM</pubDate>
-            <description>È la scelta giusta? È il metodo giusto per te?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - J.P. Morgan ha cambiato idea...</title>
-            <link>https://www.youtube.com/watch?v=9TlEpu4OS_U</link>
-            <guid>https://www.youtube.com/watch?v=9TlEpu4OS_U</guid>
-            <pubDate>JULY 23, 2021 AT 05:00PM</pubDate>
-            <description>J.P. Morgan ha cambiato idea...</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Tommaso Montesano e le scuse fatte molto male che distruggono la sua reputazione</title>
-            <link>https://www.youtube.com/watch?v=j-7STbqKbQk</link>
-            <guid>https://www.youtube.com/watch?v=j-7STbqKbQk</guid>
-            <pubDate>FEBRUARY 11, 2022 AT 01:00PM</pubDate>
-            <description>Tommaso Montesano e le scuse fatte molto male che distruggono la sua reputazione</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - Fare pubblicità su Sky, TV, radio, web, social e App. Tutorial di Sky Advertising Manager</title>
-            <link>https://www.youtube.com/watch?v=9fxHYHCZUE4</link>
-            <guid>https://www.youtube.com/watch?v=9fxHYHCZUE4</guid>
-            <pubDate>MAY 11, 2021 AT 09:24AM</pubDate>
-            <description>Fare pubblicità su Sky, TV, radio, web, social e App. Tutorial di Sky Advertising Manager</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Contenuti cospirazionisti, Twitter e le grandi incognite</title>
-            <link>https://www.youtube.com/watch?v=OkHWhVBVoUo</link>
-            <guid>https://www.youtube.com/watch?v=OkHWhVBVoUo</guid>
-            <pubDate>OCTOBER 25, 2021 AT 10:22AM</pubDate>
-            <description>Contenuti cospirazionisti, Twitter e le grandi incognite</description>
+            <title>Matteo Flora - Rayban Stories: parliamo dei nuovi occhiali di Facebook</title>
+            <link>https://www.youtube.com/watch?v=HEzA9CPcpns</link>
+            <guid>https://www.youtube.com/watch?v=HEzA9CPcpns</guid>
+            <pubDate>OCTOBER 11, 2021 AT 07:45AM</pubDate>
+            <description>Rayban Stories: parliamo dei nuovi occhiali di Facebook</description>
         </item>
     </channel>
 </rss>
