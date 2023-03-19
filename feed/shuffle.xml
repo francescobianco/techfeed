@@ -5,7 +5,91 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Sat, 18 Mar 2023 13:18:31 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2023 13:18:54 +0000</lastBuildDate>
+        <item>
+            <title>Giorgio Taverniti - Advertising e Privacy: ma che cosa sta succedendo?</title>
+            <link>https://www.youtube.com/watch?v=6ZzALaEwIak</link>
+            <guid>https://www.youtube.com/watch?v=6ZzALaEwIak</guid>
+            <pubDate>JULY 6, 2021 AT 07:30AM</pubDate>
+            <description>Advertising e Privacy: ma che cosa sta succedendo?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - La vita costa sempre di più...</title>
+            <link>https://www.youtube.com/watch?v=5oCCrYpd-HM</link>
+            <guid>https://www.youtube.com/watch?v=5oCCrYpd-HM</guid>
+            <pubDate>JULY 29, 2021 AT 12:00PM</pubDate>
+            <description>La vita costa sempre di più...</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Perché il DDL Autolesionismo è un pericolo per te e per la rete…</title>
+            <link>https://www.youtube.com/watch?v=V7DJqP_uTHg</link>
+            <guid>https://www.youtube.com/watch?v=V7DJqP_uTHg</guid>
+            <pubDate>AUGUST 1, 2021 AT 01:20PM</pubDate>
+            <description>Perché il DDL Autolesionismo è un pericolo per te e per la rete…</description>
+        </item>
+        <item>
+            <title>Matteo Flora - DAZN per gli abbonamenti torna sui suoi passi... Con la coda tra le gambe...</title>
+            <link>https://www.youtube.com/watch?v=-3JWL3_CFHQ</link>
+            <guid>https://www.youtube.com/watch?v=-3JWL3_CFHQ</guid>
+            <pubDate>NOVEMBER 16, 2021 AT 07:45AM</pubDate>
+            <description>DAZN per gli abbonamenti torna sui suoi passi... Con la coda tra le gambe...</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - How to make crypto accessible to all with Cyrus Fazel - CEO di SwissBorg</title>
+            <link>https://www.youtube.com/watch?v=vGPhQsjyV_8</link>
+            <guid>https://www.youtube.com/watch?v=vGPhQsjyV_8</guid>
+            <pubDate>NOVEMBER 27, 2021 AT 09:00AM</pubDate>
+            <description>How to make crypto accessible to all with Cyrus Fazel - CEO di SwissBorg</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - L&#39;intelligenza Artificiale sta aumentando la competitività aziendale</title>
+            <link>https://www.youtube.com/watch?v=qRpl-Q6a9x4</link>
+            <guid>https://www.youtube.com/watch?v=qRpl-Q6a9x4</guid>
+            <pubDate>JUNE 22, 2021 AT 10:36PM</pubDate>
+            <description>L&#39;intelligenza Artificiale sta aumentando la competitività aziendale</description>
+        </item>
+        <item>
+            <title>Matteo Flora - #Report e &quot;le fonti&quot;: cosa è successo davvero e perché non è un attacco alla democrazia</title>
+            <link>https://www.youtube.com/watch?v=HXTvPnUKKsE</link>
+            <guid>https://www.youtube.com/watch?v=HXTvPnUKKsE</guid>
+            <pubDate>JUNE 20, 2021 AT 09:15PM</pubDate>
+            <description>#Report e &quot;le fonti&quot;: cosa è successo davvero e perché non è un attacco alla democrazia</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Cosa non toccare quando il sito è PRIMO su Google e deve fare un Restyle</title>
+            <link>https://www.youtube.com/watch?v=1n7NiUqIk4Q</link>
+            <guid>https://www.youtube.com/watch?v=1n7NiUqIk4Q</guid>
+            <pubDate>MAY 31, 2021 AT 07:30AM</pubDate>
+            <description>Cosa non toccare quando il sito è PRIMO su Google e deve fare un Restyle</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Come si crea un prodotto finanziario?</title>
+            <link>https://www.youtube.com/watch?v=uXO5ba2vgrA</link>
+            <guid>https://www.youtube.com/watch?v=uXO5ba2vgrA</guid>
+            <pubDate>NOVEMBER 21, 2021 AT 09:40PM</pubDate>
+            <description>Come si crea un prodotto finanziario?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Tutto quello che dovresti sapere sulla Finanza Islamica (che riguarda 1,5 miliardi di persone)</title>
+            <link>https://www.youtube.com/watch?v=SnMQM82AtsI</link>
+            <guid>https://www.youtube.com/watch?v=SnMQM82AtsI</guid>
+            <pubDate>FEBRUARY 5, 2022 AT 01:00PM</pubDate>
+            <description>Tutto quello che dovresti sapere sulla Finanza Islamica (che riguarda 1,5 miliardi di persone)</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Facebook spegne, come IBM, il riconoscimento facciale. Perché?</title>
+            <link>https://www.youtube.com/watch?v=laZVDIEt6CA</link>
+            <guid>https://www.youtube.com/watch?v=laZVDIEt6CA</guid>
+            <pubDate>NOVEMBER 3, 2021 AT 09:18AM</pubDate>
+            <description>Facebook spegne, come IBM, il riconoscimento facciale. Perché?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Vuoi imparare a programmare?</title>
+            <link>https://www.youtube.com/watch?v=ueLooNS5iek</link>
+            <guid>https://www.youtube.com/watch?v=ueLooNS5iek</guid>
+            <pubDate>NOVEMBER 8, 2021 AT 03:00PM</pubDate>
+            <description>Vuoi imparare a programmare?</description>
+        </item>
         <item>
             <title>Marco Montemagno - Bitcoin vincerà</title>
             <link>https://www.youtube.com/watch?v=pW2J0ygGj7g</link>
@@ -14,137 +98,53 @@
             <description>Bitcoin vincerà</description>
         </item>
         <item>
-            <title>Matteo Flora - TWITCH LEAK: quanto guadagnano gli streamer italiani? I numeri e il contenuto del leak!</title>
-            <link>https://www.youtube.com/watch?v=MXzA2UCrNvI</link>
-            <guid>https://www.youtube.com/watch?v=MXzA2UCrNvI</guid>
-            <pubDate>OCTOBER 6, 2021 AT 09:04PM</pubDate>
-            <description>TWITCH LEAK: quanto guadagnano gli streamer italiani? I numeri e il contenuto del leak!</description>
+            <title>Matteo Flora - Data Breach e sanzioni GDPR: 225M nel 2021. Commentiamo lo studio con Giulio Coraggio</title>
+            <link>https://www.youtube.com/watch?v=mPdiP5EdUd8</link>
+            <guid>https://www.youtube.com/watch?v=mPdiP5EdUd8</guid>
+            <pubDate>JANUARY 28, 2022 AT 02:29PM</pubDate>
+            <description>Data Breach e sanzioni GDPR: 225M nel 2021. Commentiamo lo studio con Giulio Coraggio</description>
         </item>
         <item>
-            <title>Marco Montemagno - Surf e dintorni - 4 chiacchiere con Edoardo Papa</title>
-            <link>https://www.youtube.com/watch?v=tECN8BieqSk</link>
-            <guid>https://www.youtube.com/watch?v=tECN8BieqSk</guid>
-            <pubDate>JUNE 14, 2021 AT 01:23PM</pubDate>
-            <description>Surf e dintorni - 4 chiacchiere con Edoardo Papa</description>
+            <title>Matteo Flora - Contenuti cospirazionisti, Twitter e le grandi incognite</title>
+            <link>https://www.youtube.com/watch?v=OkHWhVBVoUo</link>
+            <guid>https://www.youtube.com/watch?v=OkHWhVBVoUo</guid>
+            <pubDate>OCTOBER 25, 2021 AT 10:22AM</pubDate>
+            <description>Contenuti cospirazionisti, Twitter e le grandi incognite</description>
         </item>
         <item>
-            <title>Marco Montemagno - Cos&#39;è un Wallet e come aprirne uno (se vuoi avere i miei NFT)</title>
-            <link>https://www.youtube.com/watch?v=3UFq1YVT-ko</link>
-            <guid>https://www.youtube.com/watch?v=3UFq1YVT-ko</guid>
-            <pubDate>JANUARY 25, 2022 AT 01:00PM</pubDate>
-            <description>Cos&#39;è un Wallet e come aprirne uno (se vuoi avere i miei NFT)</description>
+            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Alberto De Paoli, Enel</title>
+            <link>https://www.youtube.com/watch?v=MpxMDkbPCHE</link>
+            <guid>https://www.youtube.com/watch?v=MpxMDkbPCHE</guid>
+            <pubDate>SEPTEMBER 10, 2021 AT 12:41PM</pubDate>
+            <description>Cambiamento climatico, elettrificazione e dintorni con Alberto De Paoli, Enel</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come integrare l&#39;Intelligenza artificiale e quella Umana?</title>
-            <link>https://www.youtube.com/watch?v=NYEKYvBJAg8</link>
-            <guid>https://www.youtube.com/watch?v=NYEKYvBJAg8</guid>
-            <pubDate>JUNE 24, 2021 AT 10:52PM</pubDate>
-            <description>Come integrare l&#39;Intelligenza artificiale e quella Umana?</description>
+            <title>Marco Montemagno - Vi chiedo scusa (e non solo)</title>
+            <link>https://www.youtube.com/watch?v=K0eZiVgUjXM</link>
+            <guid>https://www.youtube.com/watch?v=K0eZiVgUjXM</guid>
+            <pubDate>OCTOBER 11, 2021 AT 05:30PM</pubDate>
+            <description>Vi chiedo scusa (e non solo)</description>
         </item>
         <item>
-            <title>Raffaele Gaito - NEL MARKETING BISOGNA ESSERE AGNOSTICI #shorts</title>
-            <link>https://www.youtube.com/watch?v=96TMou6PdYE</link>
-            <guid>https://www.youtube.com/watch?v=96TMou6PdYE</guid>
-            <pubDate>AUGUST 13, 2021 AT 08:00AM</pubDate>
-            <description>NEL MARKETING BISOGNA ESSERE AGNOSTICI #shorts</description>
+            <title>Marco Montemagno - 9 anni di Monty in meno di 9 minuti</title>
+            <link>https://www.youtube.com/watch?v=l8Q4Famg5Zo</link>
+            <guid>https://www.youtube.com/watch?v=l8Q4Famg5Zo</guid>
+            <pubDate>AUGUST 12, 2021 AT 01:17PM</pubDate>
+            <description>9 anni di Monty in meno di 9 minuti</description>
         </item>
         <item>
-            <title>Matteo Flora - Davvero Meta / Facebook chiude in Europa? Lo SPECIALE</title>
-            <link>https://www.youtube.com/watch?v=5AisbRlQw4Q</link>
-            <guid>https://www.youtube.com/watch?v=5AisbRlQw4Q</guid>
-            <pubDate>FEBRUARY 8, 2022 AT 09:40AM</pubDate>
-            <description>Davvero Meta / Facebook chiude in Europa? Lo SPECIALE</description>
+            <title>Marco Montemagno - Coerenza o ostinazione?</title>
+            <link>https://www.youtube.com/watch?v=p9RTml447bE</link>
+            <guid>https://www.youtube.com/watch?v=p9RTml447bE</guid>
+            <pubDate>JULY 18, 2021 AT 02:15PM</pubDate>
+            <description>Coerenza o ostinazione?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Il boom degli e-commerce in Italia: qualcosa sta cambiando?</title>
-            <link>https://www.youtube.com/watch?v=MQ0o-y_YRuk</link>
-            <guid>https://www.youtube.com/watch?v=MQ0o-y_YRuk</guid>
-            <pubDate>SEPTEMBER 30, 2021 AT 02:00PM</pubDate>
-            <description>Il boom degli e-commerce in Italia: qualcosa sta cambiando?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come fare innovazione nel settore legale di un&#39;azienda</title>
-            <link>https://www.youtube.com/watch?v=lVgILGmsHvU</link>
-            <guid>https://www.youtube.com/watch?v=lVgILGmsHvU</guid>
-            <pubDate>DECEMBER 14, 2021 AT 04:30PM</pubDate>
-            <description>Come fare innovazione nel settore legale di un&#39;azienda</description>
-        </item>
-        <item>
-            <title>Matteo Flora - #GreenPass hackerato: ecco come hanno fatto (e cosa fare ora)</title>
-            <link>https://www.youtube.com/watch?v=2UI9YOh8uVE</link>
-            <guid>https://www.youtube.com/watch?v=2UI9YOh8uVE</guid>
-            <pubDate>OCTOBER 28, 2021 AT 11:17AM</pubDate>
-            <description>#GreenPass hackerato: ecco come hanno fatto (e cosa fare ora)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - &quot;È colpa tua&quot; - Quelli che danno sempre la colpa agli altri</title>
-            <link>https://www.youtube.com/watch?v=QGlZTM22Gao</link>
-            <guid>https://www.youtube.com/watch?v=QGlZTM22Gao</guid>
-            <pubDate>JANUARY 15, 2022 AT 01:00PM</pubDate>
-            <description>&quot;È colpa tua&quot; - Quelli che danno sempre la colpa agli altri</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Food Talks 4 chiacchiere con Vincenzo Ferrieri (Cioccolati Italiani) e Vittoria Zanetti (Poke House)</title>
-            <link>https://www.youtube.com/watch?v=ze-950IFPvs</link>
-            <guid>https://www.youtube.com/watch?v=ze-950IFPvs</guid>
-            <pubDate>MAY 17, 2021 AT 11:37AM</pubDate>
-            <description>Food Talks 4 chiacchiere con Vincenzo Ferrieri (Cioccolati Italiani) e Vittoria Zanetti (Poke House)</description>
-        </item>
-        <item>
-            <title>Matteo Flora - DAZN, il tradimento, la condivisione e #disdettaleotta</title>
-            <link>https://www.youtube.com/watch?v=2XRuazBEOrs</link>
-            <guid>https://www.youtube.com/watch?v=2XRuazBEOrs</guid>
-            <pubDate>NOVEMBER 10, 2021 AT 09:47AM</pubDate>
-            <description>DAZN, il tradimento, la condivisione e #disdettaleotta</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Ma davvero il Garante è &quot;Signore dei Cavilli&quot;?</title>
-            <link>https://www.youtube.com/watch?v=kqGCsuas4sg</link>
-            <guid>https://www.youtube.com/watch?v=kqGCsuas4sg</guid>
-            <pubDate>JUNE 21, 2021 AT 08:44AM</pubDate>
-            <description>Ma davvero il Garante è &quot;Signore dei Cavilli&quot;?</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - CONCENTRATI SUL &quot;CHI&quot; NON SUL &quot;COME&quot;</title>
-            <link>https://www.youtube.com/watch?v=GGHolJ2fNB4</link>
-            <guid>https://www.youtube.com/watch?v=GGHolJ2fNB4</guid>
-            <pubDate>AUGUST 10, 2021 AT 08:00AM</pubDate>
-            <description>CONCENTRATI SUL &quot;CHI&quot; NON SUL &quot;COME&quot;</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Perché il femminismo serve anche agli uomini. 4 chiacchiere con Lorenzo Gasparrini</title>
-            <link>https://www.youtube.com/watch?v=X9Y2SLpCJMY</link>
-            <guid>https://www.youtube.com/watch?v=X9Y2SLpCJMY</guid>
-            <pubDate>NOVEMBER 12, 2021 AT 03:14PM</pubDate>
-            <description>Perché il femminismo serve anche agli uomini. 4 chiacchiere con Lorenzo Gasparrini</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Conviene organizzare i giochi Olimpici?</title>
-            <link>https://www.youtube.com/watch?v=6fwPXiJbwFI</link>
-            <guid>https://www.youtube.com/watch?v=6fwPXiJbwFI</guid>
-            <pubDate>AUGUST 8, 2021 AT 10:18AM</pubDate>
-            <description>Conviene organizzare i giochi Olimpici?</description>
-        </item>
-        <item>
-            <title>Matteo Flora - SIAE e #databreach: cosa è successo e tutto quello che ancora non torna</title>
-            <link>https://www.youtube.com/watch?v=82g7ujRYgCk</link>
-            <guid>https://www.youtube.com/watch?v=82g7ujRYgCk</guid>
-            <pubDate>OCTOBER 22, 2021 AT 04:26PM</pubDate>
-            <description>SIAE e #databreach: cosa è successo e tutto quello che ancora non torna</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Ha senso Lavorare GRATIS?</title>
-            <link>https://www.youtube.com/watch?v=DTvuI-cDgqE</link>
-            <guid>https://www.youtube.com/watch?v=DTvuI-cDgqE</guid>
-            <pubDate>JUNE 11, 2021 AT 02:58PM</pubDate>
-            <description>Ha senso Lavorare GRATIS?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Ooopss YouTube (NON) è Morto</title>
-            <link>https://www.youtube.com/watch?v=g9Od18htf3U</link>
-            <guid>https://www.youtube.com/watch?v=g9Od18htf3U</guid>
-            <pubDate>MAY 8, 2021 AT 12:07PM</pubDate>
-            <description>Ooopss YouTube (NON) è Morto</description>
+            <title>Matteo Flora - Barbara Palombelli ed il DISASTRO delle (non) scuse...</title>
+            <link>https://www.youtube.com/watch?v=Mg57Uj58LrY</link>
+            <guid>https://www.youtube.com/watch?v=Mg57Uj58LrY</guid>
+            <pubDate>SEPTEMBER 22, 2021 AT 11:28AM</pubDate>
+            <description>Barbara Palombelli ed il DISASTRO delle (non) scuse...</description>
         </item>
     </channel>
 </rss>
