@@ -5,119 +5,7 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Mon, 20 Mar 2023 13:23:56 +0000</lastBuildDate>
-        <item>
-            <title>Matteo Flora - Squid Game: cosa sta facendo ai bambini?</title>
-            <link>https://www.youtube.com/watch?v=1dbNYeaJkXo</link>
-            <guid>https://www.youtube.com/watch?v=1dbNYeaJkXo</guid>
-            <pubDate>OCTOBER 27, 2021 AT 07:45AM</pubDate>
-            <description>Squid Game: cosa sta facendo ai bambini?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Ecco i nuovi occhiali di Facebook (pro e contro...)</title>
-            <link>https://www.youtube.com/watch?v=oxEaA-eyijc</link>
-            <guid>https://www.youtube.com/watch?v=oxEaA-eyijc</guid>
-            <pubDate>SEPTEMBER 10, 2021 AT 06:49PM</pubDate>
-            <description>Ecco i nuovi occhiali di Facebook (pro e contro...)</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - 9 cose che le persone socialmente funzionali non dicono MAI</title>
-            <link>https://www.youtube.com/watch?v=siZ-jCWTiqk</link>
-            <guid>https://www.youtube.com/watch?v=siZ-jCWTiqk</guid>
-            <pubDate>JULY 2, 2021 AT 08:52AM</pubDate>
-            <description>9 cose che le persone socialmente funzionali non dicono MAI</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - I Social sconvolti dall&#39;audio, la SEO dai contenuti: 4 mesi di news in 30 minuti!</title>
-            <link>https://www.youtube.com/watch?v=MNko70Z82I8</link>
-            <guid>https://www.youtube.com/watch?v=MNko70Z82I8</guid>
-            <pubDate>MAY 17, 2021 AT 07:30AM</pubDate>
-            <description>I Social sconvolti dall&#39;audio, la SEO dai contenuti: 4 mesi di news in 30 minuti!</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Bitcoin, Crypto, NFT...che succede?</title>
-            <link>https://www.youtube.com/watch?v=iwQL8AdTEXk</link>
-            <guid>https://www.youtube.com/watch?v=iwQL8AdTEXk</guid>
-            <pubDate>MAY 31, 2021 AT 09:17AM</pubDate>
-            <description>Bitcoin, Crypto, NFT...che succede?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - C&#39;è sempre qualcuno che ...</title>
-            <link>https://www.youtube.com/watch?v=mQCXMuJgPlw</link>
-            <guid>https://www.youtube.com/watch?v=mQCXMuJgPlw</guid>
-            <pubDate>DECEMBER 8, 2021 AT 01:00PM</pubDate>
-            <description>C&#39;è sempre qualcuno che ...</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Fingere il #Cancro per soldi: la storia della streamer che finse un cancro per due spiccioli...</title>
-            <link>https://www.youtube.com/watch?v=wEApGudIRs0</link>
-            <guid>https://www.youtube.com/watch?v=wEApGudIRs0</guid>
-            <pubDate>SEPTEMBER 10, 2021 AT 07:59AM</pubDate>
-            <description>Fingere il #Cancro per soldi: la storia della streamer che finse un cancro per due spiccioli...</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Tutto quello che dovresti sapere sulle DAO con Thomas Bertani</title>
-            <link>https://www.youtube.com/watch?v=IIAi0TZHsKA</link>
-            <guid>https://www.youtube.com/watch?v=IIAi0TZHsKA</guid>
-            <pubDate>DECEMBER 4, 2021 AT 01:00PM</pubDate>
-            <description>Tutto quello che dovresti sapere sulle DAO con Thomas Bertani</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Perché anche davanti ai fatti la gente non cambia idea</title>
-            <link>https://www.youtube.com/watch?v=jqCSBWbN66U</link>
-            <guid>https://www.youtube.com/watch?v=jqCSBWbN66U</guid>
-            <pubDate>JULY 17, 2021 AT 02:00PM</pubDate>
-            <description>Perché anche davanti ai fatti la gente non cambia idea</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - El Salvador, Lightning, Taproot e il futuro di Bitcoin con Giacomo Zucco</title>
-            <link>https://www.youtube.com/watch?v=B3vTVe0EROg</link>
-            <guid>https://www.youtube.com/watch?v=B3vTVe0EROg</guid>
-            <pubDate>NOVEMBER 30, 2021 AT 01:00PM</pubDate>
-            <description>El Salvador, Lightning, Taproot e il futuro di Bitcoin con Giacomo Zucco</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - Google Sheets: script, componenti, API. Idee d&#39;uso INTERESSANTI</title>
-            <link>https://www.youtube.com/watch?v=jmZF_VRT2fA</link>
-            <guid>https://www.youtube.com/watch?v=jmZF_VRT2fA</guid>
-            <pubDate>MAY 10, 2021 AT 10:41AM</pubDate>
-            <description>Google Sheets: script, componenti, API. Idee d&#39;uso INTERESSANTI</description>
-        </item>
-        <item>
-            <title>Matteo Flora - 230 miliardi di perdite: Facebook sta per chiudere? Beh, non proprio...</title>
-            <link>https://www.youtube.com/watch?v=AlabpsIORu0</link>
-            <guid>https://www.youtube.com/watch?v=AlabpsIORu0</guid>
-            <pubDate>FEBRUARY 4, 2022 AT 01:32PM</pubDate>
-            <description>230 miliardi di perdite: Facebook sta per chiudere? Beh, non proprio...</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - Cosa succederà al lavoro DOPO la pandemia? #in2minuti</title>
-            <link>https://www.youtube.com/watch?v=Qo2IiixUsBw</link>
-            <guid>https://www.youtube.com/watch?v=Qo2IiixUsBw</guid>
-            <pubDate>MAY 12, 2021 AT 04:18PM</pubDate>
-            <description>Cosa succederà al lavoro DOPO la pandemia? #in2minuti</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Bitcoin che succede? Previsioni per il 2022</title>
-            <link>https://www.youtube.com/watch?v=3NDZDR_aIxM</link>
-            <guid>https://www.youtube.com/watch?v=3NDZDR_aIxM</guid>
-            <pubDate>JANUARY 5, 2022 AT 11:55PM</pubDate>
-            <description>Bitcoin che succede? Previsioni per il 2022</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - &quot;Sii impaziente con le azioni, ma paziente con i risultati&quot; (Naval)</title>
-            <link>https://www.youtube.com/watch?v=xMHPznF_qs0</link>
-            <guid>https://www.youtube.com/watch?v=xMHPznF_qs0</guid>
-            <pubDate>DECEMBER 4, 2021 AT 04:00PM</pubDate>
-            <description>&quot;Sii impaziente con le azioni, ma paziente con i risultati&quot; (Naval)</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - Parlando del futuro dei videogame e di PS5</title>
-            <link>https://www.youtube.com/watch?v=a9PyCx8iYaM</link>
-            <guid>https://www.youtube.com/watch?v=a9PyCx8iYaM</guid>
-            <pubDate>FEBRUARY 7, 2022 AT 10:22AM</pubDate>
-            <description>Parlando del futuro dei videogame e di PS5</description>
-        </item>
+        <lastBuildDate>Tue, 21 Mar 2023 13:14:41 +0000</lastBuildDate>
         <item>
             <title>Rudy Bandiera - Diamo un&#39;occhiata all&#39;interno del primo Google Store al mondo</title>
             <link>https://www.youtube.com/watch?v=Ra3hfVs7RuM</link>
@@ -126,25 +14,137 @@
             <description>Diamo un&#39;occhiata all&#39;interno del primo Google Store al mondo</description>
         </item>
         <item>
-            <title>Matteo Flora - Il Garante della Privacy è davvero un &quot;ostacolo&quot;?</title>
-            <link>https://www.youtube.com/watch?v=ax8NVfiaSHU</link>
-            <guid>https://www.youtube.com/watch?v=ax8NVfiaSHU</guid>
-            <pubDate>JUNE 14, 2021 AT 11:50AM</pubDate>
-            <description>Il Garante della Privacy è davvero un &quot;ostacolo&quot;?</description>
+            <title>Giorgio Taverniti - Substack è un pericolo per i giornali. Ora è ufficiale.</title>
+            <link>https://www.youtube.com/watch?v=qlnYWsM5CJM</link>
+            <guid>https://www.youtube.com/watch?v=qlnYWsM5CJM</guid>
+            <pubDate>MAY 12, 2021 AT 08:34AM</pubDate>
+            <description>Substack è un pericolo per i giornali. Ora è ufficiale.</description>
         </item>
         <item>
-            <title>Raffaele Gaito - COME DIFFERENZIARSI DALLA CONCORRENZA (E NON SOLO)</title>
-            <link>https://www.youtube.com/watch?v=0-SbdkcHFGA</link>
-            <guid>https://www.youtube.com/watch?v=0-SbdkcHFGA</guid>
-            <pubDate>AUGUST 3, 2021 AT 08:00AM</pubDate>
-            <description>COME DIFFERENZIARSI DALLA CONCORRENZA (E NON SOLO)</description>
+            <title>Marco Montemagno - Netflix perde abbonati. Calo fisiologico o problemi in vista?</title>
+            <link>https://www.youtube.com/watch?v=4KPHJfzKscU</link>
+            <guid>https://www.youtube.com/watch?v=4KPHJfzKscU</guid>
+            <pubDate>JULY 28, 2021 AT 12:45PM</pubDate>
+            <description>Netflix perde abbonati. Calo fisiologico o problemi in vista?</description>
         </item>
         <item>
-            <title>Matteo Flora - Tutto quello che dovete sapere su Pegasus, Intercettazioni e Captatori…</title>
-            <link>https://www.youtube.com/watch?v=Z8Q0dBKSQHU</link>
-            <guid>https://www.youtube.com/watch?v=Z8Q0dBKSQHU</guid>
-            <pubDate>JULY 26, 2021 AT 10:00AM</pubDate>
-            <description>Tutto quello che dovete sapere su Pegasus, Intercettazioni e Captatori…</description>
+            <title>Giorgio Taverniti - Il Fallimento di Clubhouse: una meteora utile - W&amp;L Aprile 2021</title>
+            <link>https://www.youtube.com/watch?v=mWrc0lYq_ws</link>
+            <guid>https://www.youtube.com/watch?v=mWrc0lYq_ws</guid>
+            <pubDate>MAY 6, 2021 AT 07:30AM</pubDate>
+            <description>Il Fallimento di Clubhouse: una meteora utile - W&amp;L Aprile 2021</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Bricofer contro Rapetto: il ransomware e gli errori di comunicazione</title>
+            <link>https://www.youtube.com/watch?v=6GA6KbD8iQg</link>
+            <guid>https://www.youtube.com/watch?v=6GA6KbD8iQg</guid>
+            <pubDate>JANUARY 19, 2022 AT 07:17PM</pubDate>
+            <description>Bricofer contro Rapetto: il ransomware e gli errori di comunicazione</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Ermete Realacci</title>
+            <link>https://www.youtube.com/watch?v=5wPkQuZmXqE</link>
+            <guid>https://www.youtube.com/watch?v=5wPkQuZmXqE</guid>
+            <pubDate>SEPTEMBER 5, 2021 AT 07:00PM</pubDate>
+            <description>Cambiamento climatico, elettrificazione e dintorni con Ermete Realacci</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Giornalisti, Clown, Intrattenitori: cosa non sta funzionando nella informazione online...</title>
+            <link>https://www.youtube.com/watch?v=4Qx0xFWyM4g</link>
+            <guid>https://www.youtube.com/watch?v=4Qx0xFWyM4g</guid>
+            <pubDate>SEPTEMBER 16, 2021 AT 10:53AM</pubDate>
+            <description>Giornalisti, Clown, Intrattenitori: cosa non sta funzionando nella informazione online...</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 300Mln$?!? Ma Apple e Google sono davvero concorrenti? #shorts</title>
+            <link>https://www.youtube.com/watch?v=Y-4yci_uu2M</link>
+            <guid>https://www.youtube.com/watch?v=Y-4yci_uu2M</guid>
+            <pubDate>JULY 5, 2021 AT 03:36PM</pubDate>
+            <description>300Mln$?!? Ma Apple e Google sono davvero concorrenti? #shorts</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Cina: tra pregiudizi e realtà</title>
+            <link>https://www.youtube.com/watch?v=_vQzZu6xXMY</link>
+            <guid>https://www.youtube.com/watch?v=_vQzZu6xXMY</guid>
+            <pubDate>JANUARY 29, 2022 AT 02:30PM</pubDate>
+            <description>Cina: tra pregiudizi e realtà</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - 4 differenze tra individui &quot;intelligenti&quot; e &quot;saggi&quot;</title>
+            <link>https://www.youtube.com/watch?v=YFybZ9bNi14</link>
+            <guid>https://www.youtube.com/watch?v=YFybZ9bNi14</guid>
+            <pubDate>JULY 28, 2021 AT 08:55AM</pubDate>
+            <description>4 differenze tra individui &quot;intelligenti&quot; e &quot;saggi&quot;</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Tommaso Montesano e le scuse fatte molto male che distruggono la sua reputazione</title>
+            <link>https://www.youtube.com/watch?v=j-7STbqKbQk</link>
+            <guid>https://www.youtube.com/watch?v=j-7STbqKbQk</guid>
+            <pubDate>FEBRUARY 11, 2022 AT 01:00PM</pubDate>
+            <description>Tommaso Montesano e le scuse fatte molto male che distruggono la sua reputazione</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Il Volo</title>
+            <link>https://www.youtube.com/watch?v=OreLkvM48H4</link>
+            <guid>https://www.youtube.com/watch?v=OreLkvM48H4</guid>
+            <pubDate>NOVEMBER 21, 2021 AT 02:00PM</pubDate>
+            <description>4 chiacchiere con Il Volo</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - La vita costa sempre di più...</title>
+            <link>https://www.youtube.com/watch?v=5oCCrYpd-HM</link>
+            <guid>https://www.youtube.com/watch?v=5oCCrYpd-HM</guid>
+            <pubDate>JULY 29, 2021 AT 12:00PM</pubDate>
+            <description>La vita costa sempre di più...</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Metaverso: la prossima mossa di Facebook (e delle big tech)</title>
+            <link>https://www.youtube.com/watch?v=KlkvVVcvN8M</link>
+            <guid>https://www.youtube.com/watch?v=KlkvVVcvN8M</guid>
+            <pubDate>NOVEMBER 1, 2021 AT 01:39PM</pubDate>
+            <description>Metaverso: la prossima mossa di Facebook (e delle big tech)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Bezos, Branson, Musk: la corsa dei Miliardari per accaparrarsi il nuovo business dello Spazio</title>
+            <link>https://www.youtube.com/watch?v=M4Q6hKyqME4</link>
+            <guid>https://www.youtube.com/watch?v=M4Q6hKyqME4</guid>
+            <pubDate>JULY 20, 2021 AT 01:06PM</pubDate>
+            <description>Bezos, Branson, Musk: la corsa dei Miliardari per accaparrarsi il nuovo business dello Spazio</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - Sapete chi è l’italiano più seguito sui social?</title>
+            <link>https://www.youtube.com/watch?v=3NIMJ9mu20k</link>
+            <guid>https://www.youtube.com/watch?v=3NIMJ9mu20k</guid>
+            <pubDate>MAY 25, 2021 AT 09:09AM</pubDate>
+            <description>Sapete chi è l’italiano più seguito sui social?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Come si affronta DAVVERO la trasformazione digitale in azienda?</title>
+            <link>https://www.youtube.com/watch?v=ne9moTOOnDM</link>
+            <guid>https://www.youtube.com/watch?v=ne9moTOOnDM</guid>
+            <pubDate>DECEMBER 2, 2021 AT 01:00PM</pubDate>
+            <description>Come si affronta DAVVERO la trasformazione digitale in azienda?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Come si applicano gli NFT nello sport, nel gaming e nella moda</title>
+            <link>https://www.youtube.com/watch?v=d8CaghcMGZk</link>
+            <guid>https://www.youtube.com/watch?v=d8CaghcMGZk</guid>
+            <pubDate>NOVEMBER 26, 2021 AT 09:00AM</pubDate>
+            <description>Come si applicano gli NFT nello sport, nel gaming e nella moda</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Facebook &amp; Audio: c&#39;è una Strategia. Altro che Clubhouse..</title>
+            <link>https://www.youtube.com/watch?v=ZAr-2bbER0k</link>
+            <guid>https://www.youtube.com/watch?v=ZAr-2bbER0k</guid>
+            <pubDate>MAY 13, 2021 AT 07:30AM</pubDate>
+            <description>Facebook &amp; Audio: c&#39;è una Strategia. Altro che Clubhouse..</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Regno Unito, che succede? Tra pandemia, Europei, Wimbledon e mamma di Goldrake</title>
+            <link>https://www.youtube.com/watch?v=p8T9APORrsw</link>
+            <guid>https://www.youtube.com/watch?v=p8T9APORrsw</guid>
+            <pubDate>JULY 8, 2021 AT 07:27PM</pubDate>
+            <description>Regno Unito, che succede? Tra pandemia, Europei, Wimbledon e mamma di Goldrake</description>
         </item>
     </channel>
 </rss>
