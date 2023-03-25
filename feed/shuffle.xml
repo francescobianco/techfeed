@@ -5,104 +5,76 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Fri, 24 Mar 2023 13:18:59 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 13:16:35 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - È possibile gestire tutte le azioni di marketing da un&#39;unica piattaforma?</title>
-            <link>https://www.youtube.com/watch?v=Zt0ockQ2C7A</link>
-            <guid>https://www.youtube.com/watch?v=Zt0ockQ2C7A</guid>
-            <pubDate>NOVEMBER 30, 2021 AT 04:00PM</pubDate>
-            <description>È possibile gestire tutte le azioni di marketing da un&#39;unica piattaforma?</description>
+            <title>Matteo Flora - Tutto quello che dovete sapere su Pegasus, Intercettazioni e Captatori…</title>
+            <link>https://www.youtube.com/watch?v=Z8Q0dBKSQHU</link>
+            <guid>https://www.youtube.com/watch?v=Z8Q0dBKSQHU</guid>
+            <pubDate>JULY 26, 2021 AT 10:00AM</pubDate>
+            <description>Tutto quello che dovete sapere su Pegasus, Intercettazioni e Captatori…</description>
         </item>
         <item>
-            <title>Marco Montemagno - Se non funziona, farò qualcos&#39;altro</title>
-            <link>https://www.youtube.com/watch?v=4DzJ3SN5uoI</link>
-            <guid>https://www.youtube.com/watch?v=4DzJ3SN5uoI</guid>
-            <pubDate>JANUARY 10, 2022 AT 01:00PM</pubDate>
-            <description>Se non funziona, farò qualcos&#39;altro</description>
+            <title>Marco Montemagno - I colossi Crypto alla conquista del mondo</title>
+            <link>https://www.youtube.com/watch?v=3qYCDik9kgc</link>
+            <guid>https://www.youtube.com/watch?v=3qYCDik9kgc</guid>
+            <pubDate>NOVEMBER 17, 2021 AT 03:30PM</pubDate>
+            <description>I colossi Crypto alla conquista del mondo</description>
         </item>
         <item>
-            <title>Matteo Flora - Ma davvero il Garante è &quot;Signore dei Cavilli&quot;?</title>
-            <link>https://www.youtube.com/watch?v=kqGCsuas4sg</link>
-            <guid>https://www.youtube.com/watch?v=kqGCsuas4sg</guid>
-            <pubDate>JUNE 21, 2021 AT 08:44AM</pubDate>
-            <description>Ma davvero il Garante è &quot;Signore dei Cavilli&quot;?</description>
+            <title>Matteo Flora - Parmigiano Reggiano, lo spot di &quot;Renatino&quot; e la CATASTROFE reputazionale</title>
+            <link>https://www.youtube.com/watch?v=SSLqp90wkqc</link>
+            <guid>https://www.youtube.com/watch?v=SSLqp90wkqc</guid>
+            <pubDate>DECEMBER 3, 2021 AT 08:00AM</pubDate>
+            <description>Parmigiano Reggiano, lo spot di &quot;Renatino&quot; e la CATASTROFE reputazionale</description>
         </item>
         <item>
-            <title>Marco Montemagno - Bitcoin, Crypto, NFT...che succede?</title>
-            <link>https://www.youtube.com/watch?v=iwQL8AdTEXk</link>
-            <guid>https://www.youtube.com/watch?v=iwQL8AdTEXk</guid>
-            <pubDate>MAY 31, 2021 AT 09:17AM</pubDate>
-            <description>Bitcoin, Crypto, NFT...che succede?</description>
+            <title>Matteo Flora - Chi sono le Virtual Influencer e perché sono un pericolo per le nostre libertà</title>
+            <link>https://www.youtube.com/watch?v=HpDJvijSp5c</link>
+            <guid>https://www.youtube.com/watch?v=HpDJvijSp5c</guid>
+            <pubDate>SEPTEMBER 15, 2021 AT 09:17AM</pubDate>
+            <description>Chi sono le Virtual Influencer e perché sono un pericolo per le nostre libertà</description>
         </item>
         <item>
-            <title>Marco Montemagno - Don&#39;t look up: ma come abbiamo fatto a ridurci così?</title>
-            <link>https://www.youtube.com/watch?v=BC1yLebnHqU</link>
-            <guid>https://www.youtube.com/watch?v=BC1yLebnHqU</guid>
-            <pubDate>JANUARY 7, 2022 AT 12:57PM</pubDate>
-            <description>Don&#39;t look up: ma come abbiamo fatto a ridurci così?</description>
+            <title>Marco Montemagno - 4 chiacchiere con Gino Strada</title>
+            <link>https://www.youtube.com/watch?v=4weR9T3v3XA</link>
+            <guid>https://www.youtube.com/watch?v=4weR9T3v3XA</guid>
+            <pubDate>MAY 20, 2021 AT 08:49AM</pubDate>
+            <description>4 chiacchiere con Gino Strada</description>
         </item>
         <item>
-            <title>Marco Montemagno - 6 abitudini che mi hanno cambiato la vita</title>
-            <link>https://www.youtube.com/watch?v=s8d9cY6Y6V4</link>
-            <guid>https://www.youtube.com/watch?v=s8d9cY6Y6V4</guid>
-            <pubDate>JANUARY 13, 2022 AT 01:00PM</pubDate>
-            <description>6 abitudini che mi hanno cambiato la vita</description>
+            <title>Marco Montemagno - Inventati una soluzione</title>
+            <link>https://www.youtube.com/watch?v=pjl4owUGR8Y</link>
+            <guid>https://www.youtube.com/watch?v=pjl4owUGR8Y</guid>
+            <pubDate>MAY 6, 2021 AT 04:05PM</pubDate>
+            <description>Inventati una soluzione</description>
         </item>
         <item>
-            <title>Marco Montemagno - Blockchain, mining/environment, Stablecoins...a conversation with Algorand</title>
-            <link>https://www.youtube.com/watch?v=FTYhKY4o-4g</link>
-            <guid>https://www.youtube.com/watch?v=FTYhKY4o-4g</guid>
-            <pubDate>NOVEMBER 24, 2021 AT 03:00PM</pubDate>
-            <description>Blockchain, mining/environment, Stablecoins...a conversation with Algorand</description>
+            <title>Rudy Bandiera - 6 cose da fare invece di prendere in mano il telefono</title>
+            <link>https://www.youtube.com/watch?v=OJ5M0J2GpAE</link>
+            <guid>https://www.youtube.com/watch?v=OJ5M0J2GpAE</guid>
+            <pubDate>JULY 7, 2021 AT 10:06AM</pubDate>
+            <description>6 cose da fare invece di prendere in mano il telefono</description>
         </item>
         <item>
-            <title>Marco Montemagno - Trading e piattaforme di investimenti crypto</title>
-            <link>https://www.youtube.com/watch?v=AWlUN_xS0Eg</link>
-            <guid>https://www.youtube.com/watch?v=AWlUN_xS0Eg</guid>
-            <pubDate>NOVEMBER 28, 2021 AT 03:00PM</pubDate>
-            <description>Trading e piattaforme di investimenti crypto</description>
+            <title>Marco Montemagno - 7 cose che ha detto Elon Musk che fanno riflettere</title>
+            <link>https://www.youtube.com/watch?v=1hPUXev58IM</link>
+            <guid>https://www.youtube.com/watch?v=1hPUXev58IM</guid>
+            <pubDate>DECEMBER 11, 2021 AT 01:00PM</pubDate>
+            <description>7 cose che ha detto Elon Musk che fanno riflettere</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Google Sheets: script, componenti, API. Idee d&#39;uso INTERESSANTI</title>
-            <link>https://www.youtube.com/watch?v=jmZF_VRT2fA</link>
-            <guid>https://www.youtube.com/watch?v=jmZF_VRT2fA</guid>
-            <pubDate>MAY 10, 2021 AT 10:41AM</pubDate>
-            <description>Google Sheets: script, componenti, API. Idee d&#39;uso INTERESSANTI</description>
+            <title>Marco Montemagno - Come si intrattiene un pubblico? - Alessandro Cattelan</title>
+            <link>https://www.youtube.com/watch?v=7x7YHVaNpog</link>
+            <guid>https://www.youtube.com/watch?v=7x7YHVaNpog</guid>
+            <pubDate>AUGUST 25, 2021 AT 01:00PM</pubDate>
+            <description>Come si intrattiene un pubblico? - Alessandro Cattelan</description>
         </item>
         <item>
-            <title>Marco Montemagno - Perché dovresti fregartene di quanti follower hai</title>
-            <link>https://www.youtube.com/watch?v=tONxNxARVNs</link>
-            <guid>https://www.youtube.com/watch?v=tONxNxARVNs</guid>
-            <pubDate>OCTOBER 30, 2021 AT 01:00PM</pubDate>
-            <description>Perché dovresti fregartene di quanti follower hai</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Tutto Montemagno...ne parliamo alla Hoepli (Live)</title>
-            <link>https://www.youtube.com/watch?v=XANJSyF1rac</link>
-            <guid>https://www.youtube.com/watch?v=XANJSyF1rac</guid>
-            <pubDate>JUNE 16, 2021 AT 12:42PM</pubDate>
-            <description>Tutto Montemagno...ne parliamo alla Hoepli (Live)</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Giornalisti, Clown, Intrattenitori: cosa non sta funzionando nella informazione online...</title>
-            <link>https://www.youtube.com/watch?v=4Qx0xFWyM4g</link>
-            <guid>https://www.youtube.com/watch?v=4Qx0xFWyM4g</guid>
-            <pubDate>SEPTEMBER 16, 2021 AT 10:53AM</pubDate>
-            <description>Giornalisti, Clown, Intrattenitori: cosa non sta funzionando nella informazione online...</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con Marco Bizzarri (CEO di Gucci)</title>
-            <link>https://www.youtube.com/watch?v=cO2YXvr-rqw</link>
-            <guid>https://www.youtube.com/watch?v=cO2YXvr-rqw</guid>
-            <pubDate>JULY 22, 2021 AT 02:30PM</pubDate>
-            <description>4 chiacchiere con Marco Bizzarri (CEO di Gucci)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Analytics: ecco perché non puoi farne a meno per il tuo e-commerce</title>
-            <link>https://www.youtube.com/watch?v=mv8G-eqZAxo</link>
-            <guid>https://www.youtube.com/watch?v=mv8G-eqZAxo</guid>
-            <pubDate>JANUARY 21, 2022 AT 11:00AM</pubDate>
-            <description>Analytics: ecco perché non puoi farne a meno per il tuo e-commerce</description>
+            <title>Marco Montemagno - Se tornassi indietro, mi darei 4 suggerimenti ...</title>
+            <link>https://www.youtube.com/watch?v=jiXxdciVWTE</link>
+            <guid>https://www.youtube.com/watch?v=jiXxdciVWTE</guid>
+            <pubDate>AUGUST 21, 2021 AT 01:00PM</pubDate>
+            <description>Se tornassi indietro, mi darei 4 suggerimenti ...</description>
         </item>
         <item>
             <title>Marco Montemagno - Cosa sono le gas fee?</title>
@@ -112,39 +84,67 @@
             <description>Cosa sono le gas fee?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Sentire gli odori su Internet: arrivano i &quot;nasi digitali&quot;</title>
-            <link>https://www.youtube.com/watch?v=GVGnUK6WCMw</link>
-            <guid>https://www.youtube.com/watch?v=GVGnUK6WCMw</guid>
-            <pubDate>DECEMBER 19, 2021 AT 12:30PM</pubDate>
-            <description>Sentire gli odori su Internet: arrivano i &quot;nasi digitali&quot;</description>
+            <title>Marco Montemagno - Monty NTF: hai visto cosa è successo? Hai tempo fino al 22/2/22</title>
+            <link>https://www.youtube.com/watch?v=LMOPVD869XY</link>
+            <guid>https://www.youtube.com/watch?v=LMOPVD869XY</guid>
+            <pubDate>FEBRUARY 10, 2022 AT 11:23AM</pubDate>
+            <description>Monty NTF: hai visto cosa è successo? Hai tempo fino al 22/2/22</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Arriva su Google il profilo per Giornalisti e Content Creator!</title>
-            <link>https://www.youtube.com/watch?v=FSZaobShGl0</link>
-            <guid>https://www.youtube.com/watch?v=FSZaobShGl0</guid>
-            <pubDate>JUNE 17, 2021 AT 07:30AM</pubDate>
-            <description>Arriva su Google il profilo per Giornalisti e Content Creator!</description>
+            <title>Matteo Flora - Facebook e Instagram a pagamento per colpa di Apple?</title>
+            <link>https://www.youtube.com/watch?v=JngaCH8MmGM</link>
+            <guid>https://www.youtube.com/watch?v=JngaCH8MmGM</guid>
+            <pubDate>MAY 4, 2021 AT 08:00AM</pubDate>
+            <description>Facebook e Instagram a pagamento per colpa di Apple?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Intelligenza Artificiale e aziende: quali opportunità?</title>
-            <link>https://www.youtube.com/watch?v=d3zi4yRnbhw</link>
-            <guid>https://www.youtube.com/watch?v=d3zi4yRnbhw</guid>
-            <pubDate>JUNE 22, 2021 AT 08:45AM</pubDate>
-            <description>Intelligenza Artificiale e aziende: quali opportunità?</description>
+            <title>Matteo Flora - Cristina Fogazzi, Estetista Cinica, la crisi reputazionale dei &quot;Punti Fagiana&quot; e le scuse</title>
+            <link>https://www.youtube.com/watch?v=9sk4LTEjgGg</link>
+            <guid>https://www.youtube.com/watch?v=9sk4LTEjgGg</guid>
+            <pubDate>FEBRUARY 9, 2022 AT 01:04PM</pubDate>
+            <description>Cristina Fogazzi, Estetista Cinica, la crisi reputazionale dei &quot;Punti Fagiana&quot; e le scuse</description>
         </item>
         <item>
-            <title>Marco Montemagno - NFT, arte e dintorni con Andrea Concas</title>
-            <link>https://www.youtube.com/watch?v=BvSYNfQSRjc</link>
-            <guid>https://www.youtube.com/watch?v=BvSYNfQSRjc</guid>
-            <pubDate>NOVEMBER 25, 2021 AT 03:00PM</pubDate>
-            <description>NFT, arte e dintorni con Andrea Concas</description>
+            <title>Giorgio Taverniti - Instagram: come funzionano gli algoritmi dei Reel, Esplora, Feed e Stories!</title>
+            <link>https://www.youtube.com/watch?v=3trkEyOpeZ4</link>
+            <guid>https://www.youtube.com/watch?v=3trkEyOpeZ4</guid>
+            <pubDate>JUNE 14, 2021 AT 07:30AM</pubDate>
+            <description>Instagram: come funzionano gli algoritmi dei Reel, Esplora, Feed e Stories!</description>
         </item>
         <item>
-            <title>Matteo Flora - I numeri della moderazione di #Facebook - Matteo incontra Facebook (3 di 3)</title>
-            <link>https://www.youtube.com/watch?v=Wwz8gdVORs0</link>
-            <guid>https://www.youtube.com/watch?v=Wwz8gdVORs0</guid>
-            <pubDate>JULY 9, 2021 AT 09:00AM</pubDate>
-            <description>I numeri della moderazione di #Facebook - Matteo incontra Facebook (3 di 3)</description>
+            <title>Marco Montemagno - NFT, videogame e “Play to Earn”: cosa c’è da sapere</title>
+            <link>https://www.youtube.com/watch?v=r0E2OjkDXgI</link>
+            <guid>https://www.youtube.com/watch?v=r0E2OjkDXgI</guid>
+            <pubDate>DECEMBER 1, 2021 AT 03:00PM</pubDate>
+            <description>NFT, videogame e “Play to Earn”: cosa c’è da sapere</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Chi sta investendo negli NFT? E gli aspetti fiscali?</title>
+            <link>https://www.youtube.com/watch?v=CTyFgkfZcss</link>
+            <guid>https://www.youtube.com/watch?v=CTyFgkfZcss</guid>
+            <pubDate>FEBRUARY 1, 2022 AT 11:51AM</pubDate>
+            <description>Chi sta investendo negli NFT? E gli aspetti fiscali?</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Ha Stato l&#39;Hacker: la Gioielleria Autieri e i Ferragnez</title>
+            <link>https://www.youtube.com/watch?v=u4vkO2QPKr0</link>
+            <guid>https://www.youtube.com/watch?v=u4vkO2QPKr0</guid>
+            <pubDate>DECEMBER 17, 2021 AT 08:45AM</pubDate>
+            <description>Ha Stato l&#39;Hacker: la Gioielleria Autieri e i Ferragnez</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - La Trasparenza è un Fattore SEO per Google</title>
+            <link>https://www.youtube.com/watch?v=IuQkUDeNwMk</link>
+            <guid>https://www.youtube.com/watch?v=IuQkUDeNwMk</guid>
+            <pubDate>JUNE 8, 2021 AT 07:30AM</pubDate>
+            <description>La Trasparenza è un Fattore SEO per Google</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Intelligenza Artificiale e Sanità: a che punto siamo?</title>
+            <link>https://www.youtube.com/watch?v=S-50DuXwW9o</link>
+            <guid>https://www.youtube.com/watch?v=S-50DuXwW9o</guid>
+            <pubDate>JUNE 20, 2021 AT 11:46PM</pubDate>
+            <description>Intelligenza Artificiale e Sanità: a che punto siamo?</description>
         </item>
     </channel>
 </rss>
