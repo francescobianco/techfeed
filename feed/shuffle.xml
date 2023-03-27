@@ -5,13 +5,55 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Sun, 26 Mar 2023 13:17:05 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 14:06:06 +0000</lastBuildDate>
         <item>
-            <title>Matteo Flora - Quali sfide per la Privacy nel 2022? Ne parliamo con Guido Scorza!</title>
-            <link>https://www.youtube.com/watch?v=HTzBi89B41I</link>
-            <guid>https://www.youtube.com/watch?v=HTzBi89B41I</guid>
-            <pubDate>SEPTEMBER 6, 2021 AT 03:30PM</pubDate>
-            <description>Quali sfide per la Privacy nel 2022? Ne parliamo con Guido Scorza!</description>
+            <title>Marco Montemagno - La Filosofia fa la differenza! Impariamola con Maura Gancitano</title>
+            <link>https://www.youtube.com/watch?v=QBfzKdHKNYA</link>
+            <guid>https://www.youtube.com/watch?v=QBfzKdHKNYA</guid>
+            <pubDate>AUGUST 5, 2021 AT 09:36AM</pubDate>
+            <description>La Filosofia fa la differenza! Impariamola con Maura Gancitano</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Come trovare investitori</title>
+            <link>https://www.youtube.com/watch?v=pthoU5mxG3U</link>
+            <guid>https://www.youtube.com/watch?v=pthoU5mxG3U</guid>
+            <pubDate>DECEMBER 13, 2021 AT 12:00PM</pubDate>
+            <description>Come trovare investitori</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Quali sono i social più usati in assoluto?</title>
+            <link>https://www.youtube.com/watch?v=RFr6m3QsSBY</link>
+            <guid>https://www.youtube.com/watch?v=RFr6m3QsSBY</guid>
+            <pubDate>OCTOBER 1, 2021 AT 01:00PM</pubDate>
+            <description>Quali sono i social più usati in assoluto?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - L&#39;Italia s&#39;è desta! Come sta cambiando la percezione dell&#39;Italia nel mondo (e cosa si potrebbe fare)</title>
+            <link>https://www.youtube.com/watch?v=awJcWyt3pHA</link>
+            <guid>https://www.youtube.com/watch?v=awJcWyt3pHA</guid>
+            <pubDate>JULY 12, 2021 AT 06:24PM</pubDate>
+            <description>L&#39;Italia s&#39;è desta! Come sta cambiando la percezione dell&#39;Italia nel mondo (e cosa si potrebbe fare)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - StartupItalia cresce: ecco tutte le novità</title>
+            <link>https://www.youtube.com/watch?v=a-1VrIF8Zoc</link>
+            <guid>https://www.youtube.com/watch?v=a-1VrIF8Zoc</guid>
+            <pubDate>SEPTEMBER 22, 2021 AT 09:00AM</pubDate>
+            <description>StartupItalia cresce: ecco tutte le novità</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Il Fallimento di Clubhouse: una meteora utile - W&amp;L Aprile 2021</title>
+            <link>https://www.youtube.com/watch?v=mWrc0lYq_ws</link>
+            <guid>https://www.youtube.com/watch?v=mWrc0lYq_ws</guid>
+            <pubDate>MAY 6, 2021 AT 07:30AM</pubDate>
+            <description>Il Fallimento di Clubhouse: una meteora utile - W&amp;L Aprile 2021</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - La verità sul &quot;fare l&#39;imprenditore&quot; #shorts</title>
+            <link>https://www.youtube.com/watch?v=jnpETGBg7zY</link>
+            <guid>https://www.youtube.com/watch?v=jnpETGBg7zY</guid>
+            <pubDate>JUNE 30, 2021 AT 04:38PM</pubDate>
+            <description>La verità sul &quot;fare l&#39;imprenditore&quot; #shorts</description>
         </item>
         <item>
             <title>Marco Montemagno - Notte prima degli esami...Monty Live!</title>
@@ -21,130 +63,88 @@
             <description>Notte prima degli esami...Monty Live!</description>
         </item>
         <item>
-            <title>Marco Montemagno - Intelligenza Artificiale e Sanità: a che punto siamo?</title>
-            <link>https://www.youtube.com/watch?v=S-50DuXwW9o</link>
-            <guid>https://www.youtube.com/watch?v=S-50DuXwW9o</guid>
-            <pubDate>JUNE 20, 2021 AT 11:46PM</pubDate>
-            <description>Intelligenza Artificiale e Sanità: a che punto siamo?</description>
+            <title>Marco Montemagno - 10 Frasi per convincere qualsiasi persona</title>
+            <link>https://www.youtube.com/watch?v=G6Xfj_4yqZM</link>
+            <guid>https://www.youtube.com/watch?v=G6Xfj_4yqZM</guid>
+            <pubDate>JUNE 4, 2021 AT 05:00PM</pubDate>
+            <description>10 Frasi per convincere qualsiasi persona</description>
         </item>
         <item>
-            <title>Marco Montemagno - Tutto quello che dovresti sapere sulla Finanza Islamica (che riguarda 1,5 miliardi di persone)</title>
-            <link>https://www.youtube.com/watch?v=SnMQM82AtsI</link>
-            <guid>https://www.youtube.com/watch?v=SnMQM82AtsI</guid>
-            <pubDate>FEBRUARY 5, 2022 AT 01:00PM</pubDate>
-            <description>Tutto quello che dovresti sapere sulla Finanza Islamica (che riguarda 1,5 miliardi di persone)</description>
+            <title>Marco Montemagno - Why Africa is Leading Global Crypto Adoption with Paxful</title>
+            <link>https://www.youtube.com/watch?v=pr6XfIYJyY8</link>
+            <guid>https://www.youtube.com/watch?v=pr6XfIYJyY8</guid>
+            <pubDate>NOVEMBER 26, 2021 AT 03:00PM</pubDate>
+            <description>Why Africa is Leading Global Crypto Adoption with Paxful</description>
         </item>
         <item>
-            <title>Marco Montemagno - Persuasione: la tecnica della ripetizione...</title>
-            <link>https://www.youtube.com/watch?v=U4pWWi111ag</link>
-            <guid>https://www.youtube.com/watch?v=U4pWWi111ag</guid>
-            <pubDate>AUGUST 19, 2021 AT 05:54PM</pubDate>
-            <description>Persuasione: la tecnica della ripetizione...</description>
+            <title>Matteo Flora - Il Garante della Privacy è davvero un &quot;ostacolo&quot;?</title>
+            <link>https://www.youtube.com/watch?v=ax8NVfiaSHU</link>
+            <guid>https://www.youtube.com/watch?v=ax8NVfiaSHU</guid>
+            <pubDate>JUNE 14, 2021 AT 11:50AM</pubDate>
+            <description>Il Garante della Privacy è davvero un &quot;ostacolo&quot;?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Cosa fare con gli haters (con chi ti insulta, ti provoca e ti attacca sui social)?</title>
-            <link>https://www.youtube.com/watch?v=ksol4EKuPBI</link>
-            <guid>https://www.youtube.com/watch?v=ksol4EKuPBI</guid>
-            <pubDate>JUNE 20, 2021 AT 10:35AM</pubDate>
-            <description>Cosa fare con gli haters (con chi ti insulta, ti provoca e ti attacca sui social)?</description>
+            <title>Matteo Flora - Ciao Intenter! La LIVE Serale!</title>
+            <link>https://www.youtube.com/watch?v=JdSn_llbFx8</link>
+            <guid>https://www.youtube.com/watch?v=JdSn_llbFx8</guid>
+            <pubDate>NOVEMBER 1, 2021 AT 03:15PM</pubDate>
+            <description>Ciao Intenter! La LIVE Serale!</description>
         </item>
         <item>
-            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Valerio De Molli, Ambrosetti</title>
-            <link>https://www.youtube.com/watch?v=aVEE8ls70nA</link>
-            <guid>https://www.youtube.com/watch?v=aVEE8ls70nA</guid>
-            <pubDate>SEPTEMBER 6, 2021 AT 06:01PM</pubDate>
-            <description>Cambiamento climatico, elettrificazione e dintorni con Valerio De Molli, Ambrosetti</description>
+            <title>Marco Montemagno - ho pubblicato 2222 video su YouTube.. 7 suggerimenti...</title>
+            <link>https://www.youtube.com/watch?v=HIdrfmzKLPs</link>
+            <guid>https://www.youtube.com/watch?v=HIdrfmzKLPs</guid>
+            <pubDate>SEPTEMBER 12, 2021 AT 02:00PM</pubDate>
+            <description>ho pubblicato 2222 video su YouTube.. 7 suggerimenti...</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Il Volo</title>
-            <link>https://www.youtube.com/watch?v=OreLkvM48H4</link>
-            <guid>https://www.youtube.com/watch?v=OreLkvM48H4</guid>
-            <pubDate>NOVEMBER 21, 2021 AT 02:00PM</pubDate>
-            <description>4 chiacchiere con Il Volo</description>
+            <title>Marco Montemagno - Mentalità olimpica con Valentina Marchei</title>
+            <link>https://www.youtube.com/watch?v=H_ap3AIgU9E</link>
+            <guid>https://www.youtube.com/watch?v=H_ap3AIgU9E</guid>
+            <pubDate>SEPTEMBER 13, 2021 AT 12:42PM</pubDate>
+            <description>Mentalità olimpica con Valentina Marchei</description>
         </item>
         <item>
-            <title>Marco Montemagno - Intelligenza Artificiale...che succede?</title>
-            <link>https://www.youtube.com/watch?v=KunZGa1koR8</link>
-            <guid>https://www.youtube.com/watch?v=KunZGa1koR8</guid>
-            <pubDate>JUNE 23, 2021 AT 10:29PM</pubDate>
-            <description>Intelligenza Artificiale...che succede?</description>
+            <title>Marco Montemagno - &quot;Luoghi comuni&quot; sul business: sfatiamoli insieme</title>
+            <link>https://www.youtube.com/watch?v=95fv2XNMtFY</link>
+            <guid>https://www.youtube.com/watch?v=95fv2XNMtFY</guid>
+            <pubDate>OCTOBER 26, 2021 AT 01:30PM</pubDate>
+            <description>&quot;Luoghi comuni&quot; sul business: sfatiamoli insieme</description>
         </item>
         <item>
-            <title>Marco Montemagno - Il mondo nel 2022: 5 trend da tenere d&#39;occhio</title>
-            <link>https://www.youtube.com/watch?v=hiBtdBHfCo0</link>
-            <guid>https://www.youtube.com/watch?v=hiBtdBHfCo0</guid>
-            <pubDate>DECEMBER 26, 2021 AT 12:45PM</pubDate>
-            <description>Il mondo nel 2022: 5 trend da tenere d&#39;occhio</description>
+            <title>Marco Montemagno - Europei 2021: Congratulazioni Azzurri!</title>
+            <link>https://www.youtube.com/watch?v=B2dpKlbVv4k</link>
+            <guid>https://www.youtube.com/watch?v=B2dpKlbVv4k</guid>
+            <pubDate>JULY 12, 2021 AT 01:00PM</pubDate>
+            <description>Europei 2021: Congratulazioni Azzurri!</description>
         </item>
         <item>
-            <title>Marco Montemagno - Faccio del mio meglio</title>
-            <link>https://www.youtube.com/watch?v=spTgt4VkeHo</link>
-            <guid>https://www.youtube.com/watch?v=spTgt4VkeHo</guid>
-            <pubDate>MAY 28, 2021 AT 06:55PM</pubDate>
-            <description>Faccio del mio meglio</description>
+            <title>Marco Montemagno - 4 caratteristiche OVVIE di chi ottiene grandi risultati</title>
+            <link>https://www.youtube.com/watch?v=0oyO6Aanqhk</link>
+            <guid>https://www.youtube.com/watch?v=0oyO6Aanqhk</guid>
+            <pubDate>JUNE 8, 2021 AT 12:53PM</pubDate>
+            <description>4 caratteristiche OVVIE di chi ottiene grandi risultati</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Fare pubblicità su Sky, TV, radio, web, social e App. Tutorial di Sky Advertising Manager</title>
-            <link>https://www.youtube.com/watch?v=9fxHYHCZUE4</link>
-            <guid>https://www.youtube.com/watch?v=9fxHYHCZUE4</guid>
-            <pubDate>MAY 11, 2021 AT 09:24AM</pubDate>
-            <description>Fare pubblicità su Sky, TV, radio, web, social e App. Tutorial di Sky Advertising Manager</description>
+            <title>Marco Montemagno - Intelligenza Artificiale, a che punto siamo?</title>
+            <link>https://www.youtube.com/watch?v=TklXYH0VFjs</link>
+            <guid>https://www.youtube.com/watch?v=TklXYH0VFjs</guid>
+            <pubDate>JUNE 22, 2021 AT 08:42AM</pubDate>
+            <description>Intelligenza Artificiale, a che punto siamo?</description>
         </item>
         <item>
-            <title>Marco Montemagno - TUTTO quello che devi sapere per comprare un NFT (Guida completa con Marco Crotta) #NFTDAY</title>
-            <link>https://www.youtube.com/watch?v=CL_nHn9P3Qw</link>
-            <guid>https://www.youtube.com/watch?v=CL_nHn9P3Qw</guid>
-            <pubDate>FEBRUARY 1, 2022 AT 09:48AM</pubDate>
-            <description>TUTTO quello che devi sapere per comprare un NFT (Guida completa con Marco Crotta) #NFTDAY</description>
+            <title>Marco Montemagno - Food Talks 4 chiacchiere con Valeria Raimondi, Editor in Chief FineDiningLovers</title>
+            <link>https://www.youtube.com/watch?v=KBXFIq_xWmo</link>
+            <guid>https://www.youtube.com/watch?v=KBXFIq_xWmo</guid>
+            <pubDate>MAY 19, 2021 AT 09:24AM</pubDate>
+            <description>Food Talks 4 chiacchiere con Valeria Raimondi, Editor in Chief FineDiningLovers</description>
         </item>
         <item>
-            <title>Marco Montemagno - Perché Facebook cambia nome?</title>
-            <link>https://www.youtube.com/watch?v=lD92uGvMV4g</link>
-            <guid>https://www.youtube.com/watch?v=lD92uGvMV4g</guid>
-            <pubDate>OCTOBER 22, 2021 AT 12:00PM</pubDate>
-            <description>Perché Facebook cambia nome?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Tutto quello che avresti sempre voluto sapere sull&#39;Idrogeno e sull&#39;Elettrificazione</title>
-            <link>https://www.youtube.com/watch?v=7h9FenptPBo</link>
-            <guid>https://www.youtube.com/watch?v=7h9FenptPBo</guid>
-            <pubDate>JULY 9, 2021 AT 10:00AM</pubDate>
-            <description>Tutto quello che avresti sempre voluto sapere sull&#39;Idrogeno e sull&#39;Elettrificazione</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come vendere online con Velasca (il nuovo corso di Competenze)</title>
-            <link>https://www.youtube.com/watch?v=nejpU4GCUP8</link>
-            <guid>https://www.youtube.com/watch?v=nejpU4GCUP8</guid>
-            <pubDate>DECEMBER 28, 2021 AT 10:41AM</pubDate>
-            <description>Come vendere online con Velasca (il nuovo corso di Competenze)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Antonio Cammisecra (Enel)</title>
-            <link>https://www.youtube.com/watch?v=ym8xfRvhkOI</link>
-            <guid>https://www.youtube.com/watch?v=ym8xfRvhkOI</guid>
-            <pubDate>SEPTEMBER 5, 2021 AT 06:58PM</pubDate>
-            <description>Cambiamento climatico, elettrificazione e dintorni con Antonio Cammisecra (Enel)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Talento o vocazione? Ne avevo parlato con Maura Gancitano</title>
-            <link>https://www.youtube.com/watch?v=TKT-Mwph-r4</link>
-            <guid>https://www.youtube.com/watch?v=TKT-Mwph-r4</guid>
-            <pubDate>AUGUST 27, 2021 AT 03:05PM</pubDate>
-            <description>Talento o vocazione? Ne avevo parlato con Maura Gancitano</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Ecco i nuovi occhiali di Facebook (pro e contro...)</title>
-            <link>https://www.youtube.com/watch?v=oxEaA-eyijc</link>
-            <guid>https://www.youtube.com/watch?v=oxEaA-eyijc</guid>
-            <pubDate>SEPTEMBER 10, 2021 AT 06:49PM</pubDate>
-            <description>Ecco i nuovi occhiali di Facebook (pro e contro...)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come integrare l&#39;Intelligenza artificiale e quella Umana?</title>
-            <link>https://www.youtube.com/watch?v=NYEKYvBJAg8</link>
-            <guid>https://www.youtube.com/watch?v=NYEKYvBJAg8</guid>
-            <pubDate>JUNE 24, 2021 AT 10:52PM</pubDate>
-            <description>Come integrare l&#39;Intelligenza artificiale e quella Umana?</description>
+            <title>Marco Montemagno - 11 principi FONDAMENTALI che dovresti tenere a mente ogni giorno...</title>
+            <link>https://www.youtube.com/watch?v=DQ15u56f-8k</link>
+            <guid>https://www.youtube.com/watch?v=DQ15u56f-8k</guid>
+            <pubDate>JULY 26, 2021 AT 04:39PM</pubDate>
+            <description>11 principi FONDAMENTALI che dovresti tenere a mente ogni giorno...</description>
         </item>
     </channel>
 </rss>
