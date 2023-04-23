@@ -5,139 +5,13 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Sat, 22 Apr 2023 13:15:51 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 23 Apr 2023 13:15:55 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - Perché Facebook cambia nome?</title>
-            <link>https://www.youtube.com/watch?v=lD92uGvMV4g</link>
-            <guid>https://www.youtube.com/watch?v=lD92uGvMV4g</guid>
-            <pubDate>OCTOBER 22, 2021 AT 12:00PM</pubDate>
-            <description>Perché Facebook cambia nome?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Amazon paga l&#39;università ai dipendenti (mentre assume altre 125.000 persone)</title>
-            <link>https://www.youtube.com/watch?v=_1m5A82Hp40</link>
-            <guid>https://www.youtube.com/watch?v=_1m5A82Hp40</guid>
-            <pubDate>SEPTEMBER 18, 2021 AT 02:00PM</pubDate>
-            <description>Amazon paga l&#39;università ai dipendenti (mentre assume altre 125.000 persone)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con Pino Insegno</title>
-            <link>https://www.youtube.com/watch?v=MtOSyV7jWa0</link>
-            <guid>https://www.youtube.com/watch?v=MtOSyV7jWa0</guid>
-            <pubDate>JANUARY 18, 2022 AT 01:37PM</pubDate>
-            <description>4 chiacchiere con Pino Insegno</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Bricofer contro Rapetto: il ransomware e gli errori di comunicazione</title>
-            <link>https://www.youtube.com/watch?v=6GA6KbD8iQg</link>
-            <guid>https://www.youtube.com/watch?v=6GA6KbD8iQg</guid>
-            <pubDate>JANUARY 19, 2022 AT 07:17PM</pubDate>
-            <description>Bricofer contro Rapetto: il ransomware e gli errori di comunicazione</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Chat Truffa: la Privacy dei &quot;cuori solitari&quot;</title>
-            <link>https://www.youtube.com/watch?v=oO8li8IKLSs</link>
-            <guid>https://www.youtube.com/watch?v=oO8li8IKLSs</guid>
-            <pubDate>MAY 10, 2021 AT 08:00AM</pubDate>
-            <description>Chat Truffa: la Privacy dei &quot;cuori solitari&quot;</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con Riccardo Zanotti (Pinguini Tattici Nucleari)</title>
-            <link>https://www.youtube.com/watch?v=xcAOM9r50K8</link>
-            <guid>https://www.youtube.com/watch?v=xcAOM9r50K8</guid>
-            <pubDate>NOVEMBER 4, 2021 AT 10:28AM</pubDate>
-            <description>4 chiacchiere con Riccardo Zanotti (Pinguini Tattici Nucleari)</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - VENDERE SIGNIFICA ANTICIPARE OBIEZIONI</title>
-            <link>https://www.youtube.com/watch?v=CBTIXqxaJeo</link>
-            <guid>https://www.youtube.com/watch?v=CBTIXqxaJeo</guid>
-            <pubDate>JULY 6, 2021 AT 08:00AM</pubDate>
-            <description>VENDERE SIGNIFICA ANTICIPARE OBIEZIONI</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Food talks con Isabella Potì e Floriano Pellegrino, Chef di Bros’</title>
-            <link>https://www.youtube.com/watch?v=zslJY-BEpfw</link>
-            <guid>https://www.youtube.com/watch?v=zslJY-BEpfw</guid>
-            <pubDate>MAY 18, 2021 AT 10:43PM</pubDate>
-            <description>Food talks con Isabella Potì e Floriano Pellegrino, Chef di Bros’</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Economia Circolare e dintorni</title>
-            <link>https://www.youtube.com/watch?v=vAICpbYkjqY</link>
-            <guid>https://www.youtube.com/watch?v=vAICpbYkjqY</guid>
-            <pubDate>SEPTEMBER 30, 2021 AT 09:13PM</pubDate>
-            <description>Economia Circolare e dintorni</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Food Talks 4 chiacchiere con Ivan Aimo, CEO Deliveristo</title>
-            <link>https://www.youtube.com/watch?v=3nJNjK-oPb4</link>
-            <guid>https://www.youtube.com/watch?v=3nJNjK-oPb4</guid>
-            <pubDate>MAY 18, 2021 AT 02:05PM</pubDate>
-            <description>Food Talks 4 chiacchiere con Ivan Aimo, CEO Deliveristo</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 19 cose che dovresti sapere su Netflix!</title>
-            <link>https://www.youtube.com/watch?v=bzLiOEKXMbU</link>
-            <guid>https://www.youtube.com/watch?v=bzLiOEKXMbU</guid>
-            <pubDate>SEPTEMBER 5, 2021 AT 10:00AM</pubDate>
-            <description>19 cose che dovresti sapere su Netflix!</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Crypto: questo è quello che sta succedendo</title>
-            <link>https://www.youtube.com/watch?v=PXaaUDagtOI</link>
-            <guid>https://www.youtube.com/watch?v=PXaaUDagtOI</guid>
-            <pubDate>AUGUST 24, 2021 AT 01:10PM</pubDate>
-            <description>Crypto: questo è quello che sta succedendo</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come reagisce e ti critica la gente quando ti metti in gioco</title>
-            <link>https://www.youtube.com/watch?v=tjCvsHYkAAk</link>
-            <guid>https://www.youtube.com/watch?v=tjCvsHYkAAk</guid>
-            <pubDate>JANUARY 27, 2022 AT 02:00PM</pubDate>
-            <description>Come reagisce e ti critica la gente quando ti metti in gioco</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Food Talks con Carlo Cracco e Alessandro Bergamo</title>
-            <link>https://www.youtube.com/watch?v=zl6t3_9UiSY</link>
-            <guid>https://www.youtube.com/watch?v=zl6t3_9UiSY</guid>
-            <pubDate>MAY 20, 2021 AT 09:36AM</pubDate>
-            <description>Food Talks con Carlo Cracco e Alessandro Bergamo</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Impara il Growth Hacking!</title>
-            <link>https://www.youtube.com/watch?v=NlyBRrkEoro</link>
-            <guid>https://www.youtube.com/watch?v=NlyBRrkEoro</guid>
-            <pubDate>SEPTEMBER 8, 2021 AT 04:11PM</pubDate>
-            <description>Impara il Growth Hacking!</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 15 tipologie di clienti da evitare come la peste</title>
-            <link>https://www.youtube.com/watch?v=jBFJMpSPG-w</link>
-            <guid>https://www.youtube.com/watch?v=jBFJMpSPG-w</guid>
-            <pubDate>OCTOBER 23, 2021 AT 04:00PM</pubDate>
-            <description>15 tipologie di clienti da evitare come la peste</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Il potere silenzioso dell&#39;incoraggiamento</title>
-            <link>https://www.youtube.com/watch?v=t7fgqz4CyEA</link>
-            <guid>https://www.youtube.com/watch?v=t7fgqz4CyEA</guid>
-            <pubDate>NOVEMBER 3, 2021 AT 10:17AM</pubDate>
-            <description>Il potere silenzioso dell&#39;incoraggiamento</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con Skygolpe</title>
-            <link>https://www.youtube.com/watch?v=YANbGmeN6to</link>
-            <guid>https://www.youtube.com/watch?v=YANbGmeN6to</guid>
-            <pubDate>JANUARY 16, 2022 AT 01:00PM</pubDate>
-            <description>4 chiacchiere con Skygolpe</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Perché Microsoft ha comprato Activision per $70MLD (in contanti)</title>
-            <link>https://www.youtube.com/watch?v=5m8tyjnqLLQ</link>
-            <guid>https://www.youtube.com/watch?v=5m8tyjnqLLQ</guid>
-            <pubDate>JANUARY 19, 2022 AT 11:50AM</pubDate>
-            <description>Perché Microsoft ha comprato Activision per $70MLD (in contanti)</description>
+            <title>Marco Montemagno - Analytics: ecco perché non puoi farne a meno per il tuo e-commerce</title>
+            <link>https://www.youtube.com/watch?v=mv8G-eqZAxo</link>
+            <guid>https://www.youtube.com/watch?v=mv8G-eqZAxo</guid>
+            <pubDate>JANUARY 21, 2022 AT 11:00AM</pubDate>
+            <description>Analytics: ecco perché non puoi farne a meno per il tuo e-commerce</description>
         </item>
         <item>
             <title>Marco Montemagno - Perché Netflix (probabilmente) inserirà la pubblicità</title>
@@ -145,6 +19,132 @@
             <guid>https://www.youtube.com/watch?v=PzO0NhEbsjA</guid>
             <pubDate>JUNE 26, 2021 AT 10:13AM</pubDate>
             <description>Perché Netflix (probabilmente) inserirà la pubblicità</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Aprire un e-commerce: come si gestisce la questione fiscale?</title>
+            <link>https://www.youtube.com/watch?v=1WkgxviR1-Y</link>
+            <guid>https://www.youtube.com/watch?v=1WkgxviR1-Y</guid>
+            <pubDate>DECEMBER 8, 2021 AT 09:00AM</pubDate>
+            <description>Aprire un e-commerce: come si gestisce la questione fiscale?</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - Sui social bisogna dire quello che si pensa?</title>
+            <link>https://www.youtube.com/watch?v=z5hSUktcuMc</link>
+            <guid>https://www.youtube.com/watch?v=z5hSUktcuMc</guid>
+            <pubDate>SEPTEMBER 28, 2021 AT 03:41PM</pubDate>
+            <description>Sui social bisogna dire quello che si pensa?</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Marco Montemagno: il video sessista e il video di scuse (che non convincono)</title>
+            <link>https://www.youtube.com/watch?v=K3e7HrEi1p4</link>
+            <guid>https://www.youtube.com/watch?v=K3e7HrEi1p4</guid>
+            <pubDate>OCTOBER 12, 2021 AT 09:23AM</pubDate>
+            <description>Marco Montemagno: il video sessista e il video di scuse (che non convincono)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Sei una persona che descrive o risolve i problemi?</title>
+            <link>https://www.youtube.com/watch?v=IxppXVqy59Q</link>
+            <guid>https://www.youtube.com/watch?v=IxppXVqy59Q</guid>
+            <pubDate>NOVEMBER 13, 2021 AT 01:00PM</pubDate>
+            <description>Sei una persona che descrive o risolve i problemi?</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Search Console Insight: tutto quello da sapere!</title>
+            <link>https://www.youtube.com/watch?v=zbJHlWAs8j0</link>
+            <guid>https://www.youtube.com/watch?v=zbJHlWAs8j0</guid>
+            <pubDate>JUNE 18, 2021 AT 07:30AM</pubDate>
+            <description>Search Console Insight: tutto quello da sapere!</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Food Talks 4 chiacchere con Stefano Marini (CEO Gruppo Sanpellegrino)</title>
+            <link>https://www.youtube.com/watch?v=Y3fWZ03vtyE</link>
+            <guid>https://www.youtube.com/watch?v=Y3fWZ03vtyE</guid>
+            <pubDate>MAY 17, 2021 AT 08:33AM</pubDate>
+            <description>Food Talks 4 chiacchere con Stefano Marini (CEO Gruppo Sanpellegrino)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 5 problemi del lavoro da remoto che devi considerare</title>
+            <link>https://www.youtube.com/watch?v=_KBO_nUmAv4</link>
+            <guid>https://www.youtube.com/watch?v=_KBO_nUmAv4</guid>
+            <pubDate>OCTOBER 7, 2021 AT 01:30PM</pubDate>
+            <description>5 problemi del lavoro da remoto che devi considerare</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Persuasione: la tecnica della ripetizione...</title>
+            <link>https://www.youtube.com/watch?v=U4pWWi111ag</link>
+            <guid>https://www.youtube.com/watch?v=U4pWWi111ag</guid>
+            <pubDate>AUGUST 19, 2021 AT 05:54PM</pubDate>
+            <description>Persuasione: la tecnica della ripetizione...</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - È SUCCESSA UNA COSA BELLISSIMA (CON LA MIA COMMUNITY)</title>
+            <link>https://www.youtube.com/watch?v=uwuYsNWX-TQ</link>
+            <guid>https://www.youtube.com/watch?v=uwuYsNWX-TQ</guid>
+            <pubDate>APRIL 13, 2021 AT 08:00AM</pubDate>
+            <description>È SUCCESSA UNA COSA BELLISSIMA (CON LA MIA COMMUNITY)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 3 errori ASSOLUTAMENTE da non fare  (...che ho fatto)</title>
+            <link>https://www.youtube.com/watch?v=3w5nbHVNuRg</link>
+            <guid>https://www.youtube.com/watch?v=3w5nbHVNuRg</guid>
+            <pubDate>AUGUST 31, 2021 AT 01:00PM</pubDate>
+            <description>3 errori ASSOLUTAMENTE da non fare  (...che ho fatto)</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Il gruppo telegram no-greenpass BASTA CENSURA è stato bannato da Telegram. Cosa c&#39;è sotto?</title>
+            <link>https://www.youtube.com/watch?v=BM62cUtiKp4</link>
+            <guid>https://www.youtube.com/watch?v=BM62cUtiKp4</guid>
+            <pubDate>SEPTEMBER 28, 2021 AT 01:28PM</pubDate>
+            <description>Il gruppo telegram no-greenpass BASTA CENSURA è stato bannato da Telegram. Cosa c&#39;è sotto?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - ST@RT - Mettiti alla prova e crea il tuo business con le professioni di domani.</title>
+            <link>https://www.youtube.com/watch?v=TOf1XtWip6Y</link>
+            <guid>https://www.youtube.com/watch?v=TOf1XtWip6Y</guid>
+            <pubDate>DECEMBER 17, 2021 AT 10:12AM</pubDate>
+            <description>ST@RT - Mettiti alla prova e crea il tuo business con le professioni di domani.</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Perché il futuro della sostenibilità passa dall&#39;elettricità</title>
+            <link>https://www.youtube.com/watch?v=ueiCR_OY8KU</link>
+            <guid>https://www.youtube.com/watch?v=ueiCR_OY8KU</guid>
+            <pubDate>JULY 2, 2021 AT 03:00PM</pubDate>
+            <description>Perché il futuro della sostenibilità passa dall&#39;elettricità</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Fiducia in se stessi: il metodo Mouratoglou</title>
+            <link>https://www.youtube.com/watch?v=H0w03B9R9e8</link>
+            <guid>https://www.youtube.com/watch?v=H0w03B9R9e8</guid>
+            <pubDate>JANUARY 3, 2022 AT 01:27PM</pubDate>
+            <description>Fiducia in se stessi: il metodo Mouratoglou</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Il mondo nel 2022: 5 trend da tenere d&#39;occhio</title>
+            <link>https://www.youtube.com/watch?v=hiBtdBHfCo0</link>
+            <guid>https://www.youtube.com/watch?v=hiBtdBHfCo0</guid>
+            <pubDate>DECEMBER 26, 2021 AT 12:45PM</pubDate>
+            <description>Il mondo nel 2022: 5 trend da tenere d&#39;occhio</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Don&#39;t look up: ma come abbiamo fatto a ridurci così?</title>
+            <link>https://www.youtube.com/watch?v=BC1yLebnHqU</link>
+            <guid>https://www.youtube.com/watch?v=BC1yLebnHqU</guid>
+            <pubDate>JANUARY 7, 2022 AT 12:57PM</pubDate>
+            <description>Don&#39;t look up: ma come abbiamo fatto a ridurci così?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Basta che canticchi (anche male) e Google indovina la canzone?</title>
+            <link>https://www.youtube.com/watch?v=7txcJW59sHg</link>
+            <guid>https://www.youtube.com/watch?v=7txcJW59sHg</guid>
+            <pubDate>JULY 4, 2021 AT 03:07PM</pubDate>
+            <description>Basta che canticchi (anche male) e Google indovina la canzone?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Pregiudizio o realtà: qual è il confine?</title>
+            <link>https://www.youtube.com/watch?v=rf9ZP3rzQsY</link>
+            <guid>https://www.youtube.com/watch?v=rf9ZP3rzQsY</guid>
+            <pubDate>JANUARY 24, 2022 AT 10:00AM</pubDate>
+            <description>Pregiudizio o realtà: qual è il confine?</description>
         </item>
     </channel>
 </rss>
