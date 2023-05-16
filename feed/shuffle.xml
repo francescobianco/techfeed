@@ -5,27 +5,55 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Mon, 15 May 2023 13:17:51 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 13:17:28 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - Intelligenza Artificiale...che succede?</title>
-            <link>https://www.youtube.com/watch?v=JVCSeaEG6lU</link>
-            <guid>https://www.youtube.com/watch?v=JVCSeaEG6lU</guid>
-            <pubDate>JUNE 20, 2021 AT 11:43PM</pubDate>
-            <description>Intelligenza Artificiale...che succede?</description>
+            <title>Marco Montemagno - 4 chiacchiere con Joe BASTIANICH</title>
+            <link>https://www.youtube.com/watch?v=468vHWl7IPY</link>
+            <guid>https://www.youtube.com/watch?v=468vHWl7IPY</guid>
+            <pubDate>MAY 19, 2021 AT 12:18PM</pubDate>
+            <description>4 chiacchiere con Joe BASTIANICH</description>
         </item>
         <item>
-            <title>Matteo Flora - Facebook e Instagram a pagamento per colpa di Apple?</title>
-            <link>https://www.youtube.com/watch?v=JngaCH8MmGM</link>
-            <guid>https://www.youtube.com/watch?v=JngaCH8MmGM</guid>
-            <pubDate>MAY 4, 2021 AT 08:00AM</pubDate>
-            <description>Facebook e Instagram a pagamento per colpa di Apple?</description>
+            <title>Marco Montemagno - StartupItalia cresce: ecco tutte le novità</title>
+            <link>https://www.youtube.com/watch?v=a-1VrIF8Zoc</link>
+            <guid>https://www.youtube.com/watch?v=a-1VrIF8Zoc</guid>
+            <pubDate>SEPTEMBER 22, 2021 AT 09:00AM</pubDate>
+            <description>StartupItalia cresce: ecco tutte le novità</description>
         </item>
         <item>
-            <title>Marco Montemagno - Perché anche davanti ai fatti la gente non cambia idea</title>
-            <link>https://www.youtube.com/watch?v=jqCSBWbN66U</link>
-            <guid>https://www.youtube.com/watch?v=jqCSBWbN66U</guid>
-            <pubDate>JULY 17, 2021 AT 02:00PM</pubDate>
-            <description>Perché anche davanti ai fatti la gente non cambia idea</description>
+            <title>Marco Montemagno - Vuoi imparare a suonare il Pianoforte? Pietro Morello su Competenze.it</title>
+            <link>https://www.youtube.com/watch?v=yEdRva8QkYg</link>
+            <guid>https://www.youtube.com/watch?v=yEdRva8QkYg</guid>
+            <pubDate>JULY 23, 2021 AT 05:13PM</pubDate>
+            <description>Vuoi imparare a suonare il Pianoforte? Pietro Morello su Competenze.it</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Don&#39;t look up: ma come abbiamo fatto a ridurci così?</title>
+            <link>https://www.youtube.com/watch?v=BC1yLebnHqU</link>
+            <guid>https://www.youtube.com/watch?v=BC1yLebnHqU</guid>
+            <pubDate>JANUARY 7, 2022 AT 12:57PM</pubDate>
+            <description>Don&#39;t look up: ma come abbiamo fatto a ridurci così?</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - AUMENTARE VENDITE ECOMMERCE (9 CANALI DA USARE)</title>
+            <link>https://www.youtube.com/watch?v=5SMYPYDCkXg</link>
+            <guid>https://www.youtube.com/watch?v=5SMYPYDCkXg</guid>
+            <pubDate>JUNE 8, 2021 AT 08:00AM</pubDate>
+            <description>AUMENTARE VENDITE ECOMMERCE (9 CANALI DA USARE)</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Substack è un pericolo per i giornali. Ora è ufficiale.</title>
+            <link>https://www.youtube.com/watch?v=qlnYWsM5CJM</link>
+            <guid>https://www.youtube.com/watch?v=qlnYWsM5CJM</guid>
+            <pubDate>MAY 12, 2021 AT 08:34AM</pubDate>
+            <description>Substack è un pericolo per i giornali. Ora è ufficiale.</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Fan Tokens with Alexander Dreyfus (Socios.com)</title>
+            <link>https://www.youtube.com/watch?v=cKAMg4okF44</link>
+            <guid>https://www.youtube.com/watch?v=cKAMg4okF44</guid>
+            <pubDate>DECEMBER 5, 2021 AT 03:00PM</pubDate>
+            <description>Fan Tokens with Alexander Dreyfus (Socios.com)</description>
         </item>
         <item>
             <title>Rudy Bandiera - Come aumentare le visualizzazioni del tuo contenuto</title>
@@ -35,116 +63,88 @@
             <description>Come aumentare le visualizzazioni del tuo contenuto</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Francesco Vena (Amaro Lucano)</title>
-            <link>https://www.youtube.com/watch?v=VvqgGU_55NM</link>
-            <guid>https://www.youtube.com/watch?v=VvqgGU_55NM</guid>
-            <pubDate>JUNE 16, 2021 AT 12:47PM</pubDate>
-            <description>4 chiacchiere con Francesco Vena (Amaro Lucano)</description>
+            <title>Marco Montemagno - Come trovo clienti interessati al mio e-commerce?</title>
+            <link>https://www.youtube.com/watch?v=P90J0MZbr-o</link>
+            <guid>https://www.youtube.com/watch?v=P90J0MZbr-o</guid>
+            <pubDate>DECEMBER 1, 2021 AT 11:00AM</pubDate>
+            <description>Come trovo clienti interessati al mio e-commerce?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Chi controlla DAVVERO il mondo oggi?</title>
-            <link>https://www.youtube.com/watch?v=OTcJQEEQhMc</link>
-            <guid>https://www.youtube.com/watch?v=OTcJQEEQhMc</guid>
-            <pubDate>SEPTEMBER 28, 2021 AT 02:00PM</pubDate>
-            <description>Chi controlla DAVVERO il mondo oggi?</description>
+            <title>Marco Montemagno - Acquistare terreni nel metaverso è un buon investimento?</title>
+            <link>https://www.youtube.com/watch?v=_2LL95XD5vQ</link>
+            <guid>https://www.youtube.com/watch?v=_2LL95XD5vQ</guid>
+            <pubDate>DECEMBER 15, 2021 AT 12:30PM</pubDate>
+            <description>Acquistare terreni nel metaverso è un buon investimento?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Gli NFT sono solo semplici immagini?</title>
-            <link>https://www.youtube.com/watch?v=oKy7-7qJr7U</link>
-            <guid>https://www.youtube.com/watch?v=oKy7-7qJr7U</guid>
-            <pubDate>FEBRUARY 1, 2022 AT 09:52AM</pubDate>
-            <description>Gli NFT sono solo semplici immagini?</description>
+            <title>Marco Montemagno - Intelligenza Artificiale e Sanità: a che punto siamo?</title>
+            <link>https://www.youtube.com/watch?v=S-50DuXwW9o</link>
+            <guid>https://www.youtube.com/watch?v=S-50DuXwW9o</guid>
+            <pubDate>JUNE 20, 2021 AT 11:46PM</pubDate>
+            <description>Intelligenza Artificiale e Sanità: a che punto siamo?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come faccio a tutelare legalmente il mio e-commerce?</title>
-            <link>https://www.youtube.com/watch?v=Uwdp3sZpQVc</link>
-            <guid>https://www.youtube.com/watch?v=Uwdp3sZpQVc</guid>
-            <pubDate>NOVEMBER 24, 2021 AT 10:55AM</pubDate>
-            <description>Come faccio a tutelare legalmente il mio e-commerce?</description>
+            <title>Marco Montemagno - Leggo le recensioni al mio libro (senza filtri ...)</title>
+            <link>https://www.youtube.com/watch?v=Vi5wot-6gBI</link>
+            <guid>https://www.youtube.com/watch?v=Vi5wot-6gBI</guid>
+            <pubDate>SEPTEMBER 14, 2021 AT 01:33PM</pubDate>
+            <description>Leggo le recensioni al mio libro (senza filtri ...)</description>
         </item>
         <item>
-            <title>Marco Montemagno - La Cina contro i social: non più di 40 minuti al giorno</title>
-            <link>https://www.youtube.com/watch?v=m311XQavGqE</link>
-            <guid>https://www.youtube.com/watch?v=m311XQavGqE</guid>
-            <pubDate>SEPTEMBER 21, 2021 AT 04:53PM</pubDate>
-            <description>La Cina contro i social: non più di 40 minuti al giorno</description>
+            <title>Marco Montemagno - &quot;Se sei un cavernicolo nulla è una risorsa&quot;, Naval</title>
+            <link>https://www.youtube.com/watch?v=-0Q98Xk-r6Y</link>
+            <guid>https://www.youtube.com/watch?v=-0Q98Xk-r6Y</guid>
+            <pubDate>DECEMBER 28, 2021 AT 02:00PM</pubDate>
+            <description>&quot;Se sei un cavernicolo nulla è una risorsa&quot;, Naval</description>
         </item>
         <item>
-            <title>Rudy Bandiera - 6 cose da fare invece di prendere in mano il telefono</title>
-            <link>https://www.youtube.com/watch?v=OJ5M0J2GpAE</link>
-            <guid>https://www.youtube.com/watch?v=OJ5M0J2GpAE</guid>
-            <pubDate>JULY 7, 2021 AT 10:06AM</pubDate>
-            <description>6 cose da fare invece di prendere in mano il telefono</description>
+            <title>Raffaele Gaito - Raffaele Gaito intervista Marco Montemagno</title>
+            <link>https://www.youtube.com/watch?v=B9hvpRS0aYs</link>
+            <guid>https://www.youtube.com/watch?v=B9hvpRS0aYs</guid>
+            <pubDate>JUNE 14, 2021 AT 07:42PM</pubDate>
+            <description>Raffaele Gaito intervista Marco Montemagno</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come usare Instagram Analytics con Yari Brugnoni</title>
-            <link>https://www.youtube.com/watch?v=u5zyUXJRizE</link>
-            <guid>https://www.youtube.com/watch?v=u5zyUXJRizE</guid>
-            <pubDate>FEBRUARY 11, 2022 AT 10:07AM</pubDate>
-            <description>Come usare Instagram Analytics con Yari Brugnoni</description>
+            <title>Marco Montemagno - Nek racconta com&#39;è nata &quot;Laura non c&#39;è&quot;</title>
+            <link>https://www.youtube.com/watch?v=LcbQwOmlyYk</link>
+            <guid>https://www.youtube.com/watch?v=LcbQwOmlyYk</guid>
+            <pubDate>JULY 10, 2021 AT 10:54AM</pubDate>
+            <description>Nek racconta com&#39;è nata &quot;Laura non c&#39;è&quot;</description>
         </item>
         <item>
-            <title>Matteo Flora - Youtube e &quot;non mi piace&quot;: perché sono stati fatti sparire i numeri? E cosa significa?</title>
-            <link>https://www.youtube.com/watch?v=5wyWpKllNa8</link>
-            <guid>https://www.youtube.com/watch?v=5wyWpKllNa8</guid>
-            <pubDate>DECEMBER 1, 2021 AT 08:48AM</pubDate>
-            <description>Youtube e &quot;non mi piace&quot;: perché sono stati fatti sparire i numeri? E cosa significa?</description>
+            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Valerio De Molli, Ambrosetti</title>
+            <link>https://www.youtube.com/watch?v=aVEE8ls70nA</link>
+            <guid>https://www.youtube.com/watch?v=aVEE8ls70nA</guid>
+            <pubDate>SEPTEMBER 6, 2021 AT 06:01PM</pubDate>
+            <description>Cambiamento climatico, elettrificazione e dintorni con Valerio De Molli, Ambrosetti</description>
         </item>
         <item>
-            <title>Marco Montemagno - Perché Facebook cambia nome?</title>
-            <link>https://www.youtube.com/watch?v=lD92uGvMV4g</link>
-            <guid>https://www.youtube.com/watch?v=lD92uGvMV4g</guid>
-            <pubDate>OCTOBER 22, 2021 AT 12:00PM</pubDate>
-            <description>Perché Facebook cambia nome?</description>
+            <title>Marco Montemagno - 4 chiacchiere con Giuliano Sangiorgi (Negramaro)</title>
+            <link>https://www.youtube.com/watch?v=uc0BZbT95BQ</link>
+            <guid>https://www.youtube.com/watch?v=uc0BZbT95BQ</guid>
+            <pubDate>MAY 23, 2021 AT 09:31PM</pubDate>
+            <description>4 chiacchiere con Giuliano Sangiorgi (Negramaro)</description>
         </item>
         <item>
-            <title>Matteo Flora - Sconfiggere i Malware con una… TASTIERA?</title>
-            <link>https://www.youtube.com/watch?v=e6TfDAoup7Y</link>
-            <guid>https://www.youtube.com/watch?v=e6TfDAoup7Y</guid>
-            <pubDate>MAY 20, 2021 AT 08:00AM</pubDate>
-            <description>Sconfiggere i Malware con una… TASTIERA?</description>
+            <title>Marco Montemagno - Vuoi imparare a programmare?</title>
+            <link>https://www.youtube.com/watch?v=ueLooNS5iek</link>
+            <guid>https://www.youtube.com/watch?v=ueLooNS5iek</guid>
+            <pubDate>NOVEMBER 8, 2021 AT 03:00PM</pubDate>
+            <description>Vuoi imparare a programmare?</description>
         </item>
         <item>
-            <title>Marco Montemagno - 2 REGALI per ringraziarti</title>
-            <link>https://www.youtube.com/watch?v=i2AovXBaSvg</link>
-            <guid>https://www.youtube.com/watch?v=i2AovXBaSvg</guid>
-            <pubDate>JUNE 9, 2021 AT 04:36PM</pubDate>
-            <description>2 REGALI per ringraziarti</description>
+            <title>Raffaele Gaito - NEL MARKETING BISOGNA ESSERE AGNOSTICI #shorts</title>
+            <link>https://www.youtube.com/watch?v=96TMou6PdYE</link>
+            <guid>https://www.youtube.com/watch?v=96TMou6PdYE</guid>
+            <pubDate>AUGUST 13, 2021 AT 08:00AM</pubDate>
+            <description>NEL MARKETING BISOGNA ESSERE AGNOSTICI #shorts</description>
         </item>
         <item>
-            <title>Marco Montemagno - Food Talks 4 chiacchiere con Matias Perdomo chef Contraste</title>
-            <link>https://www.youtube.com/watch?v=V11MC9r0WxY</link>
-            <guid>https://www.youtube.com/watch?v=V11MC9r0WxY</guid>
-            <pubDate>MAY 18, 2021 AT 02:07PM</pubDate>
-            <description>Food Talks 4 chiacchiere con Matias Perdomo chef Contraste</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - Real Time Bergamo settembre 2021</title>
-            <link>https://www.youtube.com/watch?v=7Fs9pISi3X8</link>
-            <guid>https://www.youtube.com/watch?v=7Fs9pISi3X8</guid>
-            <pubDate>OCTOBER 6, 2021 AT 09:22AM</pubDate>
-            <description>Real Time Bergamo settembre 2021</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con Pino Insegno</title>
-            <link>https://www.youtube.com/watch?v=MtOSyV7jWa0</link>
-            <guid>https://www.youtube.com/watch?v=MtOSyV7jWa0</guid>
-            <pubDate>JANUARY 18, 2022 AT 01:37PM</pubDate>
-            <description>4 chiacchiere con Pino Insegno</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come si applica la blockchain al settore del lusso (e non solo)</title>
-            <link>https://www.youtube.com/watch?v=IzgT51XXepE</link>
-            <guid>https://www.youtube.com/watch?v=IzgT51XXepE</guid>
-            <pubDate>NOVEMBER 28, 2021 AT 01:00PM</pubDate>
-            <description>Come si applica la blockchain al settore del lusso (e non solo)</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - Facebook &amp; Audio: c&#39;è una Strategia. Altro che Clubhouse..</title>
-            <link>https://www.youtube.com/watch?v=ZAr-2bbER0k</link>
-            <guid>https://www.youtube.com/watch?v=ZAr-2bbER0k</guid>
-            <pubDate>MAY 13, 2021 AT 07:30AM</pubDate>
-            <description>Facebook &amp; Audio: c&#39;è una Strategia. Altro che Clubhouse..</description>
+            <title>Rudy Bandiera - Come rendere il tuo business e il tuo e-commerce più profittevole</title>
+            <link>https://www.youtube.com/watch?v=9jjnmawpsTo</link>
+            <guid>https://www.youtube.com/watch?v=9jjnmawpsTo</guid>
+            <pubDate>MAY 4, 2021 AT 09:44AM</pubDate>
+            <description>Come rendere il tuo business e il tuo e-commerce più profittevole</description>
         </item>
     </channel>
 </rss>
