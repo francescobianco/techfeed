@@ -5,20 +5,76 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Wed, 17 May 2023 13:17:06 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 13:16:39 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - Intelligenza artificiale e business</title>
-            <link>https://www.youtube.com/watch?v=TnQTorpw2dA</link>
-            <guid>https://www.youtube.com/watch?v=TnQTorpw2dA</guid>
-            <pubDate>JUNE 22, 2021 AT 08:47AM</pubDate>
-            <description>Intelligenza artificiale e business</description>
+            <title>Raffaele Gaito - COSA CHIEDETE A GOOGLE... SU DI ME!</title>
+            <link>https://www.youtube.com/watch?v=9RUi2B3mXfg</link>
+            <guid>https://www.youtube.com/watch?v=9RUi2B3mXfg</guid>
+            <pubDate>AUGUST 27, 2021 AT 08:00AM</pubDate>
+            <description>COSA CHIEDETE A GOOGLE... SU DI ME!</description>
         </item>
         <item>
-            <title>Marco Montemagno - Monty Live! Come stai?</title>
-            <link>https://www.youtube.com/watch?v=cLYM36Z8MkE</link>
-            <guid>https://www.youtube.com/watch?v=cLYM36Z8MkE</guid>
-            <pubDate>SEPTEMBER 24, 2021 AT 04:44PM</pubDate>
-            <description>Monty Live! Come stai?</description>
+            <title>Marco Montemagno - Come capire cosa indossi? Lucia Mantero su Competenze</title>
+            <link>https://www.youtube.com/watch?v=ZD--gwTuukY</link>
+            <guid>https://www.youtube.com/watch?v=ZD--gwTuukY</guid>
+            <pubDate>JUNE 15, 2021 AT 12:46PM</pubDate>
+            <description>Come capire cosa indossi? Lucia Mantero su Competenze</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - Come rendere il tuo business e il tuo e-commerce più profittevole</title>
+            <link>https://www.youtube.com/watch?v=9jjnmawpsTo</link>
+            <guid>https://www.youtube.com/watch?v=9jjnmawpsTo</guid>
+            <pubDate>MAY 4, 2021 AT 09:44AM</pubDate>
+            <description>Come rendere il tuo business e il tuo e-commerce più profittevole</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Tutto sul Google Page Experience con Andrea Pernici</title>
+            <link>https://www.youtube.com/watch?v=v4kl9R4zM7o</link>
+            <guid>https://www.youtube.com/watch?v=v4kl9R4zM7o</guid>
+            <pubDate>JUNE 29, 2021 AT 09:17AM</pubDate>
+            <description>Tutto sul Google Page Experience con Andrea Pernici</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - I colossi Crypto alla conquista del mondo</title>
+            <link>https://www.youtube.com/watch?v=3qYCDik9kgc</link>
+            <guid>https://www.youtube.com/watch?v=3qYCDik9kgc</guid>
+            <pubDate>NOVEMBER 17, 2021 AT 03:30PM</pubDate>
+            <description>I colossi Crypto alla conquista del mondo</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Gino D&#39;Acampo</title>
+            <link>https://www.youtube.com/watch?v=Sfl-pl_GTMU</link>
+            <guid>https://www.youtube.com/watch?v=Sfl-pl_GTMU</guid>
+            <pubDate>JULY 27, 2021 AT 04:46PM</pubDate>
+            <description>4 chiacchiere con Gino D&#39;Acampo</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Talento o vocazione? Ne avevo parlato con Maura Gancitano</title>
+            <link>https://www.youtube.com/watch?v=TKT-Mwph-r4</link>
+            <guid>https://www.youtube.com/watch?v=TKT-Mwph-r4</guid>
+            <pubDate>AUGUST 27, 2021 AT 03:05PM</pubDate>
+            <description>Talento o vocazione? Ne avevo parlato con Maura Gancitano</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Perché Facebook cambia nome?</title>
+            <link>https://www.youtube.com/watch?v=lD92uGvMV4g</link>
+            <guid>https://www.youtube.com/watch?v=lD92uGvMV4g</guid>
+            <pubDate>OCTOBER 22, 2021 AT 12:00PM</pubDate>
+            <description>Perché Facebook cambia nome?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Longevi si diventa: ecco come</title>
+            <link>https://www.youtube.com/watch?v=6LjIa53Kl2k</link>
+            <guid>https://www.youtube.com/watch?v=6LjIa53Kl2k</guid>
+            <pubDate>FEBRUARY 11, 2022 AT 03:05PM</pubDate>
+            <description>Longevi si diventa: ecco come</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Vuoi gestire la tua fatturazione/contabilità in modo semplice?</title>
+            <link>https://www.youtube.com/watch?v=z2zSQwY8jAs</link>
+            <guid>https://www.youtube.com/watch?v=z2zSQwY8jAs</guid>
+            <pubDate>NOVEMBER 18, 2021 AT 09:00AM</pubDate>
+            <description>Vuoi gestire la tua fatturazione/contabilità in modo semplice?</description>
         </item>
         <item>
             <title>Marco Montemagno - Il mondo nel 2022: 5 trend da tenere d&#39;occhio</title>
@@ -28,6 +84,13 @@
             <description>Il mondo nel 2022: 5 trend da tenere d&#39;occhio</description>
         </item>
         <item>
+            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Salvatore Bernabei, Enel Green Power</title>
+            <link>https://www.youtube.com/watch?v=j-69YcOeAMI</link>
+            <guid>https://www.youtube.com/watch?v=j-69YcOeAMI</guid>
+            <pubDate>SEPTEMBER 8, 2021 AT 08:00PM</pubDate>
+            <description>Cambiamento climatico, elettrificazione e dintorni con Salvatore Bernabei, Enel Green Power</description>
+        </item>
+        <item>
             <title>Matteo Flora - Davvero Meta / Facebook chiude in Europa? Lo SPECIALE</title>
             <link>https://www.youtube.com/watch?v=5AisbRlQw4Q</link>
             <guid>https://www.youtube.com/watch?v=5AisbRlQw4Q</guid>
@@ -35,116 +98,53 @@
             <description>Davvero Meta / Facebook chiude in Europa? Lo SPECIALE</description>
         </item>
         <item>
-            <title>Raffaele Gaito - MONETIZZAZIONE YOUTUBE: 10 STRATEGIE PER IL 2021</title>
-            <link>https://www.youtube.com/watch?v=rnuB3CPUAYg</link>
-            <guid>https://www.youtube.com/watch?v=rnuB3CPUAYg</guid>
-            <pubDate>MAY 3, 2021 AT 08:00AM</pubDate>
-            <description>MONETIZZAZIONE YOUTUBE: 10 STRATEGIE PER IL 2021</description>
+            <title>Marco Montemagno - Tutto quello che dovresti sapere sulle DAO con Thomas Bertani</title>
+            <link>https://www.youtube.com/watch?v=IIAi0TZHsKA</link>
+            <guid>https://www.youtube.com/watch?v=IIAi0TZHsKA</guid>
+            <pubDate>DECEMBER 4, 2021 AT 01:00PM</pubDate>
+            <description>Tutto quello che dovresti sapere sulle DAO con Thomas Bertani</description>
         </item>
         <item>
-            <title>Matteo Flora - Marco Montemagno: il video sessista e il video di scuse (che non convincono)</title>
-            <link>https://www.youtube.com/watch?v=K3e7HrEi1p4</link>
-            <guid>https://www.youtube.com/watch?v=K3e7HrEi1p4</guid>
-            <pubDate>OCTOBER 12, 2021 AT 09:23AM</pubDate>
-            <description>Marco Montemagno: il video sessista e il video di scuse (che non convincono)</description>
+            <title>Marco Montemagno - Conviene organizzare i giochi Olimpici?</title>
+            <link>https://www.youtube.com/watch?v=6fwPXiJbwFI</link>
+            <guid>https://www.youtube.com/watch?v=6fwPXiJbwFI</guid>
+            <pubDate>AUGUST 8, 2021 AT 10:18AM</pubDate>
+            <description>Conviene organizzare i giochi Olimpici?</description>
         </item>
         <item>
-            <title>Marco Montemagno - &quot;Copia&quot; questa strategia: 5 tecniche per migliorare i tuoi contenuti</title>
-            <link>https://www.youtube.com/watch?v=CfZ1FKzQjFE</link>
-            <guid>https://www.youtube.com/watch?v=CfZ1FKzQjFE</guid>
-            <pubDate>AUGUST 9, 2021 AT 03:29PM</pubDate>
-            <description>&quot;Copia&quot; questa strategia: 5 tecniche per migliorare i tuoi contenuti</description>
+            <title>Marco Montemagno - Inventati una soluzione</title>
+            <link>https://www.youtube.com/watch?v=pjl4owUGR8Y</link>
+            <guid>https://www.youtube.com/watch?v=pjl4owUGR8Y</guid>
+            <pubDate>MAY 6, 2021 AT 04:05PM</pubDate>
+            <description>Inventati una soluzione</description>
         </item>
         <item>
-            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Alberto De Paoli, Enel</title>
-            <link>https://www.youtube.com/watch?v=MpxMDkbPCHE</link>
-            <guid>https://www.youtube.com/watch?v=MpxMDkbPCHE</guid>
-            <pubDate>SEPTEMBER 10, 2021 AT 12:41PM</pubDate>
-            <description>Cambiamento climatico, elettrificazione e dintorni con Alberto De Paoli, Enel</description>
+            <title>Marco Montemagno - Il boom degli e-commerce in Italia: qualcosa sta cambiando?</title>
+            <link>https://www.youtube.com/watch?v=MQ0o-y_YRuk</link>
+            <guid>https://www.youtube.com/watch?v=MQ0o-y_YRuk</guid>
+            <pubDate>SEPTEMBER 30, 2021 AT 02:00PM</pubDate>
+            <description>Il boom degli e-commerce in Italia: qualcosa sta cambiando?</description>
         </item>
         <item>
-            <title>Matteo Flora - Tutto quello che dovete sapere su Pegasus, Intercettazioni e Captatori…</title>
-            <link>https://www.youtube.com/watch?v=Z8Q0dBKSQHU</link>
-            <guid>https://www.youtube.com/watch?v=Z8Q0dBKSQHU</guid>
-            <pubDate>JULY 26, 2021 AT 10:00AM</pubDate>
-            <description>Tutto quello che dovete sapere su Pegasus, Intercettazioni e Captatori…</description>
+            <title>Marco Montemagno - Intelligenza Artificiale e nuove professioni/nuovi lavori</title>
+            <link>https://www.youtube.com/watch?v=-TAZAPCtypE</link>
+            <guid>https://www.youtube.com/watch?v=-TAZAPCtypE</guid>
+            <pubDate>JUNE 23, 2021 AT 11:01AM</pubDate>
+            <description>Intelligenza Artificiale e nuove professioni/nuovi lavori</description>
         </item>
         <item>
-            <title>Marco Montemagno - Cos&#39;è un Wallet e come aprirne uno (se vuoi avere i miei NFT)</title>
-            <link>https://www.youtube.com/watch?v=3UFq1YVT-ko</link>
-            <guid>https://www.youtube.com/watch?v=3UFq1YVT-ko</guid>
-            <pubDate>JANUARY 25, 2022 AT 01:00PM</pubDate>
-            <description>Cos&#39;è un Wallet e come aprirne uno (se vuoi avere i miei NFT)</description>
+            <title>Marco Montemagno - 4 chiacchiere con Giuliano Sangiorgi (Negramaro)</title>
+            <link>https://www.youtube.com/watch?v=uc0BZbT95BQ</link>
+            <guid>https://www.youtube.com/watch?v=uc0BZbT95BQ</guid>
+            <pubDate>MAY 23, 2021 AT 09:31PM</pubDate>
+            <description>4 chiacchiere con Giuliano Sangiorgi (Negramaro)</description>
         </item>
         <item>
-            <title>Marco Montemagno - Perché è così difficile superare gli stereotipi. 4 chiacchiere con Eloisa</title>
-            <link>https://www.youtube.com/watch?v=_DXiV2n0raU</link>
-            <guid>https://www.youtube.com/watch?v=_DXiV2n0raU</guid>
-            <pubDate>DECEMBER 5, 2021 AT 01:00PM</pubDate>
-            <description>Perché è così difficile superare gli stereotipi. 4 chiacchiere con Eloisa</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - La Cina (Ri)BANNA Bitcoin &amp;co...e ora che succede?</title>
-            <link>https://www.youtube.com/watch?v=OHJHU79PNbw</link>
-            <guid>https://www.youtube.com/watch?v=OHJHU79PNbw</guid>
-            <pubDate>SEPTEMBER 25, 2021 AT 12:17PM</pubDate>
-            <description>La Cina (Ri)BANNA Bitcoin &amp;co...e ora che succede?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Print on demand: trends and best practice with Printful</title>
-            <link>https://www.youtube.com/watch?v=iQfj4u6yraw</link>
-            <guid>https://www.youtube.com/watch?v=iQfj4u6yraw</guid>
-            <pubDate>JANUARY 28, 2022 AT 09:40AM</pubDate>
-            <description>Print on demand: trends and best practice with Printful</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Europei 2021: Congratulazioni Azzurri!</title>
-            <link>https://www.youtube.com/watch?v=B2dpKlbVv4k</link>
-            <guid>https://www.youtube.com/watch?v=B2dpKlbVv4k</guid>
-            <pubDate>JULY 12, 2021 AT 01:00PM</pubDate>
-            <description>Europei 2021: Congratulazioni Azzurri!</description>
-        </item>
-        <item>
-            <title>Matteo Flora - I numeri della moderazione di #Facebook - Matteo incontra Facebook (3 di 3)</title>
-            <link>https://www.youtube.com/watch?v=Wwz8gdVORs0</link>
-            <guid>https://www.youtube.com/watch?v=Wwz8gdVORs0</guid>
-            <pubDate>JULY 9, 2021 AT 09:00AM</pubDate>
-            <description>I numeri della moderazione di #Facebook - Matteo incontra Facebook (3 di 3)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Human Safari, in 6 minuti</title>
-            <link>https://www.youtube.com/watch?v=_bD3UN7rADc</link>
-            <guid>https://www.youtube.com/watch?v=_bD3UN7rADc</guid>
-            <pubDate>SEPTEMBER 1, 2021 AT 07:58PM</pubDate>
-            <description>Human Safari, in 6 minuti</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Pregiudizio o realtà: qual è il confine?</title>
-            <link>https://www.youtube.com/watch?v=rf9ZP3rzQsY</link>
-            <guid>https://www.youtube.com/watch?v=rf9ZP3rzQsY</guid>
-            <pubDate>JANUARY 24, 2022 AT 10:00AM</pubDate>
-            <description>Pregiudizio o realtà: qual è il confine?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 300Mln$?!? Ma Apple e Google sono davvero concorrenti? #shorts</title>
-            <link>https://www.youtube.com/watch?v=Y-4yci_uu2M</link>
-            <guid>https://www.youtube.com/watch?v=Y-4yci_uu2M</guid>
-            <pubDate>JULY 5, 2021 AT 03:36PM</pubDate>
-            <description>300Mln$?!? Ma Apple e Google sono davvero concorrenti? #shorts</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con Diodato</title>
-            <link>https://www.youtube.com/watch?v=yAuJEdAsvuw</link>
-            <guid>https://www.youtube.com/watch?v=yAuJEdAsvuw</guid>
-            <pubDate>JUNE 3, 2021 AT 11:21AM</pubDate>
-            <description>4 chiacchiere con Diodato</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - La mentalità e le abitudini di chi vince (4 caratteristiche ricorrenti)</title>
-            <link>https://www.youtube.com/watch?v=OEreHoeyjKM</link>
-            <guid>https://www.youtube.com/watch?v=OEreHoeyjKM</guid>
-            <pubDate>JUNE 21, 2021 AT 06:39PM</pubDate>
-            <description>La mentalità e le abitudini di chi vince (4 caratteristiche ricorrenti)</description>
+            <title>Marco Montemagno - 5 curiosità che forse non sapevi sulle Olimpiadi 2021</title>
+            <link>https://www.youtube.com/watch?v=_88OlO2xCfs</link>
+            <guid>https://www.youtube.com/watch?v=_88OlO2xCfs</guid>
+            <pubDate>JULY 24, 2021 AT 04:04PM</pubDate>
+            <description>5 curiosità che forse non sapevi sulle Olimpiadi 2021</description>
         </item>
     </channel>
 </rss>
