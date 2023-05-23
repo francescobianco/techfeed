@@ -5,27 +5,69 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Mon, 22 May 2023 13:17:35 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 13:18:05 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - Come trovo clienti interessati al mio e-commerce?</title>
-            <link>https://www.youtube.com/watch?v=P90J0MZbr-o</link>
-            <guid>https://www.youtube.com/watch?v=P90J0MZbr-o</guid>
-            <pubDate>DECEMBER 1, 2021 AT 11:00AM</pubDate>
-            <description>Come trovo clienti interessati al mio e-commerce?</description>
+            <title>Matteo Flora - Bricofer contro Rapetto: il ransomware e gli errori di comunicazione</title>
+            <link>https://www.youtube.com/watch?v=6GA6KbD8iQg</link>
+            <guid>https://www.youtube.com/watch?v=6GA6KbD8iQg</guid>
+            <pubDate>JANUARY 19, 2022 AT 07:17PM</pubDate>
+            <description>Bricofer contro Rapetto: il ransomware e gli errori di comunicazione</description>
         </item>
         <item>
-            <title>Marco Montemagno - 300Mln$?!? Ma Apple e Google sono davvero concorrenti? #shorts</title>
-            <link>https://www.youtube.com/watch?v=Y-4yci_uu2M</link>
-            <guid>https://www.youtube.com/watch?v=Y-4yci_uu2M</guid>
-            <pubDate>JULY 5, 2021 AT 03:36PM</pubDate>
-            <description>300Mln$?!? Ma Apple e Google sono davvero concorrenti? #shorts</description>
+            <title>Raffaele Gaito - MENO PIPPE MENTALI SUI LIBRI #shorts</title>
+            <link>https://www.youtube.com/watch?v=_qR6d_DAaPQ</link>
+            <guid>https://www.youtube.com/watch?v=_qR6d_DAaPQ</guid>
+            <pubDate>JULY 27, 2021 AT 08:00AM</pubDate>
+            <description>MENO PIPPE MENTALI SUI LIBRI #shorts</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Black Friday: dati e previsioni</title>
-            <link>https://www.youtube.com/watch?v=bRrpCe6zi_o</link>
-            <guid>https://www.youtube.com/watch?v=bRrpCe6zi_o</guid>
-            <pubDate>OCTOBER 20, 2021 AT 01:12AM</pubDate>
-            <description>Black Friday: dati e previsioni</description>
+            <title>Marco Montemagno - Sui social tutti cercano di influenzarti: sai riconoscere la verità?</title>
+            <link>https://www.youtube.com/watch?v=uNwDXZDJjPs</link>
+            <guid>https://www.youtube.com/watch?v=uNwDXZDJjPs</guid>
+            <pubDate>AUGUST 3, 2021 AT 01:00PM</pubDate>
+            <description>Sui social tutti cercano di influenzarti: sai riconoscere la verità?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - MMA sarà presto lo sport più visto al mondo?</title>
+            <link>https://www.youtube.com/watch?v=at8wL5FhOdk</link>
+            <guid>https://www.youtube.com/watch?v=at8wL5FhOdk</guid>
+            <pubDate>NOVEMBER 6, 2021 AT 01:00PM</pubDate>
+            <description>MMA sarà presto lo sport più visto al mondo?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Sei una persona che descrive o risolve i problemi?</title>
+            <link>https://www.youtube.com/watch?v=IxppXVqy59Q</link>
+            <guid>https://www.youtube.com/watch?v=IxppXVqy59Q</guid>
+            <pubDate>NOVEMBER 13, 2021 AT 01:00PM</pubDate>
+            <description>Sei una persona che descrive o risolve i problemi?</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - COME DIFFERENZIARSI DALLA CONCORRENZA (E NON SOLO)</title>
+            <link>https://www.youtube.com/watch?v=0-SbdkcHFGA</link>
+            <guid>https://www.youtube.com/watch?v=0-SbdkcHFGA</guid>
+            <pubDate>AUGUST 3, 2021 AT 08:00AM</pubDate>
+            <description>COME DIFFERENZIARSI DALLA CONCORRENZA (E NON SOLO)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Intelligenza Artificiale e CUSTOMER CARE</title>
+            <link>https://www.youtube.com/watch?v=uPI609RWDMs</link>
+            <guid>https://www.youtube.com/watch?v=uPI609RWDMs</guid>
+            <pubDate>JUNE 23, 2021 AT 10:26PM</pubDate>
+            <description>Intelligenza Artificiale e CUSTOMER CARE</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Robert Kennedy jr, Anna Frank, i no-vax e l&#39;olocausto: perché non accettare le scuse</title>
+            <link>https://www.youtube.com/watch?v=Spb9UN1es44</link>
+            <guid>https://www.youtube.com/watch?v=Spb9UN1es44</guid>
+            <pubDate>JANUARY 26, 2022 AT 07:42PM</pubDate>
+            <description>Robert Kennedy jr, Anna Frank, i no-vax e l&#39;olocausto: perché non accettare le scuse</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - Conta di più Jeff Bezos o il cambiamento climatico?</title>
+            <link>https://www.youtube.com/watch?v=jlwPlRb1jYU</link>
+            <guid>https://www.youtube.com/watch?v=jlwPlRb1jYU</guid>
+            <pubDate>NOVEMBER 12, 2021 AT 09:18AM</pubDate>
+            <description>Conta di più Jeff Bezos o il cambiamento climatico?</description>
         </item>
         <item>
             <title>Marco Montemagno - Surf e dintorni - 4 chiacchiere con Edoardo Papa</title>
@@ -35,116 +77,74 @@
             <description>Surf e dintorni - 4 chiacchiere con Edoardo Papa</description>
         </item>
         <item>
-            <title>Marco Montemagno - Intelligenza Artificiale e aziende: quali opportunità?</title>
-            <link>https://www.youtube.com/watch?v=d3zi4yRnbhw</link>
-            <guid>https://www.youtube.com/watch?v=d3zi4yRnbhw</guid>
-            <pubDate>JUNE 22, 2021 AT 08:45AM</pubDate>
-            <description>Intelligenza Artificiale e aziende: quali opportunità?</description>
+            <title>Raffaele Gaito - CLUBHOUSE STA MORENDO! E STICAZZI?!</title>
+            <link>https://www.youtube.com/watch?v=bw69Mw8S28c</link>
+            <guid>https://www.youtube.com/watch?v=bw69Mw8S28c</guid>
+            <pubDate>JUNE 15, 2021 AT 08:00AM</pubDate>
+            <description>CLUBHOUSE STA MORENDO! E STICAZZI?!</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Sabaku no Maiku</title>
-            <link>https://www.youtube.com/watch?v=AJN_zdTDwT8</link>
-            <guid>https://www.youtube.com/watch?v=AJN_zdTDwT8</guid>
-            <pubDate>OCTOBER 5, 2021 AT 08:31PM</pubDate>
-            <description>4 chiacchiere con Sabaku no Maiku</description>
+            <title>Marco Montemagno - 15 tipologie di clienti da evitare come la peste</title>
+            <link>https://www.youtube.com/watch?v=jBFJMpSPG-w</link>
+            <guid>https://www.youtube.com/watch?v=jBFJMpSPG-w</guid>
+            <pubDate>OCTOBER 23, 2021 AT 04:00PM</pubDate>
+            <description>15 tipologie di clienti da evitare come la peste</description>
         </item>
         <item>
-            <title>Marco Montemagno - La Cina contro i social: non più di 40 minuti al giorno</title>
-            <link>https://www.youtube.com/watch?v=m311XQavGqE</link>
-            <guid>https://www.youtube.com/watch?v=m311XQavGqE</guid>
-            <pubDate>SEPTEMBER 21, 2021 AT 04:53PM</pubDate>
-            <description>La Cina contro i social: non più di 40 minuti al giorno</description>
+            <title>Marco Montemagno - A conversation with M. Night Shyamalan</title>
+            <link>https://www.youtube.com/watch?v=hi31OPRNrII</link>
+            <guid>https://www.youtube.com/watch?v=hi31OPRNrII</guid>
+            <pubDate>JULY 21, 2021 AT 03:44PM</pubDate>
+            <description>A conversation with M. Night Shyamalan</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Giacomo Poretti (Aldo, Giovanni e Giacomo)</title>
-            <link>https://www.youtube.com/watch?v=sSfI6l0w9MA</link>
-            <guid>https://www.youtube.com/watch?v=sSfI6l0w9MA</guid>
-            <pubDate>OCTOBER 2, 2021 AT 01:55PM</pubDate>
-            <description>4 chiacchiere con Giacomo Poretti (Aldo, Giovanni e Giacomo)</description>
+            <title>Marco Montemagno - J.P. Morgan ha cambiato idea...</title>
+            <link>https://www.youtube.com/watch?v=9TlEpu4OS_U</link>
+            <guid>https://www.youtube.com/watch?v=9TlEpu4OS_U</guid>
+            <pubDate>JULY 23, 2021 AT 05:00PM</pubDate>
+            <description>J.P. Morgan ha cambiato idea...</description>
         </item>
         <item>
-            <title>Marco Montemagno - Sei a corto di idee?</title>
-            <link>https://www.youtube.com/watch?v=T5zzc-w79UU</link>
-            <guid>https://www.youtube.com/watch?v=T5zzc-w79UU</guid>
-            <pubDate>MAY 30, 2021 AT 10:09AM</pubDate>
-            <description>Sei a corto di idee?</description>
+            <title>Marco Montemagno - Consegne sempre più veloci: costi, problemi e sostenibilità</title>
+            <link>https://www.youtube.com/watch?v=aIXxuyc41sw</link>
+            <guid>https://www.youtube.com/watch?v=aIXxuyc41sw</guid>
+            <pubDate>DECEMBER 22, 2021 AT 12:50PM</pubDate>
+            <description>Consegne sempre più veloci: costi, problemi e sostenibilità</description>
         </item>
         <item>
-            <title>Marco Montemagno - Moda ed e-commerce: il ruolo fondamentale della sostenibilità</title>
-            <link>https://www.youtube.com/watch?v=qJmikLxAuSc</link>
-            <guid>https://www.youtube.com/watch?v=qJmikLxAuSc</guid>
-            <pubDate>JANUARY 6, 2022 AT 10:00AM</pubDate>
-            <description>Moda ed e-commerce: il ruolo fondamentale della sostenibilità</description>
+            <title>Rudy Bandiera - 4 verità che non ti raccontano sull’avviare un business da zero</title>
+            <link>https://www.youtube.com/watch?v=L7-f73tPcC4</link>
+            <guid>https://www.youtube.com/watch?v=L7-f73tPcC4</guid>
+            <pubDate>NOVEMBER 5, 2021 AT 09:24AM</pubDate>
+            <description>4 verità che non ti raccontano sull’avviare un business da zero</description>
         </item>
         <item>
-            <title>Raffaele Gaito - Tempo al tempo | Matteo Professione - Ernia | TEDxUNICATT</title>
-            <link>https://www.youtube.com/watch?v=7GfTF5YTA0I</link>
-            <guid>https://www.youtube.com/watch?v=7GfTF5YTA0I</guid>
-            <pubDate>MARCH 30, 2021 AT 06:28PM</pubDate>
-            <description>Tempo al tempo | Matteo Professione - Ernia | TEDxUNICATT</description>
+            <title>Marco Montemagno - Perché all&#39;uomo più ricco del mondo non frega niente dei soldi</title>
+            <link>https://www.youtube.com/watch?v=0kQeNmd8In0</link>
+            <guid>https://www.youtube.com/watch?v=0kQeNmd8In0</guid>
+            <pubDate>NOVEMBER 4, 2021 AT 02:02PM</pubDate>
+            <description>Perché all&#39;uomo più ricco del mondo non frega niente dei soldi</description>
         </item>
         <item>
-            <title>Marco Montemagno - Bitcoin, Crypto, NFT...che succede?</title>
-            <link>https://www.youtube.com/watch?v=iwQL8AdTEXk</link>
-            <guid>https://www.youtube.com/watch?v=iwQL8AdTEXk</guid>
-            <pubDate>MAY 31, 2021 AT 09:17AM</pubDate>
-            <description>Bitcoin, Crypto, NFT...che succede?</description>
+            <title>Marco Montemagno - Come ha fatto TikTok a conquistare il mondo (alla velocità della luce)?</title>
+            <link>https://www.youtube.com/watch?v=LeK11lHxaCQ</link>
+            <guid>https://www.youtube.com/watch?v=LeK11lHxaCQ</guid>
+            <pubDate>JULY 14, 2021 AT 12:00PM</pubDate>
+            <description>Come ha fatto TikTok a conquistare il mondo (alla velocità della luce)?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Il mio NFT MontyLab: tutto quello che c&#39;è da sapere con Alessandro De Grandi</title>
-            <link>https://www.youtube.com/watch?v=AD55yS8p2Io</link>
-            <guid>https://www.youtube.com/watch?v=AD55yS8p2Io</guid>
-            <pubDate>JANUARY 31, 2022 AT 01:00PM</pubDate>
-            <description>Il mio NFT MontyLab: tutto quello che c&#39;è da sapere con Alessandro De Grandi</description>
+            <title>Marco Montemagno - È possibile o è probabile?</title>
+            <link>https://www.youtube.com/watch?v=Jb9OrN2Ij60</link>
+            <guid>https://www.youtube.com/watch?v=Jb9OrN2Ij60</guid>
+            <pubDate>JANUARY 9, 2022 AT 01:00PM</pubDate>
+            <description>È possibile o è probabile?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Vincenzo Tiana, Legambiente</title>
-            <link>https://www.youtube.com/watch?v=jV0bDd36R5I</link>
-            <guid>https://www.youtube.com/watch?v=jV0bDd36R5I</guid>
-            <pubDate>SEPTEMBER 8, 2021 AT 08:18PM</pubDate>
-            <description>Cambiamento climatico, elettrificazione e dintorni con Vincenzo Tiana, Legambiente</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Questo è il libro da leggere quest&#39;estate</title>
-            <link>https://www.youtube.com/watch?v=McrzZpM4VT4</link>
-            <guid>https://www.youtube.com/watch?v=McrzZpM4VT4</guid>
-            <pubDate>JUNE 14, 2021 AT 04:41PM</pubDate>
-            <description>Questo è il libro da leggere quest&#39;estate</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Faccio del mio meglio</title>
-            <link>https://www.youtube.com/watch?v=spTgt4VkeHo</link>
-            <guid>https://www.youtube.com/watch?v=spTgt4VkeHo</guid>
-            <pubDate>MAY 28, 2021 AT 06:55PM</pubDate>
-            <description>Faccio del mio meglio</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Matthew McConaughey : how does a character tell a story? #short</title>
-            <link>https://www.youtube.com/watch?v=Enk7DT3G1aY</link>
-            <guid>https://www.youtube.com/watch?v=Enk7DT3G1aY</guid>
-            <pubDate>MAY 5, 2021 AT 11:14AM</pubDate>
-            <description>Matthew McConaughey : how does a character tell a story? #short</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Conosci la legge dello schiaffone?</title>
-            <link>https://www.youtube.com/watch?v=cdo3-1ermxI</link>
-            <guid>https://www.youtube.com/watch?v=cdo3-1ermxI</guid>
-            <pubDate>JANUARY 8, 2022 AT 01:00PM</pubDate>
-            <description>Conosci la legge dello schiaffone?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Ragioni da dipendente o da imprenditore?</title>
-            <link>https://www.youtube.com/watch?v=6Ot_GKFNP1I</link>
-            <guid>https://www.youtube.com/watch?v=6Ot_GKFNP1I</guid>
-            <pubDate>SEPTEMBER 26, 2021 AT 02:00PM</pubDate>
-            <description>Ragioni da dipendente o da imprenditore?</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Mi hanno rubato il canale! Le nuove truffe e come evitare che ti rubino i profili!</title>
-            <link>https://www.youtube.com/watch?v=H467gzIYjXM</link>
-            <guid>https://www.youtube.com/watch?v=H467gzIYjXM</guid>
-            <pubDate>AUGUST 21, 2021 AT 08:35AM</pubDate>
-            <description>Mi hanno rubato il canale! Le nuove truffe e come evitare che ti rubino i profili!</description>
+            <title>Marco Montemagno - Le 9 citazioni che devi assolutamente conoscere (e applicare)</title>
+            <link>https://www.youtube.com/watch?v=VtKm1hiydZw</link>
+            <guid>https://www.youtube.com/watch?v=VtKm1hiydZw</guid>
+            <pubDate>JUNE 27, 2021 AT 10:55AM</pubDate>
+            <description>Le 9 citazioni che devi assolutamente conoscere (e applicare)</description>
         </item>
     </channel>
 </rss>
