@@ -5,69 +5,27 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Thu, 06 Jul 2023 13:32:05 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 13:23:11 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - Sui social tutti cercano di influenzarti: sai riconoscere la verità?</title>
-            <link>https://www.youtube.com/watch?v=uNwDXZDJjPs</link>
-            <guid>https://www.youtube.com/watch?v=uNwDXZDJjPs</guid>
-            <pubDate>AUGUST 3, 2021 AT 01:00PM</pubDate>
-            <description>Sui social tutti cercano di influenzarti: sai riconoscere la verità?</description>
+            <title>Marco Montemagno - Le nuove opportunità NFT e Crypto per l&#39;editoria</title>
+            <link>https://www.youtube.com/watch?v=CPvQm82A42Q</link>
+            <guid>https://www.youtube.com/watch?v=CPvQm82A42Q</guid>
+            <pubDate>DECEMBER 3, 2021 AT 09:00AM</pubDate>
+            <description>Le nuove opportunità NFT e Crypto per l&#39;editoria</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Come promovere il tuo e-commerce su Google</title>
-            <link>https://www.youtube.com/watch?v=cVQV9MxOmg4</link>
-            <guid>https://www.youtube.com/watch?v=cVQV9MxOmg4</guid>
-            <pubDate>JUNE 15, 2021 AT 07:30AM</pubDate>
-            <description>Come promovere il tuo e-commerce su Google</description>
+            <title>Matteo Flora - [LIVE] #CiaoInternet Serale: Apple e la Pedopornografia</title>
+            <link>https://www.youtube.com/watch?v=eVjNjFikDho</link>
+            <guid>https://www.youtube.com/watch?v=eVjNjFikDho</guid>
+            <pubDate>SEPTEMBER 4, 2021 AT 09:26AM</pubDate>
+            <description>[LIVE] #CiaoInternet Serale: Apple e la Pedopornografia</description>
         </item>
         <item>
-            <title>Marco Montemagno - L&#39;Italia s&#39;è desta! Come sta cambiando la percezione dell&#39;Italia nel mondo (e cosa si potrebbe fare)</title>
-            <link>https://www.youtube.com/watch?v=awJcWyt3pHA</link>
-            <guid>https://www.youtube.com/watch?v=awJcWyt3pHA</guid>
-            <pubDate>JULY 12, 2021 AT 06:24PM</pubDate>
-            <description>L&#39;Italia s&#39;è desta! Come sta cambiando la percezione dell&#39;Italia nel mondo (e cosa si potrebbe fare)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Vuoi imparare a programmare?</title>
-            <link>https://www.youtube.com/watch?v=ueLooNS5iek</link>
-            <guid>https://www.youtube.com/watch?v=ueLooNS5iek</guid>
-            <pubDate>NOVEMBER 8, 2021 AT 03:00PM</pubDate>
-            <description>Vuoi imparare a programmare?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con Giuliano Sangiorgi (Negramaro)</title>
-            <link>https://www.youtube.com/watch?v=uc0BZbT95BQ</link>
-            <guid>https://www.youtube.com/watch?v=uc0BZbT95BQ</guid>
-            <pubDate>MAY 23, 2021 AT 09:31PM</pubDate>
-            <description>4 chiacchiere con Giuliano Sangiorgi (Negramaro)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Perché dovresti chiedere un aumento oggi stesso!</title>
-            <link>https://www.youtube.com/watch?v=dlLsAt6Z7J0</link>
-            <guid>https://www.youtube.com/watch?v=dlLsAt6Z7J0</guid>
-            <pubDate>SEPTEMBER 4, 2021 AT 10:00AM</pubDate>
-            <description>Perché dovresti chiedere un aumento oggi stesso!</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 storie di leadership al femminile</title>
-            <link>https://www.youtube.com/watch?v=UVz_rXdWXR0</link>
-            <guid>https://www.youtube.com/watch?v=UVz_rXdWXR0</guid>
-            <pubDate>AUGUST 13, 2021 AT 01:00PM</pubDate>
-            <description>4 storie di leadership al femminile</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - E i 3 video + visti della storia di YouTube sono...#shorts</title>
-            <link>https://www.youtube.com/watch?v=h4eN5j-_jlg</link>
-            <guid>https://www.youtube.com/watch?v=h4eN5j-_jlg</guid>
-            <pubDate>JULY 6, 2021 AT 08:56AM</pubDate>
-            <description>E i 3 video + visti della storia di YouTube sono...#shorts</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Marco Montemagno...ma chi è? Che mestiere fa? Da dove arriva?</title>
-            <link>https://www.youtube.com/watch?v=ume43VQUbo8</link>
-            <guid>https://www.youtube.com/watch?v=ume43VQUbo8</guid>
-            <pubDate>JUNE 18, 2021 AT 07:27PM</pubDate>
-            <description>Marco Montemagno...ma chi è? Che mestiere fa? Da dove arriva?</description>
+            <title>Matteo Flora - Log4j e Log4Shell: tutto quello da sapere sulla vulnerabilità 0-day con Stefano @raistolo Zanero</title>
+            <link>https://www.youtube.com/watch?v=vOo982VdHM0</link>
+            <guid>https://www.youtube.com/watch?v=vOo982VdHM0</guid>
+            <pubDate>DECEMBER 12, 2021 AT 06:32PM</pubDate>
+            <description>Log4j e Log4Shell: tutto quello da sapere sulla vulnerabilità 0-day con Stefano @raistolo Zanero</description>
         </item>
         <item>
             <title>Matteo Flora - Multe del Garante a Roma e Lombardia: chi paga e dove vanno i soldi?</title>
@@ -77,74 +35,116 @@
             <description>Multe del Garante a Roma e Lombardia: chi paga e dove vanno i soldi?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Bitcoin che succede? Previsioni per il 2022</title>
-            <link>https://www.youtube.com/watch?v=3NDZDR_aIxM</link>
-            <guid>https://www.youtube.com/watch?v=3NDZDR_aIxM</guid>
-            <pubDate>JANUARY 5, 2022 AT 11:55PM</pubDate>
-            <description>Bitcoin che succede? Previsioni per il 2022</description>
+            <title>Marco Montemagno - Questa startup migliorerà la vita a oltre 70 milioni di persone</title>
+            <link>https://www.youtube.com/watch?v=6CzRTP5MU6Q</link>
+            <guid>https://www.youtube.com/watch?v=6CzRTP5MU6Q</guid>
+            <pubDate>AUGUST 4, 2021 AT 02:00PM</pubDate>
+            <description>Questa startup migliorerà la vita a oltre 70 milioni di persone</description>
         </item>
         <item>
-            <title>Marco Montemagno - I poveri hanno grandi televisori, i ricchi hanno grandi librerie</title>
-            <link>https://www.youtube.com/watch?v=QiOzbrEWnTs</link>
-            <guid>https://www.youtube.com/watch?v=QiOzbrEWnTs</guid>
-            <pubDate>OCTOBER 29, 2021 AT 01:30PM</pubDate>
-            <description>I poveri hanno grandi televisori, i ricchi hanno grandi librerie</description>
+            <title>Raffaele Gaito - IL SEGRETO PER VENDERE #shorts</title>
+            <link>https://www.youtube.com/watch?v=bxc1ZaYpPYc</link>
+            <guid>https://www.youtube.com/watch?v=bxc1ZaYpPYc</guid>
+            <pubDate>JULY 9, 2021 AT 08:00AM</pubDate>
+            <description>IL SEGRETO PER VENDERE #shorts</description>
         </item>
         <item>
-            <title>Marco Montemagno - Impara il Growth Hacking!</title>
-            <link>https://www.youtube.com/watch?v=NlyBRrkEoro</link>
-            <guid>https://www.youtube.com/watch?v=NlyBRrkEoro</guid>
-            <pubDate>SEPTEMBER 8, 2021 AT 04:11PM</pubDate>
-            <description>Impara il Growth Hacking!</description>
+            <title>Marco Montemagno - Conviene organizzare i giochi Olimpici?</title>
+            <link>https://www.youtube.com/watch?v=6fwPXiJbwFI</link>
+            <guid>https://www.youtube.com/watch?v=6fwPXiJbwFI</guid>
+            <pubDate>AUGUST 8, 2021 AT 10:18AM</pubDate>
+            <description>Conviene organizzare i giochi Olimpici?</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con The Crypto Gateway (Lua Boiardi)</title>
-            <link>https://www.youtube.com/watch?v=F-BSt-aYXCQ</link>
-            <guid>https://www.youtube.com/watch?v=F-BSt-aYXCQ</guid>
-            <pubDate>JANUARY 12, 2022 AT 11:19PM</pubDate>
-            <description>4 chiacchiere con The Crypto Gateway (Lua Boiardi)</description>
+            <title>Matteo Flora - SPECIALE: L&#39;incredibile data breach dell&#39;Esame Avvocati 2020</title>
+            <link>https://www.youtube.com/watch?v=d_X-_13cJT0</link>
+            <guid>https://www.youtube.com/watch?v=d_X-_13cJT0</guid>
+            <pubDate>MAY 13, 2021 AT 08:19PM</pubDate>
+            <description>SPECIALE: L&#39;incredibile data breach dell&#39;Esame Avvocati 2020</description>
         </item>
         <item>
-            <title>Marco Montemagno - Nek racconta com&#39;è nata &quot;Laura non c&#39;è&quot;</title>
-            <link>https://www.youtube.com/watch?v=LcbQwOmlyYk</link>
-            <guid>https://www.youtube.com/watch?v=LcbQwOmlyYk</guid>
-            <pubDate>JULY 10, 2021 AT 10:54AM</pubDate>
-            <description>Nek racconta com&#39;è nata &quot;Laura non c&#39;è&quot;</description>
+            <title>Marco Montemagno - The Coin of Champions: Demo live e Q&amp;A</title>
+            <link>https://www.youtube.com/watch?v=cxso2vZlye4</link>
+            <guid>https://www.youtube.com/watch?v=cxso2vZlye4</guid>
+            <pubDate>NOVEMBER 25, 2021 AT 04:22PM</pubDate>
+            <description>The Coin of Champions: Demo live e Q&amp;A</description>
         </item>
         <item>
-            <title>Marco Montemagno - 7 cose che ha detto Elon Musk che fanno riflettere</title>
-            <link>https://www.youtube.com/watch?v=1hPUXev58IM</link>
-            <guid>https://www.youtube.com/watch?v=1hPUXev58IM</guid>
-            <pubDate>DECEMBER 11, 2021 AT 01:00PM</pubDate>
-            <description>7 cose che ha detto Elon Musk che fanno riflettere</description>
+            <title>Marco Montemagno - Leadership Gentile con Guido Stratta (Direttore People &amp; Organisation Gruppo Enel)</title>
+            <link>https://www.youtube.com/watch?v=_qAOAqmh0Sw</link>
+            <guid>https://www.youtube.com/watch?v=_qAOAqmh0Sw</guid>
+            <pubDate>DECEMBER 20, 2021 AT 01:00PM</pubDate>
+            <description>Leadership Gentile con Guido Stratta (Direttore People &amp; Organisation Gruppo Enel)</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Substack è un pericolo per i giornali. Ora è ufficiale.</title>
-            <link>https://www.youtube.com/watch?v=qlnYWsM5CJM</link>
-            <guid>https://www.youtube.com/watch?v=qlnYWsM5CJM</guid>
-            <pubDate>MAY 12, 2021 AT 08:34AM</pubDate>
-            <description>Substack è un pericolo per i giornali. Ora è ufficiale.</description>
+            <title>Marco Montemagno - Per cosa possono essere usati gli NFT? (No, non sono solo per l&#39;arte)</title>
+            <link>https://www.youtube.com/watch?v=yiya_MBWZso</link>
+            <guid>https://www.youtube.com/watch?v=yiya_MBWZso</guid>
+            <pubDate>JANUARY 24, 2022 AT 03:26PM</pubDate>
+            <description>Per cosa possono essere usati gli NFT? (No, non sono solo per l&#39;arte)</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come reagisce e ti critica la gente quando ti metti in gioco</title>
-            <link>https://www.youtube.com/watch?v=tjCvsHYkAAk</link>
-            <guid>https://www.youtube.com/watch?v=tjCvsHYkAAk</guid>
-            <pubDate>JANUARY 27, 2022 AT 02:00PM</pubDate>
-            <description>Come reagisce e ti critica la gente quando ti metti in gioco</description>
+            <title>Marco Montemagno - Intelligenza artificiale e mondo del lavoro</title>
+            <link>https://www.youtube.com/watch?v=Sa52naKlw_g</link>
+            <guid>https://www.youtube.com/watch?v=Sa52naKlw_g</guid>
+            <pubDate>JUNE 29, 2021 AT 08:25AM</pubDate>
+            <description>Intelligenza artificiale e mondo del lavoro</description>
         </item>
         <item>
-            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Alberto De Paoli, Enel</title>
-            <link>https://www.youtube.com/watch?v=MpxMDkbPCHE</link>
-            <guid>https://www.youtube.com/watch?v=MpxMDkbPCHE</guid>
-            <pubDate>SEPTEMBER 10, 2021 AT 12:41PM</pubDate>
-            <description>Cambiamento climatico, elettrificazione e dintorni con Alberto De Paoli, Enel</description>
+            <title>Matteo Flora - Il #disastro #Reputazionale della Nazionale Cantanti, tra Aurora Leone e Gian Luca Pecchini</title>
+            <link>https://www.youtube.com/watch?v=zhcYfux2Fco</link>
+            <guid>https://www.youtube.com/watch?v=zhcYfux2Fco</guid>
+            <pubDate>MAY 25, 2021 AT 09:54PM</pubDate>
+            <description>Il #disastro #Reputazionale della Nazionale Cantanti, tra Aurora Leone e Gian Luca Pecchini</description>
         </item>
         <item>
-            <title>Marco Montemagno - Intelligenza artificiale, comprensione del linguaggio e dintorni</title>
-            <link>https://www.youtube.com/watch?v=sC0nAlfQUqU</link>
-            <guid>https://www.youtube.com/watch?v=sC0nAlfQUqU</guid>
-            <pubDate>JUNE 24, 2021 AT 10:54PM</pubDate>
-            <description>Intelligenza artificiale, comprensione del linguaggio e dintorni</description>
+            <title>Marco Montemagno - Come trasformare i tuoi limiti in punti di forza? Ne avevamo parlato con Jovanotti</title>
+            <link>https://www.youtube.com/watch?v=Y2LWSgxbyH4</link>
+            <guid>https://www.youtube.com/watch?v=Y2LWSgxbyH4</guid>
+            <pubDate>AUGUST 23, 2021 AT 06:01PM</pubDate>
+            <description>Come trasformare i tuoi limiti in punti di forza? Ne avevamo parlato con Jovanotti</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - Che gusto c’è a guardare uno che gioca ai videogiochi?</title>
+            <link>https://www.youtube.com/watch?v=8ghN03XA3gQ</link>
+            <guid>https://www.youtube.com/watch?v=8ghN03XA3gQ</guid>
+            <pubDate>DECEMBER 17, 2021 AT 09:02AM</pubDate>
+            <description>Che gusto c’è a guardare uno che gioca ai videogiochi?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - È arrivato il Black Friday ...</title>
+            <link>https://www.youtube.com/watch?v=PLA-Bq8YSyE</link>
+            <guid>https://www.youtube.com/watch?v=PLA-Bq8YSyE</guid>
+            <pubDate>NOVEMBER 24, 2021 AT 04:30PM</pubDate>
+            <description>È arrivato il Black Friday ...</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Come si intrattiene un pubblico? - Alessandro Cattelan</title>
+            <link>https://www.youtube.com/watch?v=7x7YHVaNpog</link>
+            <guid>https://www.youtube.com/watch?v=7x7YHVaNpog</guid>
+            <pubDate>AUGUST 25, 2021 AT 01:00PM</pubDate>
+            <description>Come si intrattiene un pubblico? - Alessandro Cattelan</description>
+        </item>
+        <item>
+            <title>Matteo Flora - TUTTI i #GreenPass italiani online! Ma è vero?</title>
+            <link>https://www.youtube.com/watch?v=olUCkl1eaZ4</link>
+            <guid>https://www.youtube.com/watch?v=olUCkl1eaZ4</guid>
+            <pubDate>NOVEMBER 20, 2021 AT 11:48AM</pubDate>
+            <description>TUTTI i #GreenPass italiani online! Ma è vero?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Competenze.it e dintorni - 4 chiacchiere con Enrico Bertolino</title>
+            <link>https://www.youtube.com/watch?v=GHB0-bpEJnU</link>
+            <guid>https://www.youtube.com/watch?v=GHB0-bpEJnU</guid>
+            <pubDate>MAY 19, 2021 AT 12:15PM</pubDate>
+            <description>Competenze.it e dintorni - 4 chiacchiere con Enrico Bertolino</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Chi sono le Virtual Influencer e perché sono un pericolo per le nostre libertà</title>
+            <link>https://www.youtube.com/watch?v=HpDJvijSp5c</link>
+            <guid>https://www.youtube.com/watch?v=HpDJvijSp5c</guid>
+            <pubDate>SEPTEMBER 15, 2021 AT 09:17AM</pubDate>
+            <description>Chi sono le Virtual Influencer e perché sono un pericolo per le nostre libertà</description>
         </item>
     </channel>
 </rss>
