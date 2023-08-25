@@ -5,7 +5,35 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Thu, 24 Aug 2023 13:16:34 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 13:15:57 +0000</lastBuildDate>
+        <item>
+            <title>Marco Montemagno - Talento o vocazione? Ne avevo parlato con Maura Gancitano</title>
+            <link>https://www.youtube.com/watch?v=TKT-Mwph-r4</link>
+            <guid>https://www.youtube.com/watch?v=TKT-Mwph-r4</guid>
+            <pubDate>AUGUST 27, 2021 AT 03:05PM</pubDate>
+            <description>Talento o vocazione? Ne avevo parlato con Maura Gancitano</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Piuarch, lo scandalo 600 euro, e il costo nascosto della #Reputazione</title>
+            <link>https://www.youtube.com/watch?v=27xiPN69LiY</link>
+            <guid>https://www.youtube.com/watch?v=27xiPN69LiY</guid>
+            <pubDate>SEPTEMBER 3, 2021 AT 07:55AM</pubDate>
+            <description>Piuarch, lo scandalo 600 euro, e il costo nascosto della #Reputazione</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - L&#39;Italia s&#39;è desta! Come sta cambiando la percezione dell&#39;Italia nel mondo (e cosa si potrebbe fare)</title>
+            <link>https://www.youtube.com/watch?v=awJcWyt3pHA</link>
+            <guid>https://www.youtube.com/watch?v=awJcWyt3pHA</guid>
+            <pubDate>JULY 12, 2021 AT 06:24PM</pubDate>
+            <description>L&#39;Italia s&#39;è desta! Come sta cambiando la percezione dell&#39;Italia nel mondo (e cosa si potrebbe fare)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Perché chi è incapace crede di essere un fenomeno</title>
+            <link>https://www.youtube.com/watch?v=x0nUaKKWx4A</link>
+            <guid>https://www.youtube.com/watch?v=x0nUaKKWx4A</guid>
+            <pubDate>OCTOBER 4, 2021 AT 01:40PM</pubDate>
+            <description>Perché chi è incapace crede di essere un fenomeno</description>
+        </item>
         <item>
             <title>Marco Montemagno - Bitcoin, Blockchain e il futuro del mondo Crypto</title>
             <link>https://www.youtube.com/watch?v=pusKdQwFrHw</link>
@@ -14,18 +42,11 @@
             <description>Bitcoin, Blockchain e il futuro del mondo Crypto</description>
         </item>
         <item>
-            <title>Marco Montemagno - &quot;I fatti parlano da soli. Ma chi li ascolta?&quot;</title>
-            <link>https://www.youtube.com/watch?v=ICDIdxfEcV0</link>
-            <guid>https://www.youtube.com/watch?v=ICDIdxfEcV0</guid>
-            <pubDate>FEBRUARY 13, 2022 AT 12:26PM</pubDate>
-            <description>&quot;I fatti parlano da soli. Ma chi li ascolta?&quot;</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - Facebook &amp; Audio: c&#39;è una Strategia. Altro che Clubhouse..</title>
-            <link>https://www.youtube.com/watch?v=ZAr-2bbER0k</link>
-            <guid>https://www.youtube.com/watch?v=ZAr-2bbER0k</guid>
-            <pubDate>MAY 13, 2021 AT 07:30AM</pubDate>
-            <description>Facebook &amp; Audio: c&#39;è una Strategia. Altro che Clubhouse..</description>
+            <title>Marco Montemagno - Quali sono i social più usati in assoluto?</title>
+            <link>https://www.youtube.com/watch?v=RFr6m3QsSBY</link>
+            <guid>https://www.youtube.com/watch?v=RFr6m3QsSBY</guid>
+            <pubDate>OCTOBER 1, 2021 AT 01:00PM</pubDate>
+            <description>Quali sono i social più usati in assoluto?</description>
         </item>
         <item>
             <title>Matteo Flora - Cosa cambia con i COOKIE? Le nuove linee guida del Garante e una Guida su fare per adeguarsi!</title>
@@ -35,116 +56,95 @@
             <description>Cosa cambia con i COOKIE? Le nuove linee guida del Garante e una Guida su fare per adeguarsi!</description>
         </item>
         <item>
-            <title>Matteo Flora - Come rimuovere i contenuti di Cyberbullismo di minori gratis grazie al Garante della Privacy</title>
-            <link>https://www.youtube.com/watch?v=AjV3-VLWvMs</link>
-            <guid>https://www.youtube.com/watch?v=AjV3-VLWvMs</guid>
-            <pubDate>SEPTEMBER 20, 2021 AT 12:48PM</pubDate>
-            <description>Come rimuovere i contenuti di Cyberbullismo di minori gratis grazie al Garante della Privacy</description>
+            <title>Marco Montemagno - Oooops in arrivo i Negozi/Supermercati di Amazon...</title>
+            <link>https://www.youtube.com/watch?v=-X6_oTFENJ0</link>
+            <guid>https://www.youtube.com/watch?v=-X6_oTFENJ0</guid>
+            <pubDate>AUGUST 20, 2021 AT 05:42PM</pubDate>
+            <description>Oooops in arrivo i Negozi/Supermercati di Amazon...</description>
         </item>
         <item>
-            <title>Marco Montemagno - Metaverso..tutto quello che avresti sempre voluto sapere e non hai mai osato chiedere</title>
-            <link>https://www.youtube.com/watch?v=smcOi8GyasY</link>
-            <guid>https://www.youtube.com/watch?v=smcOi8GyasY</guid>
-            <pubDate>NOVEMBER 23, 2021 AT 03:00PM</pubDate>
-            <description>Metaverso..tutto quello che avresti sempre voluto sapere e non hai mai osato chiedere</description>
+            <title>Marco Montemagno - 4 cose da fare quando le cose vanno male...</title>
+            <link>https://www.youtube.com/watch?v=GdI00d9ECGM</link>
+            <guid>https://www.youtube.com/watch?v=GdI00d9ECGM</guid>
+            <pubDate>JULY 6, 2021 AT 02:00PM</pubDate>
+            <description>4 cose da fare quando le cose vanno male...</description>
         </item>
         <item>
-            <title>Marco Montemagno - Il mio nome è Bond...JEFF BOND (perché Amazon ha comprato MGM)</title>
-            <link>https://www.youtube.com/watch?v=4eIs8Q0ZOxk</link>
-            <guid>https://www.youtube.com/watch?v=4eIs8Q0ZOxk</guid>
-            <pubDate>MAY 26, 2021 AT 05:30PM</pubDate>
-            <description>Il mio nome è Bond...JEFF BOND (perché Amazon ha comprato MGM)</description>
+            <title>Rudy Bandiera - 3 mosse per risolvere problemi impossibili</title>
+            <link>https://www.youtube.com/watch?v=cqRbOjkHj_Q</link>
+            <guid>https://www.youtube.com/watch?v=cqRbOjkHj_Q</guid>
+            <pubDate>SEPTEMBER 15, 2021 AT 09:01AM</pubDate>
+            <description>3 mosse per risolvere problemi impossibili</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come vendere online con Velasca (il nuovo corso di Competenze)</title>
-            <link>https://www.youtube.com/watch?v=nejpU4GCUP8</link>
-            <guid>https://www.youtube.com/watch?v=nejpU4GCUP8</guid>
-            <pubDate>DECEMBER 28, 2021 AT 10:41AM</pubDate>
-            <description>Come vendere online con Velasca (il nuovo corso di Competenze)</description>
+            <title>Marco Montemagno - Arturo Brachetti in arrivo su Competenze con il corso &quot;Come diventare stage performer&quot;</title>
+            <link>https://www.youtube.com/watch?v=pnwdh2dTuc4</link>
+            <guid>https://www.youtube.com/watch?v=pnwdh2dTuc4</guid>
+            <pubDate>JUNE 6, 2021 AT 06:30PM</pubDate>
+            <description>Arturo Brachetti in arrivo su Competenze con il corso &quot;Come diventare stage performer&quot;</description>
         </item>
         <item>
-            <title>Marco Montemagno - Conviene organizzare i giochi Olimpici?</title>
-            <link>https://www.youtube.com/watch?v=6fwPXiJbwFI</link>
-            <guid>https://www.youtube.com/watch?v=6fwPXiJbwFI</guid>
-            <pubDate>AUGUST 8, 2021 AT 10:18AM</pubDate>
-            <description>Conviene organizzare i giochi Olimpici?</description>
+            <title>Raffaele Gaito - HO IL TERRORE! E TU?</title>
+            <link>https://www.youtube.com/watch?v=iBPoqd66OyQ</link>
+            <guid>https://www.youtube.com/watch?v=iBPoqd66OyQ</guid>
+            <pubDate>MARCH 30, 2021 AT 08:00AM</pubDate>
+            <description>HO IL TERRORE! E TU?</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Come mai non si trovano Playstation 5?</title>
-            <link>https://www.youtube.com/watch?v=3uBM_znMVdQ</link>
-            <guid>https://www.youtube.com/watch?v=3uBM_znMVdQ</guid>
-            <pubDate>JANUARY 10, 2022 AT 09:40AM</pubDate>
-            <description>Come mai non si trovano Playstation 5?</description>
+            <title>Marco Montemagno - Come costruire, fidelizzare e gestire una squadra di valore con Francesca Polti</title>
+            <link>https://www.youtube.com/watch?v=D1bS6bUY6xM</link>
+            <guid>https://www.youtube.com/watch?v=D1bS6bUY6xM</guid>
+            <pubDate>NOVEMBER 10, 2021 AT 11:25AM</pubDate>
+            <description>Come costruire, fidelizzare e gestire una squadra di valore con Francesca Polti</description>
         </item>
         <item>
-            <title>Matteo Flora - VI STANNO MENTENDO: non esiste modo per REVOCARE i #GreenPass</title>
-            <link>https://www.youtube.com/watch?v=TQeVGLhqpO4</link>
-            <guid>https://www.youtube.com/watch?v=TQeVGLhqpO4</guid>
-            <pubDate>AUGUST 13, 2021 AT 07:00AM</pubDate>
-            <description>VI STANNO MENTENDO: non esiste modo per REVOCARE i #GreenPass</description>
+            <title>Marco Montemagno - Come faccio a lanciare una iniziativa? #shorts</title>
+            <link>https://www.youtube.com/watch?v=llvS6_CX-Y0</link>
+            <guid>https://www.youtube.com/watch?v=llvS6_CX-Y0</guid>
+            <pubDate>JULY 29, 2021 AT 05:00PM</pubDate>
+            <description>Come faccio a lanciare una iniziativa? #shorts</description>
         </item>
         <item>
-            <title>Rudy Bandiera - I giganti social distribuiscono soldi a chi crea contenuto</title>
-            <link>https://www.youtube.com/watch?v=Mf0Caukt0kQ</link>
-            <guid>https://www.youtube.com/watch?v=Mf0Caukt0kQ</guid>
-            <pubDate>MAY 28, 2021 AT 08:51AM</pubDate>
-            <description>I giganti social distribuiscono soldi a chi crea contenuto</description>
+            <title>Marco Montemagno - Monty Live</title>
+            <link>https://www.youtube.com/watch?v=QvcWipXeFRE</link>
+            <guid>https://www.youtube.com/watch?v=QvcWipXeFRE</guid>
+            <pubDate>SEPTEMBER 3, 2021 AT 03:46PM</pubDate>
+            <description>Monty Live</description>
         </item>
         <item>
-            <title>Marco Montemagno - Cina: tra pregiudizi e realtà</title>
-            <link>https://www.youtube.com/watch?v=_vQzZu6xXMY</link>
-            <guid>https://www.youtube.com/watch?v=_vQzZu6xXMY</guid>
-            <pubDate>JANUARY 29, 2022 AT 02:30PM</pubDate>
-            <description>Cina: tra pregiudizi e realtà</description>
+            <title>Marco Montemagno - Matthew McConaughey : how does a character tell a story? #short</title>
+            <link>https://www.youtube.com/watch?v=Enk7DT3G1aY</link>
+            <guid>https://www.youtube.com/watch?v=Enk7DT3G1aY</guid>
+            <pubDate>MAY 5, 2021 AT 11:14AM</pubDate>
+            <description>Matthew McConaughey : how does a character tell a story? #short</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 caratteristiche OVVIE di chi ottiene grandi risultati</title>
-            <link>https://www.youtube.com/watch?v=0oyO6Aanqhk</link>
-            <guid>https://www.youtube.com/watch?v=0oyO6Aanqhk</guid>
-            <pubDate>JUNE 8, 2021 AT 12:53PM</pubDate>
-            <description>4 caratteristiche OVVIE di chi ottiene grandi risultati</description>
+            <title>Matteo Flora - Youtube e &quot;non mi piace&quot;: perché sono stati fatti sparire i numeri? E cosa significa?</title>
+            <link>https://www.youtube.com/watch?v=5wyWpKllNa8</link>
+            <guid>https://www.youtube.com/watch?v=5wyWpKllNa8</guid>
+            <pubDate>DECEMBER 1, 2021 AT 08:48AM</pubDate>
+            <description>Youtube e &quot;non mi piace&quot;: perché sono stati fatti sparire i numeri? E cosa significa?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Ecco il nuovo rivoluzionario iPhone 13!</title>
-            <link>https://www.youtube.com/watch?v=8BwIZReoy0k</link>
-            <guid>https://www.youtube.com/watch?v=8BwIZReoy0k</guid>
-            <pubDate>SEPTEMBER 15, 2021 AT 11:09AM</pubDate>
-            <description>Ecco il nuovo rivoluzionario iPhone 13!</description>
+            <title>Marco Montemagno - Cosa pensi che sia INEVITABILE?</title>
+            <link>https://www.youtube.com/watch?v=rCutCCKVYy4</link>
+            <guid>https://www.youtube.com/watch?v=rCutCCKVYy4</guid>
+            <pubDate>DECEMBER 16, 2021 AT 09:00AM</pubDate>
+            <description>Cosa pensi che sia INEVITABILE?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Facebook ed Instagram chiudono in Europa?</title>
-            <link>https://www.youtube.com/watch?v=6HSKwm6zG5Y</link>
-            <guid>https://www.youtube.com/watch?v=6HSKwm6zG5Y</guid>
-            <pubDate>FEBRUARY 9, 2022 AT 01:18PM</pubDate>
-            <description>Facebook ed Instagram chiudono in Europa?</description>
+            <title>Rudy Bandiera - Come rendere il tuo business e il tuo e-commerce più profittevole</title>
+            <link>https://www.youtube.com/watch?v=9jjnmawpsTo</link>
+            <guid>https://www.youtube.com/watch?v=9jjnmawpsTo</guid>
+            <pubDate>MAY 4, 2021 AT 09:44AM</pubDate>
+            <description>Come rendere il tuo business e il tuo e-commerce più profittevole</description>
         </item>
         <item>
-            <title>Matteo Flora - [LIVE] #CiaoInternet Serale: Apple e la Pedopornografia</title>
-            <link>https://www.youtube.com/watch?v=eVjNjFikDho</link>
-            <guid>https://www.youtube.com/watch?v=eVjNjFikDho</guid>
-            <pubDate>SEPTEMBER 4, 2021 AT 09:26AM</pubDate>
-            <description>[LIVE] #CiaoInternet Serale: Apple e la Pedopornografia</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - Come scrivere un’avvincente descrizione di un evento o un webinar</title>
-            <link>https://www.youtube.com/watch?v=iyVZdwe-STE</link>
-            <guid>https://www.youtube.com/watch?v=iyVZdwe-STE</guid>
-            <pubDate>MAY 24, 2021 AT 08:18AM</pubDate>
-            <description>Come scrivere un’avvincente descrizione di un evento o un webinar</description>
-        </item>
-        <item>
-            <title>Matteo Flora - I #GreenPass ora si possono revocare: quali sono i problemi?</title>
-            <link>https://www.youtube.com/watch?v=l5H5hJH61AU</link>
-            <guid>https://www.youtube.com/watch?v=l5H5hJH61AU</guid>
-            <pubDate>DECEMBER 20, 2021 AT 10:45AM</pubDate>
-            <description>I #GreenPass ora si possono revocare: quali sono i problemi?</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Come #Facebook controlla i contenuti? Speciale Matteo incontra #Facebook (2 di 3)</title>
-            <link>https://www.youtube.com/watch?v=VtBxR7UkoFY</link>
-            <guid>https://www.youtube.com/watch?v=VtBxR7UkoFY</guid>
-            <pubDate>JULY 8, 2021 AT 09:00AM</pubDate>
-            <description>Come #Facebook controlla i contenuti? Speciale Matteo incontra #Facebook (2 di 3)</description>
+            <title>Marco Montemagno - Vacanze a Nuoto - Il trend in crescita del nuoto in mare aperto</title>
+            <link>https://www.youtube.com/watch?v=2jrAPs5YALU</link>
+            <guid>https://www.youtube.com/watch?v=2jrAPs5YALU</guid>
+            <pubDate>JULY 1, 2021 AT 10:32AM</pubDate>
+            <description>Vacanze a Nuoto - Il trend in crescita del nuoto in mare aperto</description>
         </item>
     </channel>
 </rss>
