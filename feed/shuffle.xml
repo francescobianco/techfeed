@@ -5,27 +5,27 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Sat, 23 Sep 2023 13:14:10 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 24 Sep 2023 13:14:20 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - Questo è il mio Miglior Libro di sempre (...e il peggior Unboxing della storia)</title>
-            <link>https://www.youtube.com/watch?v=UzfBC3SU3DE</link>
-            <guid>https://www.youtube.com/watch?v=UzfBC3SU3DE</guid>
-            <pubDate>JUNE 5, 2021 AT 12:40PM</pubDate>
-            <description>Questo è il mio Miglior Libro di sempre (...e il peggior Unboxing della storia)</description>
+            <title>Rudy Bandiera - 6 dati di fatto che è bene accettare il prima possibile per vivere e lavorare meglio</title>
+            <link>https://www.youtube.com/watch?v=7mVCpLySEUg</link>
+            <guid>https://www.youtube.com/watch?v=7mVCpLySEUg</guid>
+            <pubDate>JULY 16, 2021 AT 08:37AM</pubDate>
+            <description>6 dati di fatto che è bene accettare il prima possibile per vivere e lavorare meglio</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Gino D&#39;Acampo</title>
-            <link>https://www.youtube.com/watch?v=Sfl-pl_GTMU</link>
-            <guid>https://www.youtube.com/watch?v=Sfl-pl_GTMU</guid>
-            <pubDate>JULY 27, 2021 AT 04:46PM</pubDate>
-            <description>4 chiacchiere con Gino D&#39;Acampo</description>
+            <title>Marco Montemagno - Tutto Montemagno...ne parliamo alla Hoepli (Live)</title>
+            <link>https://www.youtube.com/watch?v=XANJSyF1rac</link>
+            <guid>https://www.youtube.com/watch?v=XANJSyF1rac</guid>
+            <pubDate>JUNE 16, 2021 AT 12:42PM</pubDate>
+            <description>Tutto Montemagno...ne parliamo alla Hoepli (Live)</description>
         </item>
         <item>
-            <title>Matteo Flora - 1000 GreenPass rubati: ed ora?</title>
-            <link>https://www.youtube.com/watch?v=msci1tUxXnY</link>
-            <guid>https://www.youtube.com/watch?v=msci1tUxXnY</guid>
-            <pubDate>NOVEMBER 22, 2021 AT 07:45AM</pubDate>
-            <description>1000 GreenPass rubati: ed ora?</description>
+            <title>Rudy Bandiera - Come creare e vendere un NFT</title>
+            <link>https://www.youtube.com/watch?v=jzi6yQROUNs</link>
+            <guid>https://www.youtube.com/watch?v=jzi6yQROUNs</guid>
+            <pubDate>FEBRUARY 11, 2022 AT 09:12AM</pubDate>
+            <description>Come creare e vendere un NFT</description>
         </item>
         <item>
             <title>Rudy Bandiera - È innovazione o una stupidaggine incomprensibile?</title>
@@ -35,11 +35,32 @@
             <description>È innovazione o una stupidaggine incomprensibile?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Food Talks con Cristina Bowerman e Paolo Marchi</title>
-            <link>https://www.youtube.com/watch?v=S2lz_QQXCVQ</link>
-            <guid>https://www.youtube.com/watch?v=S2lz_QQXCVQ</guid>
-            <pubDate>MAY 20, 2021 AT 09:34AM</pubDate>
-            <description>Food Talks con Cristina Bowerman e Paolo Marchi</description>
+            <title>Marco Montemagno - Generazione Z - 4 chiacchiere con Daniele Grassucci (Skuola.net)</title>
+            <link>https://www.youtube.com/watch?v=ros26tp7CAU</link>
+            <guid>https://www.youtube.com/watch?v=ros26tp7CAU</guid>
+            <pubDate>MAY 13, 2021 AT 12:34PM</pubDate>
+            <description>Generazione Z - 4 chiacchiere con Daniele Grassucci (Skuola.net)</description>
+        </item>
+        <item>
+            <title>Matteo Flora - [DIRETTA] - Ne usciremo Diversi: di Pandemia e di Comunicazione</title>
+            <link>https://www.youtube.com/watch?v=keZHqN40Jck</link>
+            <guid>https://www.youtube.com/watch?v=keZHqN40Jck</guid>
+            <pubDate>DECEMBER 22, 2021 AT 01:34PM</pubDate>
+            <description>[DIRETTA] - Ne usciremo Diversi: di Pandemia e di Comunicazione</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - È SUCCESSA UNA COSA BELLISSIMA (CON LA MIA COMMUNITY)</title>
+            <link>https://www.youtube.com/watch?v=uwuYsNWX-TQ</link>
+            <guid>https://www.youtube.com/watch?v=uwuYsNWX-TQ</guid>
+            <pubDate>APRIL 13, 2021 AT 08:00AM</pubDate>
+            <description>È SUCCESSA UNA COSA BELLISSIMA (CON LA MIA COMMUNITY)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Intelligenza Artificiale e aziende: quali opportunità?</title>
+            <link>https://www.youtube.com/watch?v=d3zi4yRnbhw</link>
+            <guid>https://www.youtube.com/watch?v=d3zi4yRnbhw</guid>
+            <pubDate>JUNE 22, 2021 AT 08:45AM</pubDate>
+            <description>Intelligenza Artificiale e aziende: quali opportunità?</description>
         </item>
         <item>
             <title>Marco Montemagno - 4 chiacchiere con Francesco Vena (Amaro Lucano)</title>
@@ -49,102 +70,81 @@
             <description>4 chiacchiere con Francesco Vena (Amaro Lucano)</description>
         </item>
         <item>
-            <title>Marco Montemagno - On Running si quoterà in borsa negli Stati Uniti ...Vi ricordate le loro scarpe in abbonamento?</title>
-            <link>https://www.youtube.com/watch?v=MgcfLx3OmHQ</link>
-            <guid>https://www.youtube.com/watch?v=MgcfLx3OmHQ</guid>
-            <pubDate>AUGUST 26, 2021 AT 09:00AM</pubDate>
-            <description>On Running si quoterà in borsa negli Stati Uniti ...Vi ricordate le loro scarpe in abbonamento?</description>
+            <title>Marco Montemagno - È urgente!</title>
+            <link>https://www.youtube.com/watch?v=IzXbcyjlfIw</link>
+            <guid>https://www.youtube.com/watch?v=IzXbcyjlfIw</guid>
+            <pubDate>SEPTEMBER 13, 2021 AT 07:22PM</pubDate>
+            <description>È urgente!</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - E-commerce: aumentare le conversioni da mobile con i test. 5 Chicche di UX</title>
-            <link>https://www.youtube.com/watch?v=2FZA1pEER9o</link>
-            <guid>https://www.youtube.com/watch?v=2FZA1pEER9o</guid>
-            <pubDate>MAY 25, 2021 AT 07:30AM</pubDate>
-            <description>E-commerce: aumentare le conversioni da mobile con i test. 5 Chicche di UX</description>
+            <title>Marco Montemagno - Come hanno fatto a convincerti?</title>
+            <link>https://www.youtube.com/watch?v=4gzdjg-CSOU</link>
+            <guid>https://www.youtube.com/watch?v=4gzdjg-CSOU</guid>
+            <pubDate>DECEMBER 9, 2021 AT 06:49PM</pubDate>
+            <description>Come hanno fatto a convincerti?</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Google My Business: una panoramica semplice - Al Lavoro Con Fabio Guido</title>
-            <link>https://www.youtube.com/watch?v=h3vvtdGGVE0</link>
-            <guid>https://www.youtube.com/watch?v=h3vvtdGGVE0</guid>
-            <pubDate>MAY 11, 2021 AT 07:30AM</pubDate>
-            <description>Google My Business: una panoramica semplice - Al Lavoro Con Fabio Guido</description>
+            <title>Marco Montemagno - Don&#39;t look up: ma come abbiamo fatto a ridurci così?</title>
+            <link>https://www.youtube.com/watch?v=BC1yLebnHqU</link>
+            <guid>https://www.youtube.com/watch?v=BC1yLebnHqU</guid>
+            <pubDate>JANUARY 7, 2022 AT 12:57PM</pubDate>
+            <description>Don&#39;t look up: ma come abbiamo fatto a ridurci così?</description>
         </item>
         <item>
-            <title>Matteo Flora - VI STANNO MENTENDO: non esiste modo per REVOCARE i #GreenPass</title>
-            <link>https://www.youtube.com/watch?v=TQeVGLhqpO4</link>
-            <guid>https://www.youtube.com/watch?v=TQeVGLhqpO4</guid>
-            <pubDate>AUGUST 13, 2021 AT 07:00AM</pubDate>
-            <description>VI STANNO MENTENDO: non esiste modo per REVOCARE i #GreenPass</description>
+            <title>Rudy Bandiera - Le differenze tra iPhone e Andorid e 4 chiacchiere sul calcio</title>
+            <link>https://www.youtube.com/watch?v=O1ITBfa-Hv0</link>
+            <guid>https://www.youtube.com/watch?v=O1ITBfa-Hv0</guid>
+            <pubDate>FEBRUARY 2, 2022 AT 10:44AM</pubDate>
+            <description>Le differenze tra iPhone e Andorid e 4 chiacchiere sul calcio</description>
         </item>
         <item>
-            <title>Marco Montemagno - Perché le aziende dovrebbero usare TikTok?</title>
-            <link>https://www.youtube.com/watch?v=1wAAOrj8_6o</link>
-            <guid>https://www.youtube.com/watch?v=1wAAOrj8_6o</guid>
-            <pubDate>AUGUST 26, 2021 AT 01:51PM</pubDate>
-            <description>Perché le aziende dovrebbero usare TikTok?</description>
+            <title>Matteo Flora - Cos&#39;è HUDI (Human Data Income), la crypto che permette agli utenti di monetizzare i propri dati!</title>
+            <link>https://www.youtube.com/watch?v=FSxPOOWo3jg</link>
+            <guid>https://www.youtube.com/watch?v=FSxPOOWo3jg</guid>
+            <pubDate>SEPTEMBER 15, 2021 AT 12:09AM</pubDate>
+            <description>Cos&#39;è HUDI (Human Data Income), la crypto che permette agli utenti di monetizzare i propri dati!</description>
         </item>
         <item>
-            <title>Rudy Bandiera - I tuoi contenuti sono noiosi?</title>
-            <link>https://www.youtube.com/watch?v=n0ZCv0HTAK0</link>
-            <guid>https://www.youtube.com/watch?v=n0ZCv0HTAK0</guid>
-            <pubDate>NOVEMBER 26, 2021 AT 09:06AM</pubDate>
-            <description>I tuoi contenuti sono noiosi?</description>
+            <title>Marco Montemagno - Internet cambia: fuori i social dentro web3 e metaversi</title>
+            <link>https://www.youtube.com/watch?v=VYnUHKH8Va0</link>
+            <guid>https://www.youtube.com/watch?v=VYnUHKH8Va0</guid>
+            <pubDate>NOVEMBER 13, 2021 AT 03:30PM</pubDate>
+            <description>Internet cambia: fuori i social dentro web3 e metaversi</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Il Titanic è stato affondato dagli alieni, giusto?</title>
-            <link>https://www.youtube.com/watch?v=zF8Z_aGF6ls</link>
-            <guid>https://www.youtube.com/watch?v=zF8Z_aGF6ls</guid>
-            <pubDate>AUGUST 2, 2021 AT 09:17AM</pubDate>
-            <description>Il Titanic è stato affondato dagli alieni, giusto?</description>
+            <title>Marco Montemagno - Competenze.it e dintorni - 4 chiacchiere con Enrico Bertolino</title>
+            <link>https://www.youtube.com/watch?v=GHB0-bpEJnU</link>
+            <guid>https://www.youtube.com/watch?v=GHB0-bpEJnU</guid>
+            <pubDate>MAY 19, 2021 AT 12:15PM</pubDate>
+            <description>Competenze.it e dintorni - 4 chiacchiere con Enrico Bertolino</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come si applica la blockchain al settore del lusso (e non solo)</title>
-            <link>https://www.youtube.com/watch?v=IzgT51XXepE</link>
-            <guid>https://www.youtube.com/watch?v=IzgT51XXepE</guid>
-            <pubDate>NOVEMBER 28, 2021 AT 01:00PM</pubDate>
-            <description>Come si applica la blockchain al settore del lusso (e non solo)</description>
+            <title>Marco Montemagno - Monty contro Tutti...Domande e risposte Live!</title>
+            <link>https://www.youtube.com/watch?v=qMdFVDU_Q3w</link>
+            <guid>https://www.youtube.com/watch?v=qMdFVDU_Q3w</guid>
+            <pubDate>FEBRUARY 2, 2022 AT 04:55PM</pubDate>
+            <description>Monty contro Tutti...Domande e risposte Live!</description>
         </item>
         <item>
-            <title>Marco Montemagno - Perché manca la Benzina nel Regno Unito</title>
-            <link>https://www.youtube.com/watch?v=_ZZfneSmVkQ</link>
-            <guid>https://www.youtube.com/watch?v=_ZZfneSmVkQ</guid>
-            <pubDate>SEPTEMBER 29, 2021 AT 07:31PM</pubDate>
-            <description>Perché manca la Benzina nel Regno Unito</description>
+            <title>Marco Montemagno - È possibile o è probabile?</title>
+            <link>https://www.youtube.com/watch?v=Jb9OrN2Ij60</link>
+            <guid>https://www.youtube.com/watch?v=Jb9OrN2Ij60</guid>
+            <pubDate>JANUARY 9, 2022 AT 01:00PM</pubDate>
+            <description>È possibile o è probabile?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Food Talks 4 chiacchiere con Vincenzo Ferrieri (Cioccolati Italiani) e Vittoria Zanetti (Poke House)</title>
-            <link>https://www.youtube.com/watch?v=ze-950IFPvs</link>
-            <guid>https://www.youtube.com/watch?v=ze-950IFPvs</guid>
-            <pubDate>MAY 17, 2021 AT 11:37AM</pubDate>
-            <description>Food Talks 4 chiacchiere con Vincenzo Ferrieri (Cioccolati Italiani) e Vittoria Zanetti (Poke House)</description>
+            <title>Marco Montemagno - Perché l&#39;ignoranza dilaga nei commenti</title>
+            <link>https://www.youtube.com/watch?v=QvC_5RkHSLM</link>
+            <guid>https://www.youtube.com/watch?v=QvC_5RkHSLM</guid>
+            <pubDate>SEPTEMBER 7, 2021 AT 04:01PM</pubDate>
+            <description>Perché l&#39;ignoranza dilaga nei commenti</description>
         </item>
         <item>
-            <title>Marco Montemagno - Blockchain, realtà aumentata, metaverso con Davide Cuttini - CEO di OVR</title>
-            <link>https://www.youtube.com/watch?v=MzpExairFFA</link>
-            <guid>https://www.youtube.com/watch?v=MzpExairFFA</guid>
-            <pubDate>NOVEMBER 27, 2021 AT 01:00PM</pubDate>
-            <description>Blockchain, realtà aumentata, metaverso con Davide Cuttini - CEO di OVR</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Ecco i nuovi occhiali di Facebook (pro e contro...)</title>
-            <link>https://www.youtube.com/watch?v=oxEaA-eyijc</link>
-            <guid>https://www.youtube.com/watch?v=oxEaA-eyijc</guid>
-            <pubDate>SEPTEMBER 10, 2021 AT 06:49PM</pubDate>
-            <description>Ecco i nuovi occhiali di Facebook (pro e contro...)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Persuasione: la tecnica della ripetizione...</title>
-            <link>https://www.youtube.com/watch?v=U4pWWi111ag</link>
-            <guid>https://www.youtube.com/watch?v=U4pWWi111ag</guid>
-            <pubDate>AUGUST 19, 2021 AT 05:54PM</pubDate>
-            <description>Persuasione: la tecnica della ripetizione...</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - Sapete chi è l’italiano più seguito sui social?</title>
-            <link>https://www.youtube.com/watch?v=3NIMJ9mu20k</link>
-            <guid>https://www.youtube.com/watch?v=3NIMJ9mu20k</guid>
-            <pubDate>MAY 25, 2021 AT 09:09AM</pubDate>
-            <description>Sapete chi è l’italiano più seguito sui social?</description>
+            <title>Marco Montemagno - È questo che ti frega</title>
+            <link>https://www.youtube.com/watch?v=z9w7EDuS_bw</link>
+            <guid>https://www.youtube.com/watch?v=z9w7EDuS_bw</guid>
+            <pubDate>MAY 10, 2021 AT 11:42AM</pubDate>
+            <description>È questo che ti frega</description>
         </item>
     </channel>
 </rss>
