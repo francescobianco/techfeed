@@ -5,13 +5,111 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Thu, 28 Sep 2023 13:17:25 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 29 Sep 2023 13:16:50 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - L’arte di preparare i cocktail con Ago Perrone e Giorgio Bargiani</title>
-            <link>https://www.youtube.com/watch?v=cbVlSdwGY4o</link>
-            <guid>https://www.youtube.com/watch?v=cbVlSdwGY4o</guid>
-            <pubDate>DECEMBER 13, 2021 AT 01:45PM</pubDate>
-            <description>L’arte di preparare i cocktail con Ago Perrone e Giorgio Bargiani</description>
+            <title>Raffaele Gaito - TIENI D&#39;OCCHIO LE ALTRE INDUSTRIE (FA LA DIFFERENZA)</title>
+            <link>https://www.youtube.com/watch?v=BLzzaKOpSK0</link>
+            <guid>https://www.youtube.com/watch?v=BLzzaKOpSK0</guid>
+            <pubDate>JULY 13, 2021 AT 08:00AM</pubDate>
+            <description>TIENI D&#39;OCCHIO LE ALTRE INDUSTRIE (FA LA DIFFERENZA)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Facebook ed Instagram chiudono in Europa?</title>
+            <link>https://www.youtube.com/watch?v=6HSKwm6zG5Y</link>
+            <guid>https://www.youtube.com/watch?v=6HSKwm6zG5Y</guid>
+            <pubDate>FEBRUARY 9, 2022 AT 01:18PM</pubDate>
+            <description>Facebook ed Instagram chiudono in Europa?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Giovanni Truppi</title>
+            <link>https://www.youtube.com/watch?v=Nr88tAgdR0M</link>
+            <guid>https://www.youtube.com/watch?v=Nr88tAgdR0M</guid>
+            <pubDate>FEBRUARY 12, 2022 AT 01:00PM</pubDate>
+            <description>4 chiacchiere con Giovanni Truppi</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Radiografica di un e-commerce: dalla strategia alla tecnologia</title>
+            <link>https://www.youtube.com/watch?v=YYstLN0ahjo</link>
+            <guid>https://www.youtube.com/watch?v=YYstLN0ahjo</guid>
+            <pubDate>FEBRUARY 8, 2022 AT 06:49PM</pubDate>
+            <description>Radiografica di un e-commerce: dalla strategia alla tecnologia</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Come funziona Google? 2021 Edition</title>
+            <link>https://www.youtube.com/watch?v=YmpPL4zRRpk</link>
+            <guid>https://www.youtube.com/watch?v=YmpPL4zRRpk</guid>
+            <pubDate>JULY 9, 2021 AT 07:30AM</pubDate>
+            <description>Come funziona Google? 2021 Edition</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Etsy acquista Depop per 1,6 miliardi di dollari.Congratulazioni a Simon Beckerman e a tutto il team!</title>
+            <link>https://www.youtube.com/watch?v=ehwBCRA0vvE</link>
+            <guid>https://www.youtube.com/watch?v=ehwBCRA0vvE</guid>
+            <pubDate>JUNE 2, 2021 AT 02:00PM</pubDate>
+            <description>Etsy acquista Depop per 1,6 miliardi di dollari.Congratulazioni a Simon Beckerman e a tutto il team!</description>
+        </item>
+        <item>
+            <title>Matteo Flora - [LIVE] L&#39;aperitivo di Ciao Internet1</title>
+            <link>https://www.youtube.com/watch?v=yZ3AFIlrUWo</link>
+            <guid>https://www.youtube.com/watch?v=yZ3AFIlrUWo</guid>
+            <pubDate>JULY 13, 2021 AT 10:05PM</pubDate>
+            <description>[LIVE] L&#39;aperitivo di Ciao Internet1</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Perché Microsoft ha comprato Activision per $70MLD (in contanti)</title>
+            <link>https://www.youtube.com/watch?v=5m8tyjnqLLQ</link>
+            <guid>https://www.youtube.com/watch?v=5m8tyjnqLLQ</guid>
+            <pubDate>JANUARY 19, 2022 AT 11:50AM</pubDate>
+            <description>Perché Microsoft ha comprato Activision per $70MLD (in contanti)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Analytics: ecco perché non puoi farne a meno per il tuo e-commerce</title>
+            <link>https://www.youtube.com/watch?v=mv8G-eqZAxo</link>
+            <guid>https://www.youtube.com/watch?v=mv8G-eqZAxo</guid>
+            <pubDate>JANUARY 21, 2022 AT 11:00AM</pubDate>
+            <description>Analytics: ecco perché non puoi farne a meno per il tuo e-commerce</description>
+        </item>
+        <item>
+            <title>Matteo Flora - I certificati online non mi rendono felice, mi fanno solo arrabbiare moltissimo. Ecco Perché!</title>
+            <link>https://www.youtube.com/watch?v=2gQVci3drQg</link>
+            <guid>https://www.youtube.com/watch?v=2gQVci3drQg</guid>
+            <pubDate>NOVEMBER 19, 2021 AT 08:05AM</pubDate>
+            <description>I certificati online non mi rendono felice, mi fanno solo arrabbiare moltissimo. Ecco Perché!</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Perché anche davanti ai fatti la gente non cambia idea</title>
+            <link>https://www.youtube.com/watch?v=jqCSBWbN66U</link>
+            <guid>https://www.youtube.com/watch?v=jqCSBWbN66U</guid>
+            <pubDate>JULY 17, 2021 AT 02:00PM</pubDate>
+            <description>Perché anche davanti ai fatti la gente non cambia idea</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Longevi si diventa: ecco come</title>
+            <link>https://www.youtube.com/watch?v=6LjIa53Kl2k</link>
+            <guid>https://www.youtube.com/watch?v=6LjIa53Kl2k</guid>
+            <pubDate>FEBRUARY 11, 2022 AT 03:05PM</pubDate>
+            <description>Longevi si diventa: ecco come</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Sei a corto di idee?</title>
+            <link>https://www.youtube.com/watch?v=T5zzc-w79UU</link>
+            <guid>https://www.youtube.com/watch?v=T5zzc-w79UU</guid>
+            <pubDate>MAY 30, 2021 AT 10:09AM</pubDate>
+            <description>Sei a corto di idee?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Perché l&#39;ignoranza dilaga nei commenti</title>
+            <link>https://www.youtube.com/watch?v=QvC_5RkHSLM</link>
+            <guid>https://www.youtube.com/watch?v=QvC_5RkHSLM</guid>
+            <pubDate>SEPTEMBER 7, 2021 AT 04:01PM</pubDate>
+            <description>Perché l&#39;ignoranza dilaga nei commenti</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Cosa sono le gas fee?</title>
+            <link>https://www.youtube.com/watch?v=0Ao4Cet8SmU</link>
+            <guid>https://www.youtube.com/watch?v=0Ao4Cet8SmU</guid>
+            <pubDate>JANUARY 27, 2022 AT 11:00AM</pubDate>
+            <description>Cosa sono le gas fee?</description>
         </item>
         <item>
             <title>Matteo Flora - I Social sono davvero gratis?</title>
@@ -21,130 +119,32 @@
             <description>I Social sono davvero gratis?</description>
         </item>
         <item>
-            <title>Matteo Flora - Roma Nord, il Vietnam e Pietro Castellitto</title>
-            <link>https://www.youtube.com/watch?v=02uIKDbAYI4</link>
-            <guid>https://www.youtube.com/watch?v=02uIKDbAYI4</guid>
-            <pubDate>DECEMBER 8, 2021 AT 08:25AM</pubDate>
-            <description>Roma Nord, il Vietnam e Pietro Castellitto</description>
+            <title>Marco Montemagno - On Running si quoterà in borsa negli Stati Uniti ...Vi ricordate le loro scarpe in abbonamento?</title>
+            <link>https://www.youtube.com/watch?v=MgcfLx3OmHQ</link>
+            <guid>https://www.youtube.com/watch?v=MgcfLx3OmHQ</guid>
+            <pubDate>AUGUST 26, 2021 AT 09:00AM</pubDate>
+            <description>On Running si quoterà in borsa negli Stati Uniti ...Vi ricordate le loro scarpe in abbonamento?</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Michelle Hunziker</title>
-            <link>https://www.youtube.com/watch?v=dM5IzQMQpNg</link>
-            <guid>https://www.youtube.com/watch?v=dM5IzQMQpNg</guid>
-            <pubDate>MAY 4, 2021 AT 04:49PM</pubDate>
-            <description>4 chiacchiere con Michelle Hunziker</description>
+            <title>Matteo Flora - SIAE e #databreach: cosa è successo e tutto quello che ancora non torna</title>
+            <link>https://www.youtube.com/watch?v=82g7ujRYgCk</link>
+            <guid>https://www.youtube.com/watch?v=82g7ujRYgCk</guid>
+            <pubDate>OCTOBER 22, 2021 AT 04:26PM</pubDate>
+            <description>SIAE e #databreach: cosa è successo e tutto quello che ancora non torna</description>
         </item>
         <item>
-            <title>Raffaele Gaito - Gaito risponde LIVE</title>
-            <link>https://www.youtube.com/watch?v=czpUVXmULIk</link>
-            <guid>https://www.youtube.com/watch?v=czpUVXmULIk</guid>
-            <pubDate>JUNE 28, 2021 AT 07:02PM</pubDate>
-            <description>Gaito risponde LIVE</description>
+            <title>Marco Montemagno - Come faccio a lanciare una iniziativa? #shorts</title>
+            <link>https://www.youtube.com/watch?v=llvS6_CX-Y0</link>
+            <guid>https://www.youtube.com/watch?v=llvS6_CX-Y0</guid>
+            <pubDate>JULY 29, 2021 AT 05:00PM</pubDate>
+            <description>Come faccio a lanciare una iniziativa? #shorts</description>
         </item>
         <item>
-            <title>Marco Montemagno - NFT dalla A alla Z</title>
-            <link>https://www.youtube.com/watch?v=vlCnyDSNC7g</link>
-            <guid>https://www.youtube.com/watch?v=vlCnyDSNC7g</guid>
-            <pubDate>DECEMBER 4, 2021 AT 09:00AM</pubDate>
-            <description>NFT dalla A alla Z</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 19 cose che dovresti sapere su Netflix!</title>
-            <link>https://www.youtube.com/watch?v=bzLiOEKXMbU</link>
-            <guid>https://www.youtube.com/watch?v=bzLiOEKXMbU</guid>
-            <pubDate>SEPTEMBER 5, 2021 AT 10:00AM</pubDate>
-            <description>19 cose che dovresti sapere su Netflix!</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Sai quanto spende MrBeast?</title>
-            <link>https://www.youtube.com/watch?v=IxWpEqERtLM</link>
-            <guid>https://www.youtube.com/watch?v=IxWpEqERtLM</guid>
-            <pubDate>SEPTEMBER 19, 2021 AT 05:37PM</pubDate>
-            <description>Sai quanto spende MrBeast?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - A conversation with Lara Gilmore (Food for Soul)</title>
-            <link>https://www.youtube.com/watch?v=wvrjrGXj-Hc</link>
-            <guid>https://www.youtube.com/watch?v=wvrjrGXj-Hc</guid>
-            <pubDate>MAY 17, 2021 AT 09:34PM</pubDate>
-            <description>A conversation with Lara Gilmore (Food for Soul)</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Marco &quot;Monty&quot; Montemagno, Monty Lab e gli NFT: geniale o SCAM?</title>
-            <link>https://www.youtube.com/watch?v=uV5N9dE6-6o</link>
-            <guid>https://www.youtube.com/watch?v=uV5N9dE6-6o</guid>
-            <pubDate>JANUARY 21, 2022 AT 01:00PM</pubDate>
-            <description>Marco &quot;Monty&quot; Montemagno, Monty Lab e gli NFT: geniale o SCAM?</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - E-commerce: aumentare le conversioni da mobile con i test. 5 Chicche di UX</title>
-            <link>https://www.youtube.com/watch?v=2FZA1pEER9o</link>
-            <guid>https://www.youtube.com/watch?v=2FZA1pEER9o</guid>
-            <pubDate>MAY 25, 2021 AT 07:30AM</pubDate>
-            <description>E-commerce: aumentare le conversioni da mobile con i test. 5 Chicche di UX</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Bitcoin: perché non puoi non conoscere Michael Saylor</title>
-            <link>https://www.youtube.com/watch?v=gMqtPe5kYls</link>
-            <guid>https://www.youtube.com/watch?v=gMqtPe5kYls</guid>
-            <pubDate>OCTOBER 19, 2021 AT 02:00PM</pubDate>
-            <description>Bitcoin: perché non puoi non conoscere Michael Saylor</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Don&#39;t look up: ma come abbiamo fatto a ridurci così?</title>
-            <link>https://www.youtube.com/watch?v=BC1yLebnHqU</link>
-            <guid>https://www.youtube.com/watch?v=BC1yLebnHqU</guid>
-            <pubDate>JANUARY 7, 2022 AT 12:57PM</pubDate>
-            <description>Don&#39;t look up: ma come abbiamo fatto a ridurci così?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Leader Giovani e Sostenibilità con Livia Firth</title>
-            <link>https://www.youtube.com/watch?v=L2deg_wSV1g</link>
-            <guid>https://www.youtube.com/watch?v=L2deg_wSV1g</guid>
-            <pubDate>NOVEMBER 20, 2021 AT 03:17PM</pubDate>
-            <description>Leader Giovani e Sostenibilità con Livia Firth</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 storie di leadership al femminile</title>
-            <link>https://www.youtube.com/watch?v=UVz_rXdWXR0</link>
-            <guid>https://www.youtube.com/watch?v=UVz_rXdWXR0</guid>
-            <pubDate>AUGUST 13, 2021 AT 01:00PM</pubDate>
-            <description>4 storie di leadership al femminile</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Intelligenza Artificiale e aziende: quali opportunità?</title>
-            <link>https://www.youtube.com/watch?v=d3zi4yRnbhw</link>
-            <guid>https://www.youtube.com/watch?v=d3zi4yRnbhw</guid>
-            <pubDate>JUNE 22, 2021 AT 08:45AM</pubDate>
-            <description>Intelligenza Artificiale e aziende: quali opportunità?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Gli NFT sono solo semplici immagini?</title>
-            <link>https://www.youtube.com/watch?v=oKy7-7qJr7U</link>
-            <guid>https://www.youtube.com/watch?v=oKy7-7qJr7U</guid>
-            <pubDate>FEBRUARY 1, 2022 AT 09:52AM</pubDate>
-            <description>Gli NFT sono solo semplici immagini?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Nek racconta com&#39;è nata &quot;Laura non c&#39;è&quot;</title>
-            <link>https://www.youtube.com/watch?v=LcbQwOmlyYk</link>
-            <guid>https://www.youtube.com/watch?v=LcbQwOmlyYk</guid>
-            <pubDate>JULY 10, 2021 AT 10:54AM</pubDate>
-            <description>Nek racconta com&#39;è nata &quot;Laura non c&#39;è&quot;</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Bitcoin, Blockchain e il futuro del mondo Crypto</title>
-            <link>https://www.youtube.com/watch?v=pusKdQwFrHw</link>
-            <guid>https://www.youtube.com/watch?v=pusKdQwFrHw</guid>
-            <pubDate>NOVEMBER 22, 2021 AT 03:00PM</pubDate>
-            <description>Bitcoin, Blockchain e il futuro del mondo Crypto</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come funziona il Marketing Natalizio...(Auguri!)</title>
-            <link>https://www.youtube.com/watch?v=84ryoQNnGsY</link>
-            <guid>https://www.youtube.com/watch?v=84ryoQNnGsY</guid>
-            <pubDate>DECEMBER 24, 2021 AT 10:36AM</pubDate>
-            <description>Come funziona il Marketing Natalizio...(Auguri!)</description>
+            <title>Marco Montemagno - Includere fa la differenza - Diversity su Competenze con Francesca Vecchioni</title>
+            <link>https://www.youtube.com/watch?v=AWKZVpYuhH0</link>
+            <guid>https://www.youtube.com/watch?v=AWKZVpYuhH0</guid>
+            <pubDate>MAY 10, 2021 AT 10:59AM</pubDate>
+            <description>Includere fa la differenza - Diversity su Competenze con Francesca Vecchioni</description>
         </item>
     </channel>
 </rss>
