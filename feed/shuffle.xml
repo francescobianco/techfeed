@@ -5,125 +5,97 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Sat, 30 Sep 2023 13:14:25 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 01 Oct 2023 13:14:36 +0000</lastBuildDate>
         <item>
-            <title>Rudy Bandiera - I giganti social distribuiscono soldi a chi crea contenuto</title>
-            <link>https://www.youtube.com/watch?v=Mf0Caukt0kQ</link>
-            <guid>https://www.youtube.com/watch?v=Mf0Caukt0kQ</guid>
-            <pubDate>MAY 28, 2021 AT 08:51AM</pubDate>
-            <description>I giganti social distribuiscono soldi a chi crea contenuto</description>
+            <title>Marco Montemagno - Quanti contenuti al giorno pubblicare sui social?</title>
+            <link>https://www.youtube.com/watch?v=74E6qsjkOik</link>
+            <guid>https://www.youtube.com/watch?v=74E6qsjkOik</guid>
+            <pubDate>OCTOBER 24, 2021 AT 01:30PM</pubDate>
+            <description>Quanti contenuti al giorno pubblicare sui social?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Ronaldo, le bottigliette e gli sponsor (è ora di cambiare)</title>
-            <link>https://www.youtube.com/watch?v=w30vYEfkAFg</link>
-            <guid>https://www.youtube.com/watch?v=w30vYEfkAFg</guid>
-            <pubDate>JUNE 17, 2021 AT 04:38PM</pubDate>
-            <description>Ronaldo, le bottigliette e gli sponsor (è ora di cambiare)</description>
+            <title>Marco Montemagno - 4 chiacchiere su linguaggio e dintorni con Vera Gheno (Dicembre 2020)</title>
+            <link>https://www.youtube.com/watch?v=SoE6UU8twIA</link>
+            <guid>https://www.youtube.com/watch?v=SoE6UU8twIA</guid>
+            <pubDate>OCTOBER 21, 2021 AT 02:00PM</pubDate>
+            <description>4 chiacchiere su linguaggio e dintorni con Vera Gheno (Dicembre 2020)</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Sui social bisogna dire quello che si pensa?</title>
-            <link>https://www.youtube.com/watch?v=z5hSUktcuMc</link>
-            <guid>https://www.youtube.com/watch?v=z5hSUktcuMc</guid>
-            <pubDate>SEPTEMBER 28, 2021 AT 03:41PM</pubDate>
-            <description>Sui social bisogna dire quello che si pensa?</description>
+            <title>Matteo Flora - Telefono Azzurro e il Patto di Treviso per la tutela dei Minorenni</title>
+            <link>https://www.youtube.com/watch?v=JRXlrv5eucQ</link>
+            <guid>https://www.youtube.com/watch?v=JRXlrv5eucQ</guid>
+            <pubDate>NOVEMBER 15, 2021 AT 07:45AM</pubDate>
+            <description>Telefono Azzurro e il Patto di Treviso per la tutela dei Minorenni</description>
         </item>
         <item>
-            <title>Matteo Flora - 🤡 #NoGreenPass: il devastante FLOP della manifestazione Telegram di BASTA DITTATURA!</title>
-            <link>https://www.youtube.com/watch?v=nD9W8zJiX8g</link>
-            <guid>https://www.youtube.com/watch?v=nD9W8zJiX8g</guid>
-            <pubDate>SEPTEMBER 2, 2021 AT 07:46AM</pubDate>
-            <description>🤡 #NoGreenPass: il devastante FLOP della manifestazione Telegram di BASTA DITTATURA!</description>
+            <title>Matteo Flora - [LIVE] #CiaoInternet Serale: Apple e la Pedopornografia</title>
+            <link>https://www.youtube.com/watch?v=eVjNjFikDho</link>
+            <guid>https://www.youtube.com/watch?v=eVjNjFikDho</guid>
+            <pubDate>SEPTEMBER 4, 2021 AT 09:26AM</pubDate>
+            <description>[LIVE] #CiaoInternet Serale: Apple e la Pedopornografia</description>
         </item>
         <item>
-            <title>Marco Montemagno - MMA sarà presto lo sport più visto al mondo?</title>
-            <link>https://www.youtube.com/watch?v=at8wL5FhOdk</link>
-            <guid>https://www.youtube.com/watch?v=at8wL5FhOdk</guid>
-            <pubDate>NOVEMBER 6, 2021 AT 01:00PM</pubDate>
-            <description>MMA sarà presto lo sport più visto al mondo?</description>
+            <title>Marco Montemagno - Ecco il nuovo rivoluzionario iPhone 13!</title>
+            <link>https://www.youtube.com/watch?v=8BwIZReoy0k</link>
+            <guid>https://www.youtube.com/watch?v=8BwIZReoy0k</guid>
+            <pubDate>SEPTEMBER 15, 2021 AT 11:09AM</pubDate>
+            <description>Ecco il nuovo rivoluzionario iPhone 13!</description>
         </item>
         <item>
-            <title>Marco Montemagno - 11 principi FONDAMENTALI che dovresti tenere a mente ogni giorno...</title>
-            <link>https://www.youtube.com/watch?v=DQ15u56f-8k</link>
-            <guid>https://www.youtube.com/watch?v=DQ15u56f-8k</guid>
-            <pubDate>JULY 26, 2021 AT 04:39PM</pubDate>
-            <description>11 principi FONDAMENTALI che dovresti tenere a mente ogni giorno...</description>
+            <title>Matteo Flora - Facebook spegne, come IBM, il riconoscimento facciale. Perché?</title>
+            <link>https://www.youtube.com/watch?v=laZVDIEt6CA</link>
+            <guid>https://www.youtube.com/watch?v=laZVDIEt6CA</guid>
+            <pubDate>NOVEMBER 3, 2021 AT 09:18AM</pubDate>
+            <description>Facebook spegne, come IBM, il riconoscimento facciale. Perché?</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Sapete chi è l’italiano più seguito sui social?</title>
-            <link>https://www.youtube.com/watch?v=3NIMJ9mu20k</link>
-            <guid>https://www.youtube.com/watch?v=3NIMJ9mu20k</guid>
-            <pubDate>MAY 25, 2021 AT 09:09AM</pubDate>
-            <description>Sapete chi è l’italiano più seguito sui social?</description>
+            <title>Matteo Flora - I Social sono davvero gratis?</title>
+            <link>https://www.youtube.com/watch?v=oHomWnIXE4k</link>
+            <guid>https://www.youtube.com/watch?v=oHomWnIXE4k</guid>
+            <pubDate>JUNE 7, 2021 AT 08:30AM</pubDate>
+            <description>I Social sono davvero gratis?</description>
         </item>
         <item>
-            <title>Matteo Flora - Migranti e riconoscimento facciale: lo studio di HermesCenter</title>
-            <link>https://www.youtube.com/watch?v=dZsgQWhMJn4</link>
-            <guid>https://www.youtube.com/watch?v=dZsgQWhMJn4</guid>
-            <pubDate>DECEMBER 6, 2021 AT 10:10AM</pubDate>
-            <description>Migranti e riconoscimento facciale: lo studio di HermesCenter</description>
+            <title>Raffaele Gaito - 7 LIBRI CHE MI HANNO CAMBIATO LA VITA</title>
+            <link>https://www.youtube.com/watch?v=oDeYD6EZ2Qs</link>
+            <guid>https://www.youtube.com/watch?v=oDeYD6EZ2Qs</guid>
+            <pubDate>MAY 18, 2021 AT 08:00AM</pubDate>
+            <description>7 LIBRI CHE MI HANNO CAMBIATO LA VITA</description>
         </item>
         <item>
-            <title>Marco Montemagno - Monty Live! Come stai?</title>
-            <link>https://www.youtube.com/watch?v=cLYM36Z8MkE</link>
-            <guid>https://www.youtube.com/watch?v=cLYM36Z8MkE</guid>
-            <pubDate>SEPTEMBER 24, 2021 AT 04:44PM</pubDate>
-            <description>Monty Live! Come stai?</description>
+            <title>Marco Montemagno - Radiografica di un e-commerce: dalla strategia alla tecnologia</title>
+            <link>https://www.youtube.com/watch?v=YYstLN0ahjo</link>
+            <guid>https://www.youtube.com/watch?v=YYstLN0ahjo</guid>
+            <pubDate>FEBRUARY 8, 2022 AT 06:49PM</pubDate>
+            <description>Radiografica di un e-commerce: dalla strategia alla tecnologia</description>
         </item>
         <item>
-            <title>Matteo Flora - Boom di App per spiare?</title>
-            <link>https://www.youtube.com/watch?v=KBmtPK75lRM</link>
-            <guid>https://www.youtube.com/watch?v=KBmtPK75lRM</guid>
-            <pubDate>NOVEMBER 29, 2021 AT 11:00AM</pubDate>
-            <description>Boom di App per spiare?</description>
+            <title>Giorgio Taverniti - Instagram: come funzionano gli algoritmi dei Reel, Esplora, Feed e Stories!</title>
+            <link>https://www.youtube.com/watch?v=3trkEyOpeZ4</link>
+            <guid>https://www.youtube.com/watch?v=3trkEyOpeZ4</guid>
+            <pubDate>JUNE 14, 2021 AT 07:30AM</pubDate>
+            <description>Instagram: come funzionano gli algoritmi dei Reel, Esplora, Feed e Stories!</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Cosa succederà al lavoro DOPO la pandemia? #in2minuti</title>
-            <link>https://www.youtube.com/watch?v=Qo2IiixUsBw</link>
-            <guid>https://www.youtube.com/watch?v=Qo2IiixUsBw</guid>
-            <pubDate>MAY 12, 2021 AT 04:18PM</pubDate>
-            <description>Cosa succederà al lavoro DOPO la pandemia? #in2minuti</description>
+            <title>Marco Montemagno - 3 errori ASSOLUTAMENTE da non fare  (...che ho fatto)</title>
+            <link>https://www.youtube.com/watch?v=3w5nbHVNuRg</link>
+            <guid>https://www.youtube.com/watch?v=3w5nbHVNuRg</guid>
+            <pubDate>AUGUST 31, 2021 AT 01:00PM</pubDate>
+            <description>3 errori ASSOLUTAMENTE da non fare  (...che ho fatto)</description>
         </item>
         <item>
-            <title>Matteo Flora - Lo Sforzo cognitivo e le Abitudini con Rick Dufer</title>
-            <link>https://www.youtube.com/watch?v=qNOcAo7ai1Y</link>
-            <guid>https://www.youtube.com/watch?v=qNOcAo7ai1Y</guid>
-            <pubDate>MAY 25, 2021 AT 09:14AM</pubDate>
-            <description>Lo Sforzo cognitivo e le Abitudini con Rick Dufer</description>
+            <title>Matteo Flora - CROWDFUNDING: cosa è, come funziona e cosa devi sapere per iniziare!</title>
+            <link>https://www.youtube.com/watch?v=V3DgJ6mRXEM</link>
+            <guid>https://www.youtube.com/watch?v=V3DgJ6mRXEM</guid>
+            <pubDate>OCTOBER 7, 2021 AT 06:15PM</pubDate>
+            <description>CROWDFUNDING: cosa è, come funziona e cosa devi sapere per iniziare!</description>
         </item>
         <item>
-            <title>Marco Montemagno - Intelligenza artificiale e business</title>
-            <link>https://www.youtube.com/watch?v=TnQTorpw2dA</link>
-            <guid>https://www.youtube.com/watch?v=TnQTorpw2dA</guid>
-            <pubDate>JUNE 22, 2021 AT 08:47AM</pubDate>
-            <description>Intelligenza artificiale e business</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Youtube e &quot;non mi piace&quot;: perché sono stati fatti sparire i numeri? E cosa significa?</title>
-            <link>https://www.youtube.com/watch?v=5wyWpKllNa8</link>
-            <guid>https://www.youtube.com/watch?v=5wyWpKllNa8</guid>
-            <pubDate>DECEMBER 1, 2021 AT 08:48AM</pubDate>
-            <description>Youtube e &quot;non mi piace&quot;: perché sono stati fatti sparire i numeri? E cosa significa?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - La semplicità è la cosa più facile da non capire</title>
-            <link>https://www.youtube.com/watch?v=zza_G-SlKU0</link>
-            <guid>https://www.youtube.com/watch?v=zza_G-SlKU0</guid>
-            <pubDate>AUGUST 29, 2021 AT 01:00PM</pubDate>
-            <description>La semplicità è la cosa più facile da non capire</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Nicola Armaroli, CNR</title>
-            <link>https://www.youtube.com/watch?v=d6VURF9jGQk</link>
-            <guid>https://www.youtube.com/watch?v=d6VURF9jGQk</guid>
-            <pubDate>SEPTEMBER 6, 2021 AT 05:59PM</pubDate>
-            <description>Cambiamento climatico, elettrificazione e dintorni con Nicola Armaroli, CNR</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Ecco i nuovi occhiali di Facebook (pro e contro...)</title>
-            <link>https://www.youtube.com/watch?v=oxEaA-eyijc</link>
-            <guid>https://www.youtube.com/watch?v=oxEaA-eyijc</guid>
-            <pubDate>SEPTEMBER 10, 2021 AT 06:49PM</pubDate>
-            <description>Ecco i nuovi occhiali di Facebook (pro e contro...)</description>
+            <title>Marco Montemagno - Hai mai provato il test della mamma?</title>
+            <link>https://www.youtube.com/watch?v=vPqx9D6bj1Q</link>
+            <guid>https://www.youtube.com/watch?v=vPqx9D6bj1Q</guid>
+            <pubDate>AUGUST 7, 2021 AT 12:00PM</pubDate>
+            <description>Hai mai provato il test della mamma?</description>
         </item>
         <item>
             <title>Marco Montemagno - Come faccio a tutelare legalmente il mio e-commerce?</title>
@@ -133,18 +105,46 @@
             <description>Come faccio a tutelare legalmente il mio e-commerce?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Vincenzo Tiana, Legambiente</title>
-            <link>https://www.youtube.com/watch?v=jV0bDd36R5I</link>
-            <guid>https://www.youtube.com/watch?v=jV0bDd36R5I</guid>
-            <pubDate>SEPTEMBER 8, 2021 AT 08:18PM</pubDate>
-            <description>Cambiamento climatico, elettrificazione e dintorni con Vincenzo Tiana, Legambiente</description>
+            <title>Marco Montemagno - &quot;Sii impaziente con le azioni, ma paziente con i risultati&quot; (Naval)</title>
+            <link>https://www.youtube.com/watch?v=xMHPznF_qs0</link>
+            <guid>https://www.youtube.com/watch?v=xMHPznF_qs0</guid>
+            <pubDate>DECEMBER 4, 2021 AT 04:00PM</pubDate>
+            <description>&quot;Sii impaziente con le azioni, ma paziente con i risultati&quot; (Naval)</description>
         </item>
         <item>
-            <title>Marco Montemagno - Le nuove opportunità NFT e Crypto per l&#39;editoria</title>
-            <link>https://www.youtube.com/watch?v=CPvQm82A42Q</link>
-            <guid>https://www.youtube.com/watch?v=CPvQm82A42Q</guid>
-            <pubDate>DECEMBER 3, 2021 AT 09:00AM</pubDate>
-            <description>Le nuove opportunità NFT e Crypto per l&#39;editoria</description>
+            <title>Marco Montemagno - Monty contro Tutti...Domande e risposte Live!</title>
+            <link>https://www.youtube.com/watch?v=qMdFVDU_Q3w</link>
+            <guid>https://www.youtube.com/watch?v=qMdFVDU_Q3w</guid>
+            <pubDate>FEBRUARY 2, 2022 AT 04:55PM</pubDate>
+            <description>Monty contro Tutti...Domande e risposte Live!</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Come reagisce e ti critica la gente quando ti metti in gioco</title>
+            <link>https://www.youtube.com/watch?v=tjCvsHYkAAk</link>
+            <guid>https://www.youtube.com/watch?v=tjCvsHYkAAk</guid>
+            <pubDate>JANUARY 27, 2022 AT 02:00PM</pubDate>
+            <description>Come reagisce e ti critica la gente quando ti metti in gioco</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Come decidere più velocemente?</title>
+            <link>https://www.youtube.com/watch?v=-J6wf8O515M</link>
+            <guid>https://www.youtube.com/watch?v=-J6wf8O515M</guid>
+            <pubDate>NOVEMBER 8, 2021 AT 01:00PM</pubDate>
+            <description>Come decidere più velocemente?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Perché dovresti chiedere un aumento oggi stesso!</title>
+            <link>https://www.youtube.com/watch?v=dlLsAt6Z7J0</link>
+            <guid>https://www.youtube.com/watch?v=dlLsAt6Z7J0</guid>
+            <pubDate>SEPTEMBER 4, 2021 AT 10:00AM</pubDate>
+            <description>Perché dovresti chiedere un aumento oggi stesso!</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - CONCENTRATI SUL &quot;CHI&quot; NON SUL &quot;COME&quot;</title>
+            <link>https://www.youtube.com/watch?v=GGHolJ2fNB4</link>
+            <guid>https://www.youtube.com/watch?v=GGHolJ2fNB4</guid>
+            <pubDate>AUGUST 10, 2021 AT 08:00AM</pubDate>
+            <description>CONCENTRATI SUL &quot;CHI&quot; NON SUL &quot;COME&quot;</description>
         </item>
     </channel>
 </rss>
