@@ -5,132 +5,34 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Wed, 15 Nov 2023 13:18:20 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 13:18:03 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - Tennis! Riccardo Piatti su Competenze.it (live)</title>
-            <link>https://www.youtube.com/watch?v=B5JblZBlS-A</link>
-            <guid>https://www.youtube.com/watch?v=B5JblZBlS-A</guid>
-            <pubDate>JUNE 21, 2021 AT 12:22PM</pubDate>
-            <description>Tennis! Riccardo Piatti su Competenze.it (live)</description>
+            <title>Marco Montemagno - Cambi opinione se cambiano i fatti?</title>
+            <link>https://www.youtube.com/watch?v=3SeyKwgCqwY</link>
+            <guid>https://www.youtube.com/watch?v=3SeyKwgCqwY</guid>
+            <pubDate>JUNE 6, 2021 AT 03:52PM</pubDate>
+            <description>Cambi opinione se cambiano i fatti?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Food Talks 4 chiacchiere con Matias Perdomo chef Contraste</title>
-            <link>https://www.youtube.com/watch?v=V11MC9r0WxY</link>
-            <guid>https://www.youtube.com/watch?v=V11MC9r0WxY</guid>
-            <pubDate>MAY 18, 2021 AT 02:07PM</pubDate>
-            <description>Food Talks 4 chiacchiere con Matias Perdomo chef Contraste</description>
+            <title>Marco Montemagno - Netflix perde abbonati. Calo fisiologico o problemi in vista?</title>
+            <link>https://www.youtube.com/watch?v=4KPHJfzKscU</link>
+            <guid>https://www.youtube.com/watch?v=4KPHJfzKscU</guid>
+            <pubDate>JULY 28, 2021 AT 12:45PM</pubDate>
+            <description>Netflix perde abbonati. Calo fisiologico o problemi in vista?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Facebook contro tutti: che fine farà?</title>
-            <link>https://www.youtube.com/watch?v=lctXH39zZCI</link>
-            <guid>https://www.youtube.com/watch?v=lctXH39zZCI</guid>
-            <pubDate>OCTOBER 5, 2021 AT 03:26PM</pubDate>
-            <description>Facebook contro tutti: che fine farà?</description>
+            <title>Marco Montemagno - I poveri hanno grandi televisori, i ricchi hanno grandi librerie</title>
+            <link>https://www.youtube.com/watch?v=QiOzbrEWnTs</link>
+            <guid>https://www.youtube.com/watch?v=QiOzbrEWnTs</guid>
+            <pubDate>OCTOBER 29, 2021 AT 01:30PM</pubDate>
+            <description>I poveri hanno grandi televisori, i ricchi hanno grandi librerie</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Diodato</title>
-            <link>https://www.youtube.com/watch?v=yAuJEdAsvuw</link>
-            <guid>https://www.youtube.com/watch?v=yAuJEdAsvuw</guid>
-            <pubDate>JUNE 3, 2021 AT 11:21AM</pubDate>
-            <description>4 chiacchiere con Diodato</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Leadership Gentile con Guido Stratta (Direttore People &amp; Organisation Gruppo Enel)</title>
-            <link>https://www.youtube.com/watch?v=_qAOAqmh0Sw</link>
-            <guid>https://www.youtube.com/watch?v=_qAOAqmh0Sw</guid>
-            <pubDate>DECEMBER 20, 2021 AT 01:00PM</pubDate>
-            <description>Leadership Gentile con Guido Stratta (Direttore People &amp; Organisation Gruppo Enel)</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - Come scrivere un’avvincente descrizione di un evento o un webinar</title>
-            <link>https://www.youtube.com/watch?v=iyVZdwe-STE</link>
-            <guid>https://www.youtube.com/watch?v=iyVZdwe-STE</guid>
-            <pubDate>MAY 24, 2021 AT 08:18AM</pubDate>
-            <description>Come scrivere un’avvincente descrizione di un evento o un webinar</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con l&#39;arma dei carabinieri (Luca de Marchis)</title>
-            <link>https://www.youtube.com/watch?v=7y2pbB3FZSY</link>
-            <guid>https://www.youtube.com/watch?v=7y2pbB3FZSY</guid>
-            <pubDate>NOVEMBER 9, 2021 AT 01:00PM</pubDate>
-            <description>4 chiacchiere con l&#39;arma dei carabinieri (Luca de Marchis)</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - La Vittoria dei Måneskin - W&amp;L Maggio 2021</title>
-            <link>https://www.youtube.com/watch?v=44KV4eTObSQ</link>
-            <guid>https://www.youtube.com/watch?v=44KV4eTObSQ</guid>
-            <pubDate>JUNE 10, 2021 AT 07:30AM</pubDate>
-            <description>La Vittoria dei Måneskin - W&amp;L Maggio 2021</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con Enrico Casarosa (Regista di &quot;Luca&quot;, Pixar)</title>
-            <link>https://www.youtube.com/watch?v=3cp8IeLINRU</link>
-            <guid>https://www.youtube.com/watch?v=3cp8IeLINRU</guid>
-            <pubDate>JULY 1, 2021 AT 05:17PM</pubDate>
-            <description>4 chiacchiere con Enrico Casarosa (Regista di &quot;Luca&quot;, Pixar)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - I Social ... GRAVEMENTE alla ...?</title>
-            <link>https://www.youtube.com/watch?v=e2UiZNgdA9A</link>
-            <guid>https://www.youtube.com/watch?v=e2UiZNgdA9A</guid>
-            <pubDate>SEPTEMBER 16, 2021 AT 04:39PM</pubDate>
-            <description>I Social ... GRAVEMENTE alla ...?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - El Salvador, Lightning, Taproot e il futuro di Bitcoin con Giacomo Zucco</title>
-            <link>https://www.youtube.com/watch?v=B3vTVe0EROg</link>
-            <guid>https://www.youtube.com/watch?v=B3vTVe0EROg</guid>
-            <pubDate>NOVEMBER 30, 2021 AT 01:00PM</pubDate>
-            <description>El Salvador, Lightning, Taproot e il futuro di Bitcoin con Giacomo Zucco</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Come fare un Reclamo al Garante sulla Privacy (e per quali ragioni): una guida per tutti</title>
-            <link>https://www.youtube.com/watch?v=RMZb73hN5fA</link>
-            <guid>https://www.youtube.com/watch?v=RMZb73hN5fA</guid>
-            <pubDate>MAY 24, 2021 AT 09:23AM</pubDate>
-            <description>Come fare un Reclamo al Garante sulla Privacy (e per quali ragioni): una guida per tutti</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Moby: how much does making music for passion or for work change? #shorts</title>
-            <link>https://www.youtube.com/watch?v=uyPN38jPAFA</link>
-            <guid>https://www.youtube.com/watch?v=uyPN38jPAFA</guid>
-            <pubDate>MAY 9, 2021 AT 11:02AM</pubDate>
-            <description>Moby: how much does making music for passion or for work change? #shorts</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Hai un cane, un gatto...Monica Pais su Competenze.it</title>
-            <link>https://www.youtube.com/watch?v=bmb7cm81r3Q</link>
-            <guid>https://www.youtube.com/watch?v=bmb7cm81r3Q</guid>
-            <pubDate>JULY 12, 2021 AT 12:32PM</pubDate>
-            <description>Hai un cane, un gatto...Monica Pais su Competenze.it</description>
-        </item>
-        <item>
-            <title>Matteo Flora - [LIVE] #CiaoInternet Serale: HUDI, cosa è e come funziona?</title>
-            <link>https://www.youtube.com/watch?v=wmDmZO9K6V0</link>
-            <guid>https://www.youtube.com/watch?v=wmDmZO9K6V0</guid>
-            <pubDate>SEPTEMBER 13, 2021 AT 01:12PM</pubDate>
-            <description>[LIVE] #CiaoInternet Serale: HUDI, cosa è e come funziona?</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - Google è un Ecosistema Liquido: l&#39;accordo con Shopify ne è la prova!</title>
-            <link>https://www.youtube.com/watch?v=3o9sWQe0S7o</link>
-            <guid>https://www.youtube.com/watch?v=3o9sWQe0S7o</guid>
-            <pubDate>MAY 26, 2021 AT 07:30AM</pubDate>
-            <description>Google è un Ecosistema Liquido: l&#39;accordo con Shopify ne è la prova!</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Includere fa la differenza - Diversity su Competenze con Francesca Vecchioni</title>
-            <link>https://www.youtube.com/watch?v=AWKZVpYuhH0</link>
-            <guid>https://www.youtube.com/watch?v=AWKZVpYuhH0</guid>
-            <pubDate>MAY 10, 2021 AT 10:59AM</pubDate>
-            <description>Includere fa la differenza - Diversity su Competenze con Francesca Vecchioni</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Chi è causa del suo mal...</title>
-            <link>https://www.youtube.com/watch?v=xdobxcYfwd8</link>
-            <guid>https://www.youtube.com/watch?v=xdobxcYfwd8</guid>
-            <pubDate>NOVEMBER 22, 2021 AT 01:00PM</pubDate>
-            <description>Chi è causa del suo mal...</description>
+            <title>Marco Montemagno - 4 chiacchiere con Norma&#39;s Teaching (Norma Cerletti)</title>
+            <link>https://www.youtube.com/watch?v=Y3PCDbQ2SuY</link>
+            <guid>https://www.youtube.com/watch?v=Y3PCDbQ2SuY</guid>
+            <pubDate>JUNE 9, 2021 AT 10:54AM</pubDate>
+            <description>4 chiacchiere con Norma&#39;s Teaching (Norma Cerletti)</description>
         </item>
         <item>
             <title>Marco Montemagno - Perché Netflix (probabilmente) inserirà la pubblicità</title>
@@ -140,11 +42,109 @@
             <description>Perché Netflix (probabilmente) inserirà la pubblicità</description>
         </item>
         <item>
-            <title>Matteo Flora - I #GreenPass ora si possono revocare: quali sono i problemi?</title>
-            <link>https://www.youtube.com/watch?v=l5H5hJH61AU</link>
-            <guid>https://www.youtube.com/watch?v=l5H5hJH61AU</guid>
-            <pubDate>DECEMBER 20, 2021 AT 10:45AM</pubDate>
-            <description>I #GreenPass ora si possono revocare: quali sono i problemi?</description>
+            <title>Matteo Flora - Cosa può stare su Facebook? Speciale Matteo incontra #Facebook (1 di 3)</title>
+            <link>https://www.youtube.com/watch?v=VPyUsLM64P4</link>
+            <guid>https://www.youtube.com/watch?v=VPyUsLM64P4</guid>
+            <pubDate>JULY 7, 2021 AT 09:00AM</pubDate>
+            <description>Cosa può stare su Facebook? Speciale Matteo incontra #Facebook (1 di 3)</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Djokovich: eroe o canaglia? L&#39;analisi della sua Reputazione</title>
+            <link>https://www.youtube.com/watch?v=VKVPs-w2w9Y</link>
+            <guid>https://www.youtube.com/watch?v=VKVPs-w2w9Y</guid>
+            <pubDate>JANUARY 12, 2022 AT 07:45AM</pubDate>
+            <description>Djokovich: eroe o canaglia? L&#39;analisi della sua Reputazione</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Perché dovresti chiedere un aumento oggi stesso!</title>
+            <link>https://www.youtube.com/watch?v=dlLsAt6Z7J0</link>
+            <guid>https://www.youtube.com/watch?v=dlLsAt6Z7J0</guid>
+            <pubDate>SEPTEMBER 4, 2021 AT 10:00AM</pubDate>
+            <description>Perché dovresti chiedere un aumento oggi stesso!</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Speciale Amazon: l&#39;ultimo giorno di Jeff Bezos da CEO</title>
+            <link>https://www.youtube.com/watch?v=qnJnitCM_BM</link>
+            <guid>https://www.youtube.com/watch?v=qnJnitCM_BM</guid>
+            <pubDate>JULY 3, 2021 AT 12:18PM</pubDate>
+            <description>Speciale Amazon: l&#39;ultimo giorno di Jeff Bezos da CEO</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con L&#39;Estetista Cinica (Cristina Fogazzi)</title>
+            <link>https://www.youtube.com/watch?v=PHtcnuBrxfw</link>
+            <guid>https://www.youtube.com/watch?v=PHtcnuBrxfw</guid>
+            <pubDate>MAY 27, 2021 AT 11:29AM</pubDate>
+            <description>4 chiacchiere con L&#39;Estetista Cinica (Cristina Fogazzi)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Il lavoro sicuro non esiste (sorry)</title>
+            <link>https://www.youtube.com/watch?v=C5MQXbSrw0s</link>
+            <guid>https://www.youtube.com/watch?v=C5MQXbSrw0s</guid>
+            <pubDate>SEPTEMBER 16, 2021 AT 06:58PM</pubDate>
+            <description>Il lavoro sicuro non esiste (sorry)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con lo Chef Mauro Colagreco (&quot;miglior ristorante al mondo&quot;)</title>
+            <link>https://www.youtube.com/watch?v=gMB3ofzVufo</link>
+            <guid>https://www.youtube.com/watch?v=gMB3ofzVufo</guid>
+            <pubDate>JULY 1, 2021 AT 05:13PM</pubDate>
+            <description>4 chiacchiere con lo Chef Mauro Colagreco (&quot;miglior ristorante al mondo&quot;)</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - Gaito risponde LIVE</title>
+            <link>https://www.youtube.com/watch?v=czpUVXmULIk</link>
+            <guid>https://www.youtube.com/watch?v=czpUVXmULIk</guid>
+            <pubDate>JUNE 28, 2021 AT 07:02PM</pubDate>
+            <description>Gaito risponde LIVE</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Come rimuovere i contenuti di Cyberbullismo di minori gratis grazie al Garante della Privacy</title>
+            <link>https://www.youtube.com/watch?v=AjV3-VLWvMs</link>
+            <guid>https://www.youtube.com/watch?v=AjV3-VLWvMs</guid>
+            <pubDate>SEPTEMBER 20, 2021 AT 12:48PM</pubDate>
+            <description>Come rimuovere i contenuti di Cyberbullismo di minori gratis grazie al Garante della Privacy</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - A conversation with Lang Lang</title>
+            <link>https://www.youtube.com/watch?v=bj5mVA_kjW4</link>
+            <guid>https://www.youtube.com/watch?v=bj5mVA_kjW4</guid>
+            <pubDate>DECEMBER 9, 2021 AT 01:00PM</pubDate>
+            <description>A conversation with Lang Lang</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - La verità sul &quot;fare l&#39;imprenditore&quot; #shorts</title>
+            <link>https://www.youtube.com/watch?v=jnpETGBg7zY</link>
+            <guid>https://www.youtube.com/watch?v=jnpETGBg7zY</guid>
+            <pubDate>JUNE 30, 2021 AT 04:38PM</pubDate>
+            <description>La verità sul &quot;fare l&#39;imprenditore&quot; #shorts</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Monty Live - Domande e Risposte</title>
+            <link>https://www.youtube.com/watch?v=kjqKhiDeXL0</link>
+            <guid>https://www.youtube.com/watch?v=kjqKhiDeXL0</guid>
+            <pubDate>JUNE 15, 2021 AT 06:39PM</pubDate>
+            <description>Monty Live - Domande e Risposte</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Cina e dintorni: falsi miti e opportunità</title>
+            <link>https://www.youtube.com/watch?v=2Lhej18tlek</link>
+            <guid>https://www.youtube.com/watch?v=2Lhej18tlek</guid>
+            <pubDate>JUNE 30, 2021 AT 12:09PM</pubDate>
+            <description>Cina e dintorni: falsi miti e opportunità</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Ciao Gino, è stato un onore conoscerti ...</title>
+            <link>https://www.youtube.com/watch?v=AFFiomh_lac</link>
+            <guid>https://www.youtube.com/watch?v=AFFiomh_lac</guid>
+            <pubDate>AUGUST 13, 2021 AT 04:11PM</pubDate>
+            <description>Ciao Gino, è stato un onore conoscerti ...</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Inventati una soluzione</title>
+            <link>https://www.youtube.com/watch?v=pjl4owUGR8Y</link>
+            <guid>https://www.youtube.com/watch?v=pjl4owUGR8Y</guid>
+            <pubDate>MAY 6, 2021 AT 04:05PM</pubDate>
+            <description>Inventati una soluzione</description>
         </item>
     </channel>
 </rss>
