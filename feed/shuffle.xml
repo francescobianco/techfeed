@@ -5,76 +5,34 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Sun, 19 Nov 2023 13:15:17 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 13:18:44 +0000</lastBuildDate>
         <item>
-            <title>Raffaele Gaito - AZIENDE E SOSTENIBILITÀ: IL CASO TIMBERLAND</title>
-            <link>https://www.youtube.com/watch?v=F2UXJK5Hawc</link>
-            <guid>https://www.youtube.com/watch?v=F2UXJK5Hawc</guid>
-            <pubDate>JUNE 22, 2021 AT 08:00AM</pubDate>
-            <description>AZIENDE E SOSTENIBILITÀ: IL CASO TIMBERLAND</description>
+            <title>Rudy Bandiera - Cosa succederà al lavoro DOPO la pandemia? #in2minuti</title>
+            <link>https://www.youtube.com/watch?v=Qo2IiixUsBw</link>
+            <guid>https://www.youtube.com/watch?v=Qo2IiixUsBw</guid>
+            <pubDate>MAY 12, 2021 AT 04:18PM</pubDate>
+            <description>Cosa succederà al lavoro DOPO la pandemia? #in2minuti</description>
         </item>
         <item>
-            <title>Marco Montemagno - NFT: cosa sono e quali sono i possibili utilizzi? #NFTDAY</title>
-            <link>https://www.youtube.com/watch?v=XN-8UlJG9LE</link>
-            <guid>https://www.youtube.com/watch?v=XN-8UlJG9LE</guid>
-            <pubDate>FEBRUARY 1, 2022 AT 09:45AM</pubDate>
-            <description>NFT: cosa sono e quali sono i possibili utilizzi? #NFTDAY</description>
+            <title>Marco Montemagno - 4 chiacchiere con Pino Insegno</title>
+            <link>https://www.youtube.com/watch?v=MtOSyV7jWa0</link>
+            <guid>https://www.youtube.com/watch?v=MtOSyV7jWa0</guid>
+            <pubDate>JANUARY 18, 2022 AT 01:37PM</pubDate>
+            <description>4 chiacchiere con Pino Insegno</description>
         </item>
         <item>
-            <title>Marco Montemagno - The Coin of Champions: Demo live e Q&amp;A</title>
-            <link>https://www.youtube.com/watch?v=cxso2vZlye4</link>
-            <guid>https://www.youtube.com/watch?v=cxso2vZlye4</guid>
-            <pubDate>NOVEMBER 25, 2021 AT 04:22PM</pubDate>
-            <description>The Coin of Champions: Demo live e Q&amp;A</description>
+            <title>Marco Montemagno - Yuval Noah Harari:  after the pandemic, science has once again become the highest authority#shorts</title>
+            <link>https://www.youtube.com/watch?v=wUPF7Vzzu2k</link>
+            <guid>https://www.youtube.com/watch?v=wUPF7Vzzu2k</guid>
+            <pubDate>MAY 7, 2021 AT 08:21AM</pubDate>
+            <description>Yuval Noah Harari:  after the pandemic, science has once again become the highest authority#shorts</description>
         </item>
         <item>
-            <title>Matteo Flora - Sconfiggere i Malware con una… TASTIERA?</title>
-            <link>https://www.youtube.com/watch?v=e6TfDAoup7Y</link>
-            <guid>https://www.youtube.com/watch?v=e6TfDAoup7Y</guid>
-            <pubDate>MAY 20, 2021 AT 08:00AM</pubDate>
-            <description>Sconfiggere i Malware con una… TASTIERA?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Il boom degli e-commerce in Italia: qualcosa sta cambiando?</title>
-            <link>https://www.youtube.com/watch?v=MQ0o-y_YRuk</link>
-            <guid>https://www.youtube.com/watch?v=MQ0o-y_YRuk</guid>
-            <pubDate>SEPTEMBER 30, 2021 AT 02:00PM</pubDate>
-            <description>Il boom degli e-commerce in Italia: qualcosa sta cambiando?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Se tornassi indietro, mi darei 4 suggerimenti ...</title>
-            <link>https://www.youtube.com/watch?v=jiXxdciVWTE</link>
-            <guid>https://www.youtube.com/watch?v=jiXxdciVWTE</guid>
-            <pubDate>AUGUST 21, 2021 AT 01:00PM</pubDate>
-            <description>Se tornassi indietro, mi darei 4 suggerimenti ...</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - ANSIA DA PRESTAZIONE: COME SUPERARLA</title>
-            <link>https://www.youtube.com/watch?v=0tNBIvO5mX8</link>
-            <guid>https://www.youtube.com/watch?v=0tNBIvO5mX8</guid>
-            <pubDate>JUNE 29, 2021 AT 08:00AM</pubDate>
-            <description>ANSIA DA PRESTAZIONE: COME SUPERARLA</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - I Social ... GRAVEMENTE alla ...?</title>
-            <link>https://www.youtube.com/watch?v=e2UiZNgdA9A</link>
-            <guid>https://www.youtube.com/watch?v=e2UiZNgdA9A</guid>
-            <pubDate>SEPTEMBER 16, 2021 AT 04:39PM</pubDate>
-            <description>I Social ... GRAVEMENTE alla ...?</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - Analisi di due siti: Wedding Planner e Personal Branding tra Affiliazione Amazon e altro</title>
-            <link>https://www.youtube.com/watch?v=1yueBGh9fa0</link>
-            <guid>https://www.youtube.com/watch?v=1yueBGh9fa0</guid>
-            <pubDate>MAY 21, 2021 AT 07:30AM</pubDate>
-            <description>Analisi di due siti: Wedding Planner e Personal Branding tra Affiliazione Amazon e altro</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - NFT MontyLab - Crazy Fury:  Domande e Risposte Live!</title>
-            <link>https://www.youtube.com/watch?v=A8IwAy6ZyME</link>
-            <guid>https://www.youtube.com/watch?v=A8IwAy6ZyME</guid>
-            <pubDate>JANUARY 24, 2022 AT 04:53PM</pubDate>
-            <description>NFT MontyLab - Crazy Fury:  Domande e Risposte Live!</description>
+            <title>Marco Montemagno - Tutto quello che dovresti sapere sulle DAO con Thomas Bertani</title>
+            <link>https://www.youtube.com/watch?v=IIAi0TZHsKA</link>
+            <guid>https://www.youtube.com/watch?v=IIAi0TZHsKA</guid>
+            <pubDate>DECEMBER 4, 2021 AT 01:00PM</pubDate>
+            <description>Tutto quello che dovresti sapere sulle DAO con Thomas Bertani</description>
         </item>
         <item>
             <title>Marco Montemagno - Come hanno fatto a convincerti?</title>
@@ -84,67 +42,109 @@
             <description>Come hanno fatto a convincerti?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Perché il femminismo serve anche agli uomini. 4 chiacchiere con Lorenzo Gasparrini</title>
-            <link>https://www.youtube.com/watch?v=X9Y2SLpCJMY</link>
-            <guid>https://www.youtube.com/watch?v=X9Y2SLpCJMY</guid>
-            <pubDate>NOVEMBER 12, 2021 AT 03:14PM</pubDate>
-            <description>Perché il femminismo serve anche agli uomini. 4 chiacchiere con Lorenzo Gasparrini</description>
+            <title>Marco Montemagno - Blockchain, mining/environment, Stablecoins...a conversation with Algorand</title>
+            <link>https://www.youtube.com/watch?v=FTYhKY4o-4g</link>
+            <guid>https://www.youtube.com/watch?v=FTYhKY4o-4g</guid>
+            <pubDate>NOVEMBER 24, 2021 AT 03:00PM</pubDate>
+            <description>Blockchain, mining/environment, Stablecoins...a conversation with Algorand</description>
         </item>
         <item>
-            <title>Marco Montemagno - Che impatto ha la competizione ESTREMA sulla nostra salute mentale e fisica?</title>
-            <link>https://www.youtube.com/watch?v=K2inx4uapwE</link>
-            <guid>https://www.youtube.com/watch?v=K2inx4uapwE</guid>
-            <pubDate>JUNE 3, 2021 AT 06:47PM</pubDate>
-            <description>Che impatto ha la competizione ESTREMA sulla nostra salute mentale e fisica?</description>
+            <title>Marco Montemagno - Come si crea un prodotto finanziario?</title>
+            <link>https://www.youtube.com/watch?v=uXO5ba2vgrA</link>
+            <guid>https://www.youtube.com/watch?v=uXO5ba2vgrA</guid>
+            <pubDate>NOVEMBER 21, 2021 AT 09:40PM</pubDate>
+            <description>Come si crea un prodotto finanziario?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Cosa sono le gas fee?</title>
-            <link>https://www.youtube.com/watch?v=0Ao4Cet8SmU</link>
-            <guid>https://www.youtube.com/watch?v=0Ao4Cet8SmU</guid>
-            <pubDate>JANUARY 27, 2022 AT 11:00AM</pubDate>
-            <description>Cosa sono le gas fee?</description>
+            <title>Marco Montemagno - A conversation with M. Night Shyamalan (Sixth Sense/Old/Unbreakable, Split...)</title>
+            <link>https://www.youtube.com/watch?v=j2zw6qsVBxY</link>
+            <guid>https://www.youtube.com/watch?v=j2zw6qsVBxY</guid>
+            <pubDate>JULY 21, 2021 AT 05:42PM</pubDate>
+            <description>A conversation with M. Night Shyamalan (Sixth Sense/Old/Unbreakable, Split...)</description>
         </item>
         <item>
-            <title>Marco Montemagno - Shoemaker: a conversation with Reebok’s founder Joe Foster</title>
-            <link>https://www.youtube.com/watch?v=_l_YSlfeV6o</link>
-            <guid>https://www.youtube.com/watch?v=_l_YSlfeV6o</guid>
-            <pubDate>DECEMBER 10, 2021 AT 03:28PM</pubDate>
-            <description>Shoemaker: a conversation with Reebok’s founder Joe Foster</description>
+            <title>Marco Montemagno - Perché l&#39;ignoranza dilaga nei commenti</title>
+            <link>https://www.youtube.com/watch?v=QvC_5RkHSLM</link>
+            <guid>https://www.youtube.com/watch?v=QvC_5RkHSLM</guid>
+            <pubDate>SEPTEMBER 7, 2021 AT 04:01PM</pubDate>
+            <description>Perché l&#39;ignoranza dilaga nei commenti</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Substack è un pericolo per i giornali. Ora è ufficiale.</title>
-            <link>https://www.youtube.com/watch?v=qlnYWsM5CJM</link>
-            <guid>https://www.youtube.com/watch?v=qlnYWsM5CJM</guid>
-            <pubDate>MAY 12, 2021 AT 08:34AM</pubDate>
-            <description>Substack è un pericolo per i giornali. Ora è ufficiale.</description>
+            <title>Matteo Flora - Piuarch, lo scandalo 600 euro, e il costo nascosto della #Reputazione</title>
+            <link>https://www.youtube.com/watch?v=27xiPN69LiY</link>
+            <guid>https://www.youtube.com/watch?v=27xiPN69LiY</guid>
+            <pubDate>SEPTEMBER 3, 2021 AT 07:55AM</pubDate>
+            <description>Piuarch, lo scandalo 600 euro, e il costo nascosto della #Reputazione</description>
         </item>
         <item>
-            <title>Raffaele Gaito - LA MALEDIZIONE DELLA CONOSCENZA (COS&#39;È E COME USCIRNE)</title>
-            <link>https://www.youtube.com/watch?v=hcJwTlEFPXI</link>
-            <guid>https://www.youtube.com/watch?v=hcJwTlEFPXI</guid>
-            <pubDate>JULY 20, 2021 AT 08:00AM</pubDate>
-            <description>LA MALEDIZIONE DELLA CONOSCENZA (COS&#39;È E COME USCIRNE)</description>
+            <title>Marco Montemagno - Quelli che non è mai colpa loro</title>
+            <link>https://www.youtube.com/watch?v=EuLJX66Kr_w</link>
+            <guid>https://www.youtube.com/watch?v=EuLJX66Kr_w</guid>
+            <pubDate>MAY 11, 2021 AT 03:39PM</pubDate>
+            <description>Quelli che non è mai colpa loro</description>
         </item>
         <item>
-            <title>Marco Montemagno - Impara il Growth Hacking!</title>
-            <link>https://www.youtube.com/watch?v=NlyBRrkEoro</link>
-            <guid>https://www.youtube.com/watch?v=NlyBRrkEoro</guid>
-            <pubDate>SEPTEMBER 8, 2021 AT 04:11PM</pubDate>
-            <description>Impara il Growth Hacking!</description>
+            <title>Raffaele Gaito - AZIENDE E SOSTENIBILITÀ: IL CASO TIMBERLAND</title>
+            <link>https://www.youtube.com/watch?v=F2UXJK5Hawc</link>
+            <guid>https://www.youtube.com/watch?v=F2UXJK5Hawc</guid>
+            <pubDate>JUNE 22, 2021 AT 08:00AM</pubDate>
+            <description>AZIENDE E SOSTENIBILITÀ: IL CASO TIMBERLAND</description>
         </item>
         <item>
-            <title>Raffaele Gaito - I 10 DIRITTI DEL LETTORE (LEGGI COME TI PARE)</title>
-            <link>https://www.youtube.com/watch?v=DexZqLDjNZE</link>
-            <guid>https://www.youtube.com/watch?v=DexZqLDjNZE</guid>
-            <pubDate>JUNE 11, 2021 AT 08:00AM</pubDate>
-            <description>I 10 DIRITTI DEL LETTORE (LEGGI COME TI PARE)</description>
+            <title>Marco Montemagno - L&#39;intelligenza Artificiale sta aumentando la competitività aziendale</title>
+            <link>https://www.youtube.com/watch?v=qRpl-Q6a9x4</link>
+            <guid>https://www.youtube.com/watch?v=qRpl-Q6a9x4</guid>
+            <pubDate>JUNE 22, 2021 AT 10:36PM</pubDate>
+            <description>L&#39;intelligenza Artificiale sta aumentando la competitività aziendale</description>
         </item>
         <item>
-            <title>Marco Montemagno - A conversation with Lara Gilmore (Food for Soul)</title>
-            <link>https://www.youtube.com/watch?v=wvrjrGXj-Hc</link>
-            <guid>https://www.youtube.com/watch?v=wvrjrGXj-Hc</guid>
-            <pubDate>MAY 17, 2021 AT 09:34PM</pubDate>
-            <description>A conversation with Lara Gilmore (Food for Soul)</description>
+            <title>Marco Montemagno - Amazon paga l&#39;università ai dipendenti (mentre assume altre 125.000 persone)</title>
+            <link>https://www.youtube.com/watch?v=_1m5A82Hp40</link>
+            <guid>https://www.youtube.com/watch?v=_1m5A82Hp40</guid>
+            <pubDate>SEPTEMBER 18, 2021 AT 02:00PM</pubDate>
+            <description>Amazon paga l&#39;università ai dipendenti (mentre assume altre 125.000 persone)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Inventati una soluzione</title>
+            <link>https://www.youtube.com/watch?v=pjl4owUGR8Y</link>
+            <guid>https://www.youtube.com/watch?v=pjl4owUGR8Y</guid>
+            <pubDate>MAY 6, 2021 AT 04:05PM</pubDate>
+            <description>Inventati una soluzione</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Fiducia in se stessi: il metodo Mouratoglou</title>
+            <link>https://www.youtube.com/watch?v=H0w03B9R9e8</link>
+            <guid>https://www.youtube.com/watch?v=H0w03B9R9e8</guid>
+            <pubDate>JANUARY 3, 2022 AT 01:27PM</pubDate>
+            <description>Fiducia in se stessi: il metodo Mouratoglou</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - How  to deal with fake news? Malcolm Gladwell&#39;s point of view #shorts</title>
+            <link>https://www.youtube.com/watch?v=6O9moWlzr9k</link>
+            <guid>https://www.youtube.com/watch?v=6O9moWlzr9k</guid>
+            <pubDate>JULY 15, 2021 AT 07:31PM</pubDate>
+            <description>How  to deal with fake news? Malcolm Gladwell&#39;s point of view #shorts</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Leadership e dintorni con Claudia Parzani</title>
+            <link>https://www.youtube.com/watch?v=ZoU6cQR0jIE</link>
+            <guid>https://www.youtube.com/watch?v=ZoU6cQR0jIE</guid>
+            <pubDate>NOVEMBER 18, 2021 AT 10:59AM</pubDate>
+            <description>Leadership e dintorni con Claudia Parzani</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con gli Extraliscio</title>
+            <link>https://www.youtube.com/watch?v=8wDM9ot5o8g</link>
+            <guid>https://www.youtube.com/watch?v=8wDM9ot5o8g</guid>
+            <pubDate>JUNE 10, 2021 AT 11:57AM</pubDate>
+            <description>4 chiacchiere con gli Extraliscio</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Includere fa la differenza - Diversity su Competenze con Francesca Vecchioni</title>
+            <link>https://www.youtube.com/watch?v=AWKZVpYuhH0</link>
+            <guid>https://www.youtube.com/watch?v=AWKZVpYuhH0</guid>
+            <pubDate>MAY 10, 2021 AT 10:59AM</pubDate>
+            <description>Includere fa la differenza - Diversity su Competenze con Francesca Vecchioni</description>
         </item>
     </channel>
 </rss>
