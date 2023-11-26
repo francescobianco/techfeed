@@ -5,76 +5,48 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Sat, 25 Nov 2023 13:15:10 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 26 Nov 2023 13:15:24 +0000</lastBuildDate>
         <item>
-            <title>Matteo Flora - Sconfiggere i Malware con una… TASTIERA?</title>
-            <link>https://www.youtube.com/watch?v=e6TfDAoup7Y</link>
-            <guid>https://www.youtube.com/watch?v=e6TfDAoup7Y</guid>
-            <pubDate>MAY 20, 2021 AT 08:00AM</pubDate>
-            <description>Sconfiggere i Malware con una… TASTIERA?</description>
+            <title>Marco Montemagno - 4 cose da fare quando le cose vanno male...</title>
+            <link>https://www.youtube.com/watch?v=GdI00d9ECGM</link>
+            <guid>https://www.youtube.com/watch?v=GdI00d9ECGM</guid>
+            <pubDate>JULY 6, 2021 AT 02:00PM</pubDate>
+            <description>4 cose da fare quando le cose vanno male...</description>
         </item>
         <item>
-            <title>Marco Montemagno - Food Talks 4 chiacchiere con Vincenzo Ferrieri (Cioccolati Italiani) e Vittoria Zanetti (Poke House)</title>
-            <link>https://www.youtube.com/watch?v=ze-950IFPvs</link>
-            <guid>https://www.youtube.com/watch?v=ze-950IFPvs</guid>
-            <pubDate>MAY 17, 2021 AT 11:37AM</pubDate>
-            <description>Food Talks 4 chiacchiere con Vincenzo Ferrieri (Cioccolati Italiani) e Vittoria Zanetti (Poke House)</description>
+            <title>Marco Montemagno - Come si affronta DAVVERO la trasformazione digitale in azienda?</title>
+            <link>https://www.youtube.com/watch?v=ne9moTOOnDM</link>
+            <guid>https://www.youtube.com/watch?v=ne9moTOOnDM</guid>
+            <pubDate>DECEMBER 2, 2021 AT 01:00PM</pubDate>
+            <description>Come si affronta DAVVERO la trasformazione digitale in azienda?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Intelligenza Artificiale...che succede?</title>
-            <link>https://www.youtube.com/watch?v=KunZGa1koR8</link>
-            <guid>https://www.youtube.com/watch?v=KunZGa1koR8</guid>
-            <pubDate>JUNE 23, 2021 AT 10:29PM</pubDate>
-            <description>Intelligenza Artificiale...che succede?</description>
+            <title>Raffaele Gaito - LA LEAD GENERATION (SPIEGATA SEMPLICE)</title>
+            <link>https://www.youtube.com/watch?v=MCj5CQ91hbg</link>
+            <guid>https://www.youtube.com/watch?v=MCj5CQ91hbg</guid>
+            <pubDate>JUNE 25, 2021 AT 08:00AM</pubDate>
+            <description>LA LEAD GENERATION (SPIEGATA SEMPLICE)</description>
         </item>
         <item>
-            <title>Marco Montemagno - A conversation with Lara Gilmore (Food for Soul)</title>
-            <link>https://www.youtube.com/watch?v=wvrjrGXj-Hc</link>
-            <guid>https://www.youtube.com/watch?v=wvrjrGXj-Hc</guid>
-            <pubDate>MAY 17, 2021 AT 09:34PM</pubDate>
-            <description>A conversation with Lara Gilmore (Food for Soul)</description>
+            <title>Marco Montemagno - E-commerce 2022: 3 consigli</title>
+            <link>https://www.youtube.com/watch?v=zTkG0r6k6fI</link>
+            <guid>https://www.youtube.com/watch?v=zTkG0r6k6fI</guid>
+            <pubDate>DECEMBER 29, 2021 AT 01:00PM</pubDate>
+            <description>E-commerce 2022: 3 consigli</description>
         </item>
         <item>
-            <title>Matteo Flora - Tommaso Montesano e le scuse fatte molto male che distruggono la sua reputazione</title>
-            <link>https://www.youtube.com/watch?v=j-7STbqKbQk</link>
-            <guid>https://www.youtube.com/watch?v=j-7STbqKbQk</guid>
-            <pubDate>FEBRUARY 11, 2022 AT 01:00PM</pubDate>
-            <description>Tommaso Montesano e le scuse fatte molto male che distruggono la sua reputazione</description>
+            <title>Matteo Flora - DOCUMENTI ONLINE: quando la Trasparenza è troppa...</title>
+            <link>https://www.youtube.com/watch?v=tKNx58qROmc</link>
+            <guid>https://www.youtube.com/watch?v=tKNx58qROmc</guid>
+            <pubDate>MAY 17, 2021 AT 08:21AM</pubDate>
+            <description>DOCUMENTI ONLINE: quando la Trasparenza è troppa...</description>
         </item>
         <item>
-            <title>Marco Montemagno - Chi controlla il Web?</title>
-            <link>https://www.youtube.com/watch?v=1FjN8FSRGEI</link>
-            <guid>https://www.youtube.com/watch?v=1FjN8FSRGEI</guid>
-            <pubDate>JANUARY 5, 2022 AT 10:00AM</pubDate>
-            <description>Chi controlla il Web?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come usare Instagram Analytics con Yari Brugnoni</title>
-            <link>https://www.youtube.com/watch?v=u5zyUXJRizE</link>
-            <guid>https://www.youtube.com/watch?v=u5zyUXJRizE</guid>
-            <pubDate>FEBRUARY 11, 2022 AT 10:07AM</pubDate>
-            <description>Come usare Instagram Analytics con Yari Brugnoni</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Perché all&#39;uomo più ricco del mondo non frega niente dei soldi</title>
-            <link>https://www.youtube.com/watch?v=0kQeNmd8In0</link>
-            <guid>https://www.youtube.com/watch?v=0kQeNmd8In0</guid>
-            <pubDate>NOVEMBER 4, 2021 AT 02:02PM</pubDate>
-            <description>Perché all&#39;uomo più ricco del mondo non frega niente dei soldi</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - PERCHÉ LE AZIENDE VENDONO IL CAFFÈ IN ABBONAMENTO? #shorts</title>
-            <link>https://www.youtube.com/watch?v=pVKmp4juAX8</link>
-            <guid>https://www.youtube.com/watch?v=pVKmp4juAX8</guid>
-            <pubDate>AUGUST 24, 2021 AT 09:13AM</pubDate>
-            <description>PERCHÉ LE AZIENDE VENDONO IL CAFFÈ IN ABBONAMENTO? #shorts</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - I 10 DIRITTI DEL LETTORE (LEGGI COME TI PARE)</title>
-            <link>https://www.youtube.com/watch?v=DexZqLDjNZE</link>
-            <guid>https://www.youtube.com/watch?v=DexZqLDjNZE</guid>
-            <pubDate>JUNE 11, 2021 AT 08:00AM</pubDate>
-            <description>I 10 DIRITTI DEL LETTORE (LEGGI COME TI PARE)</description>
+            <title>Marco Montemagno - 4 chiacchiere con Luciano Ligabue e Stefano Accorsi</title>
+            <link>https://www.youtube.com/watch?v=SgufcIP0Ijo</link>
+            <guid>https://www.youtube.com/watch?v=SgufcIP0Ijo</guid>
+            <pubDate>NOVEMBER 18, 2021 AT 11:18PM</pubDate>
+            <description>4 chiacchiere con Luciano Ligabue e Stefano Accorsi</description>
         </item>
         <item>
             <title>Rudy Bandiera - Come mai non si trovano Playstation 5?</title>
@@ -84,67 +56,95 @@
             <description>Come mai non si trovano Playstation 5?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Questo è il libro da leggere quest&#39;estate</title>
-            <link>https://www.youtube.com/watch?v=McrzZpM4VT4</link>
-            <guid>https://www.youtube.com/watch?v=McrzZpM4VT4</guid>
-            <pubDate>JUNE 14, 2021 AT 04:41PM</pubDate>
-            <description>Questo è il libro da leggere quest&#39;estate</description>
+            <title>Matteo Flora - Come #Facebook controlla i contenuti? Speciale Matteo incontra #Facebook (2 di 3)</title>
+            <link>https://www.youtube.com/watch?v=VtBxR7UkoFY</link>
+            <guid>https://www.youtube.com/watch?v=VtBxR7UkoFY</guid>
+            <pubDate>JULY 8, 2021 AT 09:00AM</pubDate>
+            <description>Come #Facebook controlla i contenuti? Speciale Matteo incontra #Facebook (2 di 3)</description>
         </item>
         <item>
-            <title>Marco Montemagno - Il lavoro sicuro non esiste (sorry)</title>
-            <link>https://www.youtube.com/watch?v=C5MQXbSrw0s</link>
-            <guid>https://www.youtube.com/watch?v=C5MQXbSrw0s</guid>
-            <pubDate>SEPTEMBER 16, 2021 AT 06:58PM</pubDate>
-            <description>Il lavoro sicuro non esiste (sorry)</description>
+            <title>Marco Montemagno - NFT MontyLab - Crazy Fury:  Domande e Risposte Live!</title>
+            <link>https://www.youtube.com/watch?v=A8IwAy6ZyME</link>
+            <guid>https://www.youtube.com/watch?v=A8IwAy6ZyME</guid>
+            <pubDate>JANUARY 24, 2022 AT 04:53PM</pubDate>
+            <description>NFT MontyLab - Crazy Fury:  Domande e Risposte Live!</description>
         </item>
         <item>
-            <title>Raffaele Gaito - IMPRESE ITALIANE E DIGITALIZZAZIONE, COME SIAMO MESSI?!</title>
-            <link>https://www.youtube.com/watch?v=SGs4LsPVkV8</link>
-            <guid>https://www.youtube.com/watch?v=SGs4LsPVkV8</guid>
-            <pubDate>JULY 30, 2021 AT 08:00AM</pubDate>
-            <description>IMPRESE ITALIANE E DIGITALIZZAZIONE, COME SIAMO MESSI?!</description>
+            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Emanuele Bompan</title>
+            <link>https://www.youtube.com/watch?v=iGMl-9DQLCo</link>
+            <guid>https://www.youtube.com/watch?v=iGMl-9DQLCo</guid>
+            <pubDate>SEPTEMBER 9, 2021 AT 07:07PM</pubDate>
+            <description>Cambiamento climatico, elettrificazione e dintorni con Emanuele Bompan</description>
         </item>
         <item>
-            <title>Marco Montemagno - Food Talks con Cristina Bowerman e Paolo Marchi</title>
-            <link>https://www.youtube.com/watch?v=S2lz_QQXCVQ</link>
-            <guid>https://www.youtube.com/watch?v=S2lz_QQXCVQ</guid>
-            <pubDate>MAY 20, 2021 AT 09:34AM</pubDate>
-            <description>Food Talks con Cristina Bowerman e Paolo Marchi</description>
+            <title>Marco Montemagno - Hai un cane, un gatto...Monica Pais su Competenze.it</title>
+            <link>https://www.youtube.com/watch?v=bmb7cm81r3Q</link>
+            <guid>https://www.youtube.com/watch?v=bmb7cm81r3Q</guid>
+            <pubDate>JULY 12, 2021 AT 12:32PM</pubDate>
+            <description>Hai un cane, un gatto...Monica Pais su Competenze.it</description>
         </item>
         <item>
-            <title>Matteo Flora - Cos&#39;è HUDI (Human Data Income), la crypto che permette agli utenti di monetizzare i propri dati!</title>
-            <link>https://www.youtube.com/watch?v=FSxPOOWo3jg</link>
-            <guid>https://www.youtube.com/watch?v=FSxPOOWo3jg</guid>
-            <pubDate>SEPTEMBER 15, 2021 AT 12:09AM</pubDate>
-            <description>Cos&#39;è HUDI (Human Data Income), la crypto che permette agli utenti di monetizzare i propri dati!</description>
+            <title>Marco Montemagno - 4 consigli utili per il tuo lavoro da 4 grandi imprenditori italiani</title>
+            <link>https://www.youtube.com/watch?v=Fs0w1QIlF_4</link>
+            <guid>https://www.youtube.com/watch?v=Fs0w1QIlF_4</guid>
+            <pubDate>AUGUST 11, 2021 AT 01:00PM</pubDate>
+            <description>4 consigli utili per il tuo lavoro da 4 grandi imprenditori italiani</description>
         </item>
         <item>
-            <title>Matteo Flora - Ciao Intenter! La LIVE Serale!</title>
-            <link>https://www.youtube.com/watch?v=JdSn_llbFx8</link>
-            <guid>https://www.youtube.com/watch?v=JdSn_llbFx8</guid>
-            <pubDate>NOVEMBER 1, 2021 AT 03:15PM</pubDate>
-            <description>Ciao Intenter! La LIVE Serale!</description>
+            <title>Marco Montemagno - Leadership Gentile con Guido Stratta (Direttore People &amp; Organisation Gruppo Enel)</title>
+            <link>https://www.youtube.com/watch?v=_qAOAqmh0Sw</link>
+            <guid>https://www.youtube.com/watch?v=_qAOAqmh0Sw</guid>
+            <pubDate>DECEMBER 20, 2021 AT 01:00PM</pubDate>
+            <description>Leadership Gentile con Guido Stratta (Direttore People &amp; Organisation Gruppo Enel)</description>
         </item>
         <item>
-            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Alberto De Paoli, Enel</title>
-            <link>https://www.youtube.com/watch?v=ry5YKko0WRU</link>
-            <guid>https://www.youtube.com/watch?v=ry5YKko0WRU</guid>
-            <pubDate>SEPTEMBER 9, 2021 AT 07:09PM</pubDate>
-            <description>Cambiamento climatico, elettrificazione e dintorni con Alberto De Paoli, Enel</description>
+            <title>Marco Montemagno - Perché anche davanti ai fatti la gente non cambia idea</title>
+            <link>https://www.youtube.com/watch?v=jqCSBWbN66U</link>
+            <guid>https://www.youtube.com/watch?v=jqCSBWbN66U</guid>
+            <pubDate>JULY 17, 2021 AT 02:00PM</pubDate>
+            <description>Perché anche davanti ai fatti la gente non cambia idea</description>
         </item>
         <item>
-            <title>Marco Montemagno - Il mio nome è Bond...JEFF BOND (perché Amazon ha comprato MGM)</title>
-            <link>https://www.youtube.com/watch?v=4eIs8Q0ZOxk</link>
-            <guid>https://www.youtube.com/watch?v=4eIs8Q0ZOxk</guid>
-            <pubDate>MAY 26, 2021 AT 05:30PM</pubDate>
-            <description>Il mio nome è Bond...JEFF BOND (perché Amazon ha comprato MGM)</description>
+            <title>Marco Montemagno - Come comprare un NFT su OpenSea</title>
+            <link>https://www.youtube.com/watch?v=N6jxJBpMujs</link>
+            <guid>https://www.youtube.com/watch?v=N6jxJBpMujs</guid>
+            <pubDate>JANUARY 28, 2022 AT 01:40PM</pubDate>
+            <description>Come comprare un NFT su OpenSea</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Search Console Insight: tutto quello da sapere!</title>
-            <link>https://www.youtube.com/watch?v=zbJHlWAs8j0</link>
-            <guid>https://www.youtube.com/watch?v=zbJHlWAs8j0</guid>
-            <pubDate>JUNE 18, 2021 AT 07:30AM</pubDate>
-            <description>Search Console Insight: tutto quello da sapere!</description>
+            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Antonio Cammisecra (Enel)</title>
+            <link>https://www.youtube.com/watch?v=ym8xfRvhkOI</link>
+            <guid>https://www.youtube.com/watch?v=ym8xfRvhkOI</guid>
+            <pubDate>SEPTEMBER 5, 2021 AT 06:58PM</pubDate>
+            <description>Cambiamento climatico, elettrificazione e dintorni con Antonio Cammisecra (Enel)</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - 5 tecniche per scrivere come i copywriter di Apple</title>
+            <link>https://www.youtube.com/watch?v=ypHCFoUPWqA</link>
+            <guid>https://www.youtube.com/watch?v=ypHCFoUPWqA</guid>
+            <pubDate>SEPTEMBER 24, 2021 AT 08:53AM</pubDate>
+            <description>5 tecniche per scrivere come i copywriter di Apple</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Intelligenza Artificiale e aziende: quali opportunità?</title>
+            <link>https://www.youtube.com/watch?v=d3zi4yRnbhw</link>
+            <guid>https://www.youtube.com/watch?v=d3zi4yRnbhw</guid>
+            <pubDate>JUNE 22, 2021 AT 08:45AM</pubDate>
+            <description>Intelligenza Artificiale e aziende: quali opportunità?</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Google My Business: una panoramica semplice - Al Lavoro Con Fabio Guido</title>
+            <link>https://www.youtube.com/watch?v=h3vvtdGGVE0</link>
+            <guid>https://www.youtube.com/watch?v=h3vvtdGGVE0</guid>
+            <pubDate>MAY 11, 2021 AT 07:30AM</pubDate>
+            <description>Google My Business: una panoramica semplice - Al Lavoro Con Fabio Guido</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Cina: tra pregiudizi e realtà</title>
+            <link>https://www.youtube.com/watch?v=_vQzZu6xXMY</link>
+            <guid>https://www.youtube.com/watch?v=_vQzZu6xXMY</guid>
+            <pubDate>JANUARY 29, 2022 AT 02:30PM</pubDate>
+            <description>Cina: tra pregiudizi e realtà</description>
         </item>
     </channel>
 </rss>
