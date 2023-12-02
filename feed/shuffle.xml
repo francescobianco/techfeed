@@ -5,118 +5,97 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Fri, 01 Dec 2023 13:18:25 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 02 Dec 2023 13:15:07 +0000</lastBuildDate>
         <item>
-            <title>Raffaele Gaito - CONCENTRATI SUL &quot;CHI&quot; NON SUL &quot;COME&quot;</title>
-            <link>https://www.youtube.com/watch?v=GGHolJ2fNB4</link>
-            <guid>https://www.youtube.com/watch?v=GGHolJ2fNB4</guid>
-            <pubDate>AUGUST 10, 2021 AT 08:00AM</pubDate>
-            <description>CONCENTRATI SUL &quot;CHI&quot; NON SUL &quot;COME&quot;</description>
+            <title>Raffaele Gaito - 7 LIBRI CHE MI HANNO CAMBIATO LA VITA</title>
+            <link>https://www.youtube.com/watch?v=oDeYD6EZ2Qs</link>
+            <guid>https://www.youtube.com/watch?v=oDeYD6EZ2Qs</guid>
+            <pubDate>MAY 18, 2021 AT 08:00AM</pubDate>
+            <description>7 LIBRI CHE MI HANNO CAMBIATO LA VITA</description>
         </item>
         <item>
-            <title>Marco Montemagno - Perché anche davanti ai fatti la gente non cambia idea</title>
-            <link>https://www.youtube.com/watch?v=jqCSBWbN66U</link>
-            <guid>https://www.youtube.com/watch?v=jqCSBWbN66U</guid>
-            <pubDate>JULY 17, 2021 AT 02:00PM</pubDate>
-            <description>Perché anche davanti ai fatti la gente non cambia idea</description>
+            <title>Giorgio Taverniti - Perché YouTube mi ha costretto a passare a Twitch</title>
+            <link>https://www.youtube.com/watch?v=H0apJ8TS6Co</link>
+            <guid>https://www.youtube.com/watch?v=H0apJ8TS6Co</guid>
+            <pubDate>JUNE 21, 2021 AT 07:30AM</pubDate>
+            <description>Perché YouTube mi ha costretto a passare a Twitch</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Come creare e vendere un NFT</title>
-            <link>https://www.youtube.com/watch?v=jzi6yQROUNs</link>
-            <guid>https://www.youtube.com/watch?v=jzi6yQROUNs</guid>
-            <pubDate>FEBRUARY 11, 2022 AT 09:12AM</pubDate>
-            <description>Come creare e vendere un NFT</description>
+            <title>Marco Montemagno - Moda ed e-commerce: il ruolo fondamentale della sostenibilità</title>
+            <link>https://www.youtube.com/watch?v=qJmikLxAuSc</link>
+            <guid>https://www.youtube.com/watch?v=qJmikLxAuSc</guid>
+            <pubDate>JANUARY 6, 2022 AT 10:00AM</pubDate>
+            <description>Moda ed e-commerce: il ruolo fondamentale della sostenibilità</description>
         </item>
         <item>
-            <title>Marco Montemagno - Perché Microsoft ha comprato Activision per $70MLD (in contanti)</title>
-            <link>https://www.youtube.com/watch?v=5m8tyjnqLLQ</link>
-            <guid>https://www.youtube.com/watch?v=5m8tyjnqLLQ</guid>
-            <pubDate>JANUARY 19, 2022 AT 11:50AM</pubDate>
-            <description>Perché Microsoft ha comprato Activision per $70MLD (in contanti)</description>
+            <title>Marco Montemagno - Come faccio a tutelare legalmente il mio e-commerce?</title>
+            <link>https://www.youtube.com/watch?v=Uwdp3sZpQVc</link>
+            <guid>https://www.youtube.com/watch?v=Uwdp3sZpQVc</guid>
+            <pubDate>NOVEMBER 24, 2021 AT 10:55AM</pubDate>
+            <description>Come faccio a tutelare legalmente il mio e-commerce?</description>
         </item>
         <item>
-            <title>Matteo Flora - [DIRETTA] - Ne usciremo Diversi: di Pandemia e di Comunicazione</title>
-            <link>https://www.youtube.com/watch?v=keZHqN40Jck</link>
-            <guid>https://www.youtube.com/watch?v=keZHqN40Jck</guid>
-            <pubDate>DECEMBER 22, 2021 AT 01:34PM</pubDate>
-            <description>[DIRETTA] - Ne usciremo Diversi: di Pandemia e di Comunicazione</description>
+            <title>Matteo Flora - Perché dico che in Italia la colpa del RevengePorn è dei giornalisti...</title>
+            <link>https://www.youtube.com/watch?v=tPqTBYt2la0</link>
+            <guid>https://www.youtube.com/watch?v=tPqTBYt2la0</guid>
+            <pubDate>NOVEMBER 12, 2021 AT 11:46AM</pubDate>
+            <description>Perché dico che in Italia la colpa del RevengePorn è dei giornalisti...</description>
         </item>
         <item>
-            <title>Marco Montemagno - Food Talks 4 chiacchere con Stefano Marini (CEO Gruppo Sanpellegrino)</title>
-            <link>https://www.youtube.com/watch?v=Y3fWZ03vtyE</link>
-            <guid>https://www.youtube.com/watch?v=Y3fWZ03vtyE</guid>
-            <pubDate>MAY 17, 2021 AT 08:33AM</pubDate>
-            <description>Food Talks 4 chiacchere con Stefano Marini (CEO Gruppo Sanpellegrino)</description>
+            <title>Marco Montemagno - The Coin of Champions: Demo live e Q&amp;A</title>
+            <link>https://www.youtube.com/watch?v=cxso2vZlye4</link>
+            <guid>https://www.youtube.com/watch?v=cxso2vZlye4</guid>
+            <pubDate>NOVEMBER 25, 2021 AT 04:22PM</pubDate>
+            <description>The Coin of Champions: Demo live e Q&amp;A</description>
         </item>
         <item>
-            <title>Marco Montemagno - Crypto is growing exponentially: which factors are driving that?</title>
-            <link>https://www.youtube.com/watch?v=iBKH4GGd_PU</link>
-            <guid>https://www.youtube.com/watch?v=iBKH4GGd_PU</guid>
-            <pubDate>DECEMBER 1, 2021 AT 01:00PM</pubDate>
-            <description>Crypto is growing exponentially: which factors are driving that?</description>
+            <title>Rudy Bandiera - Le piattaforme social sono morte</title>
+            <link>https://www.youtube.com/watch?v=RMehmi_Pido</link>
+            <guid>https://www.youtube.com/watch?v=RMehmi_Pido</guid>
+            <pubDate>JANUARY 21, 2022 AT 09:01AM</pubDate>
+            <description>Le piattaforme social sono morte</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come faccio a lanciare una iniziativa? #shorts</title>
-            <link>https://www.youtube.com/watch?v=llvS6_CX-Y0</link>
-            <guid>https://www.youtube.com/watch?v=llvS6_CX-Y0</guid>
-            <pubDate>JULY 29, 2021 AT 05:00PM</pubDate>
-            <description>Come faccio a lanciare una iniziativa? #shorts</description>
+            <title>Giorgio Taverniti - La più grande opportunità per chi fa SEO oggi</title>
+            <link>https://www.youtube.com/watch?v=HyPZwSK48fo</link>
+            <guid>https://www.youtube.com/watch?v=HyPZwSK48fo</guid>
+            <pubDate>JULY 7, 2021 AT 07:30AM</pubDate>
+            <description>La più grande opportunità per chi fa SEO oggi</description>
         </item>
         <item>
-            <title>Matteo Flora - DAZN, il tradimento, la condivisione e #disdettaleotta</title>
-            <link>https://www.youtube.com/watch?v=2XRuazBEOrs</link>
-            <guid>https://www.youtube.com/watch?v=2XRuazBEOrs</guid>
-            <pubDate>NOVEMBER 10, 2021 AT 09:47AM</pubDate>
-            <description>DAZN, il tradimento, la condivisione e #disdettaleotta</description>
+            <title>Marco Montemagno - Leggo le recensioni al mio libro (senza filtri ...)</title>
+            <link>https://www.youtube.com/watch?v=Vi5wot-6gBI</link>
+            <guid>https://www.youtube.com/watch?v=Vi5wot-6gBI</guid>
+            <pubDate>SEPTEMBER 14, 2021 AT 01:33PM</pubDate>
+            <description>Leggo le recensioni al mio libro (senza filtri ...)</description>
         </item>
         <item>
-            <title>Marco Montemagno - Intelligenza Artificiale e aziende: quali opportunità?</title>
-            <link>https://www.youtube.com/watch?v=d3zi4yRnbhw</link>
-            <guid>https://www.youtube.com/watch?v=d3zi4yRnbhw</guid>
-            <pubDate>JUNE 22, 2021 AT 08:45AM</pubDate>
-            <description>Intelligenza Artificiale e aziende: quali opportunità?</description>
+            <title>Matteo Flora - Giorgia Soleri, il razzismo, l&#39;attivismo, la &quot;fidanzata di Damiano dei Maneskin&quot; e la redenzione...</title>
+            <link>https://www.youtube.com/watch?v=3n2qeiTaGik</link>
+            <guid>https://www.youtube.com/watch?v=3n2qeiTaGik</guid>
+            <pubDate>JANUARY 14, 2022 AT 06:30PM</pubDate>
+            <description>Giorgia Soleri, il razzismo, l&#39;attivismo, la &quot;fidanzata di Damiano dei Maneskin&quot; e la redenzione...</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come posizionarti BENE sui motori di ricerca anche se non sei un esperto</title>
-            <link>https://www.youtube.com/watch?v=OHMTJbysKyg</link>
-            <guid>https://www.youtube.com/watch?v=OHMTJbysKyg</guid>
-            <pubDate>DECEMBER 14, 2021 AT 12:00PM</pubDate>
-            <description>Come posizionarti BENE sui motori di ricerca anche se non sei un esperto</description>
+            <title>Marco Montemagno - Come si applicano gli NFT nello sport, nel gaming e nella moda</title>
+            <link>https://www.youtube.com/watch?v=d8CaghcMGZk</link>
+            <guid>https://www.youtube.com/watch?v=d8CaghcMGZk</guid>
+            <pubDate>NOVEMBER 26, 2021 AT 09:00AM</pubDate>
+            <description>Come si applicano gli NFT nello sport, nel gaming e nella moda</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Marco Bizzarri (CEO di Gucci)</title>
-            <link>https://www.youtube.com/watch?v=cO2YXvr-rqw</link>
-            <guid>https://www.youtube.com/watch?v=cO2YXvr-rqw</guid>
-            <pubDate>JULY 22, 2021 AT 02:30PM</pubDate>
-            <description>4 chiacchiere con Marco Bizzarri (CEO di Gucci)</description>
+            <title>Marco Montemagno - Perché l&#39;ignoranza dilaga nei commenti</title>
+            <link>https://www.youtube.com/watch?v=QvC_5RkHSLM</link>
+            <guid>https://www.youtube.com/watch?v=QvC_5RkHSLM</guid>
+            <pubDate>SEPTEMBER 7, 2021 AT 04:01PM</pubDate>
+            <description>Perché l&#39;ignoranza dilaga nei commenti</description>
         </item>
         <item>
-            <title>Marco Montemagno - È Finita?</title>
-            <link>https://www.youtube.com/watch?v=LzcM-nLZXWc</link>
-            <guid>https://www.youtube.com/watch?v=LzcM-nLZXWc</guid>
-            <pubDate>JUNE 13, 2021 AT 05:17PM</pubDate>
-            <description>È Finita?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - È la scelta giusta? È il metodo giusto per te?</title>
-            <link>https://www.youtube.com/watch?v=VnsQr0WhjS8</link>
-            <guid>https://www.youtube.com/watch?v=VnsQr0WhjS8</guid>
-            <pubDate>JANUARY 17, 2022 AT 01:00PM</pubDate>
-            <description>È la scelta giusta? È il metodo giusto per te?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Europei 2021: Congratulazioni Azzurri!</title>
-            <link>https://www.youtube.com/watch?v=B2dpKlbVv4k</link>
-            <guid>https://www.youtube.com/watch?v=B2dpKlbVv4k</guid>
-            <pubDate>JULY 12, 2021 AT 01:00PM</pubDate>
-            <description>Europei 2021: Congratulazioni Azzurri!</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - ANSIA DA PRESTAZIONE: COME SUPERARLA</title>
-            <link>https://www.youtube.com/watch?v=0tNBIvO5mX8</link>
-            <guid>https://www.youtube.com/watch?v=0tNBIvO5mX8</guid>
-            <pubDate>JUNE 29, 2021 AT 08:00AM</pubDate>
-            <description>ANSIA DA PRESTAZIONE: COME SUPERARLA</description>
+            <title>Marco Montemagno - Bezos, Branson, Musk: la corsa dei Miliardari per accaparrarsi il nuovo business dello Spazio</title>
+            <link>https://www.youtube.com/watch?v=M4Q6hKyqME4</link>
+            <guid>https://www.youtube.com/watch?v=M4Q6hKyqME4</guid>
+            <pubDate>JULY 20, 2021 AT 01:06PM</pubDate>
+            <description>Bezos, Branson, Musk: la corsa dei Miliardari per accaparrarsi il nuovo business dello Spazio</description>
         </item>
         <item>
             <title>Marco Montemagno - Food Talks 4 chiacchiere con Valeria Raimondi, Editor in Chief FineDiningLovers</title>
@@ -126,25 +105,46 @@
             <description>Food Talks 4 chiacchiere con Valeria Raimondi, Editor in Chief FineDiningLovers</description>
         </item>
         <item>
-            <title>Marco Montemagno - Food Talks 4 chiacchiere con Vincenzo Ferrieri (Cioccolati Italiani) e Vittoria Zanetti (Poke House)</title>
-            <link>https://www.youtube.com/watch?v=ze-950IFPvs</link>
-            <guid>https://www.youtube.com/watch?v=ze-950IFPvs</guid>
-            <pubDate>MAY 17, 2021 AT 11:37AM</pubDate>
-            <description>Food Talks 4 chiacchiere con Vincenzo Ferrieri (Cioccolati Italiani) e Vittoria Zanetti (Poke House)</description>
+            <title>Marco Montemagno - Perché Microsoft ha comprato Activision per $70MLD (in contanti)</title>
+            <link>https://www.youtube.com/watch?v=5m8tyjnqLLQ</link>
+            <guid>https://www.youtube.com/watch?v=5m8tyjnqLLQ</guid>
+            <pubDate>JANUARY 19, 2022 AT 11:50AM</pubDate>
+            <description>Perché Microsoft ha comprato Activision per $70MLD (in contanti)</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come stabilire il prezzo di un prodotto con Enrico Santarelli (Chief Marketing Officer Clementoni)</title>
-            <link>https://www.youtube.com/watch?v=z-VwELUcA7s</link>
-            <guid>https://www.youtube.com/watch?v=z-VwELUcA7s</guid>
-            <pubDate>FEBRUARY 3, 2022 AT 09:50AM</pubDate>
-            <description>Come stabilire il prezzo di un prodotto con Enrico Santarelli (Chief Marketing Officer Clementoni)</description>
+            <title>Marco Montemagno - &quot;Non ascoltare quello che dicono, guarda quello che fanno&quot;</title>
+            <link>https://www.youtube.com/watch?v=FbQOxASUDKI</link>
+            <guid>https://www.youtube.com/watch?v=FbQOxASUDKI</guid>
+            <pubDate>MAY 13, 2021 AT 11:46AM</pubDate>
+            <description>&quot;Non ascoltare quello che dicono, guarda quello che fanno&quot;</description>
         </item>
         <item>
-            <title>Matteo Flora - Barbara Palombelli ed il DISASTRO delle (non) scuse...</title>
-            <link>https://www.youtube.com/watch?v=Mg57Uj58LrY</link>
-            <guid>https://www.youtube.com/watch?v=Mg57Uj58LrY</guid>
-            <pubDate>SEPTEMBER 22, 2021 AT 11:28AM</pubDate>
-            <description>Barbara Palombelli ed il DISASTRO delle (non) scuse...</description>
+            <title>Raffaele Gaito - Tempo al tempo | Matteo Professione - Ernia | TEDxUNICATT</title>
+            <link>https://www.youtube.com/watch?v=7GfTF5YTA0I</link>
+            <guid>https://www.youtube.com/watch?v=7GfTF5YTA0I</guid>
+            <pubDate>MARCH 30, 2021 AT 06:28PM</pubDate>
+            <description>Tempo al tempo | Matteo Professione - Ernia | TEDxUNICATT</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Perché il femminismo serve anche agli uomini. 4 chiacchiere con Lorenzo Gasparrini</title>
+            <link>https://www.youtube.com/watch?v=X9Y2SLpCJMY</link>
+            <guid>https://www.youtube.com/watch?v=X9Y2SLpCJMY</guid>
+            <pubDate>NOVEMBER 12, 2021 AT 03:14PM</pubDate>
+            <description>Perché il femminismo serve anche agli uomini. 4 chiacchiere con Lorenzo Gasparrini</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Vuoi imparare a suonare il Pianoforte? Pietro Morello su Competenze.it</title>
+            <link>https://www.youtube.com/watch?v=yEdRva8QkYg</link>
+            <guid>https://www.youtube.com/watch?v=yEdRva8QkYg</guid>
+            <pubDate>JULY 23, 2021 AT 05:13PM</pubDate>
+            <description>Vuoi imparare a suonare il Pianoforte? Pietro Morello su Competenze.it</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Mi hanno rubato il canale! Le nuove truffe e come evitare che ti rubino i profili!</title>
+            <link>https://www.youtube.com/watch?v=H467gzIYjXM</link>
+            <guid>https://www.youtube.com/watch?v=H467gzIYjXM</guid>
+            <pubDate>AUGUST 21, 2021 AT 08:35AM</pubDate>
+            <description>Mi hanno rubato il canale! Le nuove truffe e come evitare che ti rubino i profili!</description>
         </item>
     </channel>
 </rss>
