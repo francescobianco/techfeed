@@ -5,90 +5,27 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Sat, 30 Dec 2023 13:15:12 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 31 Dec 2023 13:15:16 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con The Crypto Gateway (Lua Boiardi)</title>
-            <link>https://www.youtube.com/watch?v=F-BSt-aYXCQ</link>
-            <guid>https://www.youtube.com/watch?v=F-BSt-aYXCQ</guid>
-            <pubDate>JANUARY 12, 2022 AT 11:19PM</pubDate>
-            <description>4 chiacchiere con The Crypto Gateway (Lua Boiardi)</description>
+            <title>Marco Montemagno - Intelligenza artificiale e mondo del lavoro</title>
+            <link>https://www.youtube.com/watch?v=Sa52naKlw_g</link>
+            <guid>https://www.youtube.com/watch?v=Sa52naKlw_g</guid>
+            <pubDate>JUNE 29, 2021 AT 08:25AM</pubDate>
+            <description>Intelligenza artificiale e mondo del lavoro</description>
         </item>
         <item>
-            <title>Matteo Flora - Contenuti cospirazionisti, Twitter e le grandi incognite</title>
-            <link>https://www.youtube.com/watch?v=OkHWhVBVoUo</link>
-            <guid>https://www.youtube.com/watch?v=OkHWhVBVoUo</guid>
-            <pubDate>OCTOBER 25, 2021 AT 10:22AM</pubDate>
-            <description>Contenuti cospirazionisti, Twitter e le grandi incognite</description>
+            <title>Rudy Bandiera - No perché gli spogliatoi sono brutti...</title>
+            <link>https://www.youtube.com/watch?v=mReEPFUx0O0</link>
+            <guid>https://www.youtube.com/watch?v=mReEPFUx0O0</guid>
+            <pubDate>OCTOBER 26, 2021 AT 09:46PM</pubDate>
+            <description>No perché gli spogliatoi sono brutti...</description>
         </item>
         <item>
-            <title>Marco Montemagno - La Cina (Ri)BANNA Bitcoin &amp;co...e ora che succede?</title>
-            <link>https://www.youtube.com/watch?v=OHJHU79PNbw</link>
-            <guid>https://www.youtube.com/watch?v=OHJHU79PNbw</guid>
-            <pubDate>SEPTEMBER 25, 2021 AT 12:17PM</pubDate>
-            <description>La Cina (Ri)BANNA Bitcoin &amp;co...e ora che succede?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - I poveri hanno grandi televisori, i ricchi hanno grandi librerie</title>
-            <link>https://www.youtube.com/watch?v=QiOzbrEWnTs</link>
-            <guid>https://www.youtube.com/watch?v=QiOzbrEWnTs</guid>
-            <pubDate>OCTOBER 29, 2021 AT 01:30PM</pubDate>
-            <description>I poveri hanno grandi televisori, i ricchi hanno grandi librerie</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - I 10 DIRITTI DEL LETTORE (LEGGI COME TI PARE)</title>
-            <link>https://www.youtube.com/watch?v=DexZqLDjNZE</link>
-            <guid>https://www.youtube.com/watch?v=DexZqLDjNZE</guid>
-            <pubDate>JUNE 11, 2021 AT 08:00AM</pubDate>
-            <description>I 10 DIRITTI DEL LETTORE (LEGGI COME TI PARE)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 15 tipologie di clienti da evitare come la peste</title>
-            <link>https://www.youtube.com/watch?v=jBFJMpSPG-w</link>
-            <guid>https://www.youtube.com/watch?v=jBFJMpSPG-w</guid>
-            <pubDate>OCTOBER 23, 2021 AT 04:00PM</pubDate>
-            <description>15 tipologie di clienti da evitare come la peste</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Lavoro e giovani: ci sono 700 mila posti di lavoro disponibili ma...</title>
-            <link>https://www.youtube.com/watch?v=7h9FKqj26_s</link>
-            <guid>https://www.youtube.com/watch?v=7h9FKqj26_s</guid>
-            <pubDate>DECEMBER 17, 2021 AT 01:00PM</pubDate>
-            <description>Lavoro e giovani: ci sono 700 mila posti di lavoro disponibili ma...</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Vuoi lavorare con me?</title>
-            <link>https://www.youtube.com/watch?v=WaM8OkmNBN8</link>
-            <guid>https://www.youtube.com/watch?v=WaM8OkmNBN8</guid>
-            <pubDate>JUNE 24, 2021 AT 07:33PM</pubDate>
-            <description>Vuoi lavorare con me?</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - STAGING PER WORDPRESS (E NON SOLO) SENZA PLUGIN</title>
-            <link>https://www.youtube.com/watch?v=6Up3Vu2vslk</link>
-            <guid>https://www.youtube.com/watch?v=6Up3Vu2vslk</guid>
-            <pubDate>MAY 7, 2021 AT 08:00AM</pubDate>
-            <description>STAGING PER WORDPRESS (E NON SOLO) SENZA PLUGIN</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Food talks con Isabella Potì e Floriano Pellegrino, Chef di Bros’</title>
-            <link>https://www.youtube.com/watch?v=zslJY-BEpfw</link>
-            <guid>https://www.youtube.com/watch?v=zslJY-BEpfw</guid>
-            <pubDate>MAY 18, 2021 AT 10:43PM</pubDate>
-            <description>Food talks con Isabella Potì e Floriano Pellegrino, Chef di Bros’</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con Francesco Vena (Amaro Lucano)</title>
-            <link>https://www.youtube.com/watch?v=14sNwIMDd8M</link>
-            <guid>https://www.youtube.com/watch?v=14sNwIMDd8M</guid>
-            <pubDate>JUNE 16, 2021 AT 12:09PM</pubDate>
-            <description>4 chiacchiere con Francesco Vena (Amaro Lucano)</description>
-        </item>
-        <item>
-            <title>Matteo Flora - I profili Fake di Monica Cirinnà (e del cane) e la #Reputazione…</title>
-            <link>https://www.youtube.com/watch?v=T9k7sj_rhao</link>
-            <guid>https://www.youtube.com/watch?v=T9k7sj_rhao</guid>
-            <pubDate>SEPTEMBER 9, 2021 AT 08:02AM</pubDate>
-            <description>I profili Fake di Monica Cirinnà (e del cane) e la #Reputazione…</description>
+            <title>Giorgio Taverniti - Arriva su Google il profilo per Giornalisti e Content Creator!</title>
+            <link>https://www.youtube.com/watch?v=FSZaobShGl0</link>
+            <guid>https://www.youtube.com/watch?v=FSZaobShGl0</guid>
+            <pubDate>JUNE 17, 2021 AT 07:30AM</pubDate>
+            <description>Arriva su Google il profilo per Giornalisti e Content Creator!</description>
         </item>
         <item>
             <title>Matteo Flora - Perché le AI vedono scimmie invece di persone di colore?</title>
@@ -98,53 +35,116 @@
             <description>Perché le AI vedono scimmie invece di persone di colore?</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Parlando del futuro dei videogame e di PS5</title>
-            <link>https://www.youtube.com/watch?v=a9PyCx8iYaM</link>
-            <guid>https://www.youtube.com/watch?v=a9PyCx8iYaM</guid>
-            <pubDate>FEBRUARY 7, 2022 AT 10:22AM</pubDate>
-            <description>Parlando del futuro dei videogame e di PS5</description>
+            <title>Marco Montemagno - Cosa diavolo sono gli NFT?</title>
+            <link>https://www.youtube.com/watch?v=z5fAeWswJos</link>
+            <guid>https://www.youtube.com/watch?v=z5fAeWswJos</guid>
+            <pubDate>JANUARY 21, 2022 AT 01:18PM</pubDate>
+            <description>Cosa diavolo sono gli NFT?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Sui social tutti cercano di influenzarti: sai riconoscere la verità?</title>
-            <link>https://www.youtube.com/watch?v=uNwDXZDJjPs</link>
-            <guid>https://www.youtube.com/watch?v=uNwDXZDJjPs</guid>
-            <pubDate>AUGUST 3, 2021 AT 01:00PM</pubDate>
-            <description>Sui social tutti cercano di influenzarti: sai riconoscere la verità?</description>
+            <title>Raffaele Gaito - Smetti di seguire gente tossica #shorts</title>
+            <link>https://www.youtube.com/watch?v=Z7Zw0hJEPCQ</link>
+            <guid>https://www.youtube.com/watch?v=Z7Zw0hJEPCQ</guid>
+            <pubDate>JUNE 30, 2021 AT 03:54PM</pubDate>
+            <description>Smetti di seguire gente tossica #shorts</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Advertising e Privacy: ma che cosa sta succedendo?</title>
-            <link>https://www.youtube.com/watch?v=6ZzALaEwIak</link>
-            <guid>https://www.youtube.com/watch?v=6ZzALaEwIak</guid>
-            <pubDate>JULY 6, 2021 AT 07:30AM</pubDate>
-            <description>Advertising e Privacy: ma che cosa sta succedendo?</description>
+            <title>Raffaele Gaito - IMPRESE ITALIANE E DIGITALIZZAZIONE, COME SIAMO MESSI?!</title>
+            <link>https://www.youtube.com/watch?v=SGs4LsPVkV8</link>
+            <guid>https://www.youtube.com/watch?v=SGs4LsPVkV8</guid>
+            <pubDate>JULY 30, 2021 AT 08:00AM</pubDate>
+            <description>IMPRESE ITALIANE E DIGITALIZZAZIONE, COME SIAMO MESSI?!</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Stiamo entrando nell&#39;era del &quot;nazionalismo digitale&quot;</title>
-            <link>https://www.youtube.com/watch?v=99lHrko8gq0</link>
-            <guid>https://www.youtube.com/watch?v=99lHrko8gq0</guid>
-            <pubDate>JUNE 1, 2021 AT 09:36AM</pubDate>
-            <description>Stiamo entrando nell&#39;era del &quot;nazionalismo digitale&quot;</description>
+            <title>Matteo Flora - DAZN, il tradimento, la condivisione e #disdettaleotta</title>
+            <link>https://www.youtube.com/watch?v=2XRuazBEOrs</link>
+            <guid>https://www.youtube.com/watch?v=2XRuazBEOrs</guid>
+            <pubDate>NOVEMBER 10, 2021 AT 09:47AM</pubDate>
+            <description>DAZN, il tradimento, la condivisione e #disdettaleotta</description>
         </item>
         <item>
-            <title>Marco Montemagno - 7 cose che ha detto Elon Musk che fanno riflettere</title>
-            <link>https://www.youtube.com/watch?v=1hPUXev58IM</link>
-            <guid>https://www.youtube.com/watch?v=1hPUXev58IM</guid>
-            <pubDate>DECEMBER 11, 2021 AT 01:00PM</pubDate>
-            <description>7 cose che ha detto Elon Musk che fanno riflettere</description>
+            <title>Matteo Flora - [LIVE] - Ciao Internet SERALE in DIRETTA - Questa non é una live su Luca Morisi</title>
+            <link>https://www.youtube.com/watch?v=PTXLgoaCEBU</link>
+            <guid>https://www.youtube.com/watch?v=PTXLgoaCEBU</guid>
+            <pubDate>SEPTEMBER 29, 2021 AT 01:44PM</pubDate>
+            <description>[LIVE] - Ciao Internet SERALE in DIRETTA - Questa non é una live su Luca Morisi</description>
         </item>
         <item>
-            <title>Marco Montemagno - I colossi Crypto alla conquista del mondo</title>
-            <link>https://www.youtube.com/watch?v=3qYCDik9kgc</link>
-            <guid>https://www.youtube.com/watch?v=3qYCDik9kgc</guid>
-            <pubDate>NOVEMBER 17, 2021 AT 03:30PM</pubDate>
-            <description>I colossi Crypto alla conquista del mondo</description>
+            <title>Marco Montemagno - Perché Microsoft ha comprato Activision per $70MLD (in contanti)</title>
+            <link>https://www.youtube.com/watch?v=5m8tyjnqLLQ</link>
+            <guid>https://www.youtube.com/watch?v=5m8tyjnqLLQ</guid>
+            <pubDate>JANUARY 19, 2022 AT 11:50AM</pubDate>
+            <description>Perché Microsoft ha comprato Activision per $70MLD (in contanti)</description>
         </item>
         <item>
-            <title>Marco Montemagno - Su Competenze sta per arrivare Francesca Vecchioni con il corso Diversity &amp; Inclusion</title>
-            <link>https://www.youtube.com/watch?v=Rpptz2wz2no</link>
-            <guid>https://www.youtube.com/watch?v=Rpptz2wz2no</guid>
-            <pubDate>MAY 7, 2021 AT 12:29PM</pubDate>
-            <description>Su Competenze sta per arrivare Francesca Vecchioni con il corso Diversity &amp; Inclusion</description>
+            <title>Marco Montemagno - Print on demand: cos&#39;è e perché rivoluzionerà il modo di vendere</title>
+            <link>https://www.youtube.com/watch?v=D4Py1HjmNTw</link>
+            <guid>https://www.youtube.com/watch?v=D4Py1HjmNTw</guid>
+            <pubDate>SEPTEMBER 24, 2021 AT 02:41PM</pubDate>
+            <description>Print on demand: cos&#39;è e perché rivoluzionerà il modo di vendere</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Talento o vocazione? Ne avevo parlato con Maura Gancitano</title>
+            <link>https://www.youtube.com/watch?v=TKT-Mwph-r4</link>
+            <guid>https://www.youtube.com/watch?v=TKT-Mwph-r4</guid>
+            <pubDate>AUGUST 27, 2021 AT 03:05PM</pubDate>
+            <description>Talento o vocazione? Ne avevo parlato con Maura Gancitano</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Cosa non toccare quando il sito è PRIMO su Google e deve fare un Restyle</title>
+            <link>https://www.youtube.com/watch?v=1n7NiUqIk4Q</link>
+            <guid>https://www.youtube.com/watch?v=1n7NiUqIk4Q</guid>
+            <pubDate>MAY 31, 2021 AT 07:30AM</pubDate>
+            <description>Cosa non toccare quando il sito è PRIMO su Google e deve fare un Restyle</description>
+        </item>
+        <item>
+            <title>Matteo Flora - [DIRETTA] - Ne usciremo Diversi: di Pandemia e di Comunicazione</title>
+            <link>https://www.youtube.com/watch?v=keZHqN40Jck</link>
+            <guid>https://www.youtube.com/watch?v=keZHqN40Jck</guid>
+            <pubDate>DECEMBER 22, 2021 AT 01:34PM</pubDate>
+            <description>[DIRETTA] - Ne usciremo Diversi: di Pandemia e di Comunicazione</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Il boom degli e-commerce in Italia: qualcosa sta cambiando?</title>
+            <link>https://www.youtube.com/watch?v=MQ0o-y_YRuk</link>
+            <guid>https://www.youtube.com/watch?v=MQ0o-y_YRuk</guid>
+            <pubDate>SEPTEMBER 30, 2021 AT 02:00PM</pubDate>
+            <description>Il boom degli e-commerce in Italia: qualcosa sta cambiando?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Da &quot;bluff&quot; a 1.000 miliardi: come Elon Musk ha zittito tutti con Tesla</title>
+            <link>https://www.youtube.com/watch?v=KjFpO7ZkbNg</link>
+            <guid>https://www.youtube.com/watch?v=KjFpO7ZkbNg</guid>
+            <pubDate>OCTOBER 27, 2021 AT 12:30PM</pubDate>
+            <description>Da &quot;bluff&quot; a 1.000 miliardi: come Elon Musk ha zittito tutti con Tesla</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Bricofer contro Rapetto: il ransomware e gli errori di comunicazione</title>
+            <link>https://www.youtube.com/watch?v=6GA6KbD8iQg</link>
+            <guid>https://www.youtube.com/watch?v=6GA6KbD8iQg</guid>
+            <pubDate>JANUARY 19, 2022 AT 07:17PM</pubDate>
+            <description>Bricofer contro Rapetto: il ransomware e gli errori di comunicazione</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - È la scelta giusta? È il metodo giusto per te?</title>
+            <link>https://www.youtube.com/watch?v=VnsQr0WhjS8</link>
+            <guid>https://www.youtube.com/watch?v=VnsQr0WhjS8</guid>
+            <pubDate>JANUARY 17, 2022 AT 01:00PM</pubDate>
+            <description>È la scelta giusta? È il metodo giusto per te?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Radiografica di un e-commerce: dalla strategia alla tecnologia</title>
+            <link>https://www.youtube.com/watch?v=YYstLN0ahjo</link>
+            <guid>https://www.youtube.com/watch?v=YYstLN0ahjo</guid>
+            <pubDate>FEBRUARY 8, 2022 AT 06:49PM</pubDate>
+            <description>Radiografica di un e-commerce: dalla strategia alla tecnologia</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Fan Tokens with Alexander Dreyfus (Socios.com)</title>
+            <link>https://www.youtube.com/watch?v=cKAMg4okF44</link>
+            <guid>https://www.youtube.com/watch?v=cKAMg4okF44</guid>
+            <pubDate>DECEMBER 5, 2021 AT 03:00PM</pubDate>
+            <description>Fan Tokens with Alexander Dreyfus (Socios.com)</description>
         </item>
     </channel>
 </rss>
