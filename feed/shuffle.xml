@@ -5,55 +5,41 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Thu, 18 Jan 2024 13:18:15 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 13:17:53 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - Bitcoin e Crypto: rivoluzione in corso...</title>
-            <link>https://www.youtube.com/watch?v=6Jj-yd6aQrA</link>
-            <guid>https://www.youtube.com/watch?v=6Jj-yd6aQrA</guid>
-            <pubDate>NOVEMBER 10, 2021 AT 01:27PM</pubDate>
-            <description>Bitcoin e Crypto: rivoluzione in corso...</description>
+            <title>Marco Montemagno - 12 errori assolutamente da non fare, quando scrivi per un lavoro</title>
+            <link>https://www.youtube.com/watch?v=mguXOSdqbpE</link>
+            <guid>https://www.youtube.com/watch?v=mguXOSdqbpE</guid>
+            <pubDate>JULY 1, 2021 AT 03:49PM</pubDate>
+            <description>12 errori assolutamente da non fare, quando scrivi per un lavoro</description>
         </item>
         <item>
-            <title>Marco Montemagno - Blockchain, realtà aumentata, metaverso con Davide Cuttini - CEO di OVR</title>
-            <link>https://www.youtube.com/watch?v=MzpExairFFA</link>
-            <guid>https://www.youtube.com/watch?v=MzpExairFFA</guid>
-            <pubDate>NOVEMBER 27, 2021 AT 01:00PM</pubDate>
-            <description>Blockchain, realtà aumentata, metaverso con Davide Cuttini - CEO di OVR</description>
+            <title>Marco Montemagno - Bezos, Branson, Musk: la corsa dei Miliardari per accaparrarsi il nuovo business dello Spazio</title>
+            <link>https://www.youtube.com/watch?v=M4Q6hKyqME4</link>
+            <guid>https://www.youtube.com/watch?v=M4Q6hKyqME4</guid>
+            <pubDate>JULY 20, 2021 AT 01:06PM</pubDate>
+            <description>Bezos, Branson, Musk: la corsa dei Miliardari per accaparrarsi il nuovo business dello Spazio</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Nek</title>
-            <link>https://www.youtube.com/watch?v=Pj947GejFI0</link>
-            <guid>https://www.youtube.com/watch?v=Pj947GejFI0</guid>
-            <pubDate>JULY 8, 2021 AT 09:02PM</pubDate>
-            <description>4 chiacchiere con Nek</description>
+            <title>Marco Montemagno - Quali lavori spopoleranno in futuro?</title>
+            <link>https://www.youtube.com/watch?v=Ag9y4YD27pk</link>
+            <guid>https://www.youtube.com/watch?v=Ag9y4YD27pk</guid>
+            <pubDate>OCTOBER 28, 2021 AT 12:30PM</pubDate>
+            <description>Quali lavori spopoleranno in futuro?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Vuoi lavorare con me?</title>
-            <link>https://www.youtube.com/watch?v=WaM8OkmNBN8</link>
-            <guid>https://www.youtube.com/watch?v=WaM8OkmNBN8</guid>
-            <pubDate>JUNE 24, 2021 AT 07:33PM</pubDate>
-            <description>Vuoi lavorare con me?</description>
+            <title>Marco Montemagno - Yotobi in 6 minuti</title>
+            <link>https://www.youtube.com/watch?v=fol7LPHJIxE</link>
+            <guid>https://www.youtube.com/watch?v=fol7LPHJIxE</guid>
+            <pubDate>AUGUST 31, 2021 AT 09:12PM</pubDate>
+            <description>Yotobi in 6 minuti</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Francesco Vena (Amaro Lucano)</title>
-            <link>https://www.youtube.com/watch?v=VvqgGU_55NM</link>
-            <guid>https://www.youtube.com/watch?v=VvqgGU_55NM</guid>
-            <pubDate>JUNE 16, 2021 AT 12:47PM</pubDate>
-            <description>4 chiacchiere con Francesco Vena (Amaro Lucano)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Alberto De Paoli, Enel</title>
-            <link>https://www.youtube.com/watch?v=ry5YKko0WRU</link>
-            <guid>https://www.youtube.com/watch?v=ry5YKko0WRU</guid>
-            <pubDate>SEPTEMBER 9, 2021 AT 07:09PM</pubDate>
-            <description>Cambiamento climatico, elettrificazione e dintorni con Alberto De Paoli, Enel</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 5 (+1) errori ASSOLUTAMENTE da evitare quando parli in pubblico</title>
-            <link>https://www.youtube.com/watch?v=dT8wIajxiks</link>
-            <guid>https://www.youtube.com/watch?v=dT8wIajxiks</guid>
-            <pubDate>SEPTEMBER 23, 2021 AT 01:06PM</pubDate>
-            <description>5 (+1) errori ASSOLUTAMENTE da evitare quando parli in pubblico</description>
+            <title>Raffaele Gaito - 7 LIBRI CHE MI HANNO CAMBIATO LA VITA</title>
+            <link>https://www.youtube.com/watch?v=oDeYD6EZ2Qs</link>
+            <guid>https://www.youtube.com/watch?v=oDeYD6EZ2Qs</guid>
+            <pubDate>MAY 18, 2021 AT 08:00AM</pubDate>
+            <description>7 LIBRI CHE MI HANNO CAMBIATO LA VITA</description>
         </item>
         <item>
             <title>Marco Montemagno - Come fare innovazione nel settore legale di un&#39;azienda</title>
@@ -63,88 +49,102 @@
             <description>Come fare innovazione nel settore legale di un&#39;azienda</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con The Crypto Gateway (Lua Boiardi)</title>
-            <link>https://www.youtube.com/watch?v=F-BSt-aYXCQ</link>
-            <guid>https://www.youtube.com/watch?v=F-BSt-aYXCQ</guid>
-            <pubDate>JANUARY 12, 2022 AT 11:19PM</pubDate>
-            <description>4 chiacchiere con The Crypto Gateway (Lua Boiardi)</description>
+            <title>Marco Montemagno - Intelligenza Artificiale e Sanità: a che punto siamo?</title>
+            <link>https://www.youtube.com/watch?v=S-50DuXwW9o</link>
+            <guid>https://www.youtube.com/watch?v=S-50DuXwW9o</guid>
+            <pubDate>JUNE 20, 2021 AT 11:46PM</pubDate>
+            <description>Intelligenza Artificiale e Sanità: a che punto siamo?</description>
         </item>
         <item>
-            <title>Marco Montemagno - How  to deal with fake news? Malcolm Gladwell&#39;s point of view #shorts</title>
-            <link>https://www.youtube.com/watch?v=6O9moWlzr9k</link>
-            <guid>https://www.youtube.com/watch?v=6O9moWlzr9k</guid>
-            <pubDate>JULY 15, 2021 AT 07:31PM</pubDate>
-            <description>How  to deal with fake news? Malcolm Gladwell&#39;s point of view #shorts</description>
+            <title>Raffaele Gaito - LA MALEDIZIONE DELLA CONOSCENZA (COS&#39;È E COME USCIRNE)</title>
+            <link>https://www.youtube.com/watch?v=hcJwTlEFPXI</link>
+            <guid>https://www.youtube.com/watch?v=hcJwTlEFPXI</guid>
+            <pubDate>JULY 20, 2021 AT 08:00AM</pubDate>
+            <description>LA MALEDIZIONE DELLA CONOSCENZA (COS&#39;È E COME USCIRNE)</description>
         </item>
         <item>
-            <title>Matteo Flora - #GreenPass hackerato: ecco come hanno fatto (e cosa fare ora)</title>
-            <link>https://www.youtube.com/watch?v=2UI9YOh8uVE</link>
-            <guid>https://www.youtube.com/watch?v=2UI9YOh8uVE</guid>
-            <pubDate>OCTOBER 28, 2021 AT 11:17AM</pubDate>
-            <description>#GreenPass hackerato: ecco come hanno fatto (e cosa fare ora)</description>
+            <title>Marco Montemagno - Crypto e arte con Clapis, Quaroni e Motta</title>
+            <link>https://www.youtube.com/watch?v=U0bKiKzEHjA</link>
+            <guid>https://www.youtube.com/watch?v=U0bKiKzEHjA</guid>
+            <pubDate>NOVEMBER 29, 2021 AT 03:00PM</pubDate>
+            <description>Crypto e arte con Clapis, Quaroni e Motta</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Cyberpunk 2077 gameplay - V a giggionare per Nigt City</title>
-            <link>https://www.youtube.com/watch?v=UG4lldh4rR4</link>
-            <guid>https://www.youtube.com/watch?v=UG4lldh4rR4</guid>
-            <pubDate>JANUARY 6, 2022 AT 09:50AM</pubDate>
-            <description>Cyberpunk 2077 gameplay - V a giggionare per Nigt City</description>
+            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Salvatore Bernabei, Enel Green Power</title>
+            <link>https://www.youtube.com/watch?v=j-69YcOeAMI</link>
+            <guid>https://www.youtube.com/watch?v=j-69YcOeAMI</guid>
+            <pubDate>SEPTEMBER 8, 2021 AT 08:00PM</pubDate>
+            <description>Cambiamento climatico, elettrificazione e dintorni con Salvatore Bernabei, Enel Green Power</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Come scrivere un’avvincente descrizione di un evento o un webinar</title>
-            <link>https://www.youtube.com/watch?v=iyVZdwe-STE</link>
-            <guid>https://www.youtube.com/watch?v=iyVZdwe-STE</guid>
-            <pubDate>MAY 24, 2021 AT 08:18AM</pubDate>
-            <description>Come scrivere un’avvincente descrizione di un evento o un webinar</description>
+            <title>Marco Montemagno - Non ho parole...(poi però non lamentiamoci del lavoro) #shorts</title>
+            <link>https://www.youtube.com/watch?v=LAI3ksteXOM</link>
+            <guid>https://www.youtube.com/watch?v=LAI3ksteXOM</guid>
+            <pubDate>JUNE 24, 2021 AT 07:30PM</pubDate>
+            <description>Non ho parole...(poi però non lamentiamoci del lavoro) #shorts</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Giuliano Sangiorgi (Negramaro)</title>
-            <link>https://www.youtube.com/watch?v=uc0BZbT95BQ</link>
-            <guid>https://www.youtube.com/watch?v=uc0BZbT95BQ</guid>
-            <pubDate>MAY 23, 2021 AT 09:31PM</pubDate>
-            <description>4 chiacchiere con Giuliano Sangiorgi (Negramaro)</description>
+            <title>Matteo Flora - I numeri della moderazione di #Facebook - Matteo incontra Facebook (3 di 3)</title>
+            <link>https://www.youtube.com/watch?v=Wwz8gdVORs0</link>
+            <guid>https://www.youtube.com/watch?v=Wwz8gdVORs0</guid>
+            <pubDate>JULY 9, 2021 AT 09:00AM</pubDate>
+            <description>I numeri della moderazione di #Facebook - Matteo incontra Facebook (3 di 3)</description>
         </item>
         <item>
-            <title>Matteo Flora - Log4j e Log4Shell: tutto quello da sapere sulla vulnerabilità 0-day con Stefano @raistolo Zanero</title>
-            <link>https://www.youtube.com/watch?v=vOo982VdHM0</link>
-            <guid>https://www.youtube.com/watch?v=vOo982VdHM0</guid>
-            <pubDate>DECEMBER 12, 2021 AT 06:32PM</pubDate>
-            <description>Log4j e Log4Shell: tutto quello da sapere sulla vulnerabilità 0-day con Stefano @raistolo Zanero</description>
+            <title>Marco Montemagno - Cosa diavolo sono gli NFT?</title>
+            <link>https://www.youtube.com/watch?v=z5fAeWswJos</link>
+            <guid>https://www.youtube.com/watch?v=z5fAeWswJos</guid>
+            <pubDate>JANUARY 21, 2022 AT 01:18PM</pubDate>
+            <description>Cosa diavolo sono gli NFT?</description>
         </item>
         <item>
-            <title>Rudy Bandiera - 9 cose che le persone socialmente funzionali non dicono MAI</title>
-            <link>https://www.youtube.com/watch?v=siZ-jCWTiqk</link>
-            <guid>https://www.youtube.com/watch?v=siZ-jCWTiqk</guid>
-            <pubDate>JULY 2, 2021 AT 08:52AM</pubDate>
-            <description>9 cose che le persone socialmente funzionali non dicono MAI</description>
+            <title>Raffaele Gaito - TI PRESENTO 30 GIORNI DI CRESCITA</title>
+            <link>https://www.youtube.com/watch?v=avtkQ9MxBZg</link>
+            <guid>https://www.youtube.com/watch?v=avtkQ9MxBZg</guid>
+            <pubDate>AUGUST 17, 2021 AT 08:00AM</pubDate>
+            <description>TI PRESENTO 30 GIORNI DI CRESCITA</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Il Volo</title>
-            <link>https://www.youtube.com/watch?v=OreLkvM48H4</link>
-            <guid>https://www.youtube.com/watch?v=OreLkvM48H4</guid>
-            <pubDate>NOVEMBER 21, 2021 AT 02:00PM</pubDate>
-            <description>4 chiacchiere con Il Volo</description>
+            <title>Marco Montemagno - Intelligenza Artificiale...che succede?</title>
+            <link>https://www.youtube.com/watch?v=KunZGa1koR8</link>
+            <guid>https://www.youtube.com/watch?v=KunZGa1koR8</guid>
+            <pubDate>JUNE 23, 2021 AT 10:29PM</pubDate>
+            <description>Intelligenza Artificiale...che succede?</description>
         </item>
         <item>
-            <title>Raffaele Gaito - HO IL TERRORE! E TU?</title>
-            <link>https://www.youtube.com/watch?v=iBPoqd66OyQ</link>
-            <guid>https://www.youtube.com/watch?v=iBPoqd66OyQ</guid>
-            <pubDate>MARCH 30, 2021 AT 08:00AM</pubDate>
-            <description>HO IL TERRORE! E TU?</description>
+            <title>Marco Montemagno - La semplicità è la cosa più facile da non capire</title>
+            <link>https://www.youtube.com/watch?v=zza_G-SlKU0</link>
+            <guid>https://www.youtube.com/watch?v=zza_G-SlKU0</guid>
+            <pubDate>AUGUST 29, 2021 AT 01:00PM</pubDate>
+            <description>La semplicità è la cosa più facile da non capire</description>
         </item>
         <item>
-            <title>Marco Montemagno - Regno Unito, che succede? Tra pandemia, Europei, Wimbledon e mamma di Goldrake</title>
-            <link>https://www.youtube.com/watch?v=p8T9APORrsw</link>
-            <guid>https://www.youtube.com/watch?v=p8T9APORrsw</guid>
-            <pubDate>JULY 8, 2021 AT 07:27PM</pubDate>
-            <description>Regno Unito, che succede? Tra pandemia, Europei, Wimbledon e mamma di Goldrake</description>
+            <title>Marco Montemagno - Longevi si diventa: ecco come</title>
+            <link>https://www.youtube.com/watch?v=6LjIa53Kl2k</link>
+            <guid>https://www.youtube.com/watch?v=6LjIa53Kl2k</guid>
+            <pubDate>FEBRUARY 11, 2022 AT 03:05PM</pubDate>
+            <description>Longevi si diventa: ecco come</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Merk &amp; Kremont</title>
-            <link>https://www.youtube.com/watch?v=9iphabV-ob8</link>
-            <guid>https://www.youtube.com/watch?v=9iphabV-ob8</guid>
-            <pubDate>JULY 7, 2021 AT 12:09PM</pubDate>
-            <description>4 chiacchiere con Merk &amp; Kremont</description>
+            <title>Marco Montemagno - La Filosofia fa la differenza! Impariamola con Maura Gancitano</title>
+            <link>https://www.youtube.com/watch?v=QBfzKdHKNYA</link>
+            <guid>https://www.youtube.com/watch?v=QBfzKdHKNYA</guid>
+            <pubDate>AUGUST 5, 2021 AT 09:36AM</pubDate>
+            <description>La Filosofia fa la differenza! Impariamola con Maura Gancitano</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Surf e dintorni - 4 chiacchiere con Edoardo Papa</title>
+            <link>https://www.youtube.com/watch?v=tECN8BieqSk</link>
+            <guid>https://www.youtube.com/watch?v=tECN8BieqSk</guid>
+            <pubDate>JUNE 14, 2021 AT 01:23PM</pubDate>
+            <description>Surf e dintorni - 4 chiacchiere con Edoardo Papa</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Draghi nel mirino dei No Vax, nelle chat minacce al premiere gli indirizzi di casa...</title>
+            <link>https://www.youtube.com/watch?v=GYE45aC7seU</link>
+            <guid>https://www.youtube.com/watch?v=GYE45aC7seU</guid>
+            <pubDate>DECEMBER 13, 2021 AT 08:30AM</pubDate>
+            <description>Draghi nel mirino dei No Vax, nelle chat minacce al premiere gli indirizzi di casa...</description>
         </item>
     </channel>
 </rss>
