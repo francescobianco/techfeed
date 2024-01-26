@@ -5,41 +5,83 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Thu, 25 Jan 2024 13:18:26 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 13:15:14 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - Perché le aziende dovrebbero usare TikTok?</title>
-            <link>https://www.youtube.com/watch?v=1wAAOrj8_6o</link>
-            <guid>https://www.youtube.com/watch?v=1wAAOrj8_6o</guid>
-            <pubDate>AUGUST 26, 2021 AT 01:51PM</pubDate>
-            <description>Perché le aziende dovrebbero usare TikTok?</description>
+            <title>Marco Montemagno - Food Talks with Trudie Styler, Tony Sasa, Riccardo Cotarella</title>
+            <link>https://www.youtube.com/watch?v=gKmm6a2HP_I</link>
+            <guid>https://www.youtube.com/watch?v=gKmm6a2HP_I</guid>
+            <pubDate>MAY 21, 2021 AT 11:06AM</pubDate>
+            <description>Food Talks with Trudie Styler, Tony Sasa, Riccardo Cotarella</description>
         </item>
         <item>
-            <title>Marco Montemagno - Moby: how much does making music for passion or for work change? #shorts</title>
-            <link>https://www.youtube.com/watch?v=uyPN38jPAFA</link>
-            <guid>https://www.youtube.com/watch?v=uyPN38jPAFA</guid>
-            <pubDate>MAY 9, 2021 AT 11:02AM</pubDate>
-            <description>Moby: how much does making music for passion or for work change? #shorts</description>
+            <title>Matteo Flora - Fingere il #Cancro per soldi: la storia della streamer che finse un cancro per due spiccioli...</title>
+            <link>https://www.youtube.com/watch?v=wEApGudIRs0</link>
+            <guid>https://www.youtube.com/watch?v=wEApGudIRs0</guid>
+            <pubDate>SEPTEMBER 10, 2021 AT 07:59AM</pubDate>
+            <description>Fingere il #Cancro per soldi: la storia della streamer che finse un cancro per due spiccioli...</description>
         </item>
         <item>
-            <title>Marco Montemagno - Leggo le recensioni al mio libro (senza filtri ...)</title>
-            <link>https://www.youtube.com/watch?v=Vi5wot-6gBI</link>
-            <guid>https://www.youtube.com/watch?v=Vi5wot-6gBI</guid>
-            <pubDate>SEPTEMBER 14, 2021 AT 01:33PM</pubDate>
-            <description>Leggo le recensioni al mio libro (senza filtri ...)</description>
+            <title>Marco Montemagno - 4 chiacchiere con Francesco Vena (Amaro Lucano)</title>
+            <link>https://www.youtube.com/watch?v=14sNwIMDd8M</link>
+            <guid>https://www.youtube.com/watch?v=14sNwIMDd8M</guid>
+            <pubDate>JUNE 16, 2021 AT 12:09PM</pubDate>
+            <description>4 chiacchiere con Francesco Vena (Amaro Lucano)</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come comprare un NFT su OpenSea</title>
-            <link>https://www.youtube.com/watch?v=N6jxJBpMujs</link>
-            <guid>https://www.youtube.com/watch?v=N6jxJBpMujs</guid>
-            <pubDate>JANUARY 28, 2022 AT 01:40PM</pubDate>
-            <description>Come comprare un NFT su OpenSea</description>
+            <title>Rudy Bandiera - Parlando del futuro dei videogame e di PS5</title>
+            <link>https://www.youtube.com/watch?v=a9PyCx8iYaM</link>
+            <guid>https://www.youtube.com/watch?v=a9PyCx8iYaM</guid>
+            <pubDate>FEBRUARY 7, 2022 AT 10:22AM</pubDate>
+            <description>Parlando del futuro dei videogame e di PS5</description>
         </item>
         <item>
-            <title>Rudy Bandiera - A 7 anni spende 1300 sterline in un videogame</title>
-            <link>https://www.youtube.com/watch?v=xY0VbwuGIbM</link>
-            <guid>https://www.youtube.com/watch?v=xY0VbwuGIbM</guid>
-            <pubDate>NOVEMBER 19, 2021 AT 09:07AM</pubDate>
-            <description>A 7 anni spende 1300 sterline in un videogame</description>
+            <title>Marco Montemagno - 4 consigli utili per il tuo lavoro da 4 grandi imprenditori italiani</title>
+            <link>https://www.youtube.com/watch?v=Fs0w1QIlF_4</link>
+            <guid>https://www.youtube.com/watch?v=Fs0w1QIlF_4</guid>
+            <pubDate>AUGUST 11, 2021 AT 01:00PM</pubDate>
+            <description>4 consigli utili per il tuo lavoro da 4 grandi imprenditori italiani</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Ragioni da dipendente o da imprenditore?</title>
+            <link>https://www.youtube.com/watch?v=6Ot_GKFNP1I</link>
+            <guid>https://www.youtube.com/watch?v=6Ot_GKFNP1I</guid>
+            <pubDate>SEPTEMBER 26, 2021 AT 02:00PM</pubDate>
+            <description>Ragioni da dipendente o da imprenditore?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Intelligenza artificiale e business</title>
+            <link>https://www.youtube.com/watch?v=TnQTorpw2dA</link>
+            <guid>https://www.youtube.com/watch?v=TnQTorpw2dA</guid>
+            <pubDate>JUNE 22, 2021 AT 08:47AM</pubDate>
+            <description>Intelligenza artificiale e business</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Quali sfide per la Privacy nel 2022? Ne parliamo con Guido Scorza!</title>
+            <link>https://www.youtube.com/watch?v=HTzBi89B41I</link>
+            <guid>https://www.youtube.com/watch?v=HTzBi89B41I</guid>
+            <pubDate>SEPTEMBER 6, 2021 AT 03:30PM</pubDate>
+            <description>Quali sfide per la Privacy nel 2022? Ne parliamo con Guido Scorza!</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Il cambiamento climatico spiegato BENE: cos&#39;è e come combatterlo</title>
+            <link>https://www.youtube.com/watch?v=hCS6HdMf5Bo</link>
+            <guid>https://www.youtube.com/watch?v=hCS6HdMf5Bo</guid>
+            <pubDate>DECEMBER 13, 2021 AT 07:32PM</pubDate>
+            <description>Il cambiamento climatico spiegato BENE: cos&#39;è e come combatterlo</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Niente copia del Green Pass!</title>
+            <link>https://www.youtube.com/watch?v=o72mEdJ_HvY</link>
+            <guid>https://www.youtube.com/watch?v=o72mEdJ_HvY</guid>
+            <pubDate>AUGUST 30, 2021 AT 07:45AM</pubDate>
+            <description>Niente copia del Green Pass!</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - I Social ... GRAVEMENTE alla ...?</title>
+            <link>https://www.youtube.com/watch?v=e2UiZNgdA9A</link>
+            <guid>https://www.youtube.com/watch?v=e2UiZNgdA9A</guid>
+            <pubDate>SEPTEMBER 16, 2021 AT 04:39PM</pubDate>
+            <description>I Social ... GRAVEMENTE alla ...?</description>
         </item>
         <item>
             <title>Marco Montemagno - A conversation with Lara Gilmore (Food for Soul)</title>
@@ -49,102 +91,60 @@
             <description>A conversation with Lara Gilmore (Food for Soul)</description>
         </item>
         <item>
-            <title>Matteo Flora - I profili Fake di Monica Cirinnà (e del cane) e la #Reputazione…</title>
-            <link>https://www.youtube.com/watch?v=T9k7sj_rhao</link>
-            <guid>https://www.youtube.com/watch?v=T9k7sj_rhao</guid>
-            <pubDate>SEPTEMBER 9, 2021 AT 08:02AM</pubDate>
-            <description>I profili Fake di Monica Cirinnà (e del cane) e la #Reputazione…</description>
+            <title>Marco Montemagno - Cos&#39;è un Wallet e come aprirne uno (se vuoi avere i miei NFT)</title>
+            <link>https://www.youtube.com/watch?v=3UFq1YVT-ko</link>
+            <guid>https://www.youtube.com/watch?v=3UFq1YVT-ko</guid>
+            <pubDate>JANUARY 25, 2022 AT 01:00PM</pubDate>
+            <description>Cos&#39;è un Wallet e come aprirne uno (se vuoi avere i miei NFT)</description>
         </item>
         <item>
-            <title>Marco Montemagno - Metaverso..tutto quello che avresti sempre voluto sapere e non hai mai osato chiedere</title>
-            <link>https://www.youtube.com/watch?v=smcOi8GyasY</link>
-            <guid>https://www.youtube.com/watch?v=smcOi8GyasY</guid>
-            <pubDate>NOVEMBER 23, 2021 AT 03:00PM</pubDate>
-            <description>Metaverso..tutto quello che avresti sempre voluto sapere e non hai mai osato chiedere</description>
+            <title>Marco Montemagno - Crypto e Dintorni - 4 chiacchiere con Silvio Micali (Algorand)</title>
+            <link>https://www.youtube.com/watch?v=Ia-wVqiZZFM</link>
+            <guid>https://www.youtube.com/watch?v=Ia-wVqiZZFM</guid>
+            <pubDate>JUNE 17, 2021 AT 11:49AM</pubDate>
+            <description>Crypto e Dintorni - 4 chiacchiere con Silvio Micali (Algorand)</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Sabaku no Maiku</title>
-            <link>https://www.youtube.com/watch?v=AJN_zdTDwT8</link>
-            <guid>https://www.youtube.com/watch?v=AJN_zdTDwT8</guid>
-            <pubDate>OCTOBER 5, 2021 AT 08:31PM</pubDate>
-            <description>4 chiacchiere con Sabaku no Maiku</description>
+            <title>Marco Montemagno - 4 chiacchiere con Elisabetta Sgarbi</title>
+            <link>https://www.youtube.com/watch?v=zuC5MTlCB4M</link>
+            <guid>https://www.youtube.com/watch?v=zuC5MTlCB4M</guid>
+            <pubDate>JUNE 1, 2021 AT 11:55AM</pubDate>
+            <description>4 chiacchiere con Elisabetta Sgarbi</description>
         </item>
         <item>
-            <title>Raffaele Gaito - 7 LIBRI CHE MI HANNO CAMBIATO LA VITA</title>
-            <link>https://www.youtube.com/watch?v=oDeYD6EZ2Qs</link>
-            <guid>https://www.youtube.com/watch?v=oDeYD6EZ2Qs</guid>
-            <pubDate>MAY 18, 2021 AT 08:00AM</pubDate>
-            <description>7 LIBRI CHE MI HANNO CAMBIATO LA VITA</description>
+            <title>Giorgio Taverniti - I Social sconvolti dall&#39;audio, la SEO dai contenuti: 4 mesi di news in 30 minuti!</title>
+            <link>https://www.youtube.com/watch?v=MNko70Z82I8</link>
+            <guid>https://www.youtube.com/watch?v=MNko70Z82I8</guid>
+            <pubDate>MAY 17, 2021 AT 07:30AM</pubDate>
+            <description>I Social sconvolti dall&#39;audio, la SEO dai contenuti: 4 mesi di news in 30 minuti!</description>
         </item>
         <item>
-            <title>Marco Montemagno - El Salvador, Lightning, Taproot e il futuro di Bitcoin con Giacomo Zucco</title>
-            <link>https://www.youtube.com/watch?v=B3vTVe0EROg</link>
-            <guid>https://www.youtube.com/watch?v=B3vTVe0EROg</guid>
-            <pubDate>NOVEMBER 30, 2021 AT 01:00PM</pubDate>
-            <description>El Salvador, Lightning, Taproot e il futuro di Bitcoin con Giacomo Zucco</description>
+            <title>Marco Montemagno - Hai mai provato il test della mamma?</title>
+            <link>https://www.youtube.com/watch?v=vPqx9D6bj1Q</link>
+            <guid>https://www.youtube.com/watch?v=vPqx9D6bj1Q</guid>
+            <pubDate>AUGUST 7, 2021 AT 12:00PM</pubDate>
+            <description>Hai mai provato il test della mamma?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Talento o vocazione? Ne avevo parlato con Maura Gancitano</title>
-            <link>https://www.youtube.com/watch?v=TKT-Mwph-r4</link>
-            <guid>https://www.youtube.com/watch?v=TKT-Mwph-r4</guid>
-            <pubDate>AUGUST 27, 2021 AT 03:05PM</pubDate>
-            <description>Talento o vocazione? Ne avevo parlato con Maura Gancitano</description>
+            <title>Giorgio Taverniti - Analisi di due siti: Wedding Planner e Personal Branding tra Affiliazione Amazon e altro</title>
+            <link>https://www.youtube.com/watch?v=1yueBGh9fa0</link>
+            <guid>https://www.youtube.com/watch?v=1yueBGh9fa0</guid>
+            <pubDate>MAY 21, 2021 AT 07:30AM</pubDate>
+            <description>Analisi di due siti: Wedding Planner e Personal Branding tra Affiliazione Amazon e altro</description>
         </item>
         <item>
-            <title>Marco Montemagno - Ha senso Lavorare GRATIS?</title>
-            <link>https://www.youtube.com/watch?v=DTvuI-cDgqE</link>
-            <guid>https://www.youtube.com/watch?v=DTvuI-cDgqE</guid>
-            <pubDate>JUNE 11, 2021 AT 02:58PM</pubDate>
-            <description>Ha senso Lavorare GRATIS?</description>
+            <title>Marco Montemagno - 4 chiacchiere con l&#39;arma dei carabinieri (Luca de Marchis)</title>
+            <link>https://www.youtube.com/watch?v=7y2pbB3FZSY</link>
+            <guid>https://www.youtube.com/watch?v=7y2pbB3FZSY</guid>
+            <pubDate>NOVEMBER 9, 2021 AT 01:00PM</pubDate>
+            <description>4 chiacchiere con l&#39;arma dei carabinieri (Luca de Marchis)</description>
         </item>
         <item>
-            <title>Marco Montemagno - Food Talks 4 chiacchiere con Valeria Raimondi, Editor in Chief FineDiningLovers</title>
-            <link>https://www.youtube.com/watch?v=KBXFIq_xWmo</link>
-            <guid>https://www.youtube.com/watch?v=KBXFIq_xWmo</guid>
-            <pubDate>MAY 19, 2021 AT 09:24AM</pubDate>
-            <description>Food Talks 4 chiacchiere con Valeria Raimondi, Editor in Chief FineDiningLovers</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - What&#39;s up Internet! La Mega Rassegna Settimanale per capire Internet</title>
-            <link>https://www.youtube.com/watch?v=sDgWBBnILh0</link>
-            <guid>https://www.youtube.com/watch?v=sDgWBBnILh0</guid>
-            <pubDate>MAY 18, 2021 AT 07:30AM</pubDate>
-            <description>What&#39;s up Internet! La Mega Rassegna Settimanale per capire Internet</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come comprare Ethereum e spostarli sul tuo wallet</title>
-            <link>https://www.youtube.com/watch?v=Di5yeLmFYaw</link>
-            <guid>https://www.youtube.com/watch?v=Di5yeLmFYaw</guid>
-            <pubDate>JANUARY 26, 2022 AT 09:58AM</pubDate>
-            <description>Come comprare Ethereum e spostarli sul tuo wallet</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - Come creare e vendere un NFT</title>
-            <link>https://www.youtube.com/watch?v=jzi6yQROUNs</link>
-            <guid>https://www.youtube.com/watch?v=jzi6yQROUNs</guid>
-            <pubDate>FEBRUARY 11, 2022 AT 09:12AM</pubDate>
-            <description>Come creare e vendere un NFT</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - VENDERE SIGNIFICA ANTICIPARE OBIEZIONI</title>
-            <link>https://www.youtube.com/watch?v=CBTIXqxaJeo</link>
-            <guid>https://www.youtube.com/watch?v=CBTIXqxaJeo</guid>
-            <pubDate>JULY 6, 2021 AT 08:00AM</pubDate>
-            <description>VENDERE SIGNIFICA ANTICIPARE OBIEZIONI</description>
-        </item>
-        <item>
-            <title>Matteo Flora - IOApp: il provvedimento del Garante e tutte le bugie di Colao</title>
-            <link>https://www.youtube.com/watch?v=4yQjn2s07i4</link>
-            <guid>https://www.youtube.com/watch?v=4yQjn2s07i4</guid>
-            <pubDate>JUNE 11, 2021 AT 11:51AM</pubDate>
-            <description>IOApp: il provvedimento del Garante e tutte le bugie di Colao</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Fan Tokens with Alexander Dreyfus (Socios.com)</title>
-            <link>https://www.youtube.com/watch?v=cKAMg4okF44</link>
-            <guid>https://www.youtube.com/watch?v=cKAMg4okF44</guid>
-            <pubDate>DECEMBER 5, 2021 AT 03:00PM</pubDate>
-            <description>Fan Tokens with Alexander Dreyfus (Socios.com)</description>
+            <title>Marco Montemagno - Cosa sono le gas fee?</title>
+            <link>https://www.youtube.com/watch?v=0Ao4Cet8SmU</link>
+            <guid>https://www.youtube.com/watch?v=0Ao4Cet8SmU</guid>
+            <pubDate>JANUARY 27, 2022 AT 11:00AM</pubDate>
+            <description>Cosa sono le gas fee?</description>
         </item>
     </channel>
 </rss>
