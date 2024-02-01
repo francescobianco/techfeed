@@ -5,83 +5,41 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Wed, 31 Jan 2024 13:15:00 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 13:15:33 +0000</lastBuildDate>
         <item>
-            <title>Matteo Flora - [LIVE] Quattro chiacchiere nel vostro Sabato Sera</title>
-            <link>https://www.youtube.com/watch?v=Cl6J-leRCrE</link>
-            <guid>https://www.youtube.com/watch?v=Cl6J-leRCrE</guid>
-            <pubDate>MAY 8, 2021 AT 10:28PM</pubDate>
-            <description>[LIVE] Quattro chiacchiere nel vostro Sabato Sera</description>
+            <title>Marco Montemagno - Nasce Monty Lab (NFT) - 10.000 Furie Straordinarie!</title>
+            <link>https://www.youtube.com/watch?v=vjLuPuOxyvA</link>
+            <guid>https://www.youtube.com/watch?v=vjLuPuOxyvA</guid>
+            <pubDate>JANUARY 20, 2022 AT 12:40PM</pubDate>
+            <description>Nasce Monty Lab (NFT) - 10.000 Furie Straordinarie!</description>
         </item>
         <item>
-            <title>Marco Montemagno - Consegne sempre più veloci: costi, problemi e sostenibilità</title>
-            <link>https://www.youtube.com/watch?v=aIXxuyc41sw</link>
-            <guid>https://www.youtube.com/watch?v=aIXxuyc41sw</guid>
-            <pubDate>DECEMBER 22, 2021 AT 12:50PM</pubDate>
-            <description>Consegne sempre più veloci: costi, problemi e sostenibilità</description>
+            <title>Marco Montemagno - Prodotti e marketing: quante volte ci caschiamo? Ne avevo parlato con Beatrice Mautino</title>
+            <link>https://www.youtube.com/watch?v=eVvZXmxUxNo</link>
+            <guid>https://www.youtube.com/watch?v=eVvZXmxUxNo</guid>
+            <pubDate>SEPTEMBER 19, 2021 AT 02:00PM</pubDate>
+            <description>Prodotti e marketing: quante volte ci caschiamo? Ne avevo parlato con Beatrice Mautino</description>
         </item>
         <item>
-            <title>Marco Montemagno - La mentalità e le abitudini di chi vince (4 caratteristiche ricorrenti)</title>
-            <link>https://www.youtube.com/watch?v=OEreHoeyjKM</link>
-            <guid>https://www.youtube.com/watch?v=OEreHoeyjKM</guid>
-            <pubDate>JUNE 21, 2021 AT 06:39PM</pubDate>
-            <description>La mentalità e le abitudini di chi vince (4 caratteristiche ricorrenti)</description>
+            <title>Marco Montemagno - Oooops in arrivo i Negozi/Supermercati di Amazon...</title>
+            <link>https://www.youtube.com/watch?v=-X6_oTFENJ0</link>
+            <guid>https://www.youtube.com/watch?v=-X6_oTFENJ0</guid>
+            <pubDate>AUGUST 20, 2021 AT 05:42PM</pubDate>
+            <description>Oooops in arrivo i Negozi/Supermercati di Amazon...</description>
         </item>
         <item>
-            <title>Marco Montemagno - Non ho parole...(poi però non lamentiamoci del lavoro) #shorts</title>
-            <link>https://www.youtube.com/watch?v=LAI3ksteXOM</link>
-            <guid>https://www.youtube.com/watch?v=LAI3ksteXOM</guid>
-            <pubDate>JUNE 24, 2021 AT 07:30PM</pubDate>
-            <description>Non ho parole...(poi però non lamentiamoci del lavoro) #shorts</description>
+            <title>Rudy Bandiera - 6 dati di fatto che è bene accettare il prima possibile per vivere e lavorare meglio</title>
+            <link>https://www.youtube.com/watch?v=7mVCpLySEUg</link>
+            <guid>https://www.youtube.com/watch?v=7mVCpLySEUg</guid>
+            <pubDate>JULY 16, 2021 AT 08:37AM</pubDate>
+            <description>6 dati di fatto che è bene accettare il prima possibile per vivere e lavorare meglio</description>
         </item>
         <item>
-            <title>Marco Montemagno - Crypto e sport con The Coin of Champions</title>
-            <link>https://www.youtube.com/watch?v=jzyFGHRmo04</link>
-            <guid>https://www.youtube.com/watch?v=jzyFGHRmo04</guid>
-            <pubDate>NOVEMBER 30, 2021 AT 03:00PM</pubDate>
-            <description>Crypto e sport con The Coin of Champions</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come gli NFT possono rivoluzionare il tuo business</title>
-            <link>https://www.youtube.com/watch?v=7BqlwZHHPBM</link>
-            <guid>https://www.youtube.com/watch?v=7BqlwZHHPBM</guid>
-            <pubDate>NOVEMBER 5, 2021 AT 12:56PM</pubDate>
-            <description>Come gli NFT possono rivoluzionare il tuo business</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Monty contro Tutti...Domande e risposte Live!</title>
-            <link>https://www.youtube.com/watch?v=qMdFVDU_Q3w</link>
-            <guid>https://www.youtube.com/watch?v=qMdFVDU_Q3w</guid>
-            <pubDate>FEBRUARY 2, 2022 AT 04:55PM</pubDate>
-            <description>Monty contro Tutti...Domande e risposte Live!</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - Il Workflow per sviluppare progetti con WordPress - Al Lavoro Con Enea Scerba</title>
-            <link>https://www.youtube.com/watch?v=u67SMYOF87k</link>
-            <guid>https://www.youtube.com/watch?v=u67SMYOF87k</guid>
-            <pubDate>MAY 4, 2021 AT 07:30AM</pubDate>
-            <description>Il Workflow per sviluppare progetti con WordPress - Al Lavoro Con Enea Scerba</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Piuarch, lo scandalo 600 euro, e il costo nascosto della #Reputazione</title>
-            <link>https://www.youtube.com/watch?v=27xiPN69LiY</link>
-            <guid>https://www.youtube.com/watch?v=27xiPN69LiY</guid>
-            <pubDate>SEPTEMBER 3, 2021 AT 07:55AM</pubDate>
-            <description>Piuarch, lo scandalo 600 euro, e il costo nascosto della #Reputazione</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - E-commerce 2022: 3 consigli</title>
-            <link>https://www.youtube.com/watch?v=zTkG0r6k6fI</link>
-            <guid>https://www.youtube.com/watch?v=zTkG0r6k6fI</guid>
-            <pubDate>DECEMBER 29, 2021 AT 01:00PM</pubDate>
-            <description>E-commerce 2022: 3 consigli</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 11 principi FONDAMENTALI che dovresti tenere a mente ogni giorno...</title>
-            <link>https://www.youtube.com/watch?v=DQ15u56f-8k</link>
-            <guid>https://www.youtube.com/watch?v=DQ15u56f-8k</guid>
-            <pubDate>JULY 26, 2021 AT 04:39PM</pubDate>
-            <description>11 principi FONDAMENTALI che dovresti tenere a mente ogni giorno...</description>
+            <title>Marco Montemagno - Sai quanto spende MrBeast?</title>
+            <link>https://www.youtube.com/watch?v=IxWpEqERtLM</link>
+            <guid>https://www.youtube.com/watch?v=IxWpEqERtLM</guid>
+            <pubDate>SEPTEMBER 19, 2021 AT 05:37PM</pubDate>
+            <description>Sai quanto spende MrBeast?</description>
         </item>
         <item>
             <title>Marco Montemagno - On Running si quoterà in borsa negli Stati Uniti ...Vi ricordate le loro scarpe in abbonamento?</title>
@@ -91,60 +49,102 @@
             <description>On Running si quoterà in borsa negli Stati Uniti ...Vi ricordate le loro scarpe in abbonamento?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Human Safari, in 6 minuti</title>
-            <link>https://www.youtube.com/watch?v=_bD3UN7rADc</link>
-            <guid>https://www.youtube.com/watch?v=_bD3UN7rADc</guid>
-            <pubDate>SEPTEMBER 1, 2021 AT 07:58PM</pubDate>
-            <description>Human Safari, in 6 minuti</description>
+            <title>Marco Montemagno - 4 chiacchiere con Joe BASTIANICH</title>
+            <link>https://www.youtube.com/watch?v=468vHWl7IPY</link>
+            <guid>https://www.youtube.com/watch?v=468vHWl7IPY</guid>
+            <pubDate>MAY 19, 2021 AT 12:18PM</pubDate>
+            <description>4 chiacchiere con Joe BASTIANICH</description>
         </item>
         <item>
-            <title>Marco Montemagno - Intelligenza Artificiale e CUSTOMER CARE</title>
-            <link>https://www.youtube.com/watch?v=uPI609RWDMs</link>
-            <guid>https://www.youtube.com/watch?v=uPI609RWDMs</guid>
-            <pubDate>JUNE 23, 2021 AT 10:26PM</pubDate>
-            <description>Intelligenza Artificiale e CUSTOMER CARE</description>
+            <title>Matteo Flora - Data Breach e sanzioni GDPR: 225M nel 2021. Commentiamo lo studio con Giulio Coraggio</title>
+            <link>https://www.youtube.com/watch?v=mPdiP5EdUd8</link>
+            <guid>https://www.youtube.com/watch?v=mPdiP5EdUd8</guid>
+            <pubDate>JANUARY 28, 2022 AT 02:29PM</pubDate>
+            <description>Data Breach e sanzioni GDPR: 225M nel 2021. Commentiamo lo studio con Giulio Coraggio</description>
         </item>
         <item>
-            <title>Matteo Flora - Robert Kennedy jr, Anna Frank, i no-vax e l&#39;olocausto: perché non accettare le scuse</title>
-            <link>https://www.youtube.com/watch?v=Spb9UN1es44</link>
-            <guid>https://www.youtube.com/watch?v=Spb9UN1es44</guid>
-            <pubDate>JANUARY 26, 2022 AT 07:42PM</pubDate>
-            <description>Robert Kennedy jr, Anna Frank, i no-vax e l&#39;olocausto: perché non accettare le scuse</description>
+            <title>Marco Montemagno - Ecco i nuovi occhiali di Facebook (pro e contro...)</title>
+            <link>https://www.youtube.com/watch?v=oxEaA-eyijc</link>
+            <guid>https://www.youtube.com/watch?v=oxEaA-eyijc</guid>
+            <pubDate>SEPTEMBER 10, 2021 AT 06:49PM</pubDate>
+            <description>Ecco i nuovi occhiali di Facebook (pro e contro...)</description>
         </item>
         <item>
-            <title>Marco Montemagno - Amazon paga l&#39;università ai dipendenti (mentre assume altre 125.000 persone)</title>
-            <link>https://www.youtube.com/watch?v=_1m5A82Hp40</link>
-            <guid>https://www.youtube.com/watch?v=_1m5A82Hp40</guid>
-            <pubDate>SEPTEMBER 18, 2021 AT 02:00PM</pubDate>
-            <description>Amazon paga l&#39;università ai dipendenti (mentre assume altre 125.000 persone)</description>
+            <title>Matteo Flora - Facebook e Instagram a pagamento per colpa di Apple?</title>
+            <link>https://www.youtube.com/watch?v=JngaCH8MmGM</link>
+            <guid>https://www.youtube.com/watch?v=JngaCH8MmGM</guid>
+            <pubDate>MAY 4, 2021 AT 08:00AM</pubDate>
+            <description>Facebook e Instagram a pagamento per colpa di Apple?</description>
         </item>
         <item>
-            <title>Raffaele Gaito - LA MALEDIZIONE DELLA CONOSCENZA (COS&#39;È E COME USCIRNE)</title>
-            <link>https://www.youtube.com/watch?v=hcJwTlEFPXI</link>
-            <guid>https://www.youtube.com/watch?v=hcJwTlEFPXI</guid>
-            <pubDate>JULY 20, 2021 AT 08:00AM</pubDate>
-            <description>LA MALEDIZIONE DELLA CONOSCENZA (COS&#39;È E COME USCIRNE)</description>
+            <title>Marco Montemagno - Come usare (e non farti usare da)i social nel 2021 per il tuo lavoro</title>
+            <link>https://www.youtube.com/watch?v=lOQxMDblQzM</link>
+            <guid>https://www.youtube.com/watch?v=lOQxMDblQzM</guid>
+            <pubDate>OCTOBER 20, 2021 AT 02:00PM</pubDate>
+            <description>Come usare (e non farti usare da)i social nel 2021 per il tuo lavoro</description>
         </item>
         <item>
-            <title>Marco Montemagno - Perché spammare il tuo CV non serve</title>
-            <link>https://www.youtube.com/watch?v=ij6jPGe3QQw</link>
-            <guid>https://www.youtube.com/watch?v=ij6jPGe3QQw</guid>
-            <pubDate>DECEMBER 7, 2021 AT 01:05PM</pubDate>
-            <description>Perché spammare il tuo CV non serve</description>
+            <title>Marco Montemagno - Surf e dintorni - 4 chiacchiere con Edoardo Papa</title>
+            <link>https://www.youtube.com/watch?v=tECN8BieqSk</link>
+            <guid>https://www.youtube.com/watch?v=tECN8BieqSk</guid>
+            <pubDate>JUNE 14, 2021 AT 01:23PM</pubDate>
+            <description>Surf e dintorni - 4 chiacchiere con Edoardo Papa</description>
         </item>
         <item>
-            <title>Marco Montemagno - Quelli che non è mai colpa loro</title>
-            <link>https://www.youtube.com/watch?v=EuLJX66Kr_w</link>
-            <guid>https://www.youtube.com/watch?v=EuLJX66Kr_w</guid>
-            <pubDate>MAY 11, 2021 AT 03:39PM</pubDate>
-            <description>Quelli che non è mai colpa loro</description>
+            <title>Giorgio Taverniti - Substack è un pericolo per i giornali. Ora è ufficiale.</title>
+            <link>https://www.youtube.com/watch?v=qlnYWsM5CJM</link>
+            <guid>https://www.youtube.com/watch?v=qlnYWsM5CJM</guid>
+            <pubDate>MAY 12, 2021 AT 08:34AM</pubDate>
+            <description>Substack è un pericolo per i giornali. Ora è ufficiale.</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Google Sheets: script, componenti, API. Idee d&#39;uso INTERESSANTI</title>
-            <link>https://www.youtube.com/watch?v=jmZF_VRT2fA</link>
-            <guid>https://www.youtube.com/watch?v=jmZF_VRT2fA</guid>
-            <pubDate>MAY 10, 2021 AT 10:41AM</pubDate>
-            <description>Google Sheets: script, componenti, API. Idee d&#39;uso INTERESSANTI</description>
+            <title>Matteo Flora - [LIVE] - &quot;Il Diritto di Non-Opinione&quot;, Ciao Internet in DIRETTA 🔥</title>
+            <link>https://www.youtube.com/watch?v=bv49nggSmME</link>
+            <guid>https://www.youtube.com/watch?v=bv49nggSmME</guid>
+            <pubDate>MAY 9, 2021 AT 09:00AM</pubDate>
+            <description>[LIVE] - &quot;Il Diritto di Non-Opinione&quot;, Ciao Internet in DIRETTA 🔥</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Facebook contro tutti: che fine farà?</title>
+            <link>https://www.youtube.com/watch?v=lctXH39zZCI</link>
+            <guid>https://www.youtube.com/watch?v=lctXH39zZCI</guid>
+            <pubDate>OCTOBER 5, 2021 AT 03:26PM</pubDate>
+            <description>Facebook contro tutti: che fine farà?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Matthew McConaughey : how does a character tell a story? #short</title>
+            <link>https://www.youtube.com/watch?v=Enk7DT3G1aY</link>
+            <guid>https://www.youtube.com/watch?v=Enk7DT3G1aY</guid>
+            <pubDate>MAY 5, 2021 AT 11:14AM</pubDate>
+            <description>Matthew McConaughey : how does a character tell a story? #short</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - I 10 DIRITTI DEL LETTORE (LEGGI COME TI PARE)</title>
+            <link>https://www.youtube.com/watch?v=DexZqLDjNZE</link>
+            <guid>https://www.youtube.com/watch?v=DexZqLDjNZE</guid>
+            <pubDate>JUNE 11, 2021 AT 08:00AM</pubDate>
+            <description>I 10 DIRITTI DEL LETTORE (LEGGI COME TI PARE)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - TUTTO quello che devi sapere per comprare un NFT (Guida completa con Marco Crotta) #NFTDAY</title>
+            <link>https://www.youtube.com/watch?v=CL_nHn9P3Qw</link>
+            <guid>https://www.youtube.com/watch?v=CL_nHn9P3Qw</guid>
+            <pubDate>FEBRUARY 1, 2022 AT 09:48AM</pubDate>
+            <description>TUTTO quello che devi sapere per comprare un NFT (Guida completa con Marco Crotta) #NFTDAY</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - Il Titanic è stato affondato dagli alieni, giusto?</title>
+            <link>https://www.youtube.com/watch?v=zF8Z_aGF6ls</link>
+            <guid>https://www.youtube.com/watch?v=zF8Z_aGF6ls</guid>
+            <pubDate>AUGUST 2, 2021 AT 09:17AM</pubDate>
+            <description>Il Titanic è stato affondato dagli alieni, giusto?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Food Talks 4 chiacchere con Stefano Marini (CEO Gruppo Sanpellegrino)</title>
+            <link>https://www.youtube.com/watch?v=Y3fWZ03vtyE</link>
+            <guid>https://www.youtube.com/watch?v=Y3fWZ03vtyE</guid>
+            <pubDate>MAY 17, 2021 AT 08:33AM</pubDate>
+            <description>Food Talks 4 chiacchere con Stefano Marini (CEO Gruppo Sanpellegrino)</description>
         </item>
     </channel>
 </rss>
