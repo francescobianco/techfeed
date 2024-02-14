@@ -5,104 +5,48 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Tue, 13 Feb 2024 13:16:23 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 13:15:07 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - Chi controlla il Web?</title>
-            <link>https://www.youtube.com/watch?v=1FjN8FSRGEI</link>
-            <guid>https://www.youtube.com/watch?v=1FjN8FSRGEI</guid>
-            <pubDate>JANUARY 5, 2022 AT 10:00AM</pubDate>
-            <description>Chi controlla il Web?</description>
+            <title>Marco Montemagno - Perché l&#39;inclusione parte dal linguaggio?</title>
+            <link>https://www.youtube.com/watch?v=T63BFx9UUDI</link>
+            <guid>https://www.youtube.com/watch?v=T63BFx9UUDI</guid>
+            <pubDate>NOVEMBER 27, 2021 AT 03:00PM</pubDate>
+            <description>Perché l&#39;inclusione parte dal linguaggio?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come faccio a tutelare legalmente il mio e-commerce?</title>
-            <link>https://www.youtube.com/watch?v=GcpFl-Bj6xw</link>
-            <guid>https://www.youtube.com/watch?v=GcpFl-Bj6xw</guid>
-            <pubDate>OCTOBER 8, 2021 AT 01:00PM</pubDate>
-            <description>Come faccio a tutelare legalmente il mio e-commerce?</description>
+            <title>Marco Montemagno - Monty Lab: quanto costa e altre info importanti</title>
+            <link>https://www.youtube.com/watch?v=5gDMDET5ucY</link>
+            <guid>https://www.youtube.com/watch?v=5gDMDET5ucY</guid>
+            <pubDate>JANUARY 28, 2022 AT 07:09PM</pubDate>
+            <description>Monty Lab: quanto costa e altre info importanti</description>
         </item>
         <item>
-            <title>Marco Montemagno - ... Ma prendere decisioni meno stupide?</title>
-            <link>https://www.youtube.com/watch?v=XankQ8Kbsh8</link>
-            <guid>https://www.youtube.com/watch?v=XankQ8Kbsh8</guid>
-            <pubDate>SEPTEMBER 27, 2021 AT 02:00PM</pubDate>
-            <description>... Ma prendere decisioni meno stupide?</description>
+            <title>Marco Montemagno - &quot;È colpa tua&quot; - Quelli che danno sempre la colpa agli altri</title>
+            <link>https://www.youtube.com/watch?v=QGlZTM22Gao</link>
+            <guid>https://www.youtube.com/watch?v=QGlZTM22Gao</guid>
+            <pubDate>JANUARY 15, 2022 AT 01:00PM</pubDate>
+            <description>&quot;È colpa tua&quot; - Quelli che danno sempre la colpa agli altri</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come si applica la blockchain al settore del lusso (e non solo)</title>
-            <link>https://www.youtube.com/watch?v=IzgT51XXepE</link>
-            <guid>https://www.youtube.com/watch?v=IzgT51XXepE</guid>
-            <pubDate>NOVEMBER 28, 2021 AT 01:00PM</pubDate>
-            <description>Come si applica la blockchain al settore del lusso (e non solo)</description>
+            <title>Marco Montemagno - Lavoro e giovani: ci sono 700 mila posti di lavoro disponibili ma...</title>
+            <link>https://www.youtube.com/watch?v=7h9FKqj26_s</link>
+            <guid>https://www.youtube.com/watch?v=7h9FKqj26_s</guid>
+            <pubDate>DECEMBER 17, 2021 AT 01:00PM</pubDate>
+            <description>Lavoro e giovani: ci sono 700 mila posti di lavoro disponibili ma...</description>
         </item>
         <item>
-            <title>Marco Montemagno - Prodotti e marketing: quante volte ci caschiamo? Ne avevo parlato con Beatrice Mautino</title>
-            <link>https://www.youtube.com/watch?v=eVvZXmxUxNo</link>
-            <guid>https://www.youtube.com/watch?v=eVvZXmxUxNo</guid>
-            <pubDate>SEPTEMBER 19, 2021 AT 02:00PM</pubDate>
-            <description>Prodotti e marketing: quante volte ci caschiamo? Ne avevo parlato con Beatrice Mautino</description>
+            <title>Marco Montemagno - L&#39;Italia s&#39;è desta! Come sta cambiando la percezione dell&#39;Italia nel mondo (e cosa si potrebbe fare)</title>
+            <link>https://www.youtube.com/watch?v=awJcWyt3pHA</link>
+            <guid>https://www.youtube.com/watch?v=awJcWyt3pHA</guid>
+            <pubDate>JULY 12, 2021 AT 06:24PM</pubDate>
+            <description>L&#39;Italia s&#39;è desta! Come sta cambiando la percezione dell&#39;Italia nel mondo (e cosa si potrebbe fare)</description>
         </item>
         <item>
-            <title>Matteo Flora - TUTTI i #GreenPass italiani online! Ma è vero?</title>
-            <link>https://www.youtube.com/watch?v=olUCkl1eaZ4</link>
-            <guid>https://www.youtube.com/watch?v=olUCkl1eaZ4</guid>
-            <pubDate>NOVEMBER 20, 2021 AT 11:48AM</pubDate>
-            <description>TUTTI i #GreenPass italiani online! Ma è vero?</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Log4j e Log4Shell: tutto quello da sapere sulla vulnerabilità 0-day con Stefano @raistolo Zanero</title>
-            <link>https://www.youtube.com/watch?v=vOo982VdHM0</link>
-            <guid>https://www.youtube.com/watch?v=vOo982VdHM0</guid>
-            <pubDate>DECEMBER 12, 2021 AT 06:32PM</pubDate>
-            <description>Log4j e Log4Shell: tutto quello da sapere sulla vulnerabilità 0-day con Stefano @raistolo Zanero</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Dalla carrozzina al paracadute - 4 chiacchiere con Andrea Pancini (Aerogravity)</title>
-            <link>https://www.youtube.com/watch?v=Fp9KxqD3N0A</link>
-            <guid>https://www.youtube.com/watch?v=Fp9KxqD3N0A</guid>
-            <pubDate>NOVEMBER 28, 2021 AT 09:00AM</pubDate>
-            <description>Dalla carrozzina al paracadute - 4 chiacchiere con Andrea Pancini (Aerogravity)</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Ma davvero il Garante è &quot;Signore dei Cavilli&quot;?</title>
-            <link>https://www.youtube.com/watch?v=kqGCsuas4sg</link>
-            <guid>https://www.youtube.com/watch?v=kqGCsuas4sg</guid>
-            <pubDate>JUNE 21, 2021 AT 08:44AM</pubDate>
-            <description>Ma davvero il Garante è &quot;Signore dei Cavilli&quot;?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - A conversation with  Beniamin Mincu - CEO &amp; Co-Founder di Elrond</title>
-            <link>https://www.youtube.com/watch?v=Kn9ZdgkIEVs</link>
-            <guid>https://www.youtube.com/watch?v=Kn9ZdgkIEVs</guid>
-            <pubDate>NOVEMBER 23, 2021 AT 01:00PM</pubDate>
-            <description>A conversation with  Beniamin Mincu - CEO &amp; Co-Founder di Elrond</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Ecco il nuovo rivoluzionario iPhone 13!</title>
-            <link>https://www.youtube.com/watch?v=8BwIZReoy0k</link>
-            <guid>https://www.youtube.com/watch?v=8BwIZReoy0k</guid>
-            <pubDate>SEPTEMBER 15, 2021 AT 11:09AM</pubDate>
-            <description>Ecco il nuovo rivoluzionario iPhone 13!</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Giornalisti, Clown, Intrattenitori: cosa non sta funzionando nella informazione online...</title>
-            <link>https://www.youtube.com/watch?v=4Qx0xFWyM4g</link>
-            <guid>https://www.youtube.com/watch?v=4Qx0xFWyM4g</guid>
-            <pubDate>SEPTEMBER 16, 2021 AT 10:53AM</pubDate>
-            <description>Giornalisti, Clown, Intrattenitori: cosa non sta funzionando nella informazione online...</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - NEL MARKETING BISOGNA ESSERE AGNOSTICI #shorts</title>
-            <link>https://www.youtube.com/watch?v=96TMou6PdYE</link>
-            <guid>https://www.youtube.com/watch?v=96TMou6PdYE</guid>
-            <pubDate>AUGUST 13, 2021 AT 08:00AM</pubDate>
-            <description>NEL MARKETING BISOGNA ESSERE AGNOSTICI #shorts</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - A conversation with Lang Lang</title>
-            <link>https://www.youtube.com/watch?v=bj5mVA_kjW4</link>
-            <guid>https://www.youtube.com/watch?v=bj5mVA_kjW4</guid>
-            <pubDate>DECEMBER 9, 2021 AT 01:00PM</pubDate>
-            <description>A conversation with Lang Lang</description>
+            <title>Matteo Flora - Cosa può stare su Facebook? Speciale Matteo incontra #Facebook (1 di 3)</title>
+            <link>https://www.youtube.com/watch?v=VPyUsLM64P4</link>
+            <guid>https://www.youtube.com/watch?v=VPyUsLM64P4</guid>
+            <pubDate>JULY 7, 2021 AT 09:00AM</pubDate>
+            <description>Cosa può stare su Facebook? Speciale Matteo incontra #Facebook (1 di 3)</description>
         </item>
         <item>
             <title>Marco Montemagno - TUTTO quello che devi sapere per comprare un NFT (Guida completa con Marco Crotta) #NFTDAY</title>
@@ -112,39 +56,95 @@
             <description>TUTTO quello che devi sapere per comprare un NFT (Guida completa con Marco Crotta) #NFTDAY</description>
         </item>
         <item>
-            <title>Marco Montemagno - I poveri hanno grandi televisori, i ricchi hanno grandi librerie</title>
-            <link>https://www.youtube.com/watch?v=QiOzbrEWnTs</link>
-            <guid>https://www.youtube.com/watch?v=QiOzbrEWnTs</guid>
-            <pubDate>OCTOBER 29, 2021 AT 01:30PM</pubDate>
-            <description>I poveri hanno grandi televisori, i ricchi hanno grandi librerie</description>
+            <title>Marco Montemagno - Food Talks with Trudie Styler, Tony Sasa, Riccardo Cotarella</title>
+            <link>https://www.youtube.com/watch?v=gKmm6a2HP_I</link>
+            <guid>https://www.youtube.com/watch?v=gKmm6a2HP_I</guid>
+            <pubDate>MAY 21, 2021 AT 11:06AM</pubDate>
+            <description>Food Talks with Trudie Styler, Tony Sasa, Riccardo Cotarella</description>
         </item>
         <item>
-            <title>Matteo Flora - Mi hanno rubato il canale! Le nuove truffe e come evitare che ti rubino i profili!</title>
-            <link>https://www.youtube.com/watch?v=H467gzIYjXM</link>
-            <guid>https://www.youtube.com/watch?v=H467gzIYjXM</guid>
-            <pubDate>AUGUST 21, 2021 AT 08:35AM</pubDate>
-            <description>Mi hanno rubato il canale! Le nuove truffe e come evitare che ti rubino i profili!</description>
+            <title>Marco Montemagno - Auto elettriche e nuove tecnologie... Facciamo il punto con Andrea Galeazzi</title>
+            <link>https://www.youtube.com/watch?v=pfrTqZ9eE14</link>
+            <guid>https://www.youtube.com/watch?v=pfrTqZ9eE14</guid>
+            <pubDate>JUNE 6, 2021 AT 10:40AM</pubDate>
+            <description>Auto elettriche e nuove tecnologie... Facciamo il punto con Andrea Galeazzi</description>
         </item>
         <item>
-            <title>Marco Montemagno - Ti odio...perché sei pelato...#shorts</title>
-            <link>https://www.youtube.com/watch?v=wxxQ9gqvNT4</link>
-            <guid>https://www.youtube.com/watch?v=wxxQ9gqvNT4</guid>
-            <pubDate>AUGUST 31, 2021 AT 10:37AM</pubDate>
-            <description>Ti odio...perché sei pelato...#shorts</description>
+            <title>Marco Montemagno - Non ragioniam di lor, ma guarda e passa #shorts</title>
+            <link>https://www.youtube.com/watch?v=h-jRIliZynk</link>
+            <guid>https://www.youtube.com/watch?v=h-jRIliZynk</guid>
+            <pubDate>AUGUST 27, 2021 AT 01:25PM</pubDate>
+            <description>Non ragioniam di lor, ma guarda e passa #shorts</description>
         </item>
         <item>
-            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Mario Tozzi, CNR</title>
-            <link>https://www.youtube.com/watch?v=qr9fXnuAvN4</link>
-            <guid>https://www.youtube.com/watch?v=qr9fXnuAvN4</guid>
-            <pubDate>SEPTEMBER 6, 2021 AT 05:58PM</pubDate>
-            <description>Cambiamento climatico, elettrificazione e dintorni con Mario Tozzi, CNR</description>
+            <title>Raffaele Gaito - CLUBHOUSE STA MORENDO! E STICAZZI?!</title>
+            <link>https://www.youtube.com/watch?v=bw69Mw8S28c</link>
+            <guid>https://www.youtube.com/watch?v=bw69Mw8S28c</guid>
+            <pubDate>JUNE 15, 2021 AT 08:00AM</pubDate>
+            <description>CLUBHOUSE STA MORENDO! E STICAZZI?!</description>
         </item>
         <item>
-            <title>Marco Montemagno - Bitcoin, NFT, Crypto...Riassunto delle puntate precedenti</title>
-            <link>https://www.youtube.com/watch?v=RGYYuxubUGE</link>
-            <guid>https://www.youtube.com/watch?v=RGYYuxubUGE</guid>
-            <pubDate>NOVEMBER 21, 2021 AT 06:00PM</pubDate>
-            <description>Bitcoin, NFT, Crypto...Riassunto delle puntate precedenti</description>
+            <title>Raffaele Gaito - IMPRESE ITALIANE E DIGITALIZZAZIONE, COME SIAMO MESSI?!</title>
+            <link>https://www.youtube.com/watch?v=SGs4LsPVkV8</link>
+            <guid>https://www.youtube.com/watch?v=SGs4LsPVkV8</guid>
+            <pubDate>JULY 30, 2021 AT 08:00AM</pubDate>
+            <description>IMPRESE ITALIANE E DIGITALIZZAZIONE, COME SIAMO MESSI?!</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Come integrare l&#39;Intelligenza artificiale e quella Umana?</title>
+            <link>https://www.youtube.com/watch?v=NYEKYvBJAg8</link>
+            <guid>https://www.youtube.com/watch?v=NYEKYvBJAg8</guid>
+            <pubDate>JUNE 24, 2021 AT 10:52PM</pubDate>
+            <description>Come integrare l&#39;Intelligenza artificiale e quella Umana?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Basta che canticchi (anche male) e Google indovina la canzone?</title>
+            <link>https://www.youtube.com/watch?v=7txcJW59sHg</link>
+            <guid>https://www.youtube.com/watch?v=7txcJW59sHg</guid>
+            <pubDate>JULY 4, 2021 AT 03:07PM</pubDate>
+            <description>Basta che canticchi (anche male) e Google indovina la canzone?</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Facebook e Instagram a pagamento per colpa di Apple?</title>
+            <link>https://www.youtube.com/watch?v=JngaCH8MmGM</link>
+            <guid>https://www.youtube.com/watch?v=JngaCH8MmGM</guid>
+            <pubDate>MAY 4, 2021 AT 08:00AM</pubDate>
+            <description>Facebook e Instagram a pagamento per colpa di Apple?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con gli Extraliscio</title>
+            <link>https://www.youtube.com/watch?v=8wDM9ot5o8g</link>
+            <guid>https://www.youtube.com/watch?v=8wDM9ot5o8g</guid>
+            <pubDate>JUNE 10, 2021 AT 11:57AM</pubDate>
+            <description>4 chiacchiere con gli Extraliscio</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Joe BASTIANICH</title>
+            <link>https://www.youtube.com/watch?v=468vHWl7IPY</link>
+            <guid>https://www.youtube.com/watch?v=468vHWl7IPY</guid>
+            <pubDate>MAY 19, 2021 AT 12:18PM</pubDate>
+            <description>4 chiacchiere con Joe BASTIANICH</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Le non scuse di Fabio Meroni, il consigliere leghista che ha chiamato Liliana Segre &quot;numero 75190&quot;</title>
+            <link>https://www.youtube.com/watch?v=bikBAr3zuw8</link>
+            <guid>https://www.youtube.com/watch?v=bikBAr3zuw8</guid>
+            <pubDate>NOVEMBER 26, 2021 AT 07:45AM</pubDate>
+            <description>Le non scuse di Fabio Meroni, il consigliere leghista che ha chiamato Liliana Segre &quot;numero 75190&quot;</description>
+        </item>
+        <item>
+            <title>Matteo Flora - [LIVE] L&#39;aperitivo di Ciao Internet1</title>
+            <link>https://www.youtube.com/watch?v=yZ3AFIlrUWo</link>
+            <guid>https://www.youtube.com/watch?v=yZ3AFIlrUWo</guid>
+            <pubDate>AUGUST 27, 2021 AT 09:38PM</pubDate>
+            <description>[LIVE] L&#39;aperitivo di Ciao Internet1</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con l&#39;arma dei carabinieri (Luca de Marchis)</title>
+            <link>https://www.youtube.com/watch?v=7y2pbB3FZSY</link>
+            <guid>https://www.youtube.com/watch?v=7y2pbB3FZSY</guid>
+            <pubDate>NOVEMBER 9, 2021 AT 01:00PM</pubDate>
+            <description>4 chiacchiere con l&#39;arma dei carabinieri (Luca de Marchis)</description>
         </item>
     </channel>
 </rss>
