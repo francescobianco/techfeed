@@ -5,20 +5,90 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Thu, 29 Feb 2024 13:14:57 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 01 Mar 2024 13:14:54 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - Vuoi lavorare con me?</title>
-            <link>https://www.youtube.com/watch?v=WaM8OkmNBN8</link>
-            <guid>https://www.youtube.com/watch?v=WaM8OkmNBN8</guid>
-            <pubDate>JUNE 24, 2021 AT 07:33PM</pubDate>
-            <description>Vuoi lavorare con me?</description>
+            <title>Marco Montemagno - 4 caratteristiche OVVIE di chi ottiene grandi risultati</title>
+            <link>https://www.youtube.com/watch?v=0oyO6Aanqhk</link>
+            <guid>https://www.youtube.com/watch?v=0oyO6Aanqhk</guid>
+            <pubDate>JUNE 8, 2021 AT 12:53PM</pubDate>
+            <description>4 caratteristiche OVVIE di chi ottiene grandi risultati</description>
         </item>
         <item>
-            <title>Marco Montemagno - La verità sul &quot;fare l&#39;imprenditore&quot; #shorts</title>
-            <link>https://www.youtube.com/watch?v=jnpETGBg7zY</link>
-            <guid>https://www.youtube.com/watch?v=jnpETGBg7zY</guid>
-            <pubDate>JUNE 30, 2021 AT 04:38PM</pubDate>
-            <description>La verità sul &quot;fare l&#39;imprenditore&quot; #shorts</description>
+            <title>Marco Montemagno - Intelligenza artificiale e business</title>
+            <link>https://www.youtube.com/watch?v=TnQTorpw2dA</link>
+            <guid>https://www.youtube.com/watch?v=TnQTorpw2dA</guid>
+            <pubDate>JUNE 22, 2021 AT 08:47AM</pubDate>
+            <description>Intelligenza artificiale e business</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - 6 cose da fare invece di prendere in mano il telefono</title>
+            <link>https://www.youtube.com/watch?v=OJ5M0J2GpAE</link>
+            <guid>https://www.youtube.com/watch?v=OJ5M0J2GpAE</guid>
+            <pubDate>JULY 7, 2021 AT 10:06AM</pubDate>
+            <description>6 cose da fare invece di prendere in mano il telefono</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - È Finita?</title>
+            <link>https://www.youtube.com/watch?v=LzcM-nLZXWc</link>
+            <guid>https://www.youtube.com/watch?v=LzcM-nLZXWc</guid>
+            <pubDate>JUNE 13, 2021 AT 05:17PM</pubDate>
+            <description>È Finita?</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - Come creare e vendere un NFT</title>
+            <link>https://www.youtube.com/watch?v=jzi6yQROUNs</link>
+            <guid>https://www.youtube.com/watch?v=jzi6yQROUNs</guid>
+            <pubDate>FEBRUARY 11, 2022 AT 09:12AM</pubDate>
+            <description>Come creare e vendere un NFT</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - 3 motivi per cui le persone guardano i video</title>
+            <link>https://www.youtube.com/watch?v=YTketxeKwWU</link>
+            <guid>https://www.youtube.com/watch?v=YTketxeKwWU</guid>
+            <pubDate>JULY 26, 2021 AT 08:58AM</pubDate>
+            <description>3 motivi per cui le persone guardano i video</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - L’arte di preparare i cocktail con Ago Perrone e Giorgio Bargiani</title>
+            <link>https://www.youtube.com/watch?v=cbVlSdwGY4o</link>
+            <guid>https://www.youtube.com/watch?v=cbVlSdwGY4o</guid>
+            <pubDate>DECEMBER 13, 2021 AT 01:45PM</pubDate>
+            <description>L’arte di preparare i cocktail con Ago Perrone e Giorgio Bargiani</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Monty contro Tutti...Domande e risposte Live!</title>
+            <link>https://www.youtube.com/watch?v=qMdFVDU_Q3w</link>
+            <guid>https://www.youtube.com/watch?v=qMdFVDU_Q3w</guid>
+            <pubDate>FEBRUARY 2, 2022 AT 04:55PM</pubDate>
+            <description>Monty contro Tutti...Domande e risposte Live!</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - La Cina contro i social: non più di 40 minuti al giorno</title>
+            <link>https://www.youtube.com/watch?v=m311XQavGqE</link>
+            <guid>https://www.youtube.com/watch?v=m311XQavGqE</guid>
+            <pubDate>SEPTEMBER 21, 2021 AT 04:53PM</pubDate>
+            <description>La Cina contro i social: non più di 40 minuti al giorno</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - Facebook &amp; Audio: c&#39;è una Strategia. Altro che Clubhouse..</title>
+            <link>https://www.youtube.com/watch?v=ZAr-2bbER0k</link>
+            <guid>https://www.youtube.com/watch?v=ZAr-2bbER0k</guid>
+            <pubDate>MAY 13, 2021 AT 07:30AM</pubDate>
+            <description>Facebook &amp; Audio: c&#39;è una Strategia. Altro che Clubhouse..</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Su Competenze sta per arrivare Francesca Vecchioni con il corso Diversity &amp; Inclusion</title>
+            <link>https://www.youtube.com/watch?v=Rpptz2wz2no</link>
+            <guid>https://www.youtube.com/watch?v=Rpptz2wz2no</guid>
+            <pubDate>MAY 7, 2021 AT 12:29PM</pubDate>
+            <description>Su Competenze sta per arrivare Francesca Vecchioni con il corso Diversity &amp; Inclusion</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - La Cina (Ri)BANNA Bitcoin &amp;co...e ora che succede?</title>
+            <link>https://www.youtube.com/watch?v=OHJHU79PNbw</link>
+            <guid>https://www.youtube.com/watch?v=OHJHU79PNbw</guid>
+            <pubDate>SEPTEMBER 25, 2021 AT 12:17PM</pubDate>
+            <description>La Cina (Ri)BANNA Bitcoin &amp;co...e ora che succede?</description>
         </item>
         <item>
             <title>Raffaele Gaito - LA HUSTLE CULTURE HA ROTTO LE PA**E</title>
@@ -28,123 +98,53 @@
             <description>LA HUSTLE CULTURE HA ROTTO LE PA**E</description>
         </item>
         <item>
-            <title>Matteo Flora - Perché non ci sono le foto dei link su Facebook? La Direttiva Europea Copyright EUCD con Lucia Maggi</title>
-            <link>https://www.youtube.com/watch?v=OhQPE0oV9Rk</link>
-            <guid>https://www.youtube.com/watch?v=OhQPE0oV9Rk</guid>
-            <pubDate>DECEMBER 15, 2021 AT 08:30AM</pubDate>
-            <description>Perché non ci sono le foto dei link su Facebook? La Direttiva Europea Copyright EUCD con Lucia Maggi</description>
+            <title>Matteo Flora - Aruba, il data breach e le scuse fatte male...</title>
+            <link>https://www.youtube.com/watch?v=7e3erd0tnj8</link>
+            <guid>https://www.youtube.com/watch?v=7e3erd0tnj8</guid>
+            <pubDate>JULY 18, 2021 AT 06:21PM</pubDate>
+            <description>Aruba, il data breach e le scuse fatte male...</description>
         </item>
         <item>
-            <title>Rudy Bandiera - No perché gli spogliatoi sono brutti...</title>
-            <link>https://www.youtube.com/watch?v=mReEPFUx0O0</link>
-            <guid>https://www.youtube.com/watch?v=mReEPFUx0O0</guid>
-            <pubDate>OCTOBER 26, 2021 AT 09:46PM</pubDate>
-            <description>No perché gli spogliatoi sono brutti...</description>
+            <title>Marco Montemagno - Come si intrattiene un pubblico? - Alessandro Cattelan</title>
+            <link>https://www.youtube.com/watch?v=7x7YHVaNpog</link>
+            <guid>https://www.youtube.com/watch?v=7x7YHVaNpog</guid>
+            <pubDate>AUGUST 25, 2021 AT 01:00PM</pubDate>
+            <description>Come si intrattiene un pubblico? - Alessandro Cattelan</description>
         </item>
         <item>
-            <title>Raffaele Gaito - QUAL È IL TUO PERCHÉ?!</title>
-            <link>https://www.youtube.com/watch?v=ZO20C81PxjM</link>
-            <guid>https://www.youtube.com/watch?v=ZO20C81PxjM</guid>
-            <pubDate>JUNE 2, 2021 AT 08:00AM</pubDate>
-            <description>QUAL È IL TUO PERCHÉ?!</description>
+            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Emanuele Bompan</title>
+            <link>https://www.youtube.com/watch?v=iGMl-9DQLCo</link>
+            <guid>https://www.youtube.com/watch?v=iGMl-9DQLCo</guid>
+            <pubDate>SEPTEMBER 9, 2021 AT 07:07PM</pubDate>
+            <description>Cambiamento climatico, elettrificazione e dintorni con Emanuele Bompan</description>
         </item>
         <item>
-            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Alberto De Paoli, Enel</title>
-            <link>https://www.youtube.com/watch?v=MpxMDkbPCHE</link>
-            <guid>https://www.youtube.com/watch?v=MpxMDkbPCHE</guid>
-            <pubDate>SEPTEMBER 10, 2021 AT 12:41PM</pubDate>
-            <description>Cambiamento climatico, elettrificazione e dintorni con Alberto De Paoli, Enel</description>
+            <title>Raffaele Gaito - LA MALEDIZIONE DELLA CONOSCENZA (COS&#39;È E COME USCIRNE)</title>
+            <link>https://www.youtube.com/watch?v=hcJwTlEFPXI</link>
+            <guid>https://www.youtube.com/watch?v=hcJwTlEFPXI</guid>
+            <pubDate>JULY 20, 2021 AT 08:00AM</pubDate>
+            <description>LA MALEDIZIONE DELLA CONOSCENZA (COS&#39;È E COME USCIRNE)</description>
         </item>
         <item>
-            <title>Marco Montemagno - Vacanze a Nuoto - Il trend in crescita del nuoto in mare aperto</title>
-            <link>https://www.youtube.com/watch?v=2jrAPs5YALU</link>
-            <guid>https://www.youtube.com/watch?v=2jrAPs5YALU</guid>
-            <pubDate>JULY 1, 2021 AT 10:32AM</pubDate>
-            <description>Vacanze a Nuoto - Il trend in crescita del nuoto in mare aperto</description>
+            <title>Marco Montemagno - Non puoi cambiare il carattere delle persone intorno a te, ma ...</title>
+            <link>https://www.youtube.com/watch?v=1Nvx5176iuk</link>
+            <guid>https://www.youtube.com/watch?v=1Nvx5176iuk</guid>
+            <pubDate>DECEMBER 6, 2021 AT 09:00AM</pubDate>
+            <description>Non puoi cambiare il carattere delle persone intorno a te, ma ...</description>
         </item>
         <item>
-            <title>Marco Montemagno - Consegne sempre più veloci: costi, problemi e sostenibilità</title>
-            <link>https://www.youtube.com/watch?v=aIXxuyc41sw</link>
-            <guid>https://www.youtube.com/watch?v=aIXxuyc41sw</guid>
-            <pubDate>DECEMBER 22, 2021 AT 12:50PM</pubDate>
-            <description>Consegne sempre più veloci: costi, problemi e sostenibilità</description>
+            <title>Marco Montemagno - MMA sarà presto lo sport più visto al mondo?</title>
+            <link>https://www.youtube.com/watch?v=at8wL5FhOdk</link>
+            <guid>https://www.youtube.com/watch?v=at8wL5FhOdk</guid>
+            <pubDate>NOVEMBER 6, 2021 AT 01:00PM</pubDate>
+            <description>MMA sarà presto lo sport più visto al mondo?</description>
         </item>
         <item>
-            <title>Matteo Flora - Cristina Fogazzi, Estetista Cinica, la crisi reputazionale dei &quot;Punti Fagiana&quot; e le scuse</title>
-            <link>https://www.youtube.com/watch?v=9sk4LTEjgGg</link>
-            <guid>https://www.youtube.com/watch?v=9sk4LTEjgGg</guid>
-            <pubDate>FEBRUARY 9, 2022 AT 01:04PM</pubDate>
-            <description>Cristina Fogazzi, Estetista Cinica, la crisi reputazionale dei &quot;Punti Fagiana&quot; e le scuse</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - È questo che ti frega</title>
-            <link>https://www.youtube.com/watch?v=z9w7EDuS_bw</link>
-            <guid>https://www.youtube.com/watch?v=z9w7EDuS_bw</guid>
-            <pubDate>MAY 10, 2021 AT 11:42AM</pubDate>
-            <description>È questo che ti frega</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - È possibile o è probabile?</title>
-            <link>https://www.youtube.com/watch?v=Jb9OrN2Ij60</link>
-            <guid>https://www.youtube.com/watch?v=Jb9OrN2Ij60</guid>
-            <pubDate>JANUARY 9, 2022 AT 01:00PM</pubDate>
-            <description>È possibile o è probabile?</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - La mobilità del futuro: autobus volanti o auto elettriche?</title>
-            <link>https://www.youtube.com/watch?v=gmVDMcv7f5Q</link>
-            <guid>https://www.youtube.com/watch?v=gmVDMcv7f5Q</guid>
-            <pubDate>NOVEMBER 22, 2021 AT 09:33AM</pubDate>
-            <description>La mobilità del futuro: autobus volanti o auto elettriche?</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - COME DIFFERENZIARSI DALLA CONCORRENZA (E NON SOLO)</title>
-            <link>https://www.youtube.com/watch?v=0-SbdkcHFGA</link>
-            <guid>https://www.youtube.com/watch?v=0-SbdkcHFGA</guid>
-            <pubDate>AUGUST 3, 2021 AT 08:00AM</pubDate>
-            <description>COME DIFFERENZIARSI DALLA CONCORRENZA (E NON SOLO)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con lo Chef Mauro Colagreco (&quot;miglior ristorante al mondo&quot;)</title>
-            <link>https://www.youtube.com/watch?v=AWzt4FPoLqQ</link>
-            <guid>https://www.youtube.com/watch?v=AWzt4FPoLqQ</guid>
-            <pubDate>JULY 5, 2021 AT 11:11AM</pubDate>
-            <description>4 chiacchiere con lo Chef Mauro Colagreco (&quot;miglior ristorante al mondo&quot;)</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - Atassia spinocerebellare. Cos’è, chi è a rischio, come curarla</title>
-            <link>https://www.youtube.com/watch?v=5cVBb2QpZsU</link>
-            <guid>https://www.youtube.com/watch?v=5cVBb2QpZsU</guid>
-            <pubDate>DECEMBER 13, 2021 AT 09:47AM</pubDate>
-            <description>Atassia spinocerebellare. Cos’è, chi è a rischio, come curarla</description>
-        </item>
-        <item>
-            <title>Matteo Flora - CROWDFUNDING: cosa è, come funziona e cosa devi sapere per iniziare!</title>
-            <link>https://www.youtube.com/watch?v=V3DgJ6mRXEM</link>
-            <guid>https://www.youtube.com/watch?v=V3DgJ6mRXEM</guid>
-            <pubDate>OCTOBER 7, 2021 AT 06:15PM</pubDate>
-            <description>CROWDFUNDING: cosa è, come funziona e cosa devi sapere per iniziare!</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Monty Live - Domande e Risposte</title>
-            <link>https://www.youtube.com/watch?v=kjqKhiDeXL0</link>
-            <guid>https://www.youtube.com/watch?v=kjqKhiDeXL0</guid>
-            <pubDate>JUNE 15, 2021 AT 06:39PM</pubDate>
-            <description>Monty Live - Domande e Risposte</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Marco Montemagno...ma chi è? Che mestiere fa? Da dove arriva?</title>
-            <link>https://www.youtube.com/watch?v=ume43VQUbo8</link>
-            <guid>https://www.youtube.com/watch?v=ume43VQUbo8</guid>
-            <pubDate>JUNE 18, 2021 AT 07:27PM</pubDate>
-            <description>Marco Montemagno...ma chi è? Che mestiere fa? Da dove arriva?</description>
-        </item>
-        <item>
-            <title>Matteo Flora - [LIVE] - Ciao Internet SERALE in DIRETTA</title>
-            <link>https://www.youtube.com/watch?v=yc8KxlMb1s8</link>
-            <guid>https://www.youtube.com/watch?v=yc8KxlMb1s8</guid>
-            <pubDate>AUGUST 24, 2021 AT 12:43PM</pubDate>
-            <description>[LIVE] - Ciao Internet SERALE in DIRETTA</description>
+            <title>Marco Montemagno - Sui social possono farti sparire da un secondo all&#39;altro</title>
+            <link>https://www.youtube.com/watch?v=hJJqBRZ68sc</link>
+            <guid>https://www.youtube.com/watch?v=hJJqBRZ68sc</guid>
+            <pubDate>OCTOBER 14, 2021 AT 10:22AM</pubDate>
+            <description>Sui social possono farti sparire da un secondo all&#39;altro</description>
         </item>
     </channel>
 </rss>
