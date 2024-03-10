@@ -5,13 +5,69 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Sat, 09 Mar 2024 13:13:37 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 10 Mar 2024 13:14:53 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - Food Talks 4 chiacchiere con Vincenzo Ferrieri (Cioccolati Italiani) e Vittoria Zanetti (Poke House)</title>
-            <link>https://www.youtube.com/watch?v=ze-950IFPvs</link>
-            <guid>https://www.youtube.com/watch?v=ze-950IFPvs</guid>
-            <pubDate>MAY 17, 2021 AT 11:37AM</pubDate>
-            <description>Food Talks 4 chiacchiere con Vincenzo Ferrieri (Cioccolati Italiani) e Vittoria Zanetti (Poke House)</description>
+            <title>Giorgio Taverniti - Il Fallimento di Clubhouse: una meteora utile - W&amp;L Aprile 2021</title>
+            <link>https://www.youtube.com/watch?v=mWrc0lYq_ws</link>
+            <guid>https://www.youtube.com/watch?v=mWrc0lYq_ws</guid>
+            <pubDate>MAY 6, 2021 AT 07:30AM</pubDate>
+            <description>Il Fallimento di Clubhouse: una meteora utile - W&amp;L Aprile 2021</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Moda ed e-commerce: il ruolo fondamentale della sostenibilità</title>
+            <link>https://www.youtube.com/watch?v=qJmikLxAuSc</link>
+            <guid>https://www.youtube.com/watch?v=qJmikLxAuSc</guid>
+            <pubDate>JANUARY 6, 2022 AT 10:00AM</pubDate>
+            <description>Moda ed e-commerce: il ruolo fondamentale della sostenibilità</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Includere fa la differenza - Diversity su Competenze con Francesca Vecchioni</title>
+            <link>https://www.youtube.com/watch?v=AWKZVpYuhH0</link>
+            <guid>https://www.youtube.com/watch?v=AWKZVpYuhH0</guid>
+            <pubDate>MAY 10, 2021 AT 10:59AM</pubDate>
+            <description>Includere fa la differenza - Diversity su Competenze con Francesca Vecchioni</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Robert Kennedy jr, Anna Frank, i no-vax e l&#39;olocausto: perché non accettare le scuse</title>
+            <link>https://www.youtube.com/watch?v=Spb9UN1es44</link>
+            <guid>https://www.youtube.com/watch?v=Spb9UN1es44</guid>
+            <pubDate>JANUARY 26, 2022 AT 07:42PM</pubDate>
+            <description>Robert Kennedy jr, Anna Frank, i no-vax e l&#39;olocausto: perché non accettare le scuse</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Quali lavori spopoleranno in futuro?</title>
+            <link>https://www.youtube.com/watch?v=Ag9y4YD27pk</link>
+            <guid>https://www.youtube.com/watch?v=Ag9y4YD27pk</guid>
+            <pubDate>OCTOBER 28, 2021 AT 12:30PM</pubDate>
+            <description>Quali lavori spopoleranno in futuro?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Mentalità olimpica con Valentina Marchei</title>
+            <link>https://www.youtube.com/watch?v=H_ap3AIgU9E</link>
+            <guid>https://www.youtube.com/watch?v=H_ap3AIgU9E</guid>
+            <pubDate>SEPTEMBER 13, 2021 AT 12:42PM</pubDate>
+            <description>Mentalità olimpica con Valentina Marchei</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Rayban Stories: parliamo dei nuovi occhiali di Facebook</title>
+            <link>https://www.youtube.com/watch?v=HEzA9CPcpns</link>
+            <guid>https://www.youtube.com/watch?v=HEzA9CPcpns</guid>
+            <pubDate>OCTOBER 11, 2021 AT 07:45AM</pubDate>
+            <description>Rayban Stories: parliamo dei nuovi occhiali di Facebook</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Davvero Meta / Facebook chiude in Europa? Lo SPECIALE</title>
+            <link>https://www.youtube.com/watch?v=5AisbRlQw4Q</link>
+            <guid>https://www.youtube.com/watch?v=5AisbRlQw4Q</guid>
+            <pubDate>FEBRUARY 8, 2022 AT 09:40AM</pubDate>
+            <description>Davvero Meta / Facebook chiude in Europa? Lo SPECIALE</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Piuarch, lo scandalo 600 euro, e il costo nascosto della #Reputazione</title>
+            <link>https://www.youtube.com/watch?v=27xiPN69LiY</link>
+            <guid>https://www.youtube.com/watch?v=27xiPN69LiY</guid>
+            <pubDate>SEPTEMBER 3, 2021 AT 07:55AM</pubDate>
+            <description>Piuarch, lo scandalo 600 euro, e il costo nascosto della #Reputazione</description>
         </item>
         <item>
             <title>Marco Montemagno - 4 chiacchiere con Enrico Casarosa (Regista di &quot;Luca&quot;, Pixar)</title>
@@ -21,60 +77,67 @@
             <description>4 chiacchiere con Enrico Casarosa (Regista di &quot;Luca&quot;, Pixar)</description>
         </item>
         <item>
-            <title>Matteo Flora - Barbara Palombelli ed il DISASTRO delle (non) scuse...</title>
-            <link>https://www.youtube.com/watch?v=Mg57Uj58LrY</link>
-            <guid>https://www.youtube.com/watch?v=Mg57Uj58LrY</guid>
-            <pubDate>SEPTEMBER 22, 2021 AT 11:28AM</pubDate>
-            <description>Barbara Palombelli ed il DISASTRO delle (non) scuse...</description>
+            <title>Marco Montemagno - 6 abitudini che mi hanno cambiato la vita</title>
+            <link>https://www.youtube.com/watch?v=s8d9cY6Y6V4</link>
+            <guid>https://www.youtube.com/watch?v=s8d9cY6Y6V4</guid>
+            <pubDate>JANUARY 13, 2022 AT 01:00PM</pubDate>
+            <description>6 abitudini che mi hanno cambiato la vita</description>
         </item>
         <item>
-            <title>Matteo Flora - AMAZON: multa da UN MILIARDO per posizione dominante. Ne parliamo con @quinta!</title>
-            <link>https://www.youtube.com/watch?v=3iXcHypkMR4</link>
-            <guid>https://www.youtube.com/watch?v=3iXcHypkMR4</guid>
-            <pubDate>DECEMBER 10, 2021 AT 08:30AM</pubDate>
-            <description>AMAZON: multa da UN MILIARDO per posizione dominante. Ne parliamo con @quinta!</description>
+            <title>Marco Montemagno - &quot;Luoghi comuni&quot; sul business: sfatiamoli insieme</title>
+            <link>https://www.youtube.com/watch?v=95fv2XNMtFY</link>
+            <guid>https://www.youtube.com/watch?v=95fv2XNMtFY</guid>
+            <pubDate>OCTOBER 26, 2021 AT 01:30PM</pubDate>
+            <description>&quot;Luoghi comuni&quot; sul business: sfatiamoli insieme</description>
         </item>
         <item>
-            <title>Matteo Flora - Cosa cambia con i COOKIE? Le nuove linee guida del Garante e una Guida su fare per adeguarsi!</title>
-            <link>https://www.youtube.com/watch?v=_VEZ7Xh0VXA</link>
-            <guid>https://www.youtube.com/watch?v=_VEZ7Xh0VXA</guid>
-            <pubDate>JULY 12, 2021 AT 01:29PM</pubDate>
-            <description>Cosa cambia con i COOKIE? Le nuove linee guida del Garante e una Guida su fare per adeguarsi!</description>
+            <title>Marco Montemagno - Perché chi è incapace crede di essere un fenomeno</title>
+            <link>https://www.youtube.com/watch?v=x0nUaKKWx4A</link>
+            <guid>https://www.youtube.com/watch?v=x0nUaKKWx4A</guid>
+            <pubDate>OCTOBER 4, 2021 AT 01:40PM</pubDate>
+            <description>Perché chi è incapace crede di essere un fenomeno</description>
         </item>
         <item>
-            <title>Matteo Flora - #GreenPass hackerato: ecco come hanno fatto (e cosa fare ora)</title>
-            <link>https://www.youtube.com/watch?v=2UI9YOh8uVE</link>
-            <guid>https://www.youtube.com/watch?v=2UI9YOh8uVE</guid>
-            <pubDate>OCTOBER 28, 2021 AT 11:17AM</pubDate>
-            <description>#GreenPass hackerato: ecco come hanno fatto (e cosa fare ora)</description>
+            <title>Raffaele Gaito - Raffaele Gaito intervista Marco Montemagno</title>
+            <link>https://www.youtube.com/watch?v=B9hvpRS0aYs</link>
+            <guid>https://www.youtube.com/watch?v=B9hvpRS0aYs</guid>
+            <pubDate>JUNE 14, 2021 AT 07:42PM</pubDate>
+            <description>Raffaele Gaito intervista Marco Montemagno</description>
         </item>
         <item>
-            <title>Marco Montemagno - 2 REGALI per ringraziarti</title>
-            <link>https://www.youtube.com/watch?v=i2AovXBaSvg</link>
-            <guid>https://www.youtube.com/watch?v=i2AovXBaSvg</guid>
-            <pubDate>JUNE 9, 2021 AT 04:36PM</pubDate>
-            <description>2 REGALI per ringraziarti</description>
+            <title>Matteo Flora - [LIVE] - Ciao Internet SERALE in DIRETTA - Questa non é una live su Luca Morisi</title>
+            <link>https://www.youtube.com/watch?v=PTXLgoaCEBU</link>
+            <guid>https://www.youtube.com/watch?v=PTXLgoaCEBU</guid>
+            <pubDate>SEPTEMBER 29, 2021 AT 01:44PM</pubDate>
+            <description>[LIVE] - Ciao Internet SERALE in DIRETTA - Questa non é una live su Luca Morisi</description>
         </item>
         <item>
-            <title>Marco Montemagno - Ti odio...perché sei pelato...#shorts</title>
-            <link>https://www.youtube.com/watch?v=wxxQ9gqvNT4</link>
-            <guid>https://www.youtube.com/watch?v=wxxQ9gqvNT4</guid>
-            <pubDate>AUGUST 31, 2021 AT 10:37AM</pubDate>
-            <description>Ti odio...perché sei pelato...#shorts</description>
+            <title>Marco Montemagno - Indovina quanto ha incassato Tim (il CEO di Apple)?</title>
+            <link>https://www.youtube.com/watch?v=H6n0ZQRvgJQ</link>
+            <guid>https://www.youtube.com/watch?v=H6n0ZQRvgJQ</guid>
+            <pubDate>AUGUST 28, 2021 AT 11:48PM</pubDate>
+            <description>Indovina quanto ha incassato Tim (il CEO di Apple)?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Antonio Cammisecra (Enel)</title>
-            <link>https://www.youtube.com/watch?v=ym8xfRvhkOI</link>
-            <guid>https://www.youtube.com/watch?v=ym8xfRvhkOI</guid>
-            <pubDate>SEPTEMBER 5, 2021 AT 06:58PM</pubDate>
-            <description>Cambiamento climatico, elettrificazione e dintorni con Antonio Cammisecra (Enel)</description>
+            <title>Marco Montemagno - È questo che ti frega</title>
+            <link>https://www.youtube.com/watch?v=z9w7EDuS_bw</link>
+            <guid>https://www.youtube.com/watch?v=z9w7EDuS_bw</guid>
+            <pubDate>MAY 10, 2021 AT 11:42AM</pubDate>
+            <description>È questo che ti frega</description>
         </item>
         <item>
-            <title>Marco Montemagno - Come si crea un prodotto finanziario?</title>
-            <link>https://www.youtube.com/watch?v=uXO5ba2vgrA</link>
-            <guid>https://www.youtube.com/watch?v=uXO5ba2vgrA</guid>
-            <pubDate>NOVEMBER 21, 2021 AT 09:40PM</pubDate>
-            <description>Come si crea un prodotto finanziario?</description>
+            <title>Marco Montemagno - Iginio e Debora Massari su Competenze.it!</title>
+            <link>https://www.youtube.com/watch?v=FQnjJQeSykw</link>
+            <guid>https://www.youtube.com/watch?v=FQnjJQeSykw</guid>
+            <pubDate>MAY 24, 2021 AT 11:44AM</pubDate>
+            <description>Iginio e Debora Massari su Competenze.it!</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Tutto Montemagno...ne parliamo alla Hoepli (Live)</title>
+            <link>https://www.youtube.com/watch?v=XANJSyF1rac</link>
+            <guid>https://www.youtube.com/watch?v=XANJSyF1rac</guid>
+            <pubDate>JUNE 16, 2021 AT 12:42PM</pubDate>
+            <description>Tutto Montemagno...ne parliamo alla Hoepli (Live)</description>
         </item>
         <item>
             <title>Matteo Flora - Il Garante della Privacy è davvero un &quot;ostacolo&quot;?</title>
@@ -82,69 +145,6 @@
             <guid>https://www.youtube.com/watch?v=ax8NVfiaSHU</guid>
             <pubDate>JUNE 14, 2021 AT 11:50AM</pubDate>
             <description>Il Garante della Privacy è davvero un &quot;ostacolo&quot;?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Facebook contro tutti: che fine farà?</title>
-            <link>https://www.youtube.com/watch?v=lctXH39zZCI</link>
-            <guid>https://www.youtube.com/watch?v=lctXH39zZCI</guid>
-            <pubDate>OCTOBER 5, 2021 AT 03:26PM</pubDate>
-            <description>Facebook contro tutti: che fine farà?</description>
-        </item>
-        <item>
-            <title>Raffaele Gaito - IMPRESE ITALIANE E DIGITALIZZAZIONE, COME SIAMO MESSI?!</title>
-            <link>https://www.youtube.com/watch?v=SGs4LsPVkV8</link>
-            <guid>https://www.youtube.com/watch?v=SGs4LsPVkV8</guid>
-            <pubDate>JULY 30, 2021 AT 08:00AM</pubDate>
-            <description>IMPRESE ITALIANE E DIGITALIZZAZIONE, COME SIAMO MESSI?!</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Blockchain, mining/environment, Stablecoins...a conversation with Algorand</title>
-            <link>https://www.youtube.com/watch?v=FTYhKY4o-4g</link>
-            <guid>https://www.youtube.com/watch?v=FTYhKY4o-4g</guid>
-            <pubDate>NOVEMBER 24, 2021 AT 03:00PM</pubDate>
-            <description>Blockchain, mining/environment, Stablecoins...a conversation with Algorand</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come usare (e non farti usare da)i social nel 2021 per il tuo lavoro</title>
-            <link>https://www.youtube.com/watch?v=lOQxMDblQzM</link>
-            <guid>https://www.youtube.com/watch?v=lOQxMDblQzM</guid>
-            <pubDate>OCTOBER 20, 2021 AT 02:00PM</pubDate>
-            <description>Come usare (e non farti usare da)i social nel 2021 per il tuo lavoro</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - È Finita?</title>
-            <link>https://www.youtube.com/watch?v=LzcM-nLZXWc</link>
-            <guid>https://www.youtube.com/watch?v=LzcM-nLZXWc</guid>
-            <pubDate>JUNE 13, 2021 AT 05:17PM</pubDate>
-            <description>È Finita?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Il boom degli e-commerce in Italia: qualcosa sta cambiando?</title>
-            <link>https://www.youtube.com/watch?v=MQ0o-y_YRuk</link>
-            <guid>https://www.youtube.com/watch?v=MQ0o-y_YRuk</guid>
-            <pubDate>SEPTEMBER 30, 2021 AT 02:00PM</pubDate>
-            <description>Il boom degli e-commerce in Italia: qualcosa sta cambiando?</description>
-        </item>
-        <item>
-            <title>Matteo Flora - SPECIALE: L&#39;incredibile data breach dell&#39;Esame Avvocati 2020</title>
-            <link>https://www.youtube.com/watch?v=d_X-_13cJT0</link>
-            <guid>https://www.youtube.com/watch?v=d_X-_13cJT0</guid>
-            <pubDate>MAY 13, 2021 AT 08:19PM</pubDate>
-            <description>SPECIALE: L&#39;incredibile data breach dell&#39;Esame Avvocati 2020</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Le 9 citazioni che devi assolutamente conoscere (e applicare)</title>
-            <link>https://www.youtube.com/watch?v=VtKm1hiydZw</link>
-            <guid>https://www.youtube.com/watch?v=VtKm1hiydZw</guid>
-            <pubDate>JUNE 27, 2021 AT 10:55AM</pubDate>
-            <description>Le 9 citazioni che devi assolutamente conoscere (e applicare)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Monty Live! Come stai?</title>
-            <link>https://www.youtube.com/watch?v=cLYM36Z8MkE</link>
-            <guid>https://www.youtube.com/watch?v=cLYM36Z8MkE</guid>
-            <pubDate>SEPTEMBER 24, 2021 AT 04:44PM</pubDate>
-            <description>Monty Live! Come stai?</description>
         </item>
     </channel>
 </rss>
