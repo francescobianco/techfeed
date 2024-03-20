@@ -5,98 +5,7 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Tue, 19 Mar 2024 13:15:40 +0000</lastBuildDate>
-        <item>
-            <title>Marco Montemagno - Tennis! Riccardo Piatti su Competenze.it (live)</title>
-            <link>https://www.youtube.com/watch?v=B5JblZBlS-A</link>
-            <guid>https://www.youtube.com/watch?v=B5JblZBlS-A</guid>
-            <pubDate>JUNE 21, 2021 AT 12:22PM</pubDate>
-            <description>Tennis! Riccardo Piatti su Competenze.it (live)</description>
-        </item>
-        <item>
-            <title>Rudy Bandiera - Come creare e vendere un NFT</title>
-            <link>https://www.youtube.com/watch?v=jzi6yQROUNs</link>
-            <guid>https://www.youtube.com/watch?v=jzi6yQROUNs</guid>
-            <pubDate>FEBRUARY 11, 2022 AT 09:12AM</pubDate>
-            <description>Come creare e vendere un NFT</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Perché chi è incapace crede di essere un fenomeno</title>
-            <link>https://www.youtube.com/watch?v=x0nUaKKWx4A</link>
-            <guid>https://www.youtube.com/watch?v=x0nUaKKWx4A</guid>
-            <pubDate>OCTOBER 4, 2021 AT 01:40PM</pubDate>
-            <description>Perché chi è incapace crede di essere un fenomeno</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - Search Console Insight: tutto quello da sapere!</title>
-            <link>https://www.youtube.com/watch?v=zbJHlWAs8j0</link>
-            <guid>https://www.youtube.com/watch?v=zbJHlWAs8j0</guid>
-            <pubDate>JUNE 18, 2021 AT 07:30AM</pubDate>
-            <description>Search Console Insight: tutto quello da sapere!</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Nek racconta com&#39;è nata &quot;Laura non c&#39;è&quot;</title>
-            <link>https://www.youtube.com/watch?v=LcbQwOmlyYk</link>
-            <guid>https://www.youtube.com/watch?v=LcbQwOmlyYk</guid>
-            <pubDate>JULY 10, 2021 AT 10:54AM</pubDate>
-            <description>Nek racconta com&#39;è nata &quot;Laura non c&#39;è&quot;</description>
-        </item>
-        <item>
-            <title>Matteo Flora - SIAE e #databreach: cosa è successo e tutto quello che ancora non torna</title>
-            <link>https://www.youtube.com/watch?v=82g7ujRYgCk</link>
-            <guid>https://www.youtube.com/watch?v=82g7ujRYgCk</guid>
-            <pubDate>OCTOBER 22, 2021 AT 04:26PM</pubDate>
-            <description>SIAE e #databreach: cosa è successo e tutto quello che ancora non torna</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come comprare Ethereum e spostarli sul tuo wallet</title>
-            <link>https://www.youtube.com/watch?v=Di5yeLmFYaw</link>
-            <guid>https://www.youtube.com/watch?v=Di5yeLmFYaw</guid>
-            <pubDate>JANUARY 26, 2022 AT 09:58AM</pubDate>
-            <description>Come comprare Ethereum e spostarli sul tuo wallet</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Perché manca la Benzina nel Regno Unito</title>
-            <link>https://www.youtube.com/watch?v=_ZZfneSmVkQ</link>
-            <guid>https://www.youtube.com/watch?v=_ZZfneSmVkQ</guid>
-            <pubDate>SEPTEMBER 29, 2021 AT 07:31PM</pubDate>
-            <description>Perché manca la Benzina nel Regno Unito</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Tutto Montemagno...ne parliamo alla Hoepli (Live)</title>
-            <link>https://www.youtube.com/watch?v=XANJSyF1rac</link>
-            <guid>https://www.youtube.com/watch?v=XANJSyF1rac</guid>
-            <pubDate>JUNE 16, 2021 AT 12:42PM</pubDate>
-            <description>Tutto Montemagno...ne parliamo alla Hoepli (Live)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 caratteristiche OVVIE di chi ottiene grandi risultati</title>
-            <link>https://www.youtube.com/watch?v=0oyO6Aanqhk</link>
-            <guid>https://www.youtube.com/watch?v=0oyO6Aanqhk</guid>
-            <pubDate>JUNE 8, 2021 AT 12:53PM</pubDate>
-            <description>4 caratteristiche OVVIE di chi ottiene grandi risultati</description>
-        </item>
-        <item>
-            <title>Matteo Flora - Youtube e &quot;non mi piace&quot;: perché sono stati fatti sparire i numeri? E cosa significa?</title>
-            <link>https://www.youtube.com/watch?v=5wyWpKllNa8</link>
-            <guid>https://www.youtube.com/watch?v=5wyWpKllNa8</guid>
-            <pubDate>DECEMBER 1, 2021 AT 08:48AM</pubDate>
-            <description>Youtube e &quot;non mi piace&quot;: perché sono stati fatti sparire i numeri? E cosa significa?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Iginio e Debora Massari su Competenze.it!</title>
-            <link>https://www.youtube.com/watch?v=FQnjJQeSykw</link>
-            <guid>https://www.youtube.com/watch?v=FQnjJQeSykw</guid>
-            <pubDate>MAY 24, 2021 AT 11:44AM</pubDate>
-            <description>Iginio e Debora Massari su Competenze.it!</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - I poveri hanno grandi televisori, i ricchi hanno grandi librerie</title>
-            <link>https://www.youtube.com/watch?v=QiOzbrEWnTs</link>
-            <guid>https://www.youtube.com/watch?v=QiOzbrEWnTs</guid>
-            <pubDate>OCTOBER 29, 2021 AT 01:30PM</pubDate>
-            <description>I poveri hanno grandi televisori, i ricchi hanno grandi librerie</description>
-        </item>
+        <lastBuildDate>Wed, 20 Mar 2024 13:18:10 +0000</lastBuildDate>
         <item>
             <title>Marco Montemagno - Quanti contenuti al giorno pubblicare sui social?</title>
             <link>https://www.youtube.com/watch?v=74E6qsjkOik</link>
@@ -105,46 +14,137 @@
             <description>Quanti contenuti al giorno pubblicare sui social?</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Quanto testo scrivere in un post di Linkedin?</title>
-            <link>https://www.youtube.com/watch?v=KC3Vs8FdRGI</link>
-            <guid>https://www.youtube.com/watch?v=KC3Vs8FdRGI</guid>
-            <pubDate>JUNE 15, 2021 AT 08:47AM</pubDate>
-            <description>Quanto testo scrivere in un post di Linkedin?</description>
+            <title>Marco Montemagno - ST@RT - Mettiti alla prova e crea il tuo business con le professioni di domani.</title>
+            <link>https://www.youtube.com/watch?v=TOf1XtWip6Y</link>
+            <guid>https://www.youtube.com/watch?v=TOf1XtWip6Y</guid>
+            <pubDate>DECEMBER 17, 2021 AT 10:12AM</pubDate>
+            <description>ST@RT - Mettiti alla prova e crea il tuo business con le professioni di domani.</description>
         </item>
         <item>
-            <title>Marco Montemagno - Leadership Gentile con Guido Stratta (Direttore People &amp; Organisation Gruppo Enel)</title>
-            <link>https://www.youtube.com/watch?v=_qAOAqmh0Sw</link>
-            <guid>https://www.youtube.com/watch?v=_qAOAqmh0Sw</guid>
-            <pubDate>DECEMBER 20, 2021 AT 01:00PM</pubDate>
-            <description>Leadership Gentile con Guido Stratta (Direttore People &amp; Organisation Gruppo Enel)</description>
+            <title>Rudy Bandiera - Atassia spinocerebellare. Cos’è, chi è a rischio, come curarla</title>
+            <link>https://www.youtube.com/watch?v=5cVBb2QpZsU</link>
+            <guid>https://www.youtube.com/watch?v=5cVBb2QpZsU</guid>
+            <pubDate>DECEMBER 13, 2021 AT 09:47AM</pubDate>
+            <description>Atassia spinocerebellare. Cos’è, chi è a rischio, come curarla</description>
         </item>
         <item>
-            <title>Marco Montemagno - Chi controlla DAVVERO il mondo oggi?</title>
-            <link>https://www.youtube.com/watch?v=OTcJQEEQhMc</link>
-            <guid>https://www.youtube.com/watch?v=OTcJQEEQhMc</guid>
-            <pubDate>SEPTEMBER 28, 2021 AT 02:00PM</pubDate>
-            <description>Chi controlla DAVVERO il mondo oggi?</description>
+            <title>Marco Montemagno - Facebook contro tutti: che fine farà?</title>
+            <link>https://www.youtube.com/watch?v=lctXH39zZCI</link>
+            <guid>https://www.youtube.com/watch?v=lctXH39zZCI</guid>
+            <pubDate>OCTOBER 5, 2021 AT 03:26PM</pubDate>
+            <description>Facebook contro tutti: che fine farà?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Metaverso: la prossima mossa di Facebook (e delle big tech)</title>
-            <link>https://www.youtube.com/watch?v=KlkvVVcvN8M</link>
-            <guid>https://www.youtube.com/watch?v=KlkvVVcvN8M</guid>
-            <pubDate>NOVEMBER 1, 2021 AT 01:39PM</pubDate>
-            <description>Metaverso: la prossima mossa di Facebook (e delle big tech)</description>
+            <title>Marco Montemagno - Intelligenza artificiale, blockchain, nft tutto quello che c’è da sapere</title>
+            <link>https://www.youtube.com/watch?v=-P5iRKBoLhw</link>
+            <guid>https://www.youtube.com/watch?v=-P5iRKBoLhw</guid>
+            <pubDate>NOVEMBER 24, 2021 AT 09:00AM</pubDate>
+            <description>Intelligenza artificiale, blockchain, nft tutto quello che c’è da sapere</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Il Fallimento di Clubhouse: una meteora utile - W&amp;L Aprile 2021</title>
-            <link>https://www.youtube.com/watch?v=mWrc0lYq_ws</link>
-            <guid>https://www.youtube.com/watch?v=mWrc0lYq_ws</guid>
-            <pubDate>MAY 6, 2021 AT 07:30AM</pubDate>
-            <description>Il Fallimento di Clubhouse: una meteora utile - W&amp;L Aprile 2021</description>
+            <title>Marco Montemagno - Lavoro e giovani: ci sono 700 mila posti di lavoro disponibili ma...</title>
+            <link>https://www.youtube.com/watch?v=7h9FKqj26_s</link>
+            <guid>https://www.youtube.com/watch?v=7h9FKqj26_s</guid>
+            <pubDate>DECEMBER 17, 2021 AT 01:00PM</pubDate>
+            <description>Lavoro e giovani: ci sono 700 mila posti di lavoro disponibili ma...</description>
         </item>
         <item>
-            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Antonio Cammisecra (Enel)</title>
-            <link>https://www.youtube.com/watch?v=ym8xfRvhkOI</link>
-            <guid>https://www.youtube.com/watch?v=ym8xfRvhkOI</guid>
-            <pubDate>SEPTEMBER 5, 2021 AT 06:58PM</pubDate>
-            <description>Cambiamento climatico, elettrificazione e dintorni con Antonio Cammisecra (Enel)</description>
+            <title>Rudy Bandiera - 4 dettagli che dicono moltissimo su di te</title>
+            <link>https://www.youtube.com/watch?v=qjMYvOg9SPY</link>
+            <guid>https://www.youtube.com/watch?v=qjMYvOg9SPY</guid>
+            <pubDate>JULY 13, 2021 AT 08:53AM</pubDate>
+            <description>4 dettagli che dicono moltissimo su di te</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con lo Chef Mauro Colagreco (&quot;miglior ristorante al mondo&quot;)</title>
+            <link>https://www.youtube.com/watch?v=gMB3ofzVufo</link>
+            <guid>https://www.youtube.com/watch?v=gMB3ofzVufo</guid>
+            <pubDate>JULY 1, 2021 AT 05:13PM</pubDate>
+            <description>4 chiacchiere con lo Chef Mauro Colagreco (&quot;miglior ristorante al mondo&quot;)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Intelligenza artificiale e mondo del lavoro</title>
+            <link>https://www.youtube.com/watch?v=Sa52naKlw_g</link>
+            <guid>https://www.youtube.com/watch?v=Sa52naKlw_g</guid>
+            <pubDate>JUNE 29, 2021 AT 08:25AM</pubDate>
+            <description>Intelligenza artificiale e mondo del lavoro</description>
+        </item>
+        <item>
+            <title>Matteo Flora - DataBreach: quando serve la notifica al Garante e quando la comunicazione agli interessati?</title>
+            <link>https://www.youtube.com/watch?v=jwHQUarUcU8</link>
+            <guid>https://www.youtube.com/watch?v=jwHQUarUcU8</guid>
+            <pubDate>JANUARY 24, 2022 AT 04:56PM</pubDate>
+            <description>DataBreach: quando serve la notifica al Garante e quando la comunicazione agli interessati?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Come trovare investitori</title>
+            <link>https://www.youtube.com/watch?v=pthoU5mxG3U</link>
+            <guid>https://www.youtube.com/watch?v=pthoU5mxG3U</guid>
+            <pubDate>DECEMBER 13, 2021 AT 12:00PM</pubDate>
+            <description>Come trovare investitori</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Chat Truffa: la Privacy dei &quot;cuori solitari&quot;</title>
+            <link>https://www.youtube.com/watch?v=oO8li8IKLSs</link>
+            <guid>https://www.youtube.com/watch?v=oO8li8IKLSs</guid>
+            <pubDate>MAY 10, 2021 AT 08:00AM</pubDate>
+            <description>Chat Truffa: la Privacy dei &quot;cuori solitari&quot;</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Cos&#39;è HUDI (Human Data Income), la crypto che permette agli utenti di monetizzare i propri dati!</title>
+            <link>https://www.youtube.com/watch?v=FSxPOOWo3jg</link>
+            <guid>https://www.youtube.com/watch?v=FSxPOOWo3jg</guid>
+            <pubDate>SEPTEMBER 15, 2021 AT 12:09AM</pubDate>
+            <description>Cos&#39;è HUDI (Human Data Income), la crypto che permette agli utenti di monetizzare i propri dati!</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - The Coin of Champions: Demo live e Q&amp;A</title>
+            <link>https://www.youtube.com/watch?v=cxso2vZlye4</link>
+            <guid>https://www.youtube.com/watch?v=cxso2vZlye4</guid>
+            <pubDate>NOVEMBER 25, 2021 AT 04:22PM</pubDate>
+            <description>The Coin of Champions: Demo live e Q&amp;A</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Vuoi imparare a suonare il Pianoforte? Pietro Morello su Competenze.it</title>
+            <link>https://www.youtube.com/watch?v=yEdRva8QkYg</link>
+            <guid>https://www.youtube.com/watch?v=yEdRva8QkYg</guid>
+            <pubDate>JULY 23, 2021 AT 05:13PM</pubDate>
+            <description>Vuoi imparare a suonare il Pianoforte? Pietro Morello su Competenze.it</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Monty Live</title>
+            <link>https://www.youtube.com/watch?v=QvcWipXeFRE</link>
+            <guid>https://www.youtube.com/watch?v=QvcWipXeFRE</guid>
+            <pubDate>SEPTEMBER 3, 2021 AT 03:46PM</pubDate>
+            <description>Monty Live</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Crypto e sport con The Coin of Champions</title>
+            <link>https://www.youtube.com/watch?v=jzyFGHRmo04</link>
+            <guid>https://www.youtube.com/watch?v=jzyFGHRmo04</guid>
+            <pubDate>NOVEMBER 30, 2021 AT 03:00PM</pubDate>
+            <description>Crypto e sport con The Coin of Champions</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Competenze.it e dintorni - 4 chiacchiere con Enrico Bertolino</title>
+            <link>https://www.youtube.com/watch?v=GHB0-bpEJnU</link>
+            <guid>https://www.youtube.com/watch?v=GHB0-bpEJnU</guid>
+            <pubDate>MAY 19, 2021 AT 12:15PM</pubDate>
+            <description>Competenze.it e dintorni - 4 chiacchiere con Enrico Bertolino</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Le big tech si stanno mangiando il mondo (e questa è la prossima mossa)</title>
+            <link>https://www.youtube.com/watch?v=-N4E50CKN2E</link>
+            <guid>https://www.youtube.com/watch?v=-N4E50CKN2E</guid>
+            <pubDate>JULY 31, 2021 AT 02:14PM</pubDate>
+            <description>Le big tech si stanno mangiando il mondo (e questa è la prossima mossa)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Come capire cosa indossi? Lucia Mantero su Competenze</title>
+            <link>https://www.youtube.com/watch?v=ZD--gwTuukY</link>
+            <guid>https://www.youtube.com/watch?v=ZD--gwTuukY</guid>
+            <pubDate>JUNE 15, 2021 AT 12:46PM</pubDate>
+            <description>Come capire cosa indossi? Lucia Mantero su Competenze</description>
         </item>
     </channel>
 </rss>
