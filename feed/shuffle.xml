@@ -5,27 +5,118 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Mon, 08 Apr 2024 13:15:47 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 13:15:23 +0000</lastBuildDate>
         <item>
-            <title>Giorgio Taverniti - La più grande opportunità per chi fa SEO oggi</title>
-            <link>https://www.youtube.com/watch?v=HyPZwSK48fo</link>
-            <guid>https://www.youtube.com/watch?v=HyPZwSK48fo</guid>
-            <pubDate>JULY 7, 2021 AT 07:30AM</pubDate>
-            <description>La più grande opportunità per chi fa SEO oggi</description>
+            <title>Marco Montemagno - Le big tech si stanno mangiando il mondo (e questa è la prossima mossa)</title>
+            <link>https://www.youtube.com/watch?v=-N4E50CKN2E</link>
+            <guid>https://www.youtube.com/watch?v=-N4E50CKN2E</guid>
+            <pubDate>JULY 31, 2021 AT 02:14PM</pubDate>
+            <description>Le big tech si stanno mangiando il mondo (e questa è la prossima mossa)</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Come rendere il tuo business e il tuo e-commerce più profittevole</title>
-            <link>https://www.youtube.com/watch?v=9jjnmawpsTo</link>
-            <guid>https://www.youtube.com/watch?v=9jjnmawpsTo</guid>
-            <pubDate>MAY 4, 2021 AT 09:44AM</pubDate>
-            <description>Come rendere il tuo business e il tuo e-commerce più profittevole</description>
+            <title>Giorgio Taverniti - Substack è un pericolo per i giornali. Ora è ufficiale.</title>
+            <link>https://www.youtube.com/watch?v=qlnYWsM5CJM</link>
+            <guid>https://www.youtube.com/watch?v=qlnYWsM5CJM</guid>
+            <pubDate>MAY 12, 2021 AT 08:34AM</pubDate>
+            <description>Substack è un pericolo per i giornali. Ora è ufficiale.</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Come funziona Google? 2021 Edition</title>
-            <link>https://www.youtube.com/watch?v=YmpPL4zRRpk</link>
-            <guid>https://www.youtube.com/watch?v=YmpPL4zRRpk</guid>
-            <pubDate>JULY 9, 2021 AT 07:30AM</pubDate>
-            <description>Come funziona Google? 2021 Edition</description>
+            <title>Matteo Flora - Boom di App per spiare?</title>
+            <link>https://www.youtube.com/watch?v=KBmtPK75lRM</link>
+            <guid>https://www.youtube.com/watch?v=KBmtPK75lRM</guid>
+            <pubDate>NOVEMBER 29, 2021 AT 11:00AM</pubDate>
+            <description>Boom di App per spiare?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Gli NFT sono solo semplici immagini?</title>
+            <link>https://www.youtube.com/watch?v=oKy7-7qJr7U</link>
+            <guid>https://www.youtube.com/watch?v=oKy7-7qJr7U</guid>
+            <pubDate>FEBRUARY 1, 2022 AT 09:52AM</pubDate>
+            <description>Gli NFT sono solo semplici immagini?</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Alberto De Paoli, Enel</title>
+            <link>https://www.youtube.com/watch?v=MpxMDkbPCHE</link>
+            <guid>https://www.youtube.com/watch?v=MpxMDkbPCHE</guid>
+            <pubDate>SEPTEMBER 10, 2021 AT 12:41PM</pubDate>
+            <description>Cambiamento climatico, elettrificazione e dintorni con Alberto De Paoli, Enel</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Niente copia del Green Pass!</title>
+            <link>https://www.youtube.com/watch?v=o72mEdJ_HvY</link>
+            <guid>https://www.youtube.com/watch?v=o72mEdJ_HvY</guid>
+            <pubDate>AUGUST 30, 2021 AT 07:45AM</pubDate>
+            <description>Niente copia del Green Pass!</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Tennis! Riccardo Piatti su Competenze.it (live)</title>
+            <link>https://www.youtube.com/watch?v=B5JblZBlS-A</link>
+            <guid>https://www.youtube.com/watch?v=B5JblZBlS-A</guid>
+            <pubDate>JUNE 21, 2021 AT 12:22PM</pubDate>
+            <description>Tennis! Riccardo Piatti su Competenze.it (live)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Come comprare un NFT su OpenSea</title>
+            <link>https://www.youtube.com/watch?v=N6jxJBpMujs</link>
+            <guid>https://www.youtube.com/watch?v=N6jxJBpMujs</guid>
+            <pubDate>JANUARY 28, 2022 AT 01:40PM</pubDate>
+            <description>Come comprare un NFT su OpenSea</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Tutto Montemagno...ne parliamo alla Hoepli (Live)</title>
+            <link>https://www.youtube.com/watch?v=XANJSyF1rac</link>
+            <guid>https://www.youtube.com/watch?v=XANJSyF1rac</guid>
+            <pubDate>JUNE 16, 2021 AT 12:42PM</pubDate>
+            <description>Tutto Montemagno...ne parliamo alla Hoepli (Live)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - I problemi legali e fiscali delle Crypto</title>
+            <link>https://www.youtube.com/watch?v=2HUrpvZ80d8</link>
+            <guid>https://www.youtube.com/watch?v=2HUrpvZ80d8</guid>
+            <pubDate>NOVEMBER 24, 2021 AT 01:00PM</pubDate>
+            <description>I problemi legali e fiscali delle Crypto</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Le 80 Frasi più odiose che sento ogni giorno sul lavoro</title>
+            <link>https://www.youtube.com/watch?v=0j2hlNLi0rA</link>
+            <guid>https://www.youtube.com/watch?v=0j2hlNLi0rA</guid>
+            <pubDate>OCTOBER 16, 2021 AT 02:00PM</pubDate>
+            <description>Le 80 Frasi più odiose che sento ogni giorno sul lavoro</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con Simone Cristicchi</title>
+            <link>https://www.youtube.com/watch?v=55vVU_VZY4Y</link>
+            <guid>https://www.youtube.com/watch?v=55vVU_VZY4Y</guid>
+            <pubDate>NOVEMBER 11, 2021 AT 02:30PM</pubDate>
+            <description>4 chiacchiere con Simone Cristicchi</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - La Cina (Ri)BANNA Bitcoin &amp;co...e ora che succede?</title>
+            <link>https://www.youtube.com/watch?v=OHJHU79PNbw</link>
+            <guid>https://www.youtube.com/watch?v=OHJHU79PNbw</guid>
+            <pubDate>SEPTEMBER 25, 2021 AT 12:17PM</pubDate>
+            <description>La Cina (Ri)BANNA Bitcoin &amp;co...e ora che succede?</description>
+        </item>
+        <item>
+            <title>Rudy Bandiera - Meglio essere governati dai politici o dall&#39;intelligenza artificiale?</title>
+            <link>https://www.youtube.com/watch?v=8AEZLzOq0j0</link>
+            <guid>https://www.youtube.com/watch?v=8AEZLzOq0j0</guid>
+            <pubDate>JUNE 11, 2021 AT 08:45AM</pubDate>
+            <description>Meglio essere governati dai politici o dall&#39;intelligenza artificiale?</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Le non scuse di Fabio Meroni, il consigliere leghista che ha chiamato Liliana Segre &quot;numero 75190&quot;</title>
+            <link>https://www.youtube.com/watch?v=bikBAr3zuw8</link>
+            <guid>https://www.youtube.com/watch?v=bikBAr3zuw8</guid>
+            <pubDate>NOVEMBER 26, 2021 AT 07:45AM</pubDate>
+            <description>Le non scuse di Fabio Meroni, il consigliere leghista che ha chiamato Liliana Segre &quot;numero 75190&quot;</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Tony Robbins: strategy, story and state #shorts</title>
+            <link>https://www.youtube.com/watch?v=sgfqiKyU4WM</link>
+            <guid>https://www.youtube.com/watch?v=sgfqiKyU4WM</guid>
+            <pubDate>MAY 11, 2021 AT 01:42PM</pubDate>
+            <description>Tony Robbins: strategy, story and state #shorts</description>
         </item>
         <item>
             <title>Marco Montemagno - Intelligenza artificiale, comprensione del linguaggio e dintorni</title>
@@ -35,116 +126,25 @@
             <description>Intelligenza artificiale, comprensione del linguaggio e dintorni</description>
         </item>
         <item>
-            <title>Marco Montemagno - 4 chiacchiere con Nek</title>
-            <link>https://www.youtube.com/watch?v=Pj947GejFI0</link>
-            <guid>https://www.youtube.com/watch?v=Pj947GejFI0</guid>
-            <pubDate>JULY 8, 2021 AT 09:02PM</pubDate>
-            <description>4 chiacchiere con Nek</description>
+            <title>Raffaele Gaito - NEL MARKETING BISOGNA ESSERE AGNOSTICI #shorts</title>
+            <link>https://www.youtube.com/watch?v=96TMou6PdYE</link>
+            <guid>https://www.youtube.com/watch?v=96TMou6PdYE</guid>
+            <pubDate>AUGUST 13, 2021 AT 08:00AM</pubDate>
+            <description>NEL MARKETING BISOGNA ESSERE AGNOSTICI #shorts</description>
         </item>
         <item>
-            <title>Marco Montemagno - Su Competenze.com arriva Arturo Brachetti</title>
-            <link>https://www.youtube.com/watch?v=NdLL2nBJ24o</link>
-            <guid>https://www.youtube.com/watch?v=NdLL2nBJ24o</guid>
-            <pubDate>JUNE 7, 2021 AT 05:44PM</pubDate>
-            <description>Su Competenze.com arriva Arturo Brachetti</description>
+            <title>Raffaele Gaito - Raffaele Gaito intervista Marco Montemagno</title>
+            <link>https://www.youtube.com/watch?v=B9hvpRS0aYs</link>
+            <guid>https://www.youtube.com/watch?v=B9hvpRS0aYs</guid>
+            <pubDate>JUNE 14, 2021 AT 07:42PM</pubDate>
+            <description>Raffaele Gaito intervista Marco Montemagno</description>
         </item>
         <item>
-            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Francesco Venturini, Enel X</title>
-            <link>https://www.youtube.com/watch?v=uytDTpsILFw</link>
-            <guid>https://www.youtube.com/watch?v=uytDTpsILFw</guid>
-            <pubDate>SEPTEMBER 7, 2021 AT 08:11PM</pubDate>
-            <description>Cambiamento climatico, elettrificazione e dintorni con Francesco Venturini, Enel X</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - &quot;È colpa tua&quot; - Quelli che danno sempre la colpa agli altri</title>
-            <link>https://www.youtube.com/watch?v=QGlZTM22Gao</link>
-            <guid>https://www.youtube.com/watch?v=QGlZTM22Gao</guid>
-            <pubDate>JANUARY 15, 2022 AT 01:00PM</pubDate>
-            <description>&quot;È colpa tua&quot; - Quelli che danno sempre la colpa agli altri</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Monty Lab: quanto costa e altre info importanti</title>
-            <link>https://www.youtube.com/watch?v=5gDMDET5ucY</link>
-            <guid>https://www.youtube.com/watch?v=5gDMDET5ucY</guid>
-            <pubDate>JANUARY 28, 2022 AT 07:09PM</pubDate>
-            <description>Monty Lab: quanto costa e altre info importanti</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - La verità sul &quot;fare l&#39;imprenditore&quot; #shorts</title>
-            <link>https://www.youtube.com/watch?v=jnpETGBg7zY</link>
-            <guid>https://www.youtube.com/watch?v=jnpETGBg7zY</guid>
-            <pubDate>JUNE 30, 2021 AT 04:38PM</pubDate>
-            <description>La verità sul &quot;fare l&#39;imprenditore&quot; #shorts</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - TUTTO quello che devi sapere per comprare un NFT (Guida completa con Marco Crotta) #NFTDAY</title>
-            <link>https://www.youtube.com/watch?v=CL_nHn9P3Qw</link>
-            <guid>https://www.youtube.com/watch?v=CL_nHn9P3Qw</guid>
-            <pubDate>FEBRUARY 1, 2022 AT 09:48AM</pubDate>
-            <description>TUTTO quello che devi sapere per comprare un NFT (Guida completa con Marco Crotta) #NFTDAY</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 7 cose che ha detto Elon Musk che fanno riflettere</title>
-            <link>https://www.youtube.com/watch?v=1hPUXev58IM</link>
-            <guid>https://www.youtube.com/watch?v=1hPUXev58IM</guid>
-            <pubDate>DECEMBER 11, 2021 AT 01:00PM</pubDate>
-            <description>7 cose che ha detto Elon Musk che fanno riflettere</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Etsy acquista Depop per 1,6 miliardi di dollari.Congratulazioni a Simon Beckerman e a tutto il team!</title>
-            <link>https://www.youtube.com/watch?v=ehwBCRA0vvE</link>
-            <guid>https://www.youtube.com/watch?v=ehwBCRA0vvE</guid>
-            <pubDate>JUNE 2, 2021 AT 02:00PM</pubDate>
-            <description>Etsy acquista Depop per 1,6 miliardi di dollari.Congratulazioni a Simon Beckerman e a tutto il team!</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Perché anche davanti ai fatti la gente non cambia idea</title>
-            <link>https://www.youtube.com/watch?v=jqCSBWbN66U</link>
-            <guid>https://www.youtube.com/watch?v=jqCSBWbN66U</guid>
-            <pubDate>JULY 17, 2021 AT 02:00PM</pubDate>
-            <description>Perché anche davanti ai fatti la gente non cambia idea</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come trovo clienti interessati al mio e-commerce?</title>
-            <link>https://www.youtube.com/watch?v=P90J0MZbr-o</link>
-            <guid>https://www.youtube.com/watch?v=P90J0MZbr-o</guid>
-            <pubDate>DECEMBER 1, 2021 AT 11:00AM</pubDate>
-            <description>Come trovo clienti interessati al mio e-commerce?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Arturo Brachetti in arrivo su Competenze con il corso &quot;Come diventare stage performer&quot;</title>
-            <link>https://www.youtube.com/watch?v=pnwdh2dTuc4</link>
-            <guid>https://www.youtube.com/watch?v=pnwdh2dTuc4</guid>
-            <pubDate>JUNE 6, 2021 AT 06:30PM</pubDate>
-            <description>Arturo Brachetti in arrivo su Competenze con il corso &quot;Come diventare stage performer&quot;</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Speciale Amazon: l&#39;ultimo giorno di Jeff Bezos da CEO</title>
-            <link>https://www.youtube.com/watch?v=qnJnitCM_BM</link>
-            <guid>https://www.youtube.com/watch?v=qnJnitCM_BM</guid>
-            <pubDate>JULY 3, 2021 AT 12:18PM</pubDate>
-            <description>Speciale Amazon: l&#39;ultimo giorno di Jeff Bezos da CEO</description>
-        </item>
-        <item>
-            <title>Giorgio Taverniti - Che news dalle Web Stories: sondaggi, quiz e stories a 360°!</title>
-            <link>https://www.youtube.com/watch?v=u6FhVqkDF1o</link>
-            <guid>https://www.youtube.com/watch?v=u6FhVqkDF1o</guid>
-            <pubDate>MAY 27, 2021 AT 07:30AM</pubDate>
-            <description>Che news dalle Web Stories: sondaggi, quiz e stories a 360°!</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - &quot;Non ascoltare quello che dicono, guarda quello che fanno&quot;</title>
-            <link>https://www.youtube.com/watch?v=FbQOxASUDKI</link>
-            <guid>https://www.youtube.com/watch?v=FbQOxASUDKI</guid>
-            <pubDate>MAY 13, 2021 AT 11:46AM</pubDate>
-            <description>&quot;Non ascoltare quello che dicono, guarda quello che fanno&quot;</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Perché il femminismo serve anche agli uomini. 4 chiacchiere con Lorenzo Gasparrini</title>
-            <link>https://www.youtube.com/watch?v=X9Y2SLpCJMY</link>
-            <guid>https://www.youtube.com/watch?v=X9Y2SLpCJMY</guid>
-            <pubDate>NOVEMBER 12, 2021 AT 03:14PM</pubDate>
-            <description>Perché il femminismo serve anche agli uomini. 4 chiacchiere con Lorenzo Gasparrini</description>
+            <title>Marco Montemagno - Perché chi è incapace crede di essere un fenomeno</title>
+            <link>https://www.youtube.com/watch?v=x0nUaKKWx4A</link>
+            <guid>https://www.youtube.com/watch?v=x0nUaKKWx4A</guid>
+            <pubDate>OCTOBER 4, 2021 AT 01:40PM</pubDate>
+            <description>Perché chi è incapace crede di essere un fenomeno</description>
         </item>
     </channel>
 </rss>
