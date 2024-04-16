@@ -5,139 +5,76 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Mon, 15 Apr 2024 13:15:47 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2024 13:16:10 +0000</lastBuildDate>
         <item>
-            <title>Marco Montemagno - Oooops in arrivo i Negozi/Supermercati di Amazon...</title>
-            <link>https://www.youtube.com/watch?v=-X6_oTFENJ0</link>
-            <guid>https://www.youtube.com/watch?v=-X6_oTFENJ0</guid>
-            <pubDate>AUGUST 20, 2021 AT 05:42PM</pubDate>
-            <description>Oooops in arrivo i Negozi/Supermercati di Amazon...</description>
+            <title>Matteo Flora - Rayban Stories: parliamo dei nuovi occhiali di Facebook</title>
+            <link>https://www.youtube.com/watch?v=HEzA9CPcpns</link>
+            <guid>https://www.youtube.com/watch?v=HEzA9CPcpns</guid>
+            <pubDate>OCTOBER 11, 2021 AT 07:45AM</pubDate>
+            <description>Rayban Stories: parliamo dei nuovi occhiali di Facebook</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - What&#39;s up Internet! La Mega Rassegna Settimanale per capire Internet</title>
-            <link>https://www.youtube.com/watch?v=sDgWBBnILh0</link>
-            <guid>https://www.youtube.com/watch?v=sDgWBBnILh0</guid>
-            <pubDate>MAY 18, 2021 AT 07:30AM</pubDate>
-            <description>What&#39;s up Internet! La Mega Rassegna Settimanale per capire Internet</description>
+            <title>Marco Montemagno - 4 chiacchiere con Norma&#39;s Teaching (Norma Cerletti)</title>
+            <link>https://www.youtube.com/watch?v=Y3PCDbQ2SuY</link>
+            <guid>https://www.youtube.com/watch?v=Y3PCDbQ2SuY</guid>
+            <pubDate>JUNE 9, 2021 AT 10:54AM</pubDate>
+            <description>4 chiacchiere con Norma&#39;s Teaching (Norma Cerletti)</description>
         </item>
         <item>
-            <title>Marco Montemagno - How to make crypto accessible to all with Cyrus Fazel - CEO di SwissBorg</title>
-            <link>https://www.youtube.com/watch?v=vGPhQsjyV_8</link>
-            <guid>https://www.youtube.com/watch?v=vGPhQsjyV_8</guid>
-            <pubDate>NOVEMBER 27, 2021 AT 09:00AM</pubDate>
-            <description>How to make crypto accessible to all with Cyrus Fazel - CEO di SwissBorg</description>
+            <title>Marco Montemagno - Ho fatto un gioco da tavolo!</title>
+            <link>https://www.youtube.com/watch?v=kuwAJFSv2tg</link>
+            <guid>https://www.youtube.com/watch?v=kuwAJFSv2tg</guid>
+            <pubDate>NOVEMBER 18, 2021 AT 03:30PM</pubDate>
+            <description>Ho fatto un gioco da tavolo!</description>
         </item>
         <item>
-            <title>Marco Montemagno - La verità sul &quot;fare l&#39;imprenditore&quot; #shorts</title>
-            <link>https://www.youtube.com/watch?v=jnpETGBg7zY</link>
-            <guid>https://www.youtube.com/watch?v=jnpETGBg7zY</guid>
-            <pubDate>JUNE 30, 2021 AT 04:38PM</pubDate>
-            <description>La verità sul &quot;fare l&#39;imprenditore&quot; #shorts</description>
+            <title>Marco Montemagno - Vi chiedo scusa (e non solo)</title>
+            <link>https://www.youtube.com/watch?v=K0eZiVgUjXM</link>
+            <guid>https://www.youtube.com/watch?v=K0eZiVgUjXM</guid>
+            <pubDate>OCTOBER 11, 2021 AT 05:30PM</pubDate>
+            <description>Vi chiedo scusa (e non solo)</description>
         </item>
         <item>
-            <title>Matteo Flora - $SQUID: la TRUFFA della cryptovaluta rilanciata anche da Repubblica</title>
-            <link>https://www.youtube.com/watch?v=uknmp6-dFO4</link>
-            <guid>https://www.youtube.com/watch?v=uknmp6-dFO4</guid>
-            <pubDate>NOVEMBER 3, 2021 AT 07:45AM</pubDate>
-            <description>$SQUID: la TRUFFA della cryptovaluta rilanciata anche da Repubblica</description>
+            <title>Marco Montemagno - Includere fa la differenza - Diversity su Competenze con Francesca Vecchioni</title>
+            <link>https://www.youtube.com/watch?v=AWKZVpYuhH0</link>
+            <guid>https://www.youtube.com/watch?v=AWKZVpYuhH0</guid>
+            <pubDate>MAY 10, 2021 AT 10:59AM</pubDate>
+            <description>Includere fa la differenza - Diversity su Competenze con Francesca Vecchioni</description>
         </item>
         <item>
-            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Alberto De Paoli, Enel</title>
-            <link>https://www.youtube.com/watch?v=MpxMDkbPCHE</link>
-            <guid>https://www.youtube.com/watch?v=MpxMDkbPCHE</guid>
-            <pubDate>SEPTEMBER 10, 2021 AT 12:41PM</pubDate>
-            <description>Cambiamento climatico, elettrificazione e dintorni con Alberto De Paoli, Enel</description>
+            <title>Raffaele Gaito - Raffaele Gaito intervista Marco Montemagno</title>
+            <link>https://www.youtube.com/watch?v=B9hvpRS0aYs</link>
+            <guid>https://www.youtube.com/watch?v=B9hvpRS0aYs</guid>
+            <pubDate>JUNE 14, 2021 AT 07:42PM</pubDate>
+            <description>Raffaele Gaito intervista Marco Montemagno</description>
         </item>
         <item>
-            <title>Marco Montemagno - Su Competenze sta per arrivare Francesca Vecchioni con il corso Diversity &amp; Inclusion</title>
-            <link>https://www.youtube.com/watch?v=Rpptz2wz2no</link>
-            <guid>https://www.youtube.com/watch?v=Rpptz2wz2no</guid>
-            <pubDate>MAY 7, 2021 AT 12:29PM</pubDate>
-            <description>Su Competenze sta per arrivare Francesca Vecchioni con il corso Diversity &amp; Inclusion</description>
+            <title>Marco Montemagno - Alberto Forchielli su Competenze.it (live)</title>
+            <link>https://www.youtube.com/watch?v=wzOizPfkU_4</link>
+            <guid>https://www.youtube.com/watch?v=wzOizPfkU_4</guid>
+            <pubDate>JULY 5, 2021 AT 08:48AM</pubDate>
+            <description>Alberto Forchielli su Competenze.it (live)</description>
         </item>
         <item>
-            <title>Giorgio Taverniti - Google Sheets: script, componenti, API. Idee d&#39;uso INTERESSANTI</title>
-            <link>https://www.youtube.com/watch?v=jmZF_VRT2fA</link>
-            <guid>https://www.youtube.com/watch?v=jmZF_VRT2fA</guid>
-            <pubDate>MAY 10, 2021 AT 10:41AM</pubDate>
-            <description>Google Sheets: script, componenti, API. Idee d&#39;uso INTERESSANTI</description>
+            <title>Matteo Flora - Usare Google Analytics è ILLEGALE per Privacy e viola il GDPR. Ma davvero? E ora?</title>
+            <link>https://www.youtube.com/watch?v=hHAYDMVK7G0</link>
+            <guid>https://www.youtube.com/watch?v=hHAYDMVK7G0</guid>
+            <pubDate>JANUARY 17, 2022 AT 04:37PM</pubDate>
+            <description>Usare Google Analytics è ILLEGALE per Privacy e viola il GDPR. Ma davvero? E ora?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Leader Giovani e Sostenibilità con Livia Firth</title>
-            <link>https://www.youtube.com/watch?v=L2deg_wSV1g</link>
-            <guid>https://www.youtube.com/watch?v=L2deg_wSV1g</guid>
-            <pubDate>NOVEMBER 20, 2021 AT 03:17PM</pubDate>
-            <description>Leader Giovani e Sostenibilità con Livia Firth</description>
+            <title>Marco Montemagno - Pregiudizio o realtà: qual è il confine?</title>
+            <link>https://www.youtube.com/watch?v=rf9ZP3rzQsY</link>
+            <guid>https://www.youtube.com/watch?v=rf9ZP3rzQsY</guid>
+            <pubDate>JANUARY 24, 2022 AT 10:00AM</pubDate>
+            <description>Pregiudizio o realtà: qual è il confine?</description>
         </item>
         <item>
-            <title>Marco Montemagno - Etsy acquista Depop per 1,6 miliardi di dollari.Congratulazioni a Simon Beckerman e a tutto il team!</title>
-            <link>https://www.youtube.com/watch?v=ehwBCRA0vvE</link>
-            <guid>https://www.youtube.com/watch?v=ehwBCRA0vvE</guid>
-            <pubDate>JUNE 2, 2021 AT 02:00PM</pubDate>
-            <description>Etsy acquista Depop per 1,6 miliardi di dollari.Congratulazioni a Simon Beckerman e a tutto il team!</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Faccio del mio meglio</title>
-            <link>https://www.youtube.com/watch?v=spTgt4VkeHo</link>
-            <guid>https://www.youtube.com/watch?v=spTgt4VkeHo</guid>
-            <pubDate>MAY 28, 2021 AT 06:55PM</pubDate>
-            <description>Faccio del mio meglio</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Quali sono i social più usati in assoluto?</title>
-            <link>https://www.youtube.com/watch?v=RFr6m3QsSBY</link>
-            <guid>https://www.youtube.com/watch?v=RFr6m3QsSBY</guid>
-            <pubDate>OCTOBER 1, 2021 AT 01:00PM</pubDate>
-            <description>Quali sono i social più usati in assoluto?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 4 chiacchiere con Giacomo Poretti (Aldo, Giovanni e Giacomo)</title>
-            <link>https://www.youtube.com/watch?v=sSfI6l0w9MA</link>
-            <guid>https://www.youtube.com/watch?v=sSfI6l0w9MA</guid>
-            <pubDate>OCTOBER 2, 2021 AT 01:55PM</pubDate>
-            <description>4 chiacchiere con Giacomo Poretti (Aldo, Giovanni e Giacomo)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Auto elettriche e nuove tecnologie... Facciamo il punto con Andrea Galeazzi</title>
-            <link>https://www.youtube.com/watch?v=pfrTqZ9eE14</link>
-            <guid>https://www.youtube.com/watch?v=pfrTqZ9eE14</guid>
-            <pubDate>JUNE 6, 2021 AT 10:40AM</pubDate>
-            <description>Auto elettriche e nuove tecnologie... Facciamo il punto con Andrea Galeazzi</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come fare innovazione nel settore legale di un&#39;azienda</title>
-            <link>https://www.youtube.com/watch?v=lVgILGmsHvU</link>
-            <guid>https://www.youtube.com/watch?v=lVgILGmsHvU</guid>
-            <pubDate>DECEMBER 14, 2021 AT 04:30PM</pubDate>
-            <description>Come fare innovazione nel settore legale di un&#39;azienda</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Monty Lab: quanto costa e altre info importanti</title>
-            <link>https://www.youtube.com/watch?v=5gDMDET5ucY</link>
-            <guid>https://www.youtube.com/watch?v=5gDMDET5ucY</guid>
-            <pubDate>JANUARY 28, 2022 AT 07:09PM</pubDate>
-            <description>Monty Lab: quanto costa e altre info importanti</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Indovina quanto ha incassato Tim (il CEO di Apple)?</title>
-            <link>https://www.youtube.com/watch?v=H6n0ZQRvgJQ</link>
-            <guid>https://www.youtube.com/watch?v=H6n0ZQRvgJQ</guid>
-            <pubDate>AUGUST 28, 2021 AT 11:48PM</pubDate>
-            <description>Indovina quanto ha incassato Tim (il CEO di Apple)?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - R101 a casa di Monty..</title>
-            <link>https://www.youtube.com/watch?v=AKxraPUIlgc</link>
-            <guid>https://www.youtube.com/watch?v=AKxraPUIlgc</guid>
-            <pubDate>JUNE 15, 2021 AT 01:41PM</pubDate>
-            <description>R101 a casa di Monty..</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Dieta, Digiuno e dintorni - 4 chiacchiere con il Prof. Valter Longo</title>
-            <link>https://www.youtube.com/watch?v=I917itwjxMo</link>
-            <guid>https://www.youtube.com/watch?v=I917itwjxMo</guid>
-            <pubDate>SEPTEMBER 21, 2021 AT 11:00AM</pubDate>
-            <description>Dieta, Digiuno e dintorni - 4 chiacchiere con il Prof. Valter Longo</description>
+            <title>Raffaele Gaito - I 10 DIRITTI DEL LETTORE (LEGGI COME TI PARE)</title>
+            <link>https://www.youtube.com/watch?v=DexZqLDjNZE</link>
+            <guid>https://www.youtube.com/watch?v=DexZqLDjNZE</guid>
+            <pubDate>JUNE 11, 2021 AT 08:00AM</pubDate>
+            <description>I 10 DIRITTI DEL LETTORE (LEGGI COME TI PARE)</description>
         </item>
         <item>
             <title>Marco Montemagno - Tutti (ancora) pazzi per gli NFT</title>
@@ -145,6 +82,69 @@
             <guid>https://www.youtube.com/watch?v=LAC2LiW6amA</guid>
             <pubDate>AUGUST 25, 2021 AT 05:56PM</pubDate>
             <description>Tutti (ancora) pazzi per gli NFT</description>
+        </item>
+        <item>
+            <title>Matteo Flora - I numeri della moderazione di #Facebook - Matteo incontra Facebook (3 di 3)</title>
+            <link>https://www.youtube.com/watch?v=Wwz8gdVORs0</link>
+            <guid>https://www.youtube.com/watch?v=Wwz8gdVORs0</guid>
+            <pubDate>JULY 9, 2021 AT 09:00AM</pubDate>
+            <description>I numeri della moderazione di #Facebook - Matteo incontra Facebook (3 di 3)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - A conversation with Dangiuz</title>
+            <link>https://www.youtube.com/watch?v=H9B7QyPgqaQ</link>
+            <guid>https://www.youtube.com/watch?v=H9B7QyPgqaQ</guid>
+            <pubDate>JANUARY 23, 2022 AT 11:09AM</pubDate>
+            <description>A conversation with Dangiuz</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Everything you have to know about Bitcoin ETF &amp; more</title>
+            <link>https://www.youtube.com/watch?v=7XBJ0h3w7yw</link>
+            <guid>https://www.youtube.com/watch?v=7XBJ0h3w7yw</guid>
+            <pubDate>DECEMBER 2, 2021 AT 09:00AM</pubDate>
+            <description>Everything you have to know about Bitcoin ETF &amp; more</description>
+        </item>
+        <item>
+            <title>Raffaele Gaito - NON C&#39;È UN CA**O DA VINCERE NEL BUSINESS</title>
+            <link>https://www.youtube.com/watch?v=ymFgDA7MrxI</link>
+            <guid>https://www.youtube.com/watch?v=ymFgDA7MrxI</guid>
+            <pubDate>MAY 11, 2021 AT 08:00AM</pubDate>
+            <description>NON C&#39;È UN CA**O DA VINCERE NEL BUSINESS</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 chiacchiere con lo Chef Mauro Colagreco (&quot;miglior ristorante al mondo&quot;)</title>
+            <link>https://www.youtube.com/watch?v=AWzt4FPoLqQ</link>
+            <guid>https://www.youtube.com/watch?v=AWzt4FPoLqQ</guid>
+            <pubDate>JULY 5, 2021 AT 11:11AM</pubDate>
+            <description>4 chiacchiere con lo Chef Mauro Colagreco (&quot;miglior ristorante al mondo&quot;)</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Print on demand: cos&#39;è e perché rivoluzionerà il modo di vendere</title>
+            <link>https://www.youtube.com/watch?v=D4Py1HjmNTw</link>
+            <guid>https://www.youtube.com/watch?v=D4Py1HjmNTw</guid>
+            <pubDate>SEPTEMBER 24, 2021 AT 02:41PM</pubDate>
+            <description>Print on demand: cos&#39;è e perché rivoluzionerà il modo di vendere</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - El Salvador, Lightning, Taproot e il futuro di Bitcoin con Giacomo Zucco</title>
+            <link>https://www.youtube.com/watch?v=B3vTVe0EROg</link>
+            <guid>https://www.youtube.com/watch?v=B3vTVe0EROg</guid>
+            <pubDate>NOVEMBER 30, 2021 AT 01:00PM</pubDate>
+            <description>El Salvador, Lightning, Taproot e il futuro di Bitcoin con Giacomo Zucco</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - Fiducia in se stessi: il metodo Mouratoglou</title>
+            <link>https://www.youtube.com/watch?v=H0w03B9R9e8</link>
+            <guid>https://www.youtube.com/watch?v=H0w03B9R9e8</guid>
+            <pubDate>JANUARY 3, 2022 AT 01:27PM</pubDate>
+            <description>Fiducia in se stessi: il metodo Mouratoglou</description>
+        </item>
+        <item>
+            <title>Matteo Flora - DataBreach: quando serve la notifica al Garante e quando la comunicazione agli interessati?</title>
+            <link>https://www.youtube.com/watch?v=jwHQUarUcU8</link>
+            <guid>https://www.youtube.com/watch?v=jwHQUarUcU8</guid>
+            <pubDate>JANUARY 24, 2022 AT 04:56PM</pubDate>
+            <description>DataBreach: quando serve la notifica al Garante e quando la comunicazione agli interessati?</description>
         </item>
     </channel>
 </rss>
