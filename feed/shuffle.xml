@@ -5,13 +5,41 @@
         <description>Una selezione dei 20 contenuti più interessanti di sempre</description>
         <link>https://techfeed.ml/feed/shuffle.xml</link>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
-        <lastBuildDate>Thu, 18 Apr 2024 13:15:39 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 19 Apr 2024 13:16:50 +0000</lastBuildDate>
         <item>
-            <title>Giorgio Taverniti - What&#39;s up Internet! La Mega Rassegna Settimanale per capire Internet</title>
-            <link>https://www.youtube.com/watch?v=sDgWBBnILh0</link>
-            <guid>https://www.youtube.com/watch?v=sDgWBBnILh0</guid>
-            <pubDate>MAY 18, 2021 AT 07:30AM</pubDate>
-            <description>What&#39;s up Internet! La Mega Rassegna Settimanale per capire Internet</description>
+            <title>Marco Montemagno - NFT and Creator Economy; Blockchain and Luxury Brands</title>
+            <link>https://www.youtube.com/watch?v=gGPYSvhCwHM</link>
+            <guid>https://www.youtube.com/watch?v=gGPYSvhCwHM</guid>
+            <pubDate>NOVEMBER 25, 2021 AT 09:00AM</pubDate>
+            <description>NFT and Creator Economy; Blockchain and Luxury Brands</description>
+        </item>
+        <item>
+            <title>Giorgio Taverniti - La Vittoria dei Måneskin - W&amp;L Maggio 2021</title>
+            <link>https://www.youtube.com/watch?v=44KV4eTObSQ</link>
+            <guid>https://www.youtube.com/watch?v=44KV4eTObSQ</guid>
+            <pubDate>JUNE 10, 2021 AT 07:30AM</pubDate>
+            <description>La Vittoria dei Måneskin - W&amp;L Maggio 2021</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 10 Frasi per convincere qualsiasi persona</title>
+            <link>https://www.youtube.com/watch?v=G6Xfj_4yqZM</link>
+            <guid>https://www.youtube.com/watch?v=G6Xfj_4yqZM</guid>
+            <pubDate>JUNE 4, 2021 AT 05:00PM</pubDate>
+            <description>10 Frasi per convincere qualsiasi persona</description>
+        </item>
+        <item>
+            <title>Matteo Flora - Chi sono le Virtual Influencer e perché sono un pericolo per le nostre libertà</title>
+            <link>https://www.youtube.com/watch?v=HpDJvijSp5c</link>
+            <guid>https://www.youtube.com/watch?v=HpDJvijSp5c</guid>
+            <pubDate>SEPTEMBER 15, 2021 AT 09:17AM</pubDate>
+            <description>Chi sono le Virtual Influencer e perché sono un pericolo per le nostre libertà</description>
+        </item>
+        <item>
+            <title>Marco Montemagno - 4 consigli utili per il tuo lavoro da 4 grandi imprenditori italiani</title>
+            <link>https://www.youtube.com/watch?v=Fs0w1QIlF_4</link>
+            <guid>https://www.youtube.com/watch?v=Fs0w1QIlF_4</guid>
+            <pubDate>AUGUST 11, 2021 AT 01:00PM</pubDate>
+            <description>4 consigli utili per il tuo lavoro da 4 grandi imprenditori italiani</description>
         </item>
         <item>
             <title>Matteo Flora - Facebook spegne, come IBM, il riconoscimento facciale. Perché?</title>
@@ -21,102 +49,74 @@
             <description>Facebook spegne, come IBM, il riconoscimento facciale. Perché?</description>
         </item>
         <item>
-            <title>Matteo Flora - Roma Nord, il Vietnam e Pietro Castellitto</title>
-            <link>https://www.youtube.com/watch?v=02uIKDbAYI4</link>
-            <guid>https://www.youtube.com/watch?v=02uIKDbAYI4</guid>
-            <pubDate>DECEMBER 8, 2021 AT 08:25AM</pubDate>
-            <description>Roma Nord, il Vietnam e Pietro Castellitto</description>
+            <title>Giorgio Taverniti - Perché YouTube mi ha costretto a passare a Twitch</title>
+            <link>https://www.youtube.com/watch?v=H0apJ8TS6Co</link>
+            <guid>https://www.youtube.com/watch?v=H0apJ8TS6Co</guid>
+            <pubDate>JUNE 21, 2021 AT 07:30AM</pubDate>
+            <description>Perché YouTube mi ha costretto a passare a Twitch</description>
         </item>
         <item>
-            <title>Marco Montemagno - Cos&#39;è un Wallet e come aprirne uno (se vuoi avere i miei NFT)</title>
-            <link>https://www.youtube.com/watch?v=3UFq1YVT-ko</link>
-            <guid>https://www.youtube.com/watch?v=3UFq1YVT-ko</guid>
-            <pubDate>JANUARY 25, 2022 AT 01:00PM</pubDate>
-            <description>Cos&#39;è un Wallet e come aprirne uno (se vuoi avere i miei NFT)</description>
+            <title>Marco Montemagno - Dall’infortunio alla medaglia: il racconto di due grandi campioni.</title>
+            <link>https://www.youtube.com/watch?v=O2GuYhAWxMY</link>
+            <guid>https://www.youtube.com/watch?v=O2GuYhAWxMY</guid>
+            <pubDate>AUGUST 2, 2021 AT 05:50PM</pubDate>
+            <description>Dall’infortunio alla medaglia: il racconto di due grandi campioni.</description>
         </item>
         <item>
-            <title>Matteo Flora - #Report e &quot;le fonti&quot;: cosa è successo davvero e perché non è un attacco alla democrazia</title>
-            <link>https://www.youtube.com/watch?v=HXTvPnUKKsE</link>
-            <guid>https://www.youtube.com/watch?v=HXTvPnUKKsE</guid>
-            <pubDate>JUNE 20, 2021 AT 09:15PM</pubDate>
-            <description>#Report e &quot;le fonti&quot;: cosa è successo davvero e perché non è un attacco alla democrazia</description>
+            <title>Matteo Flora - Come rimuovere i contenuti di Cyberbullismo di minori gratis grazie al Garante della Privacy</title>
+            <link>https://www.youtube.com/watch?v=AjV3-VLWvMs</link>
+            <guid>https://www.youtube.com/watch?v=AjV3-VLWvMs</guid>
+            <pubDate>SEPTEMBER 20, 2021 AT 12:48PM</pubDate>
+            <description>Come rimuovere i contenuti di Cyberbullismo di minori gratis grazie al Garante della Privacy</description>
         </item>
         <item>
-            <title>Marco Montemagno - Questa è la mentalità di chi ha davvero successo</title>
-            <link>https://www.youtube.com/watch?v=KOAKmxlg2TE</link>
-            <guid>https://www.youtube.com/watch?v=KOAKmxlg2TE</guid>
-            <pubDate>SEPTEMBER 17, 2021 AT 02:00PM</pubDate>
-            <description>Questa è la mentalità di chi ha davvero successo</description>
+            <title>Marco Montemagno - Food Talks con Carlo Cracco e Alessandro Bergamo</title>
+            <link>https://www.youtube.com/watch?v=zl6t3_9UiSY</link>
+            <guid>https://www.youtube.com/watch?v=zl6t3_9UiSY</guid>
+            <pubDate>MAY 20, 2021 AT 09:36AM</pubDate>
+            <description>Food Talks con Carlo Cracco e Alessandro Bergamo</description>
         </item>
         <item>
-            <title>Marco Montemagno - Cambiamento climatico, elettrificazione e dintorni con Mario Tozzi, CNR</title>
-            <link>https://www.youtube.com/watch?v=qr9fXnuAvN4</link>
-            <guid>https://www.youtube.com/watch?v=qr9fXnuAvN4</guid>
-            <pubDate>SEPTEMBER 6, 2021 AT 05:58PM</pubDate>
-            <description>Cambiamento climatico, elettrificazione e dintorni con Mario Tozzi, CNR</description>
+            <title>Marco Montemagno - Prodotti e marketing: quante volte ci caschiamo? Ne avevo parlato con Beatrice Mautino</title>
+            <link>https://www.youtube.com/watch?v=eVvZXmxUxNo</link>
+            <guid>https://www.youtube.com/watch?v=eVvZXmxUxNo</guid>
+            <pubDate>SEPTEMBER 19, 2021 AT 02:00PM</pubDate>
+            <description>Prodotti e marketing: quante volte ci caschiamo? Ne avevo parlato con Beatrice Mautino</description>
         </item>
         <item>
-            <title>Marco Montemagno - A conversation with Lara Gilmore (Food for Soul)</title>
-            <link>https://www.youtube.com/watch?v=wvrjrGXj-Hc</link>
-            <guid>https://www.youtube.com/watch?v=wvrjrGXj-Hc</guid>
-            <pubDate>MAY 17, 2021 AT 09:34PM</pubDate>
-            <description>A conversation with Lara Gilmore (Food for Soul)</description>
+            <title>Rudy Bandiera - 3 mosse per risolvere problemi impossibili</title>
+            <link>https://www.youtube.com/watch?v=cqRbOjkHj_Q</link>
+            <guid>https://www.youtube.com/watch?v=cqRbOjkHj_Q</guid>
+            <pubDate>SEPTEMBER 15, 2021 AT 09:01AM</pubDate>
+            <description>3 mosse per risolvere problemi impossibili</description>
         </item>
         <item>
-            <title>Matteo Flora - Problema di Tesla e proprietari chiusi fuori! Ma davvero?</title>
-            <link>https://www.youtube.com/watch?v=T_obEfuukcQ</link>
-            <guid>https://www.youtube.com/watch?v=T_obEfuukcQ</guid>
-            <pubDate>NOVEMBER 24, 2021 AT 06:47AM</pubDate>
-            <description>Problema di Tesla e proprietari chiusi fuori! Ma davvero?</description>
+            <title>Matteo Flora - 🤡 #NoGreenPass: il devastante FLOP della manifestazione Telegram di BASTA DITTATURA!</title>
+            <link>https://www.youtube.com/watch?v=nD9W8zJiX8g</link>
+            <guid>https://www.youtube.com/watch?v=nD9W8zJiX8g</guid>
+            <pubDate>SEPTEMBER 2, 2021 AT 07:46AM</pubDate>
+            <description>🤡 #NoGreenPass: il devastante FLOP della manifestazione Telegram di BASTA DITTATURA!</description>
         </item>
         <item>
-            <title>Marco Montemagno - La vita costa sempre di più...</title>
-            <link>https://www.youtube.com/watch?v=5oCCrYpd-HM</link>
-            <guid>https://www.youtube.com/watch?v=5oCCrYpd-HM</guid>
-            <pubDate>JULY 29, 2021 AT 12:00PM</pubDate>
-            <description>La vita costa sempre di più...</description>
+            <title>Marco Montemagno - Quanti contenuti al giorno pubblicare sui social?</title>
+            <link>https://www.youtube.com/watch?v=74E6qsjkOik</link>
+            <guid>https://www.youtube.com/watch?v=74E6qsjkOik</guid>
+            <pubDate>OCTOBER 24, 2021 AT 01:30PM</pubDate>
+            <description>Quanti contenuti al giorno pubblicare sui social?</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Da Apple FaceTime alle nuove mappe, tutte le novità in arrivo con iOS 15</title>
-            <link>https://www.youtube.com/watch?v=-L2pjqw2dMA</link>
-            <guid>https://www.youtube.com/watch?v=-L2pjqw2dMA</guid>
-            <pubDate>JUNE 9, 2021 AT 08:30AM</pubDate>
-            <description>Da Apple FaceTime alle nuove mappe, tutte le novità in arrivo con iOS 15</description>
+            <title>Marco Montemagno - È questo che ti frega</title>
+            <link>https://www.youtube.com/watch?v=z9w7EDuS_bw</link>
+            <guid>https://www.youtube.com/watch?v=z9w7EDuS_bw</guid>
+            <pubDate>MAY 10, 2021 AT 11:42AM</pubDate>
+            <description>È questo che ti frega</description>
         </item>
         <item>
-            <title>Matteo Flora - DataBreach: quando serve la notifica al Garante e quando la comunicazione agli interessati?</title>
-            <link>https://www.youtube.com/watch?v=jwHQUarUcU8</link>
-            <guid>https://www.youtube.com/watch?v=jwHQUarUcU8</guid>
-            <pubDate>JANUARY 24, 2022 AT 04:56PM</pubDate>
-            <description>DataBreach: quando serve la notifica al Garante e quando la comunicazione agli interessati?</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - 6 abitudini che mi hanno cambiato la vita</title>
-            <link>https://www.youtube.com/watch?v=s8d9cY6Y6V4</link>
-            <guid>https://www.youtube.com/watch?v=s8d9cY6Y6V4</guid>
-            <pubDate>JANUARY 13, 2022 AT 01:00PM</pubDate>
-            <description>6 abitudini che mi hanno cambiato la vita</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Come si applica la blockchain al settore del lusso (e non solo)</title>
-            <link>https://www.youtube.com/watch?v=IzgT51XXepE</link>
-            <guid>https://www.youtube.com/watch?v=IzgT51XXepE</guid>
-            <pubDate>NOVEMBER 28, 2021 AT 01:00PM</pubDate>
-            <description>Come si applica la blockchain al settore del lusso (e non solo)</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Monty NTF: hai visto cosa è successo? Hai tempo fino al 22/2/22</title>
-            <link>https://www.youtube.com/watch?v=LMOPVD869XY</link>
-            <guid>https://www.youtube.com/watch?v=LMOPVD869XY</guid>
-            <pubDate>FEBRUARY 10, 2022 AT 11:23AM</pubDate>
-            <description>Monty NTF: hai visto cosa è successo? Hai tempo fino al 22/2/22</description>
-        </item>
-        <item>
-            <title>Marco Montemagno - Europei 2021: Congratulazioni Azzurri!</title>
-            <link>https://www.youtube.com/watch?v=B2dpKlbVv4k</link>
-            <guid>https://www.youtube.com/watch?v=B2dpKlbVv4k</guid>
-            <pubDate>JULY 12, 2021 AT 01:00PM</pubDate>
-            <description>Europei 2021: Congratulazioni Azzurri!</description>
+            <title>Matteo Flora - Perché le AI vedono scimmie invece di persone di colore?</title>
+            <link>https://www.youtube.com/watch?v=iVz0ZyDoi5A</link>
+            <guid>https://www.youtube.com/watch?v=iVz0ZyDoi5A</guid>
+            <pubDate>SEPTEMBER 8, 2021 AT 07:44AM</pubDate>
+            <description>Perché le AI vedono scimmie invece di persone di colore?</description>
         </item>
         <item>
             <title>Rudy Bandiera - 6 cose da fare invece di prendere in mano il telefono</title>
@@ -126,25 +126,25 @@
             <description>6 cose da fare invece di prendere in mano il telefono</description>
         </item>
         <item>
-            <title>Rudy Bandiera - Quale tra questi NON è tra i tre principali vantaggi portati dalla digitalizzazione?</title>
-            <link>https://www.youtube.com/watch?v=FsOkrz3bTI8</link>
-            <guid>https://www.youtube.com/watch?v=FsOkrz3bTI8</guid>
-            <pubDate>JULY 21, 2021 AT 08:54AM</pubDate>
-            <description>Quale tra questi NON è tra i tre principali vantaggi portati dalla digitalizzazione?</description>
+            <title>Marco Montemagno - Netflix perde abbonati. Calo fisiologico o problemi in vista?</title>
+            <link>https://www.youtube.com/watch?v=4KPHJfzKscU</link>
+            <guid>https://www.youtube.com/watch?v=4KPHJfzKscU</guid>
+            <pubDate>JULY 28, 2021 AT 12:45PM</pubDate>
+            <description>Netflix perde abbonati. Calo fisiologico o problemi in vista?</description>
         </item>
         <item>
-            <title>Marco Montemagno - La tecnica dell&#39;Anticipazione #shorts</title>
-            <link>https://www.youtube.com/watch?v=ByNMO4gUUWc</link>
-            <guid>https://www.youtube.com/watch?v=ByNMO4gUUWc</guid>
-            <pubDate>AUGUST 20, 2021 AT 12:02PM</pubDate>
-            <description>La tecnica dell&#39;Anticipazione #shorts</description>
+            <title>Marco Montemagno - E i 3 video + visti della storia di YouTube sono...#shorts</title>
+            <link>https://www.youtube.com/watch?v=h4eN5j-_jlg</link>
+            <guid>https://www.youtube.com/watch?v=h4eN5j-_jlg</guid>
+            <pubDate>JULY 6, 2021 AT 08:56AM</pubDate>
+            <description>E i 3 video + visti della storia di YouTube sono...#shorts</description>
         </item>
         <item>
-            <title>Marco Montemagno - Don&#39;t look up: ma come abbiamo fatto a ridurci così?</title>
-            <link>https://www.youtube.com/watch?v=BC1yLebnHqU</link>
-            <guid>https://www.youtube.com/watch?v=BC1yLebnHqU</guid>
-            <pubDate>JANUARY 7, 2022 AT 12:57PM</pubDate>
-            <description>Don&#39;t look up: ma come abbiamo fatto a ridurci così?</description>
+            <title>Matteo Flora - Boom di App per spiare?</title>
+            <link>https://www.youtube.com/watch?v=KBmtPK75lRM</link>
+            <guid>https://www.youtube.com/watch?v=KBmtPK75lRM</guid>
+            <pubDate>NOVEMBER 29, 2021 AT 11:00AM</pubDate>
+            <description>Boom di App per spiare?</description>
         </item>
     </channel>
 </rss>
